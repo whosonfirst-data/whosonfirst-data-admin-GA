@@ -1,0 +1,67 @@
+{
+  "id": 1327036263,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.21866,-2.19024,11.21866,-2.19024",
+    "geom:latitude":-2.19024,
+    "geom:longitude":11.21866,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Nangha",
+    "gn:country_code":"GA",
+    "gn:dem":115,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2397716,
+    "gn:latitude":-2.19024,
+    "gn:longitude":11.21866,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Nangha",
+    "gn:population":0,
+    "gn:timezone":"Africa/Libreville",
+    "iso:country":"GA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632407,
+        85671249,
+        1091909707
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2397716
+    },
+    "wof:country":"GA",
+    "wof:geomhash":"3228249b6774b9daf5d723136565b581",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632407,
+            "county_id":1091909707,
+            "locality_id":1327036263,
+            "region_id":85671249
+        }
+    ],
+    "wof:id":1327036263,
+    "wof:lastmodified":1536754847,
+    "wof:name":"Nangha",
+    "wof:parent_id":1091909707,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ga",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.21866,
+    -2.19024,
+    11.21866,
+    -2.19024
+],
+  "geometry": {"coordinates":[11.21866,-2.19024],"type":"Point"}
+}

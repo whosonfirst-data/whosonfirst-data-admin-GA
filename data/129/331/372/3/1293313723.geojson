@@ -1,0 +1,67 @@
+{
+  "id": 1293313723,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.4,-1.13333,12.4,-1.13333",
+    "geom:latitude":-1.13333,
+    "geom:longitude":12.4,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Miboko",
+    "gn:country_code":"GA",
+    "gn:dem":350,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2398541,
+    "gn:latitude":-1.13333,
+    "gn:longitude":12.4,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Miboko",
+    "gn:population":0,
+    "gn:timezone":"Africa/Libreville",
+    "iso:country":"GA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632407,
+        85671265,
+        1091910313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2398541
+    },
+    "wof:country":"GA",
+    "wof:geomhash":"f682e12752c07f125d9f6f8d897374e2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632407,
+            "county_id":1091910313,
+            "locality_id":1293313723,
+            "region_id":85671265
+        }
+    ],
+    "wof:id":1293313723,
+    "wof:lastmodified":1537036064,
+    "wof:name":"Miboko",
+    "wof:parent_id":1091910313,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ga",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.4,
+    -1.13333,
+    12.4,
+    -1.13333
+],
+  "geometry": {"coordinates":[12.4,-1.13333],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1293693079,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.38333,-1.28333,11.38333,-1.28333",
+    "geom:latitude":-1.28333,
+    "geom:longitude":11.38333,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Moupaka",
+    "gn:country_code":"GA",
+    "gn:dem":702,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2397948,
+    "gn:latitude":-1.28333,
+    "gn:longitude":11.38333,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Moupaka",
+    "gn:population":0,
+    "gn:timezone":"Africa/Libreville",
+    "iso:country":"GA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632407,
+        85671249,
+        1091909887
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2397948
+    },
+    "wof:country":"GA",
+    "wof:geomhash":"c7fc2d0654c67280ed2767ce00920705",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632407,
+            "county_id":1091909887,
+            "locality_id":1293693079,
+            "region_id":85671249
+        }
+    ],
+    "wof:id":1293693079,
+    "wof:lastmodified":1536987090,
+    "wof:name":"Moupaka",
+    "wof:parent_id":1091909887,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ga",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.38333,
+    -1.28333,
+    11.38333,
+    -1.28333
+],
+  "geometry": {"coordinates":[11.38333,-1.28333],"type":"Point"}
+}

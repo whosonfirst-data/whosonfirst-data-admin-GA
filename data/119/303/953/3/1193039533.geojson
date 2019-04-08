@@ -1,0 +1,67 @@
+{
+  "id": 1193039533,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.20109,-1.0044,12.20109,-1.0044",
+    "geom:latitude":-1.0044,
+    "geom:longitude":12.20109,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Baniati",
+    "gn:country_code":"GA",
+    "gn:dem":341,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2401943,
+    "gn:latitude":-1.0044,
+    "gn:longitude":12.20109,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Baniati",
+    "gn:population":0,
+    "gn:timezone":"Africa/Libreville",
+    "iso:country":"GA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632407,
+        85671265,
+        1091910313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2401943
+    },
+    "wof:country":"GA",
+    "wof:geomhash":"6d2b60dc3d855cd7a62a681de8d536a5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632407,
+            "county_id":1091910313,
+            "locality_id":1193039533,
+            "region_id":85671265
+        }
+    ],
+    "wof:id":1193039533,
+    "wof:lastmodified":1536377420,
+    "wof:name":"Baniati",
+    "wof:parent_id":1091910313,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ga",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.20109,
+    -1.0044,
+    12.20109,
+    -1.0044
+],
+  "geometry": {"coordinates":[12.20109,-1.0044],"type":"Point"}
+}

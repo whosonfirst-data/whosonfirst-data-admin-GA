@@ -1,0 +1,67 @@
+{
+  "id": 1344161069,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.47088,0.36904,9.47088,0.36904",
+    "geom:latitude":0.36904,
+    "geom:longitude":9.47088,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Lalala",
+    "gn:country_code":"GA",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2399894,
+    "gn:latitude":0.36904,
+    "gn:longitude":9.47088,
+    "gn:modification_date":"2013-10-06",
+    "gn:name":"Lalala",
+    "gn:population":0,
+    "gn:timezone":"Africa/Libreville",
+    "iso:country":"GA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632407,
+        85671235,
+        1091908769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2399894
+    },
+    "wof:country":"GA",
+    "wof:geomhash":"f0adbb4881c6898edcc03956c7f1c0a7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632407,
+            "county_id":1091908769,
+            "locality_id":1344161069,
+            "region_id":85671235
+        }
+    ],
+    "wof:id":1344161069,
+    "wof:lastmodified":1536730734,
+    "wof:name":"Lalala",
+    "wof:parent_id":1091908769,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ga",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.47088,
+    0.36904,
+    9.47088,
+    0.36904
+],
+  "geometry": {"coordinates":[9.47088,0.36904],"type":"Point"}
+}

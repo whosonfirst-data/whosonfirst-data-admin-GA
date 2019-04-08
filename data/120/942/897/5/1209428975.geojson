@@ -1,0 +1,67 @@
+{
+  "id": 1209428975,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.10905,0.17175,10.10905,0.17175",
+    "geom:latitude":0.17175,
+    "geom:longitude":10.10905,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Kango",
+    "gn:cc2":"GA",
+    "gn:country_code":"GA",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2400132,
+    "gn:latitude":0.17175,
+    "gn:longitude":10.10905,
+    "gn:modification_date":"2012-04-25",
+    "gn:name":"Kango",
+    "gn:population":0,
+    "gn:timezone":"Africa/Libreville",
+    "iso:country":"GA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Congona",
+        "Kango"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632407
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2400132,
+        "wk:page":"Kango"
+    },
+    "wof:country":"GA",
+    "wof:geomhash":"34e7f6f8aeb3ebbbb105bc066c3ea33e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632407,
+            "locality_id":1209428975
+        }
+    ],
+    "wof:id":1209428975,
+    "wof:lastmodified":1537622907,
+    "wof:name":"Kango",
+    "wof:parent_id":85632407,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ga",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.10905,
+    0.17175,
+    10.10905,
+    0.17175
+],
+  "geometry": {"coordinates":[10.10905,0.17175],"type":"Point"}
+}

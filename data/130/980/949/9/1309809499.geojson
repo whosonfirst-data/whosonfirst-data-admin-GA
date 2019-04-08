@@ -1,0 +1,67 @@
+{
+  "id": 1309809499,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.86088,-2.13905,10.86088,-2.13905",
+    "geom:latitude":-2.13905,
+    "geom:longitude":10.86088,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Degueri",
+    "gn:country_code":"GA",
+    "gn:dem":325,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2401304,
+    "gn:latitude":-2.13905,
+    "gn:longitude":10.86088,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Degu\u00e9ri",
+    "gn:population":0,
+    "gn:timezone":"Africa/Libreville",
+    "iso:country":"GA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632407,
+        85671249,
+        1091909663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2401304
+    },
+    "wof:country":"GA",
+    "wof:geomhash":"6988f388ec9195a192e0cdda7a074760",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632407,
+            "county_id":1091909663,
+            "locality_id":1309809499,
+            "region_id":85671249
+        }
+    ],
+    "wof:id":1309809499,
+    "wof:lastmodified":1536926362,
+    "wof:name":"Degueri",
+    "wof:parent_id":1091909663,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ga",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.86088,
+    -2.13905,
+    10.86088,
+    -2.13905
+],
+  "geometry": {"coordinates":[10.86088,-2.13905],"type":"Point"}
+}

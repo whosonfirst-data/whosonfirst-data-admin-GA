@@ -1,0 +1,67 @@
+{
+  "id": 1310707973,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.90896,-2.1444,10.90896,-2.1444",
+    "geom:latitude":-2.1444,
+    "geom:longitude":10.90896,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Oueliga",
+    "gn:country_code":"GA",
+    "gn:dem":293,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2396719,
+    "gn:latitude":-2.1444,
+    "gn:longitude":10.90896,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Oueliga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Libreville",
+    "iso:country":"GA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632407,
+        85671249,
+        1091909663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2396719
+    },
+    "wof:country":"GA",
+    "wof:geomhash":"e92357c9a61679fa2a1e18756e2c822e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632407,
+            "county_id":1091909663,
+            "locality_id":1310707973,
+            "region_id":85671249
+        }
+    ],
+    "wof:id":1310707973,
+    "wof:lastmodified":1536622736,
+    "wof:name":"Oueliga",
+    "wof:parent_id":1091909663,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ga",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.90896,
+    -2.1444,
+    10.90896,
+    -2.1444
+],
+  "geometry": {"coordinates":[10.90896,-2.1444],"type":"Point"}
+}

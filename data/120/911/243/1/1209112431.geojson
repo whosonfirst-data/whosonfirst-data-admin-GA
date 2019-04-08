@@ -1,0 +1,61 @@
+{
+  "id": 1209112431,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.4103,-1.96167,11.4103,-1.96167",
+    "geom:latitude":-1.96167,
+    "geom:longitude":11.4103,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Billengue",
+    "gn:country_code":"GA",
+    "gn:dem":270,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2401681,
+    "gn:latitude":-1.96167,
+    "gn:longitude":11.4103,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Billengu\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Libreville",
+    "iso:country":"GA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632407
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2401681
+    },
+    "wof:country":"GA",
+    "wof:geomhash":"033dc318058ed08c461fab1f0d30b4e0",
+    "wof:hierarchy":[
+        {
+            "country_id":85632407,
+            "locality_id":1209112431
+        }
+    ],
+    "wof:id":1209112431,
+    "wof:lastmodified":1536297363,
+    "wof:name":"Billengue",
+    "wof:parent_id":85632407,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ga",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.4103,
+    -1.96167,
+    11.4103,
+    -1.96167
+],
+  "geometry": {"coordinates":[11.4103,-1.96167],"type":"Point"}
+}

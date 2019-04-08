@@ -1,0 +1,71 @@
+{
+  "id": 1243267989,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.75792,0.44399,9.75792,0.44399",
+    "geom:latitude":0.44399,
+    "geom:longitude":9.75792,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Meba",
+    "gn:country_code":"GA",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2398816,
+    "gn:latitude":0.44399,
+    "gn:longitude":9.75792,
+    "gn:modification_date":"2013-10-06",
+    "gn:name":"M\u00e9ba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Libreville",
+    "iso:country":"GA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "M\u00e9ba",
+        "Mebba I"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632407,
+        85671235,
+        421178363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2398816
+    },
+    "wof:country":"GA",
+    "wof:geomhash":"01012c984055a9d37eebd4d82afc57b5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632407,
+            "county_id":421178363,
+            "locality_id":1243267989,
+            "region_id":85671235
+        }
+    ],
+    "wof:id":1243267989,
+    "wof:lastmodified":1537622900,
+    "wof:name":"Meba",
+    "wof:parent_id":421178363,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ga",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.75792,
+    0.44399,
+    9.75792,
+    0.44399
+],
+  "geometry": {"coordinates":[9.75792,0.44399],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1327123939,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.64075,1.00114,11.64075,1.00114",
+    "geom:latitude":1.00114,
+    "geom:longitude":11.64075,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Ngomessi",
+    "gn:country_code":"GA",
+    "gn:dem":567,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2397550,
+    "gn:latitude":1.00114,
+    "gn:longitude":11.64075,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Ngomessi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Libreville",
+    "iso:country":"GA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632407,
+        85671241,
+        1091910733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2397550
+    },
+    "wof:country":"GA",
+    "wof:geomhash":"5aa05deb9112766a82797f9e89708279",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632407,
+            "county_id":1091910733,
+            "locality_id":1327123939,
+            "region_id":85671241
+        }
+    ],
+    "wof:id":1327123939,
+    "wof:lastmodified":1536626478,
+    "wof:name":"Ngomessi",
+    "wof:parent_id":1091910733,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ga",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.64075,
+    1.00114,
+    11.64075,
+    1.00114
+],
+  "geometry": {"coordinates":[11.64075,1.00114],"type":"Point"}
+}

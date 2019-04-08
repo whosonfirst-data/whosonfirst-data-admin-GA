@@ -1,0 +1,67 @@
+{
+  "id": 1309828231,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.6,0.85,13.6,0.85",
+    "geom:latitude":0.85,
+    "geom:longitude":13.6,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Ingolandjondjo II",
+    "gn:country_code":"GA",
+    "gn:dem":521,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2400285,
+    "gn:latitude":0.85,
+    "gn:longitude":13.6,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Ingolandjondjo II",
+    "gn:population":0,
+    "gn:timezone":"Africa/Libreville",
+    "iso:country":"GA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632407,
+        85671237,
+        1091910219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2400285
+    },
+    "wof:country":"GA",
+    "wof:geomhash":"ed99cc14bfadcc861192ae4b3d761a90",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632407,
+            "county_id":1091910219,
+            "locality_id":1309828231,
+            "region_id":85671237
+        }
+    ],
+    "wof:id":1309828231,
+    "wof:lastmodified":1536898769,
+    "wof:name":"Ingolandjondjo II",
+    "wof:parent_id":1091910219,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ga",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.6,
+    0.85,
+    13.6,
+    0.85
+],
+  "geometry": {"coordinates":[13.6,0.85],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1242878267,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.92324,0.35918,9.92324,0.35918",
+    "geom:latitude":0.35918,
+    "geom:longitude":9.92324,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Asseng",
+    "gn:country_code":"GA",
+    "gn:dem":38,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2402455,
+    "gn:latitude":0.35918,
+    "gn:longitude":9.92324,
+    "gn:modification_date":"2013-10-06",
+    "gn:name":"Asseng",
+    "gn:population":0,
+    "gn:timezone":"Africa/Libreville",
+    "iso:country":"GA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ako-Name"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632407,
+        85671235,
+        1091908823
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2402455
+    },
+    "wof:country":"GA",
+    "wof:geomhash":"f800959c0209734478e89485012eafaf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632407,
+            "county_id":1091908823,
+            "locality_id":1242878267,
+            "region_id":85671235
+        }
+    ],
+    "wof:id":1242878267,
+    "wof:lastmodified":1537622920,
+    "wof:name":"Asseng",
+    "wof:parent_id":1091908823,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ga",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.92324,
+    0.35918,
+    9.92324,
+    0.35918
+],
+  "geometry": {"coordinates":[9.92324,0.35918],"type":"Point"}
+}

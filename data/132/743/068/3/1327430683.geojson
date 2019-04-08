@@ -1,0 +1,67 @@
+{
+  "id": 1327430683,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.09271,-3.68103,11.09271,-3.68103",
+    "geom:latitude":-3.68103,
+    "geom:longitude":11.09271,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Yoyo",
+    "gn:country_code":"GA",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2395974,
+    "gn:latitude":-3.68103,
+    "gn:longitude":11.09271,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Yoyo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Libreville",
+    "iso:country":"GA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632407,
+        85671251,
+        1091910019
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2395974
+    },
+    "wof:country":"GA",
+    "wof:geomhash":"d4c7e4ddf9625b57c844f38d638ea91f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632407,
+            "county_id":1091910019,
+            "locality_id":1327430683,
+            "region_id":85671251
+        }
+    ],
+    "wof:id":1327430683,
+    "wof:lastmodified":1536683236,
+    "wof:name":"Yoyo",
+    "wof:parent_id":1091910019,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ga",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.09271,
+    -3.68103,
+    11.09271,
+    -3.68103
+],
+  "geometry": {"coordinates":[11.09271,-3.68103],"type":"Point"}
+}

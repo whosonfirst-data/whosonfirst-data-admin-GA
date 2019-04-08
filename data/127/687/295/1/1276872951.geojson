@@ -1,0 +1,72 @@
+{
+  "id": 1276872951,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.84858,-1.69427,11.84858,-1.69427",
+    "geom:latitude":-1.69427,
+    "geom:longitude":11.84858,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Imeno-Mbila",
+    "gn:country_code":"GA",
+    "gn:dem":702,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2400311,
+    "gn:latitude":-1.69427,
+    "gn:longitude":11.84858,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Im\u00e9no-Mbila",
+    "gn:population":0,
+    "gn:timezone":"Africa/Libreville",
+    "iso:country":"GA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dibandi",
+        "Divolo",
+        "Im\u00e9no-Mbila"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632407,
+        85671249,
+        1091909833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2400311
+    },
+    "wof:country":"GA",
+    "wof:geomhash":"946af63fd5cbaf87b964a58518afdbfd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632407,
+            "county_id":1091909833,
+            "locality_id":1276872951,
+            "region_id":85671249
+        }
+    ],
+    "wof:id":1276872951,
+    "wof:lastmodified":1537622908,
+    "wof:name":"Imeno-Mbila",
+    "wof:parent_id":1091909833,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ga",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.84858,
+    -1.69427,
+    11.84858,
+    -1.69427
+],
+  "geometry": {"coordinates":[11.84858,-1.69427],"type":"Point"}
+}

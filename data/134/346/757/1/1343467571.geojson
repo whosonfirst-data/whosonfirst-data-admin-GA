@@ -1,0 +1,67 @@
+{
+  "id": 1343467571,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.7,-0.28333,13.7,-0.28333",
+    "geom:latitude":-0.28333,
+    "geom:longitude":13.7,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Makatamagoye",
+    "gn:country_code":"GA",
+    "gn:dem":595,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2399383,
+    "gn:latitude":-0.28333,
+    "gn:longitude":13.7,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Makatamagoye",
+    "gn:population":0,
+    "gn:timezone":"Africa/Libreville",
+    "iso:country":"GA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632407,
+        85671257,
+        1091909293
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2399383
+    },
+    "wof:country":"GA",
+    "wof:geomhash":"1e6602542b329218a39c8ca1d549edb4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632407,
+            "county_id":1091909293,
+            "locality_id":1343467571,
+            "region_id":85671257
+        }
+    ],
+    "wof:id":1343467571,
+    "wof:lastmodified":1536735851,
+    "wof:name":"Makatamagoye",
+    "wof:parent_id":1091909293,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ga",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.7,
+    -0.28333,
+    13.7,
+    -0.28333
+],
+  "geometry": {"coordinates":[13.7,-0.28333],"type":"Point"}
+}

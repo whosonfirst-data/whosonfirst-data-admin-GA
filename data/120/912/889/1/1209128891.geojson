@@ -1,0 +1,61 @@
+{
+  "id": 1209128891,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.11667,-2.75,11.11667,-2.75",
+    "geom:latitude":-2.75,
+    "geom:longitude":11.11667,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Tando Filou",
+    "gn:country_code":"GA",
+    "gn:dem":297,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2396267,
+    "gn:latitude":-2.75,
+    "gn:longitude":11.11667,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Tando Filou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Libreville",
+    "iso:country":"GA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632407
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2396267
+    },
+    "wof:country":"GA",
+    "wof:geomhash":"5d448eb662445dbf03f78d537dbbdbfa",
+    "wof:hierarchy":[
+        {
+            "country_id":85632407,
+            "locality_id":1209128891
+        }
+    ],
+    "wof:id":1209128891,
+    "wof:lastmodified":1536296868,
+    "wof:name":"Tando Filou",
+    "wof:parent_id":85632407,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ga",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.11667,
+    -2.75,
+    11.11667,
+    -2.75
+],
+  "geometry": {"coordinates":[11.11667,-2.75],"type":"Point"}
+}

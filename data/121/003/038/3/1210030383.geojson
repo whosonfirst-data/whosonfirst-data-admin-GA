@@ -1,0 +1,70 @@
+{
+  "id": 1210030383,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.05818,0.28042,10.05818,0.28042",
+    "geom:latitude":0.28042,
+    "geom:longitude":10.05818,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Dameu",
+    "gn:country_code":"GA",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2401320,
+    "gn:latitude":0.28042,
+    "gn:longitude":10.05818,
+    "gn:modification_date":"2013-10-06",
+    "gn:name":"Dameu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Libreville",
+    "iso:country":"GA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dame"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632407,
+        85671235,
+        1091908823
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2401320
+    },
+    "wof:country":"GA",
+    "wof:geomhash":"39a9dbab419d03067e65779a902cdafd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632407,
+            "county_id":1091908823,
+            "locality_id":1210030383,
+            "region_id":85671235
+        }
+    ],
+    "wof:id":1210030383,
+    "wof:lastmodified":1537622914,
+    "wof:name":"Dameu",
+    "wof:parent_id":1091908823,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ga",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.05818,
+    0.28042,
+    10.05818,
+    0.28042
+],
+  "geometry": {"coordinates":[10.05818,0.28042],"type":"Point"}
+}

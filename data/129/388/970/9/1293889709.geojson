@@ -1,0 +1,67 @@
+{
+  "id": 1293889709,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.53333,-2.41667,11.53333,-2.41667",
+    "geom:latitude":-2.41667,
+    "geom:longitude":11.53333,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Niali",
+    "gn:country_code":"GA",
+    "gn:dem":173,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2397427,
+    "gn:latitude":-2.41667,
+    "gn:longitude":11.53333,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Niali",
+    "gn:population":0,
+    "gn:timezone":"Africa/Libreville",
+    "iso:country":"GA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632407,
+        85671249,
+        1091909707
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2397427
+    },
+    "wof:country":"GA",
+    "wof:geomhash":"73d47713c7b482cbd9b94ec371eba65a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632407,
+            "county_id":1091909707,
+            "locality_id":1293889709,
+            "region_id":85671249
+        }
+    ],
+    "wof:id":1293889709,
+    "wof:lastmodified":1536704635,
+    "wof:name":"Niali",
+    "wof:parent_id":1091909707,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ga",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.53333,
+    -2.41667,
+    11.53333,
+    -2.41667
+],
+  "geometry": {"coordinates":[11.53333,-2.41667],"type":"Point"}
+}

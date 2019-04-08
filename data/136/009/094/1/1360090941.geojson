@@ -1,0 +1,67 @@
+{
+  "id": 1360090941,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.17696,-2.07077,12.17696,-2.07077",
+    "geom:latitude":-2.07077,
+    "geom:longitude":12.17696,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Idemba",
+    "gn:country_code":"GA",
+    "gn:dem":743,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2400410,
+    "gn:latitude":-2.07077,
+    "gn:longitude":12.17696,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Idemba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Libreville",
+    "iso:country":"GA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632407,
+        85671249,
+        1091909787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2400410
+    },
+    "wof:country":"GA",
+    "wof:geomhash":"20ae9e9e4671689a416511e79cebe479",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632407,
+            "county_id":1091909787,
+            "locality_id":1360090941,
+            "region_id":85671249
+        }
+    ],
+    "wof:id":1360090941,
+    "wof:lastmodified":1536937930,
+    "wof:name":"Idemba",
+    "wof:parent_id":1091909787,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ga",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.17696,
+    -2.07077,
+    12.17696,
+    -2.07077
+],
+  "geometry": {"coordinates":[12.17696,-2.07077],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1310705165,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.77503,-1.35246,13.77503,-1.35246",
+    "geom:latitude":-1.35246,
+    "geom:longitude":13.77503,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Oyou",
+    "gn:country_code":"GA",
+    "gn:dem":449,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2396641,
+    "gn:latitude":-1.35246,
+    "gn:longitude":13.77503,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Oyou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Libreville",
+    "iso:country":"GA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632407,
+        85671257,
+        1091909347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2396641
+    },
+    "wof:country":"GA",
+    "wof:geomhash":"36232debe63572da25ddcaa5725330e6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632407,
+            "county_id":1091909347,
+            "locality_id":1310705165,
+            "region_id":85671257
+        }
+    ],
+    "wof:id":1310705165,
+    "wof:lastmodified":1536627020,
+    "wof:name":"Oyou",
+    "wof:parent_id":1091909347,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ga",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.77503,
+    -1.35246,
+    13.77503,
+    -1.35246
+],
+  "geometry": {"coordinates":[13.77503,-1.35246],"type":"Point"}
+}

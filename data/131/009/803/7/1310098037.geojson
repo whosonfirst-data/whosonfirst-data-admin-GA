@@ -1,0 +1,67 @@
+{
+  "id": 1310098037,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.28333,0.25,13.28333,0.25",
+    "geom:latitude":0.25,
+    "geom:longitude":13.28333,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Nkouta",
+    "gn:country_code":"GA",
+    "gn:dem":520,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2397243,
+    "gn:latitude":0.25,
+    "gn:longitude":13.28333,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Nkouta",
+    "gn:population":0,
+    "gn:timezone":"Africa/Libreville",
+    "iso:country":"GA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632407,
+        85671237,
+        1091910169
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2397243
+    },
+    "wof:country":"GA",
+    "wof:geomhash":"f8a3814ba5d2737928b150530d8fa187",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632407,
+            "county_id":1091910169,
+            "locality_id":1310098037,
+            "region_id":85671237
+        }
+    ],
+    "wof:id":1310098037,
+    "wof:lastmodified":1537006534,
+    "wof:name":"Nkouta",
+    "wof:parent_id":1091910169,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ga",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.28333,
+    0.25,
+    13.28333,
+    0.25
+],
+  "geometry": {"coordinates":[13.28333,0.25],"type":"Point"}
+}

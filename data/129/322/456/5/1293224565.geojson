@@ -1,0 +1,67 @@
+{
+  "id": 1293224565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.26667,-2.46667,11.26667,-2.46667",
+    "geom:latitude":-2.46667,
+    "geom:longitude":11.26667,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Tsangui",
+    "gn:country_code":"GA",
+    "gn:dem":165,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2396170,
+    "gn:latitude":-2.46667,
+    "gn:longitude":11.26667,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Tsangui",
+    "gn:population":0,
+    "gn:timezone":"Africa/Libreville",
+    "iso:country":"GA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632407,
+        85671249,
+        1091909707
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2396170
+    },
+    "wof:country":"GA",
+    "wof:geomhash":"f5da47848a45f0ab58ce39a67ade3f09",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632407,
+            "county_id":1091909707,
+            "locality_id":1293224565,
+            "region_id":85671249
+        }
+    ],
+    "wof:id":1293224565,
+    "wof:lastmodified":1536669095,
+    "wof:name":"Tsangui",
+    "wof:parent_id":1091909707,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ga",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.26667,
+    -2.46667,
+    11.26667,
+    -2.46667
+],
+  "geometry": {"coordinates":[11.26667,-2.46667],"type":"Point"}
+}

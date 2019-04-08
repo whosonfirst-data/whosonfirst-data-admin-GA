@@ -1,0 +1,67 @@
+{
+  "id": 1293581795,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.93333,-0.06667,11.93333,-0.06667",
+    "geom:latitude":-0.06667,
+    "geom:longitude":11.93333,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Ibakodia",
+    "gn:country_code":"GA",
+    "gn:dem":214,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2400441,
+    "gn:latitude":-0.06667,
+    "gn:longitude":11.93333,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Ibakodia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Libreville",
+    "iso:country":"GA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632407,
+        85671237,
+        421188215
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2400441
+    },
+    "wof:country":"GA",
+    "wof:geomhash":"edc2712575a6d9c7a52552d23f5e523d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632407,
+            "county_id":421188215,
+            "locality_id":1293581795,
+            "region_id":85671237
+        }
+    ],
+    "wof:id":1293581795,
+    "wof:lastmodified":1536651018,
+    "wof:name":"Ibakodia",
+    "wof:parent_id":421188215,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ga",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.93333,
+    -0.06667,
+    11.93333,
+    -0.06667
+],
+  "geometry": {"coordinates":[11.93333,-0.06667],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1343283937,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.99626,1.03816,13.99626,1.03816",
+    "geom:latitude":1.03816,
+    "geom:longitude":13.99626,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Imbong",
+    "gn:country_code":"GA",
+    "gn:dem":534,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2400318,
+    "gn:latitude":1.03816,
+    "gn:longitude":13.99626,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Imbong",
+    "gn:population":0,
+    "gn:timezone":"Africa/Libreville",
+    "iso:country":"GA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632407,
+        85671237,
+        1091910219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2400318
+    },
+    "wof:country":"GA",
+    "wof:geomhash":"c8ae159211fdaab96ce7ff67d2b7ad81",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632407,
+            "county_id":1091910219,
+            "locality_id":1343283937,
+            "region_id":85671237
+        }
+    ],
+    "wof:id":1343283937,
+    "wof:lastmodified":1537000320,
+    "wof:name":"Imbong",
+    "wof:parent_id":1091910219,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ga",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.99626,
+    1.03816,
+    13.99626,
+    1.03816
+],
+  "geometry": {"coordinates":[13.99626,1.03816],"type":"Point"}
+}

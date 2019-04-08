@@ -1,0 +1,67 @@
+{
+  "id": 1360307713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.24227,0.90032,12.24227,0.90032",
+    "geom:latitude":0.90032,
+    "geom:longitude":12.24227,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Foloe",
+    "gn:country_code":"GA",
+    "gn:dem":505,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2400586,
+    "gn:latitude":0.90032,
+    "gn:longitude":12.24227,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Foloe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Libreville",
+    "iso:country":"GA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632407,
+        85671237,
+        1091910169
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2400586
+    },
+    "wof:country":"GA",
+    "wof:geomhash":"9d615eec5e56e7c0932ab9afc76b3326",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632407,
+            "county_id":1091910169,
+            "locality_id":1360307713,
+            "region_id":85671237
+        }
+    ],
+    "wof:id":1360307713,
+    "wof:lastmodified":1536622484,
+    "wof:name":"Foloe",
+    "wof:parent_id":1091910169,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ga",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.24227,
+    0.90032,
+    12.24227,
+    0.90032
+],
+  "geometry": {"coordinates":[12.24227,0.90032],"type":"Point"}
+}

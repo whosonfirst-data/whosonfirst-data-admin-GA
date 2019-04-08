@@ -1,0 +1,67 @@
+{
+  "id": 1242964931,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.61677,-1.55326,12.61677,-1.55326",
+    "geom:latitude":-1.55326,
+    "geom:longitude":12.61677,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Ivete",
+    "gn:country_code":"GA",
+    "gn:dem":595,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2400192,
+    "gn:latitude":-1.55326,
+    "gn:longitude":12.61677,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Ivet\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Libreville",
+    "iso:country":"GA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632407,
+        85671265,
+        1091910359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2400192
+    },
+    "wof:country":"GA",
+    "wof:geomhash":"81ce394a3b90d018b8dfd8b672477246",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632407,
+            "county_id":1091910359,
+            "locality_id":1242964931,
+            "region_id":85671265
+        }
+    ],
+    "wof:id":1242964931,
+    "wof:lastmodified":1537002063,
+    "wof:name":"Ivete",
+    "wof:parent_id":1091910359,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ga",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.61677,
+    -1.55326,
+    12.61677,
+    -1.55326
+],
+  "geometry": {"coordinates":[12.61677,-1.55326],"type":"Point"}
+}

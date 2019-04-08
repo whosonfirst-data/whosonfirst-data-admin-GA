@@ -1,0 +1,67 @@
+{
+  "id": 1343776341,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.73333,0.5,9.73333,0.5",
+    "geom:latitude":0.5,
+    "geom:longitude":9.73333,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Afagayong",
+    "gn:country_code":"GA",
+    "gn:dem":26,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2402558,
+    "gn:latitude":0.5,
+    "gn:longitude":9.73333,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Afagayong",
+    "gn:population":0,
+    "gn:timezone":"Africa/Libreville",
+    "iso:country":"GA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632407,
+        85671235,
+        421178363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2402558
+    },
+    "wof:country":"GA",
+    "wof:geomhash":"8a2edb43659f4957118ddaa3c8cff70f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632407,
+            "county_id":421178363,
+            "locality_id":1343776341,
+            "region_id":85671235
+        }
+    ],
+    "wof:id":1343776341,
+    "wof:lastmodified":1536788424,
+    "wof:name":"Afagayong",
+    "wof:parent_id":421178363,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ga",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.73333,
+    0.5,
+    9.73333,
+    0.5
+],
+  "geometry": {"coordinates":[9.73333,0.5],"type":"Point"}
+}

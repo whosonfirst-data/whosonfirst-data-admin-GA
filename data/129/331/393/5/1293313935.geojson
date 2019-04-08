@@ -1,0 +1,67 @@
+{
+  "id": 1293313935,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.11394,-0.96757,13.11394,-0.96757",
+    "geom:latitude":-0.96757,
+    "geom:longitude":13.11394,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Manenga",
+    "gn:country_code":"GA",
+    "gn:dem":310,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2399209,
+    "gn:latitude":-0.96757,
+    "gn:longitude":13.11394,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Manenga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Libreville",
+    "iso:country":"GA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632407,
+        85671265,
+        1091910455
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2399209
+    },
+    "wof:country":"GA",
+    "wof:geomhash":"d6dba8791a5bfa8a4ca67d256646c178",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632407,
+            "county_id":1091910455,
+            "locality_id":1293313935,
+            "region_id":85671265
+        }
+    ],
+    "wof:id":1293313935,
+    "wof:lastmodified":1537035763,
+    "wof:name":"Manenga",
+    "wof:parent_id":1091910455,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ga",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.11394,
+    -0.96757,
+    13.11394,
+    -0.96757
+],
+  "geometry": {"coordinates":[13.11394,-0.96757],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1242976901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.73333,-2.11667,11.73333,-2.11667",
+    "geom:latitude":-2.11667,
+    "geom:longitude":11.73333,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Bangondji",
+    "gn:country_code":"GA",
+    "gn:dem":449,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2401955,
+    "gn:latitude":-2.11667,
+    "gn:longitude":11.73333,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Bangondji",
+    "gn:population":0,
+    "gn:timezone":"Africa/Libreville",
+    "iso:country":"GA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632407,
+        85671249,
+        1091909833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2401955
+    },
+    "wof:country":"GA",
+    "wof:geomhash":"c3fec1f033f12e587658bd06a9064b9b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632407,
+            "county_id":1091909833,
+            "locality_id":1242976901,
+            "region_id":85671249
+        }
+    ],
+    "wof:id":1242976901,
+    "wof:lastmodified":1536984619,
+    "wof:name":"Bangondji",
+    "wof:parent_id":1091909833,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ga",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.73333,
+    -2.11667,
+    11.73333,
+    -2.11667
+],
+  "geometry": {"coordinates":[11.73333,-2.11667],"type":"Point"}
+}

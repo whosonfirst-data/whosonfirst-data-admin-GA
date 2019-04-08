@@ -1,0 +1,61 @@
+{
+  "id": 1209434865,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.47177,-0.92718,9.47177,-0.92718",
+    "geom:latitude":-0.92718,
+    "geom:longitude":9.47177,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Abelago",
+    "gn:country_code":"GA",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2402651,
+    "gn:latitude":-0.92718,
+    "gn:longitude":9.47177,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Abelago",
+    "gn:population":0,
+    "gn:timezone":"Africa/Libreville",
+    "iso:country":"GA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632407
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2402651
+    },
+    "wof:country":"GA",
+    "wof:geomhash":"bb059793a0204ba7b23b3599cd0618d4",
+    "wof:hierarchy":[
+        {
+            "country_id":85632407,
+            "locality_id":1209434865
+        }
+    ],
+    "wof:id":1209434865,
+    "wof:lastmodified":1536287134,
+    "wof:name":"Abelago",
+    "wof:parent_id":85632407,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ga",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.47177,
+    -0.92718,
+    9.47177,
+    -0.92718
+],
+  "geometry": {"coordinates":[9.47177,-0.92718],"type":"Point"}
+}

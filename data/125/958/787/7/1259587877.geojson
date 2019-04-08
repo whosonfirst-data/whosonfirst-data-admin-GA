@@ -1,0 +1,67 @@
+{
+  "id": 1259587877,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.25,-2.8,11.25,-2.8",
+    "geom:latitude":-2.8,
+    "geom:longitude":11.25,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Ombila",
+    "gn:country_code":"GA",
+    "gn:dem":354,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2396858,
+    "gn:latitude":-2.8,
+    "gn:longitude":11.25,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Ombila",
+    "gn:population":0,
+    "gn:timezone":"Africa/Libreville",
+    "iso:country":"GA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632407,
+        85671251,
+        1091909931
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2396858
+    },
+    "wof:country":"GA",
+    "wof:geomhash":"a6baff2dc94cc08f7c69cffd2a4fe0a6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632407,
+            "county_id":1091909931,
+            "locality_id":1259587877,
+            "region_id":85671251
+        }
+    ],
+    "wof:id":1259587877,
+    "wof:lastmodified":1536708743,
+    "wof:name":"Ombila",
+    "wof:parent_id":1091909931,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ga",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.25,
+    -2.8,
+    11.25,
+    -2.8
+],
+  "geometry": {"coordinates":[11.25,-2.8],"type":"Point"}
+}

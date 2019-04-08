@@ -1,0 +1,67 @@
+{
+  "id": 1259669405,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.6506,-0.81378,9.6506,-0.81378",
+    "geom:latitude":-0.81378,
+    "geom:longitude":9.6506,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Allego",
+    "gn:country_code":"GA",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2402379,
+    "gn:latitude":-0.81378,
+    "gn:longitude":9.6506,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Allego",
+    "gn:population":0,
+    "gn:timezone":"Africa/Libreville",
+    "iso:country":"GA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632407,
+        85671247,
+        1091909431
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2402379
+    },
+    "wof:country":"GA",
+    "wof:geomhash":"332a65aa33df9a9d7ec42e060de12b4b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632407,
+            "county_id":1091909431,
+            "locality_id":1259669405,
+            "region_id":85671247
+        }
+    ],
+    "wof:id":1259669405,
+    "wof:lastmodified":1537084161,
+    "wof:name":"Allego",
+    "wof:parent_id":1091909431,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ga",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.6506,
+    -0.81378,
+    9.6506,
+    -0.81378
+],
+  "geometry": {"coordinates":[9.6506,-0.81378],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1309995555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.71667,2.13333,11.71667,2.13333",
+    "geom:latitude":2.13333,
+    "geom:longitude":11.71667,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Ndangang",
+    "gn:country_code":"GA",
+    "gn:dem":609,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2397695,
+    "gn:latitude":2.13333,
+    "gn:longitude":11.71667,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Ndangang",
+    "gn:population":0,
+    "gn:timezone":"Africa/Libreville",
+    "iso:country":"GA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632407,
+        85671241,
+        1091910639
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2397695
+    },
+    "wof:country":"GA",
+    "wof:geomhash":"4aae07651daa48ffff2c69564a554f5c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632407,
+            "county_id":1091910639,
+            "locality_id":1309995555,
+            "region_id":85671241
+        }
+    ],
+    "wof:id":1309995555,
+    "wof:lastmodified":1536657774,
+    "wof:name":"Ndangang",
+    "wof:parent_id":1091910639,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ga",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.71667,
+    2.13333,
+    11.71667,
+    2.13333
+],
+  "geometry": {"coordinates":[11.71667,2.13333],"type":"Point"}
+}

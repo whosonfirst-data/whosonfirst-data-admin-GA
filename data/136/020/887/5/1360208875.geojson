@@ -1,0 +1,67 @@
+{
+  "id": 1360208875,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.29336,-2.57415,11.29336,-2.57415",
+    "geom:latitude":-2.57415,
+    "geom:longitude":11.29336,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Moungale",
+    "gn:country_code":"GA",
+    "gn:dem":171,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2397961,
+    "gn:latitude":-2.57415,
+    "gn:longitude":11.29336,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Moungale",
+    "gn:population":0,
+    "gn:timezone":"Africa/Libreville",
+    "iso:country":"GA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632407,
+        85671249,
+        1091909707
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2397961
+    },
+    "wof:country":"GA",
+    "wof:geomhash":"7c6da74af77b8c2de7bec929ff8af0cf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632407,
+            "county_id":1091909707,
+            "locality_id":1360208875,
+            "region_id":85671249
+        }
+    ],
+    "wof:id":1360208875,
+    "wof:lastmodified":1536767548,
+    "wof:name":"Moungale",
+    "wof:parent_id":1091909707,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ga",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.29336,
+    -2.57415,
+    11.29336,
+    -2.57415
+],
+  "geometry": {"coordinates":[11.29336,-2.57415],"type":"Point"}
+}

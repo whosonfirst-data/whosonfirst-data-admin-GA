@@ -1,0 +1,67 @@
+{
+  "id": 1310691169,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.58462,1.54327,11.58462,1.54327",
+    "geom:latitude":1.54327,
+    "geom:longitude":11.58462,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Evormakok",
+    "gn:country_code":"GA",
+    "gn:dem":651,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2400644,
+    "gn:latitude":1.54327,
+    "gn:longitude":11.58462,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Evormakok",
+    "gn:population":0,
+    "gn:timezone":"Africa/Libreville",
+    "iso:country":"GA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632407,
+        85671241,
+        1091910593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2400644
+    },
+    "wof:country":"GA",
+    "wof:geomhash":"05f1e23ffe8702dbb0cb894ba4e5a39e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632407,
+            "county_id":1091910593,
+            "locality_id":1310691169,
+            "region_id":85671241
+        }
+    ],
+    "wof:id":1310691169,
+    "wof:lastmodified":1536648744,
+    "wof:name":"Evormakok",
+    "wof:parent_id":1091910593,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ga",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.58462,
+    1.54327,
+    11.58462,
+    1.54327
+],
+  "geometry": {"coordinates":[11.58462,1.54327],"type":"Point"}
+}

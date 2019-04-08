@@ -1,0 +1,67 @@
+{
+  "id": 1360179039,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.88333,-1.2,12.88333,-1.2",
+    "geom:latitude":-1.2,
+    "geom:longitude":12.88333,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Massoukou",
+    "gn:country_code":"GA",
+    "gn:dem":495,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2399073,
+    "gn:latitude":-1.2,
+    "gn:longitude":12.88333,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Massoukou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Libreville",
+    "iso:country":"GA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632407,
+        85671265,
+        1091910455
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2399073
+    },
+    "wof:country":"GA",
+    "wof:geomhash":"bc3918c349899ef5de9e0ec95c49b4c5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632407,
+            "county_id":1091910455,
+            "locality_id":1360179039,
+            "region_id":85671265
+        }
+    ],
+    "wof:id":1360179039,
+    "wof:lastmodified":1536809731,
+    "wof:name":"Massoukou",
+    "wof:parent_id":1091910455,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ga",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.88333,
+    -1.2,
+    12.88333,
+    -1.2
+],
+  "geometry": {"coordinates":[12.88333,-1.2],"type":"Point"}
+}

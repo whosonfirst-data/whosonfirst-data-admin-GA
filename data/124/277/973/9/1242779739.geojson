@@ -1,0 +1,67 @@
+{
+  "id": 1242779739,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.6738,-0.81233,9.6738,-0.81233",
+    "geom:latitude":-0.81233,
+    "geom:longitude":9.6738,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Oyingo",
+    "gn:country_code":"GA",
+    "gn:dem":23,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2396642,
+    "gn:latitude":-0.81233,
+    "gn:longitude":9.6738,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Oyingo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Libreville",
+    "iso:country":"GA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632407,
+        85671247,
+        1091909431
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2396642
+    },
+    "wof:country":"GA",
+    "wof:geomhash":"67c5f594f75d7f177cc07d6b9b1143af",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632407,
+            "county_id":1091909431,
+            "locality_id":1242779739,
+            "region_id":85671247
+        }
+    ],
+    "wof:id":1242779739,
+    "wof:lastmodified":1536773141,
+    "wof:name":"Oyingo",
+    "wof:parent_id":1091909431,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ga",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.6738,
+    -0.81233,
+    9.6738,
+    -0.81233
+],
+  "geometry": {"coordinates":[9.6738,-0.81233],"type":"Point"}
+}

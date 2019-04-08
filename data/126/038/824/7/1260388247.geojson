@@ -1,0 +1,67 @@
+{
+  "id": 1260388247,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.81653,-2.75679,10.81653,-2.75679",
+    "geom:latitude":-2.75679,
+    "geom:longitude":10.81653,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Riranzala",
+    "gn:country_code":"GA",
+    "gn:dem":64,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2396455,
+    "gn:latitude":-2.75679,
+    "gn:longitude":10.81653,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Riranzala",
+    "gn:population":0,
+    "gn:timezone":"Africa/Libreville",
+    "iso:country":"GA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632407,
+        85671251,
+        1091909931
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2396455
+    },
+    "wof:country":"GA",
+    "wof:geomhash":"a76b557d96ac289f00f80bf4dd3e5a00",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632407,
+            "county_id":1091909931,
+            "locality_id":1260388247,
+            "region_id":85671251
+        }
+    ],
+    "wof:id":1260388247,
+    "wof:lastmodified":1537065736,
+    "wof:name":"Riranzala",
+    "wof:parent_id":1091909931,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ga",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.81653,
+    -2.75679,
+    10.81653,
+    -2.75679
+],
+  "geometry": {"coordinates":[10.81653,-2.75679],"type":"Point"}
+}

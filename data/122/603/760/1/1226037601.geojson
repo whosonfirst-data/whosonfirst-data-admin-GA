@@ -1,0 +1,67 @@
+{
+  "id": 1226037601,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.81667,0.95,13.81667,0.95",
+    "geom:latitude":0.95,
+    "geom:longitude":13.81667,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Guiessebe",
+    "gn:country_code":"GA",
+    "gn:dem":529,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2400461,
+    "gn:latitude":0.95,
+    "gn:longitude":13.81667,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Gui\u00e9ss\u00e9b\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Libreville",
+    "iso:country":"GA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632407,
+        85671237,
+        1091910219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2400461
+    },
+    "wof:country":"GA",
+    "wof:geomhash":"2a2a23d3a1b129cf3f59ba99ad560601",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632407,
+            "county_id":1091910219,
+            "locality_id":1226037601,
+            "region_id":85671237
+        }
+    ],
+    "wof:id":1226037601,
+    "wof:lastmodified":1536736937,
+    "wof:name":"Guiessebe",
+    "wof:parent_id":1091910219,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ga",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.81667,
+    0.95,
+    13.81667,
+    0.95
+],
+  "geometry": {"coordinates":[13.81667,0.95],"type":"Point"}
+}

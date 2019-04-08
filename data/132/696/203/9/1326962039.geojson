@@ -1,0 +1,67 @@
+{
+  "id": 1326962039,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.43607,-3.15692,11.43607,-3.15692",
+    "geom:latitude":-3.15692,
+    "geom:longitude":11.43607,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Malanga",
+    "gn:country_code":"GA",
+    "gn:dem":199,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2399342,
+    "gn:latitude":-3.15692,
+    "gn:longitude":11.43607,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Malanga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Libreville",
+    "iso:country":"GA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632407,
+        85671251,
+        1091910129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2399342
+    },
+    "wof:country":"GA",
+    "wof:geomhash":"5078be939f347860f63eafe1934046fe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632407,
+            "county_id":1091910129,
+            "locality_id":1326962039,
+            "region_id":85671251
+        }
+    ],
+    "wof:id":1326962039,
+    "wof:lastmodified":1536860545,
+    "wof:name":"Malanga",
+    "wof:parent_id":1091910129,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ga",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.43607,
+    -3.15692,
+    11.43607,
+    -3.15692
+],
+  "geometry": {"coordinates":[11.43607,-3.15692],"type":"Point"}
+}

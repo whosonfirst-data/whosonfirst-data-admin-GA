@@ -1,0 +1,67 @@
+{
+  "id": 1310106151,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.38851,-1.70507,10.38851,-1.70507",
+    "geom:latitude":-1.70507,
+    "geom:longitude":10.38851,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Mandji",
+    "gn:country_code":"GA",
+    "gn:dem":135,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2399234,
+    "gn:latitude":-1.70507,
+    "gn:longitude":10.38851,
+    "gn:modification_date":"2018-07-04",
+    "gn:name":"Mandji",
+    "gn:population":0,
+    "gn:timezone":"Africa/Libreville",
+    "iso:country":"GA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632407,
+        85671249,
+        1091909635
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2399234
+    },
+    "wof:country":"GA",
+    "wof:geomhash":"225c416a3f741461efb80c69699636de",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632407,
+            "county_id":1091909635,
+            "locality_id":1310106151,
+            "region_id":85671249
+        }
+    ],
+    "wof:id":1310106151,
+    "wof:lastmodified":1536994745,
+    "wof:name":"Mandji",
+    "wof:parent_id":1091909635,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ga",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.38851,
+    -1.70507,
+    10.38851,
+    -1.70507
+],
+  "geometry": {"coordinates":[10.38851,-1.70507],"type":"Point"}
+}

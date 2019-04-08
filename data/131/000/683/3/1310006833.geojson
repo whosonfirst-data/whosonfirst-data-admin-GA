@@ -1,0 +1,67 @@
+{
+  "id": 1310006833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.55736,-2.11372,10.55736,-2.11372",
+    "geom:latitude":-2.11372,
+    "geom:longitude":10.55736,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Goulougai",
+    "gn:country_code":"GA",
+    "gn:dem":259,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2400496,
+    "gn:latitude":-2.11372,
+    "gn:longitude":10.55736,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Goulouga\u00ef",
+    "gn:population":0,
+    "gn:timezone":"Africa/Libreville",
+    "iso:country":"GA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632407,
+        85671249,
+        1091909663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2400496
+    },
+    "wof:country":"GA",
+    "wof:geomhash":"f5a056a559928027fbd3616b3907c06f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632407,
+            "county_id":1091909663,
+            "locality_id":1310006833,
+            "region_id":85671249
+        }
+    ],
+    "wof:id":1310006833,
+    "wof:lastmodified":1536640474,
+    "wof:name":"Goulougai",
+    "wof:parent_id":1091909663,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ga",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.55736,
+    -2.11372,
+    10.55736,
+    -2.11372
+],
+  "geometry": {"coordinates":[10.55736,-2.11372],"type":"Point"}
+}

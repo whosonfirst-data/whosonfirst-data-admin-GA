@@ -1,0 +1,67 @@
+{
+  "id": 1344071161,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.65746,-0.22351,9.65746,-0.22351",
+    "geom:latitude":-0.22351,
+    "geom:longitude":9.65746,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Mvam",
+    "gn:country_code":"GA",
+    "gn:dem":23,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2397815,
+    "gn:latitude":-0.22351,
+    "gn:longitude":9.65746,
+    "gn:modification_date":"2013-10-06",
+    "gn:name":"Mvam",
+    "gn:population":0,
+    "gn:timezone":"Africa/Libreville",
+    "iso:country":"GA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632407,
+        85671235,
+        421178363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2397815
+    },
+    "wof:country":"GA",
+    "wof:geomhash":"e3d485472b2544d8482873a148041b23",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632407,
+            "county_id":421178363,
+            "locality_id":1344071161,
+            "region_id":85671235
+        }
+    ],
+    "wof:id":1344071161,
+    "wof:lastmodified":1536858734,
+    "wof:name":"Mvam",
+    "wof:parent_id":421178363,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ga",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.65746,
+    -0.22351,
+    9.65746,
+    -0.22351
+],
+  "geometry": {"coordinates":[9.65746,-0.22351],"type":"Point"}
+}

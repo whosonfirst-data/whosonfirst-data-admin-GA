@@ -1,0 +1,67 @@
+{
+  "id": 1226048521,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.3,-1.98333,11.3,-1.98333",
+    "geom:latitude":-1.98333,
+    "geom:longitude":11.3,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Yengui",
+    "gn:country_code":"GA",
+    "gn:dem":126,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2396035,
+    "gn:latitude":-1.98333,
+    "gn:longitude":11.3,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Yengui",
+    "gn:population":0,
+    "gn:timezone":"Africa/Libreville",
+    "iso:country":"GA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632407,
+        85671249,
+        1091909531
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2396035
+    },
+    "wof:country":"GA",
+    "wof:geomhash":"eaba55ccf4b19fb4c1d59fba93d730b4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632407,
+            "county_id":1091909531,
+            "locality_id":1226048521,
+            "region_id":85671249
+        }
+    ],
+    "wof:id":1226048521,
+    "wof:lastmodified":1536721468,
+    "wof:name":"Yengui",
+    "wof:parent_id":1091909531,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ga",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.3,
+    -1.98333,
+    11.3,
+    -1.98333
+],
+  "geometry": {"coordinates":[11.3,-1.98333],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1243060327,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.07151,0.40665,13.07151,0.40665",
+    "geom:latitude":0.40665,
+    "geom:longitude":13.07151,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Mboundou",
+    "gn:country_code":"GA",
+    "gn:dem":506,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2398832,
+    "gn:latitude":0.40665,
+    "gn:longitude":13.07151,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Mboundou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Libreville",
+    "iso:country":"GA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632407,
+        85671237,
+        1091910169
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2398832
+    },
+    "wof:country":"GA",
+    "wof:geomhash":"a503dce80e188c223abd12a04070d0ae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632407,
+            "county_id":1091910169,
+            "locality_id":1243060327,
+            "region_id":85671237
+        }
+    ],
+    "wof:id":1243060327,
+    "wof:lastmodified":1536863830,
+    "wof:name":"Mboundou",
+    "wof:parent_id":1091910169,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ga",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.07151,
+    0.40665,
+    13.07151,
+    0.40665
+],
+  "geometry": {"coordinates":[13.07151,0.40665],"type":"Point"}
+}

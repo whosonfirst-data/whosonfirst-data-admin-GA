@@ -1,0 +1,67 @@
+{
+  "id": 1310498377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.71023,-0.80882,12.71023,-0.80882",
+    "geom:latitude":-0.80882,
+    "geom:longitude":12.71023,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Ndoumbou",
+    "gn:country_code":"GA",
+    "gn:dem":242,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2397626,
+    "gn:latitude":-0.80882,
+    "gn:longitude":12.71023,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Ndoumbou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Libreville",
+    "iso:country":"GA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632407,
+        85671265,
+        1091910455
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2397626
+    },
+    "wof:country":"GA",
+    "wof:geomhash":"ea17e1e8a96a684fc6da23f5618fd135",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632407,
+            "county_id":1091910455,
+            "locality_id":1310498377,
+            "region_id":85671265
+        }
+    ],
+    "wof:id":1310498377,
+    "wof:lastmodified":1536927947,
+    "wof:name":"Ndoumbou",
+    "wof:parent_id":1091910455,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ga",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.71023,
+    -0.80882,
+    12.71023,
+    -0.80882
+],
+  "geometry": {"coordinates":[12.71023,-0.80882],"type":"Point"}
+}

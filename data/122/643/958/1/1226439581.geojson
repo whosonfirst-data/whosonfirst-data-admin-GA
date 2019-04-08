@@ -1,0 +1,67 @@
+{
+  "id": 1226439581,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.3689,-1.38557,9.3689,-1.38557",
+    "geom:latitude":-1.38557,
+    "geom:longitude":9.3689,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Inongo-Aile",
+    "gn:country_code":"GA",
+    "gn:dem":28,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2400273,
+    "gn:latitude":-1.38557,
+    "gn:longitude":9.3689,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Inongo-A\u00efl\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Libreville",
+    "iso:country":"GA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632407,
+        85671255,
+        1091910509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2400273
+    },
+    "wof:country":"GA",
+    "wof:geomhash":"2846af8c263e1e1f0809398bd376f7b1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632407,
+            "county_id":1091910509,
+            "locality_id":1226439581,
+            "region_id":85671255
+        }
+    ],
+    "wof:id":1226439581,
+    "wof:lastmodified":1536654380,
+    "wof:name":"Inongo-Aile",
+    "wof:parent_id":1091910509,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ga",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.3689,
+    -1.38557,
+    9.3689,
+    -1.38557
+],
+  "geometry": {"coordinates":[9.3689,-1.38557],"type":"Point"}
+}

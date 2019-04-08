@@ -1,0 +1,67 @@
+{
+  "id": 1225950535,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.93333,-1.45,11.93333,-1.45",
+    "geom:latitude":-1.45,
+    "geom:longitude":11.93333,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Dipouya",
+    "gn:country_code":"GA",
+    "gn:dem":620,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2401180,
+    "gn:latitude":-1.45,
+    "gn:longitude":11.93333,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Dipouya",
+    "gn:population":0,
+    "gn:timezone":"Africa/Libreville",
+    "iso:country":"GA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632407,
+        85671249,
+        1091909887
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2401180
+    },
+    "wof:country":"GA",
+    "wof:geomhash":"b7decb42cae54c20f539a3d4eb7b1adb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632407,
+            "county_id":1091909887,
+            "locality_id":1225950535,
+            "region_id":85671249
+        }
+    ],
+    "wof:id":1225950535,
+    "wof:lastmodified":1536860930,
+    "wof:name":"Dipouya",
+    "wof:parent_id":1091909887,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ga",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.93333,
+    -1.45,
+    11.93333,
+    -1.45
+],
+  "geometry": {"coordinates":[11.93333,-1.45],"type":"Point"}
+}

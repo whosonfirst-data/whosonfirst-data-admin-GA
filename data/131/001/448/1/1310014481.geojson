@@ -1,0 +1,67 @@
+{
+  "id": 1310014481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.80402,-0.95821,13.80402,-0.95821",
+    "geom:latitude":-0.95821,
+    "geom:longitude":13.80402,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Lebiri",
+    "gn:country_code":"GA",
+    "gn:dem":433,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2399843,
+    "gn:latitude":-0.95821,
+    "gn:longitude":13.80402,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Lebiri",
+    "gn:population":0,
+    "gn:timezone":"Africa/Libreville",
+    "iso:country":"GA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632407,
+        85671257,
+        1091909293
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2399843
+    },
+    "wof:country":"GA",
+    "wof:geomhash":"b05bdc6b28e4f856912b463c99b44f4b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632407,
+            "county_id":1091909293,
+            "locality_id":1310014481,
+            "region_id":85671257
+        }
+    ],
+    "wof:id":1310014481,
+    "wof:lastmodified":1536628549,
+    "wof:name":"Lebiri",
+    "wof:parent_id":1091909293,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ga",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.80402,
+    -0.95821,
+    13.80402,
+    -0.95821
+],
+  "geometry": {"coordinates":[13.80402,-0.95821],"type":"Point"}
+}

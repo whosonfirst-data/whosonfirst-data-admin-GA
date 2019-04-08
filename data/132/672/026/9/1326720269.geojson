@@ -1,0 +1,67 @@
+{
+  "id": 1326720269,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.57364,1.70826,11.57364,1.70826",
+    "geom:latitude":1.70826,
+    "geom:longitude":11.57364,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Obout I",
+    "gn:country_code":"GA",
+    "gn:dem":629,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2396956,
+    "gn:latitude":1.70826,
+    "gn:longitude":11.57364,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Obout I",
+    "gn:population":0,
+    "gn:timezone":"Africa/Libreville",
+    "iso:country":"GA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632407,
+        85671241,
+        1091910593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2396956
+    },
+    "wof:country":"GA",
+    "wof:geomhash":"de895ec34b53cf3693d23b7d1474ba5d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632407,
+            "county_id":1091910593,
+            "locality_id":1326720269,
+            "region_id":85671241
+        }
+    ],
+    "wof:id":1326720269,
+    "wof:lastmodified":1536713343,
+    "wof:name":"Obout I",
+    "wof:parent_id":1091910593,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ga",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.57364,
+    1.70826,
+    11.57364,
+    1.70826
+],
+  "geometry": {"coordinates":[11.57364,1.70826],"type":"Point"}
+}

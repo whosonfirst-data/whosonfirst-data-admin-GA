@@ -1,0 +1,69 @@
+{
+  "id": 890438725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.78333,0.38333,9.78333,0.38333",
+    "geom:latitude":0.38333,
+    "geom:longitude":9.78333,
+    "gn:country":"GA",
+    "gn:fcode":"PPL",
+    "gn:pop":8569,
+    "iso:country":"GA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"Ntoum",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"5",
+    "src:population":"geonames",
+    "wd:wordcount":153,
+    "wof:belongsto":[
+        102191573,
+        85632407,
+        85671235,
+        421178363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2397169,
+        "gp:id":1325211,
+        "qs:id":1035373,
+        "wd:id":"Q218714",
+        "wk:page":"Ntoum"
+    },
+    "wof:country":"GA",
+    "wof:created":1469052206,
+    "wof:geomhash":"7f397bc6886d03d2543041c58d7dc671",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632407,
+            "county_id":421178363,
+            "locality_id":890438725,
+            "region_id":85671235
+        }
+    ],
+    "wof:id":890438725,
+    "wof:lastmodified":1527735422,
+    "wof:name":"Ntoum",
+    "wof:parent_id":421178363,
+    "wof:placetype":"locality",
+    "wof:population":8569,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-ga",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.78333,
+    0.38333,
+    9.78333,
+    0.38333
+],
+  "geometry": {"coordinates":[9.78333,0.38333],"type":"Point"}
+}

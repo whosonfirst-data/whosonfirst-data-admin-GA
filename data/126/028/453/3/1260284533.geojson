@@ -1,0 +1,71 @@
+{
+  "id": 1260284533,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.35127,-1.40153,11.35127,-1.40153",
+    "geom:latitude":-1.40153,
+    "geom:longitude":11.35127,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Mogoumou",
+    "gn:country_code":"GA",
+    "gn:dem":581,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2398249,
+    "gn:latitude":-1.40153,
+    "gn:longitude":11.35127,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Mogoumou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Libreville",
+    "iso:country":"GA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Moghoumou",
+        "Mogoumou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632407,
+        85671249,
+        1091909887
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2398249
+    },
+    "wof:country":"GA",
+    "wof:geomhash":"a6f6625557f491301f5379d787c49374",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632407,
+            "county_id":1091909887,
+            "locality_id":1260284533,
+            "region_id":85671249
+        }
+    ],
+    "wof:id":1260284533,
+    "wof:lastmodified":1537622898,
+    "wof:name":"Mogoumou",
+    "wof:parent_id":1091909887,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ga",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.35127,
+    -1.40153,
+    11.35127,
+    -1.40153
+],
+  "geometry": {"coordinates":[11.35127,-1.40153],"type":"Point"}
+}

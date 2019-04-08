@@ -1,0 +1,67 @@
+{
+  "id": 1344177143,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.32306,-1.91118,9.32306,-1.91118",
+    "geom:latitude":-1.91118,
+    "geom:longitude":9.32306,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Tchongorove",
+    "gn:country_code":"GA",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2396240,
+    "gn:latitude":-1.91118,
+    "gn:longitude":9.32306,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Tchongorov\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Libreville",
+    "iso:country":"GA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632407,
+        85671255,
+        1091910509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2396240
+    },
+    "wof:country":"GA",
+    "wof:geomhash":"62aa230c8e4b8ecc5c56f22ae7ff0723",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632407,
+            "county_id":1091910509,
+            "locality_id":1344177143,
+            "region_id":85671255
+        }
+    ],
+    "wof:id":1344177143,
+    "wof:lastmodified":1536707561,
+    "wof:name":"Tchongorove",
+    "wof:parent_id":1091910509,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ga",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.32306,
+    -1.91118,
+    9.32306,
+    -1.91118
+],
+  "geometry": {"coordinates":[9.32306,-1.91118],"type":"Point"}
+}

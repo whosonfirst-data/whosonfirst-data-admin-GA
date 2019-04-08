@@ -1,0 +1,71 @@
+{
+  "id": 1326927223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.61911,-1.61847,12.61911,-1.61847",
+    "geom:latitude":-1.61847,
+    "geom:longitude":12.61911,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Mouvangue",
+    "gn:country_code":"GA",
+    "gn:dem":579,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2397873,
+    "gn:latitude":-1.61847,
+    "gn:longitude":12.61911,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Mouvangu\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Libreville",
+    "iso:country":"GA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mouvengu\u00e9",
+        "Mouvangu\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632407,
+        85671265,
+        1091910359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2397873
+    },
+    "wof:country":"GA",
+    "wof:geomhash":"528e44cc733a3f7852f14fc79dbd7635",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632407,
+            "county_id":1091910359,
+            "locality_id":1326927223,
+            "region_id":85671265
+        }
+    ],
+    "wof:id":1326927223,
+    "wof:lastmodified":1537622897,
+    "wof:name":"Mouvangue",
+    "wof:parent_id":1091910359,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ga",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.61911,
+    -1.61847,
+    12.61911,
+    -1.61847
+],
+  "geometry": {"coordinates":[12.61911,-1.61847],"type":"Point"}
+}

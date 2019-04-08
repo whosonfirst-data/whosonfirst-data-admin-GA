@@ -1,0 +1,67 @@
+{
+  "id": 1326723119,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.0441,1.06351,13.0441,1.06351",
+    "geom:latitude":1.06351,
+    "geom:longitude":13.0441,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Ekoua",
+    "gn:country_code":"GA",
+    "gn:dem":488,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2400821,
+    "gn:latitude":1.06351,
+    "gn:longitude":13.0441,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Ekoua",
+    "gn:population":0,
+    "gn:timezone":"Africa/Libreville",
+    "iso:country":"GA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632407,
+        85671237,
+        1091910169
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2400821
+    },
+    "wof:country":"GA",
+    "wof:geomhash":"bd4951fa8ef6609093c8eb56c782928c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632407,
+            "county_id":1091910169,
+            "locality_id":1326723119,
+            "region_id":85671237
+        }
+    ],
+    "wof:id":1326723119,
+    "wof:lastmodified":1536709256,
+    "wof:name":"Ekoua",
+    "wof:parent_id":1091910169,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ga",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.0441,
+    1.06351,
+    13.0441,
+    1.06351
+],
+  "geometry": {"coordinates":[13.0441,1.06351],"type":"Point"}
+}

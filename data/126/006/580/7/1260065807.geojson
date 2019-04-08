@@ -1,0 +1,67 @@
+{
+  "id": 1260065807,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.42723,-1.69652,9.42723,-1.69652",
+    "geom:latitude":-1.69652,
+    "geom:longitude":9.42723,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Lambarene",
+    "gn:country_code":"GA",
+    "gn:dem":29,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2399885,
+    "gn:latitude":-1.69652,
+    "gn:longitude":9.42723,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Lambar\u00e9n\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Libreville",
+    "iso:country":"GA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632407,
+        85671255,
+        1091910509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2399885
+    },
+    "wof:country":"GA",
+    "wof:geomhash":"137a99b99fcf1ac467a21ffd47fb7915",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632407,
+            "county_id":1091910509,
+            "locality_id":1260065807,
+            "region_id":85671255
+        }
+    ],
+    "wof:id":1260065807,
+    "wof:lastmodified":1537012820,
+    "wof:name":"Lambarene",
+    "wof:parent_id":1091910509,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ga",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.42723,
+    -1.69652,
+    9.42723,
+    -1.69652
+],
+  "geometry": {"coordinates":[9.42723,-1.69652],"type":"Point"}
+}

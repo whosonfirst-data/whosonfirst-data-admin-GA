@@ -1,0 +1,67 @@
+{
+  "id": 1259777797,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.48288,2.25517,11.48288,2.25517",
+    "geom:latitude":2.25517,
+    "geom:longitude":11.48288,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Ehong",
+    "gn:country_code":"GA",
+    "gn:dem":598,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2400845,
+    "gn:latitude":2.25517,
+    "gn:longitude":11.48288,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Ehong",
+    "gn:population":0,
+    "gn:timezone":"Africa/Libreville",
+    "iso:country":"GA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632407,
+        85671241,
+        1091910639
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2400845
+    },
+    "wof:country":"GA",
+    "wof:geomhash":"9648ebc316b176c927993c3801fd1dca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632407,
+            "county_id":1091910639,
+            "locality_id":1259777797,
+            "region_id":85671241
+        }
+    ],
+    "wof:id":1259777797,
+    "wof:lastmodified":1536932113,
+    "wof:name":"Ehong",
+    "wof:parent_id":1091910639,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ga",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.48288,
+    2.25517,
+    11.48288,
+    2.25517
+],
+  "geometry": {"coordinates":[11.48288,2.25517],"type":"Point"}
+}

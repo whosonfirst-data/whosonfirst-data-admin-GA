@@ -1,0 +1,67 @@
+{
+  "id": 1293479589,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.47727,1.49824,11.47727,1.49824",
+    "geom:latitude":1.49824,
+    "geom:longitude":11.47727,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Akoum",
+    "gn:country_code":"GA",
+    "gn:dem":656,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2402441,
+    "gn:latitude":1.49824,
+    "gn:longitude":11.47727,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Akoum",
+    "gn:population":0,
+    "gn:timezone":"Africa/Libreville",
+    "iso:country":"GA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632407,
+        85671241,
+        1091910593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2402441
+    },
+    "wof:country":"GA",
+    "wof:geomhash":"870fbc313d4a34ad71e7706f29b65aee",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632407,
+            "county_id":1091910593,
+            "locality_id":1293479589,
+            "region_id":85671241
+        }
+    ],
+    "wof:id":1293479589,
+    "wof:lastmodified":1536798592,
+    "wof:name":"Akoum",
+    "wof:parent_id":1091910593,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ga",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.47727,
+    1.49824,
+    11.47727,
+    1.49824
+],
+  "geometry": {"coordinates":[11.47727,1.49824],"type":"Point"}
+}

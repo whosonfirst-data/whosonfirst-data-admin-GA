@@ -1,0 +1,67 @@
+{
+  "id": 1242577743,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.7713,-0.71931,11.7713,-0.71931",
+    "geom:latitude":-0.71931,
+    "geom:longitude":11.7713,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Kamalete",
+    "gn:country_code":"GA",
+    "gn:dem":409,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2400153,
+    "gn:latitude":-0.71931,
+    "gn:longitude":11.7713,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Kamal\u00e9t\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Libreville",
+    "iso:country":"GA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632407,
+        85671265,
+        1091910409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2400153
+    },
+    "wof:country":"GA",
+    "wof:geomhash":"c7a35b03e8e7765923c7b29d9e1690f0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632407,
+            "county_id":1091910409,
+            "locality_id":1242577743,
+            "region_id":85671265
+        }
+    ],
+    "wof:id":1242577743,
+    "wof:lastmodified":1537060743,
+    "wof:name":"Kamalete",
+    "wof:parent_id":1091910409,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ga",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.7713,
+    -0.71931,
+    11.7713,
+    -0.71931
+],
+  "geometry": {"coordinates":[11.7713,-0.71931],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1344057379,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.85,-1.66667,11.85,-1.66667",
+    "geom:latitude":-1.66667,
+    "geom:longitude":11.85,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Cougny",
+    "gn:country_code":"GA",
+    "gn:dem":724,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2401331,
+    "gn:latitude":-1.66667,
+    "gn:longitude":11.85,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Cougny",
+    "gn:population":0,
+    "gn:timezone":"Africa/Libreville",
+    "iso:country":"GA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632407,
+        85671249,
+        1091909887
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2401331
+    },
+    "wof:country":"GA",
+    "wof:geomhash":"198b63b37d58c7d849ce8c9ddf2bc20a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632407,
+            "county_id":1091909887,
+            "locality_id":1344057379,
+            "region_id":85671249
+        }
+    ],
+    "wof:id":1344057379,
+    "wof:lastmodified":1536879237,
+    "wof:name":"Cougny",
+    "wof:parent_id":1091909887,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ga",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.85,
+    -1.66667,
+    11.85,
+    -1.66667
+],
+  "geometry": {"coordinates":[11.85,-1.66667],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1344157329,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.84456,-2.15267,10.84456,-2.15267",
+    "geom:latitude":-2.15267,
+    "geom:longitude":10.84456,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Migola",
+    "gn:country_code":"GA",
+    "gn:dem":339,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2398509,
+    "gn:latitude":-2.15267,
+    "gn:longitude":10.84456,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Migola",
+    "gn:population":0,
+    "gn:timezone":"Africa/Libreville",
+    "iso:country":"GA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632407,
+        85671249,
+        1091909663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2398509
+    },
+    "wof:country":"GA",
+    "wof:geomhash":"5a4ed1bfa46d7c319358fa01b4c746fd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632407,
+            "county_id":1091909663,
+            "locality_id":1344157329,
+            "region_id":85671249
+        }
+    ],
+    "wof:id":1344157329,
+    "wof:lastmodified":1536735888,
+    "wof:name":"Migola",
+    "wof:parent_id":1091909663,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ga",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.84456,
+    -2.15267,
+    10.84456,
+    -2.15267
+],
+  "geometry": {"coordinates":[10.84456,-2.15267],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1242799109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.00004,-1.42205,12.00004,-1.42205",
+    "geom:latitude":-1.42205,
+    "geom:longitude":12.00004,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Moudouma",
+    "gn:country_code":"GA",
+    "gn:dem":603,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2398134,
+    "gn:latitude":-1.42205,
+    "gn:longitude":12.00004,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Moudouma",
+    "gn:population":0,
+    "gn:timezone":"Africa/Libreville",
+    "iso:country":"GA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Midouma",
+        "Modouma",
+        "Moudouma"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632407,
+        85671265,
+        1091910409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2398134
+    },
+    "wof:country":"GA",
+    "wof:geomhash":"97b3bed5c0a8fbf5485e40db9f357b4b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632407,
+            "county_id":1091910409,
+            "locality_id":1242799109,
+            "region_id":85671265
+        }
+    ],
+    "wof:id":1242799109,
+    "wof:lastmodified":1537622898,
+    "wof:name":"Moudouma",
+    "wof:parent_id":1091910409,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ga",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.00004,
+    -1.42205,
+    12.00004,
+    -1.42205
+],
+  "geometry": {"coordinates":[12.00004,-1.42205],"type":"Point"}
+}

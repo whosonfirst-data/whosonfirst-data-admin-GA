@@ -1,0 +1,72 @@
+{
+  "id": 1276555171,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.74719,-0.87488,9.74719,-0.87488",
+    "geom:latitude":-0.87488,
+    "geom:longitude":9.74719,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Achouka",
+    "gn:country_code":"GA",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2402608,
+    "gn:latitude":-0.87488,
+    "gn:longitude":9.74719,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Achouka",
+    "gn:population":0,
+    "gn:timezone":"Africa/Libreville",
+    "iso:country":"GA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Aschouka",
+        "Ashuka",
+        "Achouka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632407,
+        85671247,
+        1091909431
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2402608
+    },
+    "wof:country":"GA",
+    "wof:geomhash":"939a790656a215b6d2eb2ffda1551021",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632407,
+            "county_id":1091909431,
+            "locality_id":1276555171,
+            "region_id":85671247
+        }
+    ],
+    "wof:id":1276555171,
+    "wof:lastmodified":1537622920,
+    "wof:name":"Achouka",
+    "wof:parent_id":1091909431,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ga",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.74719,
+    -0.87488,
+    9.74719,
+    -0.87488
+],
+  "geometry": {"coordinates":[9.74719,-0.87488],"type":"Point"}
+}

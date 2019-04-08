@@ -1,0 +1,67 @@
+{
+  "id": 1360196337,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.73857,-0.70613,9.73857,-0.70613",
+    "geom:latitude":-0.70613,
+    "geom:longitude":9.73857,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Dakar",
+    "gn:country_code":"GA",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2401326,
+    "gn:latitude":-0.70613,
+    "gn:longitude":9.73857,
+    "gn:modification_date":"2013-10-06",
+    "gn:name":"Dakar",
+    "gn:population":0,
+    "gn:timezone":"Africa/Libreville",
+    "iso:country":"GA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632407,
+        85671247,
+        1091909431
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2401326
+    },
+    "wof:country":"GA",
+    "wof:geomhash":"a4142780e594a61b851300b20fdb5e7e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632407,
+            "county_id":1091909431,
+            "locality_id":1360196337,
+            "region_id":85671247
+        }
+    ],
+    "wof:id":1360196337,
+    "wof:lastmodified":1536785617,
+    "wof:name":"Dakar",
+    "wof:parent_id":1091909431,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ga",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.73857,
+    -0.70613,
+    9.73857,
+    -0.70613
+],
+  "geometry": {"coordinates":[9.73857,-0.70613],"type":"Point"}
+}

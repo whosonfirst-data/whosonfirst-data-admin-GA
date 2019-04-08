@@ -1,0 +1,67 @@
+{
+  "id": 1360205967,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.61425,-0.95297,12.61425,-0.95297",
+    "geom:latitude":-0.95297,
+    "geom:longitude":12.61425,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Sosotsanda",
+    "gn:country_code":"GA",
+    "gn:dem":289,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2396301,
+    "gn:latitude":-0.95297,
+    "gn:longitude":12.61425,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Sosotsanda",
+    "gn:population":0,
+    "gn:timezone":"Africa/Libreville",
+    "iso:country":"GA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632407,
+        85671265,
+        1091910455
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2396301
+    },
+    "wof:country":"GA",
+    "wof:geomhash":"144e4d429fdeccd1b762837ef4155dd8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632407,
+            "county_id":1091910455,
+            "locality_id":1360205967,
+            "region_id":85671265
+        }
+    ],
+    "wof:id":1360205967,
+    "wof:lastmodified":1536771938,
+    "wof:name":"Sosotsanda",
+    "wof:parent_id":1091910455,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ga",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.61425,
+    -0.95297,
+    12.61425,
+    -0.95297
+],
+  "geometry": {"coordinates":[12.61425,-0.95297],"type":"Point"}
+}

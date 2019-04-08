@@ -1,0 +1,72 @@
+{
+  "id": 1343365023,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.18824,-1.98327,12.18824,-1.98327",
+    "geom:latitude":-1.98327,
+    "geom:longitude":12.18824,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Levinda",
+    "gn:country_code":"GA",
+    "gn:dem":762,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2399723,
+    "gn:latitude":-1.98327,
+    "gn:longitude":12.18824,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Levinda",
+    "gn:population":0,
+    "gn:timezone":"Africa/Libreville",
+    "iso:country":"GA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dyenz\u00e9",
+        "Dyenza",
+        "Levinda"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632407,
+        85671249,
+        1091909787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2399723
+    },
+    "wof:country":"GA",
+    "wof:geomhash":"8eeb4dd2d9e0551ad9e4aa06aae78394",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632407,
+            "county_id":1091909787,
+            "locality_id":1343365023,
+            "region_id":85671249
+        }
+    ],
+    "wof:id":1343365023,
+    "wof:lastmodified":1537622905,
+    "wof:name":"Levinda",
+    "wof:parent_id":1091909787,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ga",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.18824,
+    -1.98327,
+    12.18824,
+    -1.98327
+],
+  "geometry": {"coordinates":[12.18824,-1.98327],"type":"Point"}
+}

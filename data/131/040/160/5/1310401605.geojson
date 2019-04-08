@@ -1,0 +1,67 @@
+{
+  "id": 1310401605,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.37371,2.20305,11.37371,2.20305",
+    "geom:latitude":2.20305,
+    "geom:longitude":11.37371,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Messon Effak",
+    "gn:country_code":"GA",
+    "gn:dem":582,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2398641,
+    "gn:latitude":2.20305,
+    "gn:longitude":11.37371,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Messon Effak",
+    "gn:population":0,
+    "gn:timezone":"Africa/Libreville",
+    "iso:country":"GA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632407,
+        85671241,
+        1091910639
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2398641
+    },
+    "wof:country":"GA",
+    "wof:geomhash":"43fcd28ea47780d9a70d2b5e341cd366",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632407,
+            "county_id":1091910639,
+            "locality_id":1310401605,
+            "region_id":85671241
+        }
+    ],
+    "wof:id":1310401605,
+    "wof:lastmodified":1537064080,
+    "wof:name":"Messon Effak",
+    "wof:parent_id":1091910639,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ga",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.37371,
+    2.20305,
+    11.37371,
+    2.20305
+],
+  "geometry": {"coordinates":[11.37371,2.20305],"type":"Point"}
+}

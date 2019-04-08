@@ -1,0 +1,61 @@
+{
+  "id": 1209621451,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.41718,-2.13299,12.41718,-2.13299",
+    "geom:latitude":-2.13299,
+    "geom:longitude":12.41718,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Tinga-Tsenge",
+    "gn:country_code":"GA",
+    "gn:dem":643,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2396221,
+    "gn:latitude":-2.13299,
+    "gn:longitude":12.41718,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Tinga-Tseng\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Libreville",
+    "iso:country":"GA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632407
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2396221
+    },
+    "wof:country":"GA",
+    "wof:geomhash":"677680b8c7fcc2e2b3010bce1a353df2",
+    "wof:hierarchy":[
+        {
+            "country_id":85632407,
+            "locality_id":1209621451
+        }
+    ],
+    "wof:id":1209621451,
+    "wof:lastmodified":1536281504,
+    "wof:name":"Tinga-Tsenge",
+    "wof:parent_id":85632407,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ga",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.41718,
+    -2.13299,
+    12.41718,
+    -2.13299
+],
+  "geometry": {"coordinates":[12.41718,-2.13299],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1226642147,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.4529,2.27746,11.4529,2.27746",
+    "geom:latitude":2.27746,
+    "geom:longitude":11.4529,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Engo",
+    "gn:country_code":"GA",
+    "gn:dem":588,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2400743,
+    "gn:latitude":2.27746,
+    "gn:longitude":11.4529,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Engo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Libreville",
+    "iso:country":"GA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632407,
+        85671241,
+        1091910639
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2400743
+    },
+    "wof:country":"GA",
+    "wof:geomhash":"0cce04999564aebf1195181a99bf4a48",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632407,
+            "county_id":1091910639,
+            "locality_id":1226642147,
+            "region_id":85671241
+        }
+    ],
+    "wof:id":1226642147,
+    "wof:lastmodified":1536863264,
+    "wof:name":"Engo",
+    "wof:parent_id":1091910639,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ga",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.4529,
+    2.27746,
+    11.4529,
+    2.27746
+],
+  "geometry": {"coordinates":[11.4529,2.27746],"type":"Point"}
+}

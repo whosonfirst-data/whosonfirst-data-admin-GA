@@ -1,0 +1,67 @@
+{
+  "id": 1327354849,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.36408,-1.62777,12.36408,-1.62777",
+    "geom:latitude":-1.62777,
+    "geom:longitude":12.36408,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Libela",
+    "gn:country_code":"GA",
+    "gn:dem":756,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2399706,
+    "gn:latitude":-1.62777,
+    "gn:longitude":12.36408,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Lib\u00e9la",
+    "gn:population":0,
+    "gn:timezone":"Africa/Libreville",
+    "iso:country":"GA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632407,
+        85671265,
+        1091910313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2399706
+    },
+    "wof:country":"GA",
+    "wof:geomhash":"c40301cd457c7129898d3997e3b01b2f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632407,
+            "county_id":1091910313,
+            "locality_id":1327354849,
+            "region_id":85671265
+        }
+    ],
+    "wof:id":1327354849,
+    "wof:lastmodified":1536793186,
+    "wof:name":"Libela",
+    "wof:parent_id":1091910313,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ga",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.36408,
+    -1.62777,
+    12.36408,
+    -1.62777
+],
+  "geometry": {"coordinates":[12.36408,-1.62777],"type":"Point"}
+}

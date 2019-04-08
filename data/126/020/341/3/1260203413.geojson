@@ -1,0 +1,72 @@
+{
+  "id": 1260203413,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.44636,-1.55035,9.44636,-1.55035",
+    "geom:latitude":-1.55035,
+    "geom:longitude":9.44636,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Olango",
+    "gn:country_code":"GA",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2396884,
+    "gn:latitude":-1.55035,
+    "gn:longitude":9.44636,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Olango",
+    "gn:population":0,
+    "gn:timezone":"Africa/Libreville",
+    "iso:country":"GA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Village Olago",
+        "Olago",
+        "Olango"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632407,
+        85671255,
+        1091910509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2396884
+    },
+    "wof:country":"GA",
+    "wof:geomhash":"236125922563f4997d477a7a36587b9b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632407,
+            "county_id":1091910509,
+            "locality_id":1260203413,
+            "region_id":85671255
+        }
+    ],
+    "wof:id":1260203413,
+    "wof:lastmodified":1537622892,
+    "wof:name":"Olango",
+    "wof:parent_id":1091910509,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ga",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.44636,
+    -1.55035,
+    9.44636,
+    -1.55035
+],
+  "geometry": {"coordinates":[9.44636,-1.55035],"type":"Point"}
+}

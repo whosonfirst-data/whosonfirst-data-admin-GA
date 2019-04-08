@@ -1,0 +1,67 @@
+{
+  "id": 1293023019,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.65,0.9,13.65,0.9",
+    "geom:latitude":0.9,
+    "geom:longitude":13.65,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Iko",
+    "gn:country_code":"GA",
+    "gn:dem":529,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2400351,
+    "gn:latitude":0.9,
+    "gn:longitude":13.65,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Iko",
+    "gn:population":0,
+    "gn:timezone":"Africa/Libreville",
+    "iso:country":"GA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632407,
+        85671237,
+        1091910219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2400351
+    },
+    "wof:country":"GA",
+    "wof:geomhash":"bc8bbe29f21a2be87cab36648b1a7bad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632407,
+            "county_id":1091910219,
+            "locality_id":1293023019,
+            "region_id":85671237
+        }
+    ],
+    "wof:id":1293023019,
+    "wof:lastmodified":1536959673,
+    "wof:name":"Iko",
+    "wof:parent_id":1091910219,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ga",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.65,
+    0.9,
+    13.65,
+    0.9
+],
+  "geometry": {"coordinates":[13.65,0.9],"type":"Point"}
+}

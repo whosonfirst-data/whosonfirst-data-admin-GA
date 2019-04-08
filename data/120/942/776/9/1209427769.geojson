@@ -1,0 +1,66 @@
+{
+  "id": 1209427769,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.7,-1.85,13.7,-1.85",
+    "geom:latitude":-1.85,
+    "geom:longitude":13.7,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Leniombi II",
+    "gn:cc2":"GA",
+    "gn:country_code":"GA",
+    "gn:dem":437,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2399751,
+    "gn:latitude":-1.85,
+    "gn:longitude":13.7,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"L\u00e9niombi II",
+    "gn:population":0,
+    "gn:timezone":"Africa/Libreville",
+    "iso:country":"GA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "L\u00e9niombi",
+        "L\u00e9niombi II"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632407
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2399751
+    },
+    "wof:country":"GA",
+    "wof:geomhash":"ffb6c00127a2652d93461051f56e04eb",
+    "wof:hierarchy":[
+        {
+            "country_id":85632407,
+            "locality_id":1209427769
+        }
+    ],
+    "wof:id":1209427769,
+    "wof:lastmodified":1537622905,
+    "wof:name":"Leniombi II",
+    "wof:parent_id":85632407,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ga",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.7,
+    -1.85,
+    13.7,
+    -1.85
+],
+  "geometry": {"coordinates":[13.7,-1.85],"type":"Point"}
+}

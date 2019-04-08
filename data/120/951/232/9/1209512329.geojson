@@ -1,0 +1,61 @@
+{
+  "id": 1209512329,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.93333,-0.03333,12.93333,-0.03333",
+    "geom:latitude":-0.03333,
+    "geom:longitude":12.93333,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Doumamango",
+    "gn:country_code":"GA",
+    "gn:dem":521,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2400999,
+    "gn:latitude":-0.03333,
+    "gn:longitude":12.93333,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Doumamango",
+    "gn:population":0,
+    "gn:timezone":"Africa/Libreville",
+    "iso:country":"GA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632407
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2400999
+    },
+    "wof:country":"GA",
+    "wof:geomhash":"5b2f09daf61204b23193a4332c3dd468",
+    "wof:hierarchy":[
+        {
+            "country_id":85632407,
+            "locality_id":1209512329
+        }
+    ],
+    "wof:id":1209512329,
+    "wof:lastmodified":1536284843,
+    "wof:name":"Doumamango",
+    "wof:parent_id":85632407,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ga",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.93333,
+    -0.03333,
+    12.93333,
+    -0.03333
+],
+  "geometry": {"coordinates":[12.93333,-0.03333],"type":"Point"}
+}

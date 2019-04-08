@@ -1,0 +1,67 @@
+{
+  "id": 1259668081,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.38333,2.18333,11.38333,2.18333",
+    "geom:latitude":2.18333,
+    "geom:longitude":11.38333,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Mekomo Esseng",
+    "gn:country_code":"GA",
+    "gn:dem":603,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2398739,
+    "gn:latitude":2.18333,
+    "gn:longitude":11.38333,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"M\u00e9komo Esseng",
+    "gn:population":0,
+    "gn:timezone":"Africa/Libreville",
+    "iso:country":"GA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632407,
+        85671241,
+        1091910639
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2398739
+    },
+    "wof:country":"GA",
+    "wof:geomhash":"2194ee0c75cac53a8b36ec4b3ced9d0d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632407,
+            "county_id":1091910639,
+            "locality_id":1259668081,
+            "region_id":85671241
+        }
+    ],
+    "wof:id":1259668081,
+    "wof:lastmodified":1537086031,
+    "wof:name":"Mekomo Esseng",
+    "wof:parent_id":1091910639,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ga",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.38333,
+    2.18333,
+    11.38333,
+    2.18333
+],
+  "geometry": {"coordinates":[11.38333,2.18333],"type":"Point"}
+}

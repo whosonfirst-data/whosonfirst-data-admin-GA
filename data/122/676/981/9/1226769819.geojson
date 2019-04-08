@@ -1,0 +1,71 @@
+{
+  "id": 1226769819,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.06173,-2.05657,10.06173,-2.05657",
+    "geom:latitude":-2.05657,
+    "geom:longitude":10.06173,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Mbengui",
+    "gn:country_code":"GA",
+    "gn:dem":80,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2398944,
+    "gn:latitude":-2.05657,
+    "gn:longitude":10.06173,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Mbengui",
+    "gn:population":0,
+    "gn:timezone":"Africa/Libreville",
+    "iso:country":"GA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bingui",
+        "Mbengui"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632407,
+        85671255,
+        1091910563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2398944
+    },
+    "wof:country":"GA",
+    "wof:geomhash":"6d369fb227a8ad4bc088096570a39568",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632407,
+            "county_id":1091910563,
+            "locality_id":1226769819,
+            "region_id":85671255
+        }
+    ],
+    "wof:id":1226769819,
+    "wof:lastmodified":1537622901,
+    "wof:name":"Mbengui",
+    "wof:parent_id":1091910563,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ga",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.06173,
+    -2.05657,
+    10.06173,
+    -2.05657
+],
+  "geometry": {"coordinates":[10.06173,-2.05657],"type":"Point"}
+}

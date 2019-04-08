@@ -1,0 +1,71 @@
+{
+  "id": 1226742423,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.8321,0.56127,12.8321,0.56127",
+    "geom:latitude":0.56127,
+    "geom:longitude":12.8321,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Alarmintang",
+    "gn:country_code":"GA",
+    "gn:dem":482,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2402417,
+    "gn:latitude":0.56127,
+    "gn:longitude":12.8321,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Alarmintang",
+    "gn:population":0,
+    "gn:timezone":"Africa/Libreville",
+    "iso:country":"GA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Alarmitang",
+        "Alarmintang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632407,
+        85671237,
+        1091910169
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2402417
+    },
+    "wof:country":"GA",
+    "wof:geomhash":"1df84453d7f3b38f6e2cce03075e9fcd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632407,
+            "county_id":1091910169,
+            "locality_id":1226742423,
+            "region_id":85671237
+        }
+    ],
+    "wof:id":1226742423,
+    "wof:lastmodified":1537622919,
+    "wof:name":"Alarmintang",
+    "wof:parent_id":1091910169,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ga",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.8321,
+    0.56127,
+    12.8321,
+    0.56127
+],
+  "geometry": {"coordinates":[12.8321,0.56127],"type":"Point"}
+}

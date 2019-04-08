@@ -1,0 +1,67 @@
+{
+  "id": 1226643423,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.01082,0.91099,14.01082,0.91099",
+    "geom:latitude":0.91099,
+    "geom:longitude":14.01082,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Djokossana",
+    "gn:country_code":"GA",
+    "gn:dem":543,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2401121,
+    "gn:latitude":0.91099,
+    "gn:longitude":14.01082,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Djokossana",
+    "gn:population":0,
+    "gn:timezone":"Africa/Libreville",
+    "iso:country":"GA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632407,
+        85671237,
+        1091910219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2401121
+    },
+    "wof:country":"GA",
+    "wof:geomhash":"5e6b2d3e3cede67a893820accf19f324",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632407,
+            "county_id":1091910219,
+            "locality_id":1226643423,
+            "region_id":85671237
+        }
+    ],
+    "wof:id":1226643423,
+    "wof:lastmodified":1536861384,
+    "wof:name":"Djokossana",
+    "wof:parent_id":1091910219,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ga",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.01082,
+    0.91099,
+    14.01082,
+    0.91099
+],
+  "geometry": {"coordinates":[14.01082,0.91099],"type":"Point"}
+}

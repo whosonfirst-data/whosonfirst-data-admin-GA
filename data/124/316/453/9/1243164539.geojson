@@ -1,0 +1,67 @@
+{
+  "id": 1243164539,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.30935,-0.22015,12.30935,-0.22015",
+    "geom:latitude":-0.22015,
+    "geom:longitude":12.30935,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Makoui",
+    "gn:country_code":"GA",
+    "gn:dem":236,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2399359,
+    "gn:latitude":-0.22015,
+    "gn:longitude":12.30935,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Makoui",
+    "gn:population":0,
+    "gn:timezone":"Africa/Libreville",
+    "iso:country":"GA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632407,
+        85671237,
+        421188215
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2399359
+    },
+    "wof:country":"GA",
+    "wof:geomhash":"a9cc741109ff402f5c3ae3fc1f20e8e1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632407,
+            "county_id":421188215,
+            "locality_id":1243164539,
+            "region_id":85671237
+        }
+    ],
+    "wof:id":1243164539,
+    "wof:lastmodified":1536715360,
+    "wof:name":"Makoui",
+    "wof:parent_id":421188215,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ga",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.30935,
+    -0.22015,
+    12.30935,
+    -0.22015
+],
+  "geometry": {"coordinates":[12.30935,-0.22015],"type":"Point"}
+}

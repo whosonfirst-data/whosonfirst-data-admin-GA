@@ -1,0 +1,67 @@
+{
+  "id": 1260077641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.04364,0.90316,14.04364,0.90316",
+    "geom:latitude":0.90316,
+    "geom:longitude":14.04364,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Katamoba",
+    "gn:country_code":"GA",
+    "gn:dem":550,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2400116,
+    "gn:latitude":0.90316,
+    "gn:longitude":14.04364,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Katamoba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Libreville",
+    "iso:country":"GA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632407,
+        85671237,
+        1091910219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2400116
+    },
+    "wof:country":"GA",
+    "wof:geomhash":"66047c6266f1f6b3d66fe1d7bc917dc9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632407,
+            "county_id":1091910219,
+            "locality_id":1260077641,
+            "region_id":85671237
+        }
+    ],
+    "wof:id":1260077641,
+    "wof:lastmodified":1536995690,
+    "wof:name":"Katamoba",
+    "wof:parent_id":1091910219,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ga",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.04364,
+    0.90316,
+    14.04364,
+    0.90316
+],
+  "geometry": {"coordinates":[14.04364,0.90316],"type":"Point"}
+}

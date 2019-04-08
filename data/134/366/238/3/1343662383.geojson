@@ -1,0 +1,67 @@
+{
+  "id": 1343662383,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.15,-1.96667,11.15,-1.96667",
+    "geom:latitude":-1.96667,
+    "geom:longitude":11.15,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Loukaba",
+    "gn:country_code":"GA",
+    "gn:dem":110,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2399589,
+    "gn:latitude":-1.96667,
+    "gn:longitude":11.15,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Loukaba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Libreville",
+    "iso:country":"GA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632407,
+        85671249,
+        1091909531
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2399589
+    },
+    "wof:country":"GA",
+    "wof:geomhash":"6dea05b262cae6e1cda4071c32d9e237",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632407,
+            "county_id":1091909531,
+            "locality_id":1343662383,
+            "region_id":85671249
+        }
+    ],
+    "wof:id":1343662383,
+    "wof:lastmodified":1536952442,
+    "wof:name":"Loukaba",
+    "wof:parent_id":1091909531,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ga",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.15,
+    -1.96667,
+    11.15,
+    -1.96667
+],
+  "geometry": {"coordinates":[11.15,-1.96667],"type":"Point"}
+}

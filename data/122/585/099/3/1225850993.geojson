@@ -1,0 +1,72 @@
+{
+  "id": 1225850993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.48333,-0.96667,11.48333,-0.96667",
+    "geom:latitude":-0.96667,
+    "geom:longitude":11.48333,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Lidiembo",
+    "gn:cc2":"GA",
+    "gn:country_code":"GA",
+    "gn:dem":616,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2399690,
+    "gn:latitude":-0.96667,
+    "gn:longitude":11.48333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Lidiembo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Libreville",
+    "iso:country":"GA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lidyembo",
+        "Lidiembo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632407,
+        85671249,
+        1091909887
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2399690
+    },
+    "wof:country":"GA",
+    "wof:geomhash":"7e86b9d8ed86939254c6ce3dcf2be821",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632407,
+            "county_id":1091909887,
+            "locality_id":1225850993,
+            "region_id":85671249
+        }
+    ],
+    "wof:id":1225850993,
+    "wof:lastmodified":1537622904,
+    "wof:name":"Lidiembo",
+    "wof:parent_id":1091909887,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ga",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.48333,
+    -0.96667,
+    11.48333,
+    -0.96667
+],
+  "geometry": {"coordinates":[11.48333,-0.96667],"type":"Point"}
+}

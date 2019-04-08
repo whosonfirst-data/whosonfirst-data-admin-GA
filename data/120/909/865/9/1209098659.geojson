@@ -1,0 +1,61 @@
+{
+  "id": 1209098659,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.78156,0.56887,12.78156,0.56887",
+    "geom:latitude":0.56887,
+    "geom:longitude":12.78156,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Simintang",
+    "gn:country_code":"GA",
+    "gn:dem":535,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2396333,
+    "gn:latitude":0.56887,
+    "gn:longitude":12.78156,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Simintang",
+    "gn:population":0,
+    "gn:timezone":"Africa/Libreville",
+    "iso:country":"GA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632407
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2396333
+    },
+    "wof:country":"GA",
+    "wof:geomhash":"78808b92172ee64f53e538b6a3a8b1bd",
+    "wof:hierarchy":[
+        {
+            "country_id":85632407,
+            "locality_id":1209098659
+        }
+    ],
+    "wof:id":1209098659,
+    "wof:lastmodified":1536297804,
+    "wof:name":"Simintang",
+    "wof:parent_id":85632407,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ga",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.78156,
+    0.56887,
+    12.78156,
+    0.56887
+],
+  "geometry": {"coordinates":[12.78156,0.56887],"type":"Point"}
+}

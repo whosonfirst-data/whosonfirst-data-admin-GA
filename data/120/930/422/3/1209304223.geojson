@@ -1,0 +1,61 @@
+{
+  "id": 1209304223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.73545,2.22293,11.73545,2.22293",
+    "geom:latitude":2.22293,
+    "geom:longitude":11.73545,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Bikondomo",
+    "gn:country_code":"GA",
+    "gn:dem":594,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2401707,
+    "gn:latitude":2.22293,
+    "gn:longitude":11.73545,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Bikondomo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Libreville",
+    "iso:country":"GA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632407
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2401707
+    },
+    "wof:country":"GA",
+    "wof:geomhash":"b63c820958e28d10a2cc202c3e37e669",
+    "wof:hierarchy":[
+        {
+            "country_id":85632407,
+            "locality_id":1209304223
+        }
+    ],
+    "wof:id":1209304223,
+    "wof:lastmodified":1536291251,
+    "wof:name":"Bikondomo",
+    "wof:parent_id":85632407,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ga",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.73545,
+    2.22293,
+    11.73545,
+    2.22293
+],
+  "geometry": {"coordinates":[11.73545,2.22293],"type":"Point"}
+}

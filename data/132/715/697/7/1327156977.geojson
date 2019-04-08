@@ -1,0 +1,67 @@
+{
+  "id": 1327156977,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.28333,-2.56667,11.28333,-2.56667",
+    "geom:latitude":-2.56667,
+    "geom:longitude":11.28333,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Moabi Koudou",
+    "gn:country_code":"GA",
+    "gn:dem":173,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2398272,
+    "gn:latitude":-2.56667,
+    "gn:longitude":11.28333,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Moabi Koudou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Libreville",
+    "iso:country":"GA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632407,
+        85671249,
+        1091909707
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2398272
+    },
+    "wof:country":"GA",
+    "wof:geomhash":"d56589f6c1157e10e7a4bdd7685964be",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632407,
+            "county_id":1091909707,
+            "locality_id":1327156977,
+            "region_id":85671249
+        }
+    ],
+    "wof:id":1327156977,
+    "wof:lastmodified":1537075433,
+    "wof:name":"Moabi Koudou",
+    "wof:parent_id":1091909707,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ga",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.28333,
+    -2.56667,
+    11.28333,
+    -2.56667
+],
+  "geometry": {"coordinates":[11.28333,-2.56667],"type":"Point"}
+}

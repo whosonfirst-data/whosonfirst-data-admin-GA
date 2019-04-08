@@ -1,0 +1,67 @@
+{
+  "id": 1310494351,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.54685,0.31193,11.54685,0.31193",
+    "geom:latitude":0.31193,
+    "geom:longitude":11.54685,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Laboka",
+    "gn:country_code":"GA",
+    "gn:dem":343,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2399903,
+    "gn:latitude":0.31193,
+    "gn:longitude":11.54685,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Laboka",
+    "gn:population":0,
+    "gn:timezone":"Africa/Libreville",
+    "iso:country":"GA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632407,
+        85671237,
+        421188215
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2399903
+    },
+    "wof:country":"GA",
+    "wof:geomhash":"ae4896266be392a2d4132b947d8452d0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632407,
+            "county_id":421188215,
+            "locality_id":1310494351,
+            "region_id":85671237
+        }
+    ],
+    "wof:id":1310494351,
+    "wof:lastmodified":1536933775,
+    "wof:name":"Laboka",
+    "wof:parent_id":421188215,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ga",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.54685,
+    0.31193,
+    11.54685,
+    0.31193
+],
+  "geometry": {"coordinates":[11.54685,0.31193],"type":"Point"}
+}

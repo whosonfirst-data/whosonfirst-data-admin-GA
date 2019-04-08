@@ -1,0 +1,67 @@
+{
+  "id": 1310012143,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.65,-1.96667,11.65,-1.96667",
+    "geom:latitude":-1.96667,
+    "geom:longitude":11.65,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Ipoungou",
+    "gn:country_code":"GA",
+    "gn:dem":521,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2400254,
+    "gn:latitude":-1.96667,
+    "gn:longitude":11.65,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Ipoungou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Libreville",
+    "iso:country":"GA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632407,
+        85671249,
+        1091909833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2400254
+    },
+    "wof:country":"GA",
+    "wof:geomhash":"791f44c00353a3489c8adbf14c9c849e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632407,
+            "county_id":1091909833,
+            "locality_id":1310012143,
+            "region_id":85671249
+        }
+    ],
+    "wof:id":1310012143,
+    "wof:lastmodified":1536632210,
+    "wof:name":"Ipoungou",
+    "wof:parent_id":1091909833,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ga",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.65,
+    -1.96667,
+    11.65,
+    -1.96667
+],
+  "geometry": {"coordinates":[11.65,-1.96667],"type":"Point"}
+}

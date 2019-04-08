@@ -1,0 +1,67 @@
+{
+  "id": 1293101885,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.57292,-1.03834,13.57292,-1.03834",
+    "geom:latitude":-1.03834,
+    "geom:longitude":13.57292,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Ossele",
+    "gn:country_code":"GA",
+    "gn:dem":350,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2396779,
+    "gn:latitude":-1.03834,
+    "gn:longitude":13.57292,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Oss\u00e9l\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Libreville",
+    "iso:country":"GA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632407,
+        85671257,
+        1091909293
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2396779
+    },
+    "wof:country":"GA",
+    "wof:geomhash":"564f64717c889c7c1372e09d29a27362",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632407,
+            "county_id":1091909293,
+            "locality_id":1293101885,
+            "region_id":85671257
+        }
+    ],
+    "wof:id":1293101885,
+    "wof:lastmodified":1536844874,
+    "wof:name":"Ossele",
+    "wof:parent_id":1091909293,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ga",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.57292,
+    -1.03834,
+    13.57292,
+    -1.03834
+],
+  "geometry": {"coordinates":[13.57292,-1.03834],"type":"Point"}
+}

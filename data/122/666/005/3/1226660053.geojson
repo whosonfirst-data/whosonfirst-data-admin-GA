@@ -1,0 +1,65 @@
+{
+  "id": 1226660053,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.5546,0.93416,9.5546,0.93416",
+    "geom:latitude":0.93416,
+    "geom:longitude":9.5546,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Ndombo",
+    "gn:country_code":"GA",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2397660,
+    "gn:latitude":0.93416,
+    "gn:longitude":9.5546,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Ndombo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Libreville",
+    "iso:country":"GA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Indombo",
+        "Ndombo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2397660
+    },
+    "wof:country":"GA",
+    "wof:geomhash":"cc2292394bc5dded1905b472a67f888d",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1226660053,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1226660053,
+    "wof:lastmodified":1537622896,
+    "wof:name":"Ndombo",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ga",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.5546,
+    0.93416,
+    9.5546,
+    0.93416
+],
+  "geometry": {"coordinates":[9.5546,0.93416],"type":"Point"}
+}

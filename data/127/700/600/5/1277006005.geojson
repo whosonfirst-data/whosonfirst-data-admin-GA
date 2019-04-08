@@ -1,0 +1,67 @@
+{
+  "id": 1277006005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.23333,-1.95,12.23333,-1.95",
+    "geom:latitude":-1.95,
+    "geom:longitude":12.23333,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Mikouandza le Petit",
+    "gn:country_code":"GA",
+    "gn:dem":776,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2398474,
+    "gn:latitude":-1.95,
+    "gn:longitude":12.23333,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Mikouandza le Petit",
+    "gn:population":0,
+    "gn:timezone":"Africa/Libreville",
+    "iso:country":"GA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632407,
+        85671249,
+        1091909787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2398474
+    },
+    "wof:country":"GA",
+    "wof:geomhash":"d45ec7f89c97b5d50082201ba2080725",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632407,
+            "county_id":1091909787,
+            "locality_id":1277006005,
+            "region_id":85671249
+        }
+    ],
+    "wof:id":1277006005,
+    "wof:lastmodified":1536871044,
+    "wof:name":"Mikouandza le Petit",
+    "wof:parent_id":1091909787,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ga",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.23333,
+    -1.95,
+    12.23333,
+    -1.95
+],
+  "geometry": {"coordinates":[12.23333,-1.95],"type":"Point"}
+}

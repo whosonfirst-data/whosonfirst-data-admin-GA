@@ -1,0 +1,67 @@
+{
+  "id": 1343660963,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.41667,-2.61667,11.41667,-2.61667",
+    "geom:latitude":-2.61667,
+    "geom:longitude":11.41667,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Yongo",
+    "gn:country_code":"GA",
+    "gn:dem":176,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2395998,
+    "gn:latitude":-2.61667,
+    "gn:longitude":11.41667,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Yongo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Libreville",
+    "iso:country":"GA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632407,
+        85671249,
+        1091909707
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2395998
+    },
+    "wof:country":"GA",
+    "wof:geomhash":"9a5b689cdce6dc2fb961f7fa4aafed1d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632407,
+            "county_id":1091909707,
+            "locality_id":1343660963,
+            "region_id":85671249
+        }
+    ],
+    "wof:id":1343660963,
+    "wof:lastmodified":1536954428,
+    "wof:name":"Yongo",
+    "wof:parent_id":1091909707,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ga",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.41667,
+    -2.61667,
+    11.41667,
+    -2.61667
+],
+  "geometry": {"coordinates":[11.41667,-2.61667],"type":"Point"}
+}

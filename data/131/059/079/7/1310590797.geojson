@@ -1,0 +1,67 @@
+{
+  "id": 1310590797,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.88428,1.84695,11.88428,1.84695",
+    "geom:latitude":1.84695,
+    "geom:longitude":11.88428,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Memveme",
+    "gn:country_code":"GA",
+    "gn:dem":615,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2398688,
+    "gn:latitude":1.84695,
+    "gn:longitude":11.88428,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Memveme",
+    "gn:population":0,
+    "gn:timezone":"Africa/Libreville",
+    "iso:country":"GA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632407,
+        85671241,
+        1091910689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2398688
+    },
+    "wof:country":"GA",
+    "wof:geomhash":"ea215aed124d8b531a990766bb2ed15d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632407,
+            "county_id":1091910689,
+            "locality_id":1310590797,
+            "region_id":85671241
+        }
+    ],
+    "wof:id":1310590797,
+    "wof:lastmodified":1536794205,
+    "wof:name":"Memveme",
+    "wof:parent_id":1091910689,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ga",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.88428,
+    1.84695,
+    11.88428,
+    1.84695
+],
+  "geometry": {"coordinates":[11.88428,1.84695],"type":"Point"}
+}

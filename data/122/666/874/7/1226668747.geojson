@@ -1,0 +1,67 @@
+{
+  "id": 1226668747,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.03306,-3.75029,11.03306,-3.75029",
+    "geom:latitude":-3.75029,
+    "geom:longitude":11.03306,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Loungou Zambi",
+    "gn:country_code":"GA",
+    "gn:dem":27,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2399571,
+    "gn:latitude":-3.75029,
+    "gn:longitude":11.03306,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Loungou Zambi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Libreville",
+    "iso:country":"GA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632407,
+        85671251,
+        1091910019
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2399571
+    },
+    "wof:country":"GA",
+    "wof:geomhash":"d8f0a7382cf725a94e59516ff788d808",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632407,
+            "county_id":1091910019,
+            "locality_id":1226668747,
+            "region_id":85671251
+        }
+    ],
+    "wof:id":1226668747,
+    "wof:lastmodified":1536825455,
+    "wof:name":"Loungou Zambi",
+    "wof:parent_id":1091910019,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ga",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.03306,
+    -3.75029,
+    11.03306,
+    -3.75029
+],
+  "geometry": {"coordinates":[11.03306,-3.75029],"type":"Point"}
+}

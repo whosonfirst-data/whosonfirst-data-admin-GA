@@ -1,0 +1,61 @@
+{
+  "id": 1209304241,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.75698,1.56118,11.75698,1.56118",
+    "geom:latitude":1.56118,
+    "geom:longitude":11.75698,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Nkomelene",
+    "gn:country_code":"GA",
+    "gn:dem":688,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2397286,
+    "gn:latitude":1.56118,
+    "gn:longitude":11.75698,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Nkomelene",
+    "gn:population":0,
+    "gn:timezone":"Africa/Libreville",
+    "iso:country":"GA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632407
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2397286
+    },
+    "wof:country":"GA",
+    "wof:geomhash":"4c60b34a9c112e52cc10675ffeee02bc",
+    "wof:hierarchy":[
+        {
+            "country_id":85632407,
+            "locality_id":1209304241
+        }
+    ],
+    "wof:id":1209304241,
+    "wof:lastmodified":1536291250,
+    "wof:name":"Nkomelene",
+    "wof:parent_id":85632407,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ga",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.75698,
+    1.56118,
+    11.75698,
+    1.56118
+],
+  "geometry": {"coordinates":[11.75698,1.56118],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1276156481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.5,-1.98333,11.5,-1.98333",
+    "geom:latitude":-1.98333,
+    "geom:longitude":11.5,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Ndougou",
+    "gn:country_code":"GA",
+    "gn:dem":453,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2397633,
+    "gn:latitude":-1.98333,
+    "gn:longitude":11.5,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Ndougou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Libreville",
+    "iso:country":"GA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632407,
+        85671249,
+        1091909757
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2397633
+    },
+    "wof:country":"GA",
+    "wof:geomhash":"41dda64183bfa2c0714554539cbf0b89",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632407,
+            "county_id":1091909757,
+            "locality_id":1276156481,
+            "region_id":85671249
+        }
+    ],
+    "wof:id":1276156481,
+    "wof:lastmodified":1537015049,
+    "wof:name":"Ndougou",
+    "wof:parent_id":1091909757,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ga",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.5,
+    -1.98333,
+    11.5,
+    -1.98333
+],
+  "geometry": {"coordinates":[11.5,-1.98333],"type":"Point"}
+}

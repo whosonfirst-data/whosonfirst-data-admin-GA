@@ -1,0 +1,76 @@
+{
+  "id": 1343660883,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.38333,-2.7,11.38333,-2.7",
+    "geom:latitude":-2.7,
+    "geom:longitude":11.38333,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Tono Sangana",
+    "gn:country_code":"GA",
+    "gn:dem":190,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2396205,
+    "gn:latitude":-2.7,
+    "gn:longitude":11.38333,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Tono Sangana",
+    "gn:population":0,
+    "gn:timezone":"Africa/Libreville",
+    "iso:country":"GA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632407,
+        85671251,
+        1091910083,
+        85632541,
+        85670059
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2396205
+    },
+    "wof:country":"GA",
+    "wof:geomhash":"a7cf068fabec3de3dfe4ef0c40a864a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632407,
+            "county_id":1091910083,
+            "locality_id":1343660883,
+            "region_id":85671251
+        },
+        {
+            "continent_id":102191573,
+            "country_id":85632541,
+            "county_id":1091910083,
+            "locality_id":1343660883,
+            "region_id":85670059
+        }
+    ],
+    "wof:id":1343660883,
+    "wof:lastmodified":1536954542,
+    "wof:name":"Tono Sangana",
+    "wof:parent_id":1091910083,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ga",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.38333,
+    -2.7,
+    11.38333,
+    -2.7
+],
+  "geometry": {"coordinates":[11.38333,-2.7],"type":"Point"}
+}

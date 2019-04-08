@@ -1,0 +1,61 @@
+{
+  "id": 1209112333,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.63333,-2.61667,11.63333,-2.61667",
+    "geom:latitude":-2.61667,
+    "geom:longitude":11.63333,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Irandou",
+    "gn:country_code":"GA",
+    "gn:dem":174,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2400253,
+    "gn:latitude":-2.61667,
+    "gn:longitude":11.63333,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Irandou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Libreville",
+    "iso:country":"GA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632407
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2400253
+    },
+    "wof:country":"GA",
+    "wof:geomhash":"17477b56a82a27e5996d0d248e140f3f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632407,
+            "locality_id":1209112333
+        }
+    ],
+    "wof:id":1209112333,
+    "wof:lastmodified":1536297365,
+    "wof:name":"Irandou",
+    "wof:parent_id":85632407,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ga",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.63333,
+    -2.61667,
+    11.63333,
+    -2.61667
+],
+  "geometry": {"coordinates":[11.63333,-2.61667],"type":"Point"}
+}

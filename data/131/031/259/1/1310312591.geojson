@@ -1,0 +1,67 @@
+{
+  "id": 1310312591,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.91667,-0.63333,9.91667,-0.63333",
+    "geom:latitude":-0.63333,
+    "geom:longitude":9.91667,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Along",
+    "gn:country_code":"GA",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2402368,
+    "gn:latitude":-0.63333,
+    "gn:longitude":9.91667,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Along",
+    "gn:population":0,
+    "gn:timezone":"Africa/Libreville",
+    "iso:country":"GA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632407,
+        85671247,
+        1091909431
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2402368
+    },
+    "wof:country":"GA",
+    "wof:geomhash":"c8bcc8a72c815ee8d5ea0330602a505e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632407,
+            "county_id":1091909431,
+            "locality_id":1310312591,
+            "region_id":85671247
+        }
+    ],
+    "wof:id":1310312591,
+    "wof:lastmodified":1536697853,
+    "wof:name":"Along",
+    "wof:parent_id":1091909431,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ga",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.91667,
+    -0.63333,
+    9.91667,
+    -0.63333
+],
+  "geometry": {"coordinates":[9.91667,-0.63333],"type":"Point"}
+}

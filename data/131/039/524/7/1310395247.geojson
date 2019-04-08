@@ -1,0 +1,67 @@
+{
+  "id": 1310395247,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.67088,1.23145,11.67088,1.23145",
+    "geom:latitude":1.23145,
+    "geom:longitude":11.67088,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Ekouass",
+    "gn:country_code":"GA",
+    "gn:dem":575,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2400818,
+    "gn:latitude":1.23145,
+    "gn:longitude":11.67088,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Ekouass",
+    "gn:population":0,
+    "gn:timezone":"Africa/Libreville",
+    "iso:country":"GA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632407,
+        85671241,
+        1091910593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2400818
+    },
+    "wof:country":"GA",
+    "wof:geomhash":"782e1e2fdafaec6928d5db975d451308",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632407,
+            "county_id":1091910593,
+            "locality_id":1310395247,
+            "region_id":85671241
+        }
+    ],
+    "wof:id":1310395247,
+    "wof:lastmodified":1537072951,
+    "wof:name":"Ekouass",
+    "wof:parent_id":1091910593,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ga",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.67088,
+    1.23145,
+    11.67088,
+    1.23145
+],
+  "geometry": {"coordinates":[11.67088,1.23145],"type":"Point"}
+}

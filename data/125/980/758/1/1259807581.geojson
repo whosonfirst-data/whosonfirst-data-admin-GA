@@ -1,0 +1,67 @@
+{
+  "id": 1259807581,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.65,-1.63333,11.65,-1.63333",
+    "geom:latitude":-1.63333,
+    "geom:longitude":11.65,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Fougamou",
+    "gn:country_code":"GA",
+    "gn:dem":606,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2400577,
+    "gn:latitude":-1.63333,
+    "gn:longitude":11.65,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Fougamou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Libreville",
+    "iso:country":"GA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632407,
+        85671249,
+        1091909887
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2400577
+    },
+    "wof:country":"GA",
+    "wof:geomhash":"e11d4e9ec149704206ae7a7442f00d49",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632407,
+            "county_id":1091909887,
+            "locality_id":1259807581,
+            "region_id":85671249
+        }
+    ],
+    "wof:id":1259807581,
+    "wof:lastmodified":1536888120,
+    "wof:name":"Fougamou",
+    "wof:parent_id":1091909887,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ga",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.65,
+    -1.63333,
+    11.65,
+    -1.63333
+],
+  "geometry": {"coordinates":[11.65,-1.63333],"type":"Point"}
+}

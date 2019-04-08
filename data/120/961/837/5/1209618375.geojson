@@ -1,0 +1,61 @@
+{
+  "id": 1209618375,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.87735,-1.20438,13.87735,-1.20438",
+    "geom:latitude":-1.20438,
+    "geom:longitude":13.87735,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Obwo",
+    "gn:country_code":"GA",
+    "gn:dem":402,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2396953,
+    "gn:latitude":-1.20438,
+    "gn:longitude":13.87735,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Obwo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Libreville",
+    "iso:country":"GA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632407
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2396953
+    },
+    "wof:country":"GA",
+    "wof:geomhash":"80b2aaf79d8fd73ee97580ba0e18b0f5",
+    "wof:hierarchy":[
+        {
+            "country_id":85632407,
+            "locality_id":1209618375
+        }
+    ],
+    "wof:id":1209618375,
+    "wof:lastmodified":1536281607,
+    "wof:name":"Obwo",
+    "wof:parent_id":85632407,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ga",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.87735,
+    -1.20438,
+    13.87735,
+    -1.20438
+],
+  "geometry": {"coordinates":[13.87735,-1.20438],"type":"Point"}
+}

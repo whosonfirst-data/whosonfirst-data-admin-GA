@@ -1,0 +1,67 @@
+{
+  "id": 1327143171,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.05,-1.35,13.05,-1.35",
+    "geom:latitude":-1.35,
+    "geom:longitude":13.05,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Omoi",
+    "gn:country_code":"GA",
+    "gn:dem":379,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2396846,
+    "gn:latitude":-1.35,
+    "gn:longitude":13.05,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Omo\u00ef",
+    "gn:population":0,
+    "gn:timezone":"Africa/Libreville",
+    "iso:country":"GA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632407,
+        85671257,
+        1091908967
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2396846
+    },
+    "wof:country":"GA",
+    "wof:geomhash":"d00dc049f61220f9f42afb2531afc94f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632407,
+            "county_id":1091908967,
+            "locality_id":1327143171,
+            "region_id":85671257
+        }
+    ],
+    "wof:id":1327143171,
+    "wof:lastmodified":1537095118,
+    "wof:name":"Omoi",
+    "wof:parent_id":1091908967,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ga",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.05,
+    -1.35,
+    13.05,
+    -1.35
+],
+  "geometry": {"coordinates":[13.05,-1.35],"type":"Point"}
+}

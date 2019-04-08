@@ -1,0 +1,65 @@
+{
+  "id": 1209520295,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.10883,-2.92782,11.10883,-2.92782",
+    "geom:latitude":-2.92782,
+    "geom:longitude":11.10883,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Ndende",
+    "gn:country_code":"GA",
+    "gn:dem":225,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2397613,
+    "gn:latitude":-2.92782,
+    "gn:longitude":11.10883,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Ndend\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Libreville",
+    "iso:country":"GA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ndenga",
+        "Ndend\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632407
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2397613
+    },
+    "wof:country":"GA",
+    "wof:geomhash":"eb2211a46b55c20f3b50e1900aecfddc",
+    "wof:hierarchy":[
+        {
+            "country_id":85632407,
+            "locality_id":1209520295
+        }
+    ],
+    "wof:id":1209520295,
+    "wof:lastmodified":1537622895,
+    "wof:name":"Ndende",
+    "wof:parent_id":85632407,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ga",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.10883,
+    -2.92782,
+    11.10883,
+    -2.92782
+],
+  "geometry": {"coordinates":[11.10883,-2.92782],"type":"Point"}
+}

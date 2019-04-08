@@ -1,0 +1,71 @@
+{
+  "id": 1260077837,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.64478,0.71156,12.64478,0.71156",
+    "geom:latitude":0.71156,
+    "geom:longitude":12.64478,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Youko",
+    "gn:country_code":"GA",
+    "gn:dem":526,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2395989,
+    "gn:latitude":0.71156,
+    "gn:longitude":12.64478,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Youko",
+    "gn:population":0,
+    "gn:timezone":"Africa/Libreville",
+    "iso:country":"GA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Yuko",
+        "Youko"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632407,
+        85671237,
+        1091910169
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2395989
+    },
+    "wof:country":"GA",
+    "wof:geomhash":"5d40d64177d9c44d4b6cf8fc14c3d981",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632407,
+            "county_id":1091910169,
+            "locality_id":1260077837,
+            "region_id":85671237
+        }
+    ],
+    "wof:id":1260077837,
+    "wof:lastmodified":1537622887,
+    "wof:name":"Youko",
+    "wof:parent_id":1091910169,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ga",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.64478,
+    0.71156,
+    12.64478,
+    0.71156
+],
+  "geometry": {"coordinates":[12.64478,0.71156],"type":"Point"}
+}

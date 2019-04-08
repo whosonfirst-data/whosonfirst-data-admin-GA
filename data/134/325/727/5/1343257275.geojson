@@ -1,0 +1,67 @@
+{
+  "id": 1343257275,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.96667,0.61667,12.96667,0.61667",
+    "geom:latitude":0.61667,
+    "geom:longitude":12.96667,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Ndengoue",
+    "gn:country_code":"GA",
+    "gn:dem":524,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2397688,
+    "gn:latitude":0.61667,
+    "gn:longitude":12.96667,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Ndengou\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Libreville",
+    "iso:country":"GA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632407,
+        85671237,
+        1091910169
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2397688
+    },
+    "wof:country":"GA",
+    "wof:geomhash":"2dcf17d728d4bd1403e2de2122b8f194",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632407,
+            "county_id":1091910169,
+            "locality_id":1343257275,
+            "region_id":85671237
+        }
+    ],
+    "wof:id":1343257275,
+    "wof:lastmodified":1537037862,
+    "wof:name":"Ndengoue",
+    "wof:parent_id":1091910169,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ga",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.96667,
+    0.61667,
+    12.96667,
+    0.61667
+],
+  "geometry": {"coordinates":[12.96667,0.61667],"type":"Point"}
+}

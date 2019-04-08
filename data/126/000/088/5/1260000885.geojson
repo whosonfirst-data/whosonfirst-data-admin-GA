@@ -1,0 +1,67 @@
+{
+  "id": 1260000885,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.30536,-1.56369,12.30536,-1.56369",
+    "geom:latitude":-1.56369,
+    "geom:longitude":12.30536,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Mahounda",
+    "gn:country_code":"GA",
+    "gn:dem":693,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2399419,
+    "gn:latitude":-1.56369,
+    "gn:longitude":12.30536,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Mahounda",
+    "gn:population":0,
+    "gn:timezone":"Africa/Libreville",
+    "iso:country":"GA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632407,
+        85671265,
+        1091910313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2399419
+    },
+    "wof:country":"GA",
+    "wof:geomhash":"7cd5a933451d2226dede37c64525cd1a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632407,
+            "county_id":1091910313,
+            "locality_id":1260000885,
+            "region_id":85671265
+        }
+    ],
+    "wof:id":1260000885,
+    "wof:lastmodified":1536607302,
+    "wof:name":"Mahounda",
+    "wof:parent_id":1091910313,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ga",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.30536,
+    -1.56369,
+    12.30536,
+    -1.56369
+],
+  "geometry": {"coordinates":[12.30536,-1.56369],"type":"Point"}
+}

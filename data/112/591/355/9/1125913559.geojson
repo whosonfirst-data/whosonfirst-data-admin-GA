@@ -1,0 +1,109 @@
+{
+  "id": 1125913559,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.67533,-0.65487,13.67533,-0.65487",
+    "geom:latitude":-0.65487,
+    "geom:longitude":13.67533,
+    "gn:gn_country":"GA",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":7155,
+    "gn:population":7155,
+    "iso:country":"GA",
+    "lbl:latitude":-0.65487,
+    "lbl:longitude":13.67533,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Okondja"
+    ],
+    "name:eng_x_preferred":[
+        "Okondja"
+    ],
+    "name:fre_x_preferred":[
+        "Okandja"
+    ],
+    "name:ita_x_preferred":[
+        "Okondja"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30aa\u30b3\u30f3\u30b8\u30e3"
+    ],
+    "name:pol_x_preferred":[
+        "Okandja"
+    ],
+    "name:por_x_preferred":[
+        "Okondja"
+    ],
+    "name:rus_x_preferred":[
+        "\u041e\u043a\u043e\u043d\u0434\u0436\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Okondja"
+    ],
+    "name:unk_x_variant":[
+        "Okondi"
+    ],
+    "qs_pg:aaroncc":"GA",
+    "qs_pg:gn_country":"GA",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2396898,
+    "qs_pg:gn_pop":7155,
+    "qs_pg:name":"Okondja",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":5,
+    "qs_pg:qs_id":1035366,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632407,
+        85671257,
+        1091909293
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2396898,
+        "qs_pg:id":1035366,
+        "wd:id":"Q4332646"
+    },
+    "wof:country":"GA",
+    "wof:created":1497296241,
+    "wof:geomhash":"a9d43a9ffa262b76115bde94217646b3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632407,
+            "county_id":1091909293,
+            "locality_id":1125913559,
+            "region_id":85671257
+        }
+    ],
+    "wof:id":1125913559,
+    "wof:lastmodified":1514440589,
+    "wof:name":"Okondja",
+    "wof:parent_id":1091909293,
+    "wof:placetype":"locality",
+    "wof:population":7155,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-ga",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.67533,
+    -0.65487,
+    13.67533,
+    -0.65487
+],
+  "geometry": {"coordinates":[13.67533,-0.65487],"type":"Point"}
+}

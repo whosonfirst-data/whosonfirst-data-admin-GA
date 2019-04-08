@@ -1,0 +1,67 @@
+{
+  "id": 1360074761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.53029,2.2713,11.53029,2.2713",
+    "geom:latitude":2.2713,
+    "geom:longitude":11.53029,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Abe",
+    "gn:country_code":"GA",
+    "gn:dem":597,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2402659,
+    "gn:latitude":2.2713,
+    "gn:longitude":11.53029,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Ab\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Libreville",
+    "iso:country":"GA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632407,
+        85671241,
+        1091910639
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2402659
+    },
+    "wof:country":"GA",
+    "wof:geomhash":"670dad62d20b83e40e014afde0eb05ce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632407,
+            "county_id":1091910639,
+            "locality_id":1360074761,
+            "region_id":85671241
+        }
+    ],
+    "wof:id":1360074761,
+    "wof:lastmodified":1536960518,
+    "wof:name":"Abe",
+    "wof:parent_id":1091910639,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ga",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.53029,
+    2.2713,
+    11.53029,
+    2.2713
+],
+  "geometry": {"coordinates":[11.53029,2.2713],"type":"Point"}
+}

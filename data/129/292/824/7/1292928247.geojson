@@ -1,0 +1,67 @@
+{
+  "id": 1292928247,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.35263,-1.40225,9.35263,-1.40225",
+    "geom:latitude":-1.40225,
+    "geom:longitude":9.35263,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Avegoumbiri",
+    "gn:country_code":"GA",
+    "gn:dem":24,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2402131,
+    "gn:latitude":-1.40225,
+    "gn:longitude":9.35263,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Av\u00e9goumbiri",
+    "gn:population":0,
+    "gn:timezone":"Africa/Libreville",
+    "iso:country":"GA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632407,
+        85671255,
+        1091910509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2402131
+    },
+    "wof:country":"GA",
+    "wof:geomhash":"6c05e2f6f33e70830346255c2fc24d05",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632407,
+            "county_id":1091910509,
+            "locality_id":1292928247,
+            "region_id":85671255
+        }
+    ],
+    "wof:id":1292928247,
+    "wof:lastmodified":1537093177,
+    "wof:name":"Avegoumbiri",
+    "wof:parent_id":1091910509,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ga",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.35263,
+    -1.40225,
+    9.35263,
+    -1.40225
+],
+  "geometry": {"coordinates":[9.35263,-1.40225],"type":"Point"}
+}

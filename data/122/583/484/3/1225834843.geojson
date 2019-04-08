@@ -1,0 +1,67 @@
+{
+  "id": 1225834843,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.1,2.15,12.1,2.15",
+    "geom:latitude":2.15,
+    "geom:longitude":12.1,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Medjong",
+    "gn:country_code":"GA",
+    "gn:dem":597,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2398795,
+    "gn:latitude":2.15,
+    "gn:longitude":12.1,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Medjong",
+    "gn:population":0,
+    "gn:timezone":"Africa/Libreville",
+    "iso:country":"GA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632407,
+        85671241,
+        1091910689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2398795
+    },
+    "wof:country":"GA",
+    "wof:geomhash":"1dd6661571f72d6e971298973cd6d1aa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632407,
+            "county_id":1091910689,
+            "locality_id":1225834843,
+            "region_id":85671241
+        }
+    ],
+    "wof:id":1225834843,
+    "wof:lastmodified":1537028219,
+    "wof:name":"Medjong",
+    "wof:parent_id":1091910689,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ga",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.1,
+    2.15,
+    12.1,
+    2.15
+],
+  "geometry": {"coordinates":[12.1,2.15],"type":"Point"}
+}

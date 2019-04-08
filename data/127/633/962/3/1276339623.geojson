@@ -1,0 +1,71 @@
+{
+  "id": 1276339623,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.15062,-2.76406,11.15062,-2.76406",
+    "geom:latitude":-2.76406,
+    "geom:longitude":11.15062,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Peni Gnoundou",
+    "gn:country_code":"GA",
+    "gn:dem":307,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2396577,
+    "gn:latitude":-2.76406,
+    "gn:longitude":11.15062,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Peni Gnoundou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Libreville",
+    "iso:country":"GA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "P\u00e9nignioundo",
+        "Peni Gnoundou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632407,
+        85671251,
+        1091909931
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2396577
+    },
+    "wof:country":"GA",
+    "wof:geomhash":"4211d29a642f68ef8a2f63c28ac9ea3a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632407,
+            "county_id":1091909931,
+            "locality_id":1276339623,
+            "region_id":85671251
+        }
+    ],
+    "wof:id":1276339623,
+    "wof:lastmodified":1537622890,
+    "wof:name":"Peni Gnoundou",
+    "wof:parent_id":1091909931,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ga",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.15062,
+    -2.76406,
+    11.15062,
+    -2.76406
+],
+  "geometry": {"coordinates":[11.15062,-2.76406],"type":"Point"}
+}

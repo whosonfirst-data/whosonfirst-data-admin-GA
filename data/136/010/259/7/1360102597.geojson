@@ -1,0 +1,74 @@
+{
+  "id": 1360102597,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.31652,-0.20217,9.31652,-0.20217",
+    "geom:latitude":-0.20217,
+    "geom:longitude":9.31652,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Ekouata",
+    "gn:country_code":"GA",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2400720,
+    "gn:latitude":-0.20217,
+    "gn:longitude":9.31652,
+    "gn:modification_date":"2013-10-06",
+    "gn:name":"\u00c9kouata",
+    "gn:population":0,
+    "gn:timezone":"Africa/Libreville",
+    "iso:country":"GA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ekoueta",
+        "Ekouata",
+        "Equata",
+        "\u00c9kouata",
+        "Ekwata"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632407,
+        85671235,
+        421178363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2400720
+    },
+    "wof:country":"GA",
+    "wof:geomhash":"d68dc9eefa1e12f7a600591c807ce210",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632407,
+            "county_id":421178363,
+            "locality_id":1360102597,
+            "region_id":85671235
+        }
+    ],
+    "wof:id":1360102597,
+    "wof:lastmodified":1537622911,
+    "wof:name":"Ekouata",
+    "wof:parent_id":421178363,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ga",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.31652,
+    -0.20217,
+    9.31652,
+    -0.20217
+],
+  "geometry": {"coordinates":[9.31652,-0.20217],"type":"Point"}
+}

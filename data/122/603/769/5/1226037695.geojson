@@ -1,0 +1,72 @@
+{
+  "id": 1226037695,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.86667,0.68333,12.86667,0.68333",
+    "geom:latitude":0.68333,
+    "geom:longitude":12.86667,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Atyglam",
+    "gn:cc2":"GA",
+    "gn:country_code":"GA",
+    "gn:dem":519,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2402142,
+    "gn:latitude":0.68333,
+    "gn:longitude":12.86667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Atyglam",
+    "gn:population":0,
+    "gn:timezone":"Africa/Libreville",
+    "iso:country":"GA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Atyiglam",
+        "Atyglam"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632407,
+        85671237,
+        1091910169
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2402142
+    },
+    "wof:country":"GA",
+    "wof:geomhash":"18bf9bd6e2d185b5118b2755780af0cc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632407,
+            "county_id":1091910169,
+            "locality_id":1226037695,
+            "region_id":85671237
+        }
+    ],
+    "wof:id":1226037695,
+    "wof:lastmodified":1537622917,
+    "wof:name":"Atyglam",
+    "wof:parent_id":1091910169,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ga",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.86667,
+    0.68333,
+    12.86667,
+    0.68333
+],
+  "geometry": {"coordinates":[12.86667,0.68333],"type":"Point"}
+}

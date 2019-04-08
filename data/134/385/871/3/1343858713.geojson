@@ -1,0 +1,72 @@
+{
+  "id": 1343858713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.11667,-1.91667,12.11667,-1.91667",
+    "geom:latitude":-1.91667,
+    "geom:longitude":12.11667,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Diengue",
+    "gn:cc2":"GA",
+    "gn:country_code":"GA",
+    "gn:dem":752,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2401241,
+    "gn:latitude":-1.91667,
+    "gn:longitude":12.11667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Diengu\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Libreville",
+    "iso:country":"GA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dyengu\u00e9",
+        "Diengu\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632407,
+        85671249,
+        1091909833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2401241
+    },
+    "wof:country":"GA",
+    "wof:geomhash":"72b689ead93fcc2b09e7ec6e0ef04e9f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632407,
+            "county_id":1091909833,
+            "locality_id":1343858713,
+            "region_id":85671249
+        }
+    ],
+    "wof:id":1343858713,
+    "wof:lastmodified":1537622913,
+    "wof:name":"Diengue",
+    "wof:parent_id":1091909833,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ga",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.11667,
+    -1.91667,
+    12.11667,
+    -1.91667
+],
+  "geometry": {"coordinates":[12.11667,-1.91667],"type":"Point"}
+}

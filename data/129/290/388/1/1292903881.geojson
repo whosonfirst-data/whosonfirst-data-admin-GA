@@ -1,0 +1,72 @@
+{
+  "id": 1292903881,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.31667,-1.98333,11.31667,-1.98333",
+    "geom:latitude":-1.98333,
+    "geom:longitude":11.31667,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Ivouta",
+    "gn:cc2":"GA",
+    "gn:country_code":"GA",
+    "gn:dem":235,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2400184,
+    "gn:latitude":-1.98333,
+    "gn:longitude":11.31667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Ivouta",
+    "gn:population":0,
+    "gn:timezone":"Africa/Libreville",
+    "iso:country":"GA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lvouta",
+        "Ivouta"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632407,
+        85671249,
+        1091909887
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2400184
+    },
+    "wof:country":"GA",
+    "wof:geomhash":"541f045dbf286ce4d3e476ff6f315d92",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632407,
+            "county_id":1091909887,
+            "locality_id":1292903881,
+            "region_id":85671249
+        }
+    ],
+    "wof:id":1292903881,
+    "wof:lastmodified":1537622908,
+    "wof:name":"Ivouta",
+    "wof:parent_id":1091909887,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ga",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.31667,
+    -1.98333,
+    11.31667,
+    -1.98333
+],
+  "geometry": {"coordinates":[11.31667,-1.98333],"type":"Point"}
+}

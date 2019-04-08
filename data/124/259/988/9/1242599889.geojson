@@ -1,0 +1,67 @@
+{
+  "id": 1242599889,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.68627,0.30822,11.68627,0.30822",
+    "geom:latitude":0.30822,
+    "geom:longitude":11.68627,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Ebaredo",
+    "gn:country_code":"GA",
+    "gn:dem":492,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2400927,
+    "gn:latitude":0.30822,
+    "gn:longitude":11.68627,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Ebaredo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Libreville",
+    "iso:country":"GA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632407,
+        85671237,
+        421188215
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2400927
+    },
+    "wof:country":"GA",
+    "wof:geomhash":"7b6973744f0a2be081941a03a2bf7719",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632407,
+            "county_id":421188215,
+            "locality_id":1242599889,
+            "region_id":85671237
+        }
+    ],
+    "wof:id":1242599889,
+    "wof:lastmodified":1537030285,
+    "wof:name":"Ebaredo",
+    "wof:parent_id":421188215,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ga",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.68627,
+    0.30822,
+    11.68627,
+    0.30822
+],
+  "geometry": {"coordinates":[11.68627,0.30822],"type":"Point"}
+}

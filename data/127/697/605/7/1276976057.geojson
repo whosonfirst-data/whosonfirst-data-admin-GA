@@ -1,0 +1,67 @@
+{
+  "id": 1276976057,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.71667,0.98333,11.71667,0.98333",
+    "geom:latitude":0.98333,
+    "geom:longitude":11.71667,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Angale",
+    "gn:country_code":"GA",
+    "gn:dem":517,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2402285,
+    "gn:latitude":0.98333,
+    "gn:longitude":11.71667,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Angale",
+    "gn:population":0,
+    "gn:timezone":"Africa/Libreville",
+    "iso:country":"GA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632407,
+        85671241,
+        1091910733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2402285
+    },
+    "wof:country":"GA",
+    "wof:geomhash":"d04441a7a4bc123304799e3448cf3311",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632407,
+            "county_id":1091910733,
+            "locality_id":1276976057,
+            "region_id":85671241
+        }
+    ],
+    "wof:id":1276976057,
+    "wof:lastmodified":1536912727,
+    "wof:name":"Angale",
+    "wof:parent_id":1091910733,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ga",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.71667,
+    0.98333,
+    11.71667,
+    0.98333
+],
+  "geometry": {"coordinates":[11.71667,0.98333],"type":"Point"}
+}

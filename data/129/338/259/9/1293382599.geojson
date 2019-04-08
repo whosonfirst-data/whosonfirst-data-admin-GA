@@ -1,0 +1,67 @@
+{
+  "id": 1293382599,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.12372,1.24968,14.12372,1.24968",
+    "geom:latitude":1.24968,
+    "geom:longitude":14.12372,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Ego",
+    "gn:country_code":"GA",
+    "gn:dem":529,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2400853,
+    "gn:latitude":1.24968,
+    "gn:longitude":14.12372,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Ego",
+    "gn:population":0,
+    "gn:timezone":"Africa/Libreville",
+    "iso:country":"GA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632407,
+        85671237,
+        1091910219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2400853
+    },
+    "wof:country":"GA",
+    "wof:geomhash":"f7fcf52d0e6bb4018c08d9f3586bb6d6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632407,
+            "county_id":1091910219,
+            "locality_id":1293382599,
+            "region_id":85671237
+        }
+    ],
+    "wof:id":1293382599,
+    "wof:lastmodified":1536938987,
+    "wof:name":"Ego",
+    "wof:parent_id":1091910219,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ga",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.12372,
+    1.24968,
+    14.12372,
+    1.24968
+],
+  "geometry": {"coordinates":[14.12372,1.24968],"type":"Point"}
+}

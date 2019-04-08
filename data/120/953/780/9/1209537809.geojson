@@ -1,0 +1,67 @@
+{
+  "id": 1209537809,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.18244,0.31105,12.18244,0.31105",
+    "geom:latitude":0.31105,
+    "geom:longitude":12.18244,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Ovan",
+    "gn:country_code":"GA",
+    "gn:dem":433,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2396679,
+    "gn:latitude":0.31105,
+    "gn:longitude":12.18244,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Ovan",
+    "gn:population":0,
+    "gn:timezone":"Africa/Libreville",
+    "iso:country":"GA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kollioura",
+        "Omvan",
+        "D\u2019Ovan",
+        "Ovan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632407
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2396679
+    },
+    "wof:country":"GA",
+    "wof:geomhash":"15e432b4dd4c326fd6261e3b43e136f8",
+    "wof:hierarchy":[
+        {
+            "country_id":85632407,
+            "locality_id":1209537809
+        }
+    ],
+    "wof:id":1209537809,
+    "wof:lastmodified":1537622891,
+    "wof:name":"Ovan",
+    "wof:parent_id":85632407,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ga",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.18244,
+    0.31105,
+    12.18244,
+    0.31105
+],
+  "geometry": {"coordinates":[12.18244,0.31105],"type":"Point"}
+}

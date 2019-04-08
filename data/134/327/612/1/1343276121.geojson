@@ -1,0 +1,67 @@
+{
+  "id": 1343276121,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.56667,0.61667,10.56667,0.61667",
+    "geom:latitude":0.61667,
+    "geom:longitude":10.56667,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Ovane Bibang",
+    "gn:country_code":"GA",
+    "gn:dem":650,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2396677,
+    "gn:latitude":0.61667,
+    "gn:longitude":10.56667,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Ovane Bibang",
+    "gn:population":0,
+    "gn:timezone":"Africa/Libreville",
+    "iso:country":"GA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632407,
+        85671235,
+        1091908823
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2396677
+    },
+    "wof:country":"GA",
+    "wof:geomhash":"64a2434d0199165dad9db389e29b9ef1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632407,
+            "county_id":1091908823,
+            "locality_id":1343276121,
+            "region_id":85671235
+        }
+    ],
+    "wof:id":1343276121,
+    "wof:lastmodified":1537011501,
+    "wof:name":"Ovane Bibang",
+    "wof:parent_id":1091908823,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ga",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.56667,
+    0.61667,
+    10.56667,
+    0.61667
+],
+  "geometry": {"coordinates":[10.56667,0.61667],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1276645963,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.82942,1.5424,11.82942,1.5424",
+    "geom:latitude":1.5424,
+    "geom:longitude":11.82942,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Febezok",
+    "gn:country_code":"GA",
+    "gn:dem":725,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2400596,
+    "gn:latitude":1.5424,
+    "gn:longitude":11.82942,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"F\u00e9bezok",
+    "gn:population":0,
+    "gn:timezone":"Africa/Libreville",
+    "iso:country":"GA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632407,
+        85671241,
+        1091910593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2400596
+    },
+    "wof:country":"GA",
+    "wof:geomhash":"a0195030f0e34122eae79d8fab87839d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632407,
+            "county_id":1091910593,
+            "locality_id":1276645963,
+            "region_id":85671241
+        }
+    ],
+    "wof:id":1276645963,
+    "wof:lastmodified":1536855757,
+    "wof:name":"Febezok",
+    "wof:parent_id":1091910593,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ga",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.82942,
+    1.5424,
+    11.82942,
+    1.5424
+],
+  "geometry": {"coordinates":[11.82942,1.5424],"type":"Point"}
+}

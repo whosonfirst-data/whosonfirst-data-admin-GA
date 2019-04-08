@@ -1,0 +1,67 @@
+{
+  "id": 1309707023,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.81667,0.95,10.81667,0.95",
+    "geom:latitude":0.95,
+    "geom:longitude":10.81667,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Eyamayong",
+    "gn:country_code":"GA",
+    "gn:dem":526,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2400631,
+    "gn:latitude":0.95,
+    "gn:longitude":10.81667,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Eyamayong",
+    "gn:population":0,
+    "gn:timezone":"Africa/Libreville",
+    "iso:country":"GA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632407,
+        85671241,
+        1091910783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2400631
+    },
+    "wof:country":"GA",
+    "wof:geomhash":"86d0adf6ae3b753ea6ffb7211a8f5157",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632407,
+            "county_id":1091910783,
+            "locality_id":1309707023,
+            "region_id":85671241
+        }
+    ],
+    "wof:id":1309707023,
+    "wof:lastmodified":1537070492,
+    "wof:name":"Eyamayong",
+    "wof:parent_id":1091910783,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ga",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.81667,
+    0.95,
+    10.81667,
+    0.95
+],
+  "geometry": {"coordinates":[10.81667,0.95],"type":"Point"}
+}

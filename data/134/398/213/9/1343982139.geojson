@@ -1,0 +1,67 @@
+{
+  "id": 1343982139,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.12982,-2.21868,11.12982,-2.21868",
+    "geom:latitude":-2.21868,
+    "geom:longitude":11.12982,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Mouniegou",
+    "gn:country_code":"GA",
+    "gn:dem":141,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2397953,
+    "gn:latitude":-2.21868,
+    "gn:longitude":11.12982,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Mouniegou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Libreville",
+    "iso:country":"GA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632407,
+        85671249,
+        1091909707
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2397953
+    },
+    "wof:country":"GA",
+    "wof:geomhash":"54dd17d5fb0673195dd0cef7ae4605db",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632407,
+            "county_id":1091909707,
+            "locality_id":1343982139,
+            "region_id":85671249
+        }
+    ],
+    "wof:id":1343982139,
+    "wof:lastmodified":1536987911,
+    "wof:name":"Mouniegou",
+    "wof:parent_id":1091909707,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ga",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.12982,
+    -2.21868,
+    11.12982,
+    -2.21868
+],
+  "geometry": {"coordinates":[11.12982,-2.21868],"type":"Point"}
+}

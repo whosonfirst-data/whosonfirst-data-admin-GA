@@ -1,0 +1,71 @@
+{
+  "id": 1276124145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.42892,-1.51601,10.42892,-1.51601",
+    "geom:latitude":-1.51601,
+    "geom:longitude":10.42892,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Malongo-Mobei",
+    "gn:country_code":"GA",
+    "gn:dem":130,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2399294,
+    "gn:latitude":-1.51601,
+    "gn:longitude":10.42892,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Malongo-Mob\u00e9i",
+    "gn:population":0,
+    "gn:timezone":"Africa/Libreville",
+    "iso:country":"GA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mabey",
+        "Malongo-Mob\u00e9i"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632407,
+        85671249,
+        1091909635
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2399294
+    },
+    "wof:country":"GA",
+    "wof:geomhash":"1d72eb2d85cb310c3440980821d92417",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632407,
+            "county_id":1091909635,
+            "locality_id":1276124145,
+            "region_id":85671249
+        }
+    ],
+    "wof:id":1276124145,
+    "wof:lastmodified":1537622903,
+    "wof:name":"Malongo-Mobei",
+    "wof:parent_id":1091909635,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ga",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.42892,
+    -1.51601,
+    10.42892,
+    -1.51601
+],
+  "geometry": {"coordinates":[10.42892,-1.51601],"type":"Point"}
+}

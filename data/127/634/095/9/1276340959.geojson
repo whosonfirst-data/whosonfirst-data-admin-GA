@@ -1,0 +1,67 @@
+{
+  "id": 1276340959,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.34851,-1.71609,11.34851,-1.71609",
+    "geom:latitude":-1.71609,
+    "geom:longitude":11.34851,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Issinga",
+    "gn:country_code":"GA",
+    "gn:dem":612,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2400220,
+    "gn:latitude":-1.71609,
+    "gn:longitude":11.34851,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Issinga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Libreville",
+    "iso:country":"GA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632407,
+        85671249,
+        1091909887
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2400220
+    },
+    "wof:country":"GA",
+    "wof:geomhash":"dcc2e722d50aaee2192a305d07304cb8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632407,
+            "county_id":1091909887,
+            "locality_id":1276340959,
+            "region_id":85671249
+        }
+    ],
+    "wof:id":1276340959,
+    "wof:lastmodified":1536768671,
+    "wof:name":"Issinga",
+    "wof:parent_id":1091909887,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ga",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.34851,
+    -1.71609,
+    11.34851,
+    -1.71609
+],
+  "geometry": {"coordinates":[11.34851,-1.71609],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1310406293,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.86667,-1.26667,11.86667,-1.26667",
+    "geom:latitude":-1.26667,
+    "geom:longitude":11.86667,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Tsambou",
+    "gn:cc2":"GA",
+    "gn:country_code":"GA",
+    "gn:dem":543,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2396174,
+    "gn:latitude":-1.26667,
+    "gn:longitude":11.86667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Tsambou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Libreville",
+    "iso:country":"GA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tsambo",
+        "Tsambou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632407,
+        85671265,
+        1091910409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2396174
+    },
+    "wof:country":"GA",
+    "wof:geomhash":"b701d02eedf9a4b7a9ff263d4ac02d0d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632407,
+            "county_id":1091910409,
+            "locality_id":1310406293,
+            "region_id":85671265
+        }
+    ],
+    "wof:id":1310406293,
+    "wof:lastmodified":1537622888,
+    "wof:name":"Tsambou",
+    "wof:parent_id":1091910409,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ga",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.86667,
+    -1.26667,
+    11.86667,
+    -1.26667
+],
+  "geometry": {"coordinates":[11.86667,-1.26667],"type":"Point"}
+}

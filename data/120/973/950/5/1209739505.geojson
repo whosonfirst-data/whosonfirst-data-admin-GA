@@ -1,0 +1,72 @@
+{
+  "id": 1209739505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.43333,-1.28333,11.43333,-1.28333",
+    "geom:latitude":-1.28333,
+    "geom:longitude":11.43333,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Eya Nioy",
+    "gn:cc2":"GA",
+    "gn:country_code":"GA",
+    "gn:dem":622,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2400624,
+    "gn:latitude":-1.28333,
+    "gn:longitude":11.43333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Eya Nioy",
+    "gn:population":0,
+    "gn:timezone":"Africa/Libreville",
+    "iso:country":"GA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nyoy",
+        "Eya Nioy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632407,
+        85671249,
+        1091909887
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2400624
+    },
+    "wof:country":"GA",
+    "wof:geomhash":"a2b85427650692e7413750854be2bcf4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632407,
+            "county_id":1091909887,
+            "locality_id":1209739505,
+            "region_id":85671249
+        }
+    ],
+    "wof:id":1209739505,
+    "wof:lastmodified":1537622910,
+    "wof:name":"Eya Nioy",
+    "wof:parent_id":1091909887,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ga",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.43333,
+    -1.28333,
+    11.43333,
+    -1.28333
+],
+  "geometry": {"coordinates":[11.43333,-1.28333],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1310507483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.46778,-2.42741,11.46778,-2.42741",
+    "geom:latitude":-2.42741,
+    "geom:longitude":11.46778,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Diolo",
+    "gn:country_code":"GA",
+    "gn:dem":147,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2401185,
+    "gn:latitude":-2.42741,
+    "gn:longitude":11.46778,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Diolo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Libreville",
+    "iso:country":"GA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dilolo",
+        "Diolo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632407,
+        85671249,
+        1091909707
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2401185
+    },
+    "wof:country":"GA",
+    "wof:geomhash":"49974bbdca4bd15174a2c9e07bdf1a9d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632407,
+            "county_id":1091909707,
+            "locality_id":1310507483,
+            "region_id":85671249
+        }
+    ],
+    "wof:id":1310507483,
+    "wof:lastmodified":1537622913,
+    "wof:name":"Diolo",
+    "wof:parent_id":1091909707,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ga",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.46778,
+    -2.42741,
+    11.46778,
+    -2.42741
+],
+  "geometry": {"coordinates":[11.46778,-2.42741],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1226752621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.8455,-2.56045,10.8455,-2.56045",
+    "geom:latitude":-2.56045,
+    "geom:longitude":10.8455,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Maoumba",
+    "gn:country_code":"GA",
+    "gn:dem":194,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2399158,
+    "gn:latitude":-2.56045,
+    "gn:longitude":10.8455,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Maoumba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Libreville",
+    "iso:country":"GA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632407,
+        85671251,
+        1091910047
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2399158
+    },
+    "wof:country":"GA",
+    "wof:geomhash":"d641fb62e34848e97c5a8d6c40cf9563",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632407,
+            "county_id":1091910047,
+            "locality_id":1226752621,
+            "region_id":85671251
+        }
+    ],
+    "wof:id":1226752621,
+    "wof:lastmodified":1536705846,
+    "wof:name":"Maoumba",
+    "wof:parent_id":1091910047,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ga",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.8455,
+    -2.56045,
+    10.8455,
+    -2.56045
+],
+  "geometry": {"coordinates":[10.8455,-2.56045],"type":"Point"}
+}

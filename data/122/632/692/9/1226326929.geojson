@@ -1,0 +1,67 @@
+{
+  "id": 1226326929,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.71466,1.73074,11.71466,1.73074",
+    "geom:latitude":1.73074,
+    "geom:longitude":11.71466,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Issadoumongo",
+    "gn:country_code":"GA",
+    "gn:dem":699,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2400237,
+    "gn:latitude":1.73074,
+    "gn:longitude":11.71466,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Issadoumongo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Libreville",
+    "iso:country":"GA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632407,
+        85671241,
+        1091910593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2400237
+    },
+    "wof:country":"GA",
+    "wof:geomhash":"4d12d0de23e560601680c83151cfd04a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632407,
+            "county_id":1091910593,
+            "locality_id":1226326929,
+            "region_id":85671241
+        }
+    ],
+    "wof:id":1226326929,
+    "wof:lastmodified":1536815876,
+    "wof:name":"Issadoumongo",
+    "wof:parent_id":1091910593,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ga",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.71466,
+    1.73074,
+    11.71466,
+    1.73074
+],
+  "geometry": {"coordinates":[11.71466,1.73074],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1293112605,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.38333,0.25,9.38333,0.25",
+    "geom:latitude":0.25,
+    "geom:longitude":9.38333,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Ndjoue",
+    "gn:country_code":"GA",
+    "gn:dem":34,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2397669,
+    "gn:latitude":0.25,
+    "gn:longitude":9.38333,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Ndjou\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Libreville",
+    "iso:country":"GA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2397669
+    },
+    "wof:country":"GA",
+    "wof:geomhash":"a95e926609073c5500ee76ee3b67db87",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1293112605,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1293112605,
+    "wof:lastmodified":1536829492,
+    "wof:name":"Ndjoue",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ga",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.38333,
+    0.25,
+    9.38333,
+    0.25
+],
+  "geometry": {"coordinates":[9.38333,0.25],"type":"Point"}
+}

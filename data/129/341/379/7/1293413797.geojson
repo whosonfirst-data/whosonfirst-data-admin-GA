@@ -1,0 +1,67 @@
+{
+  "id": 1293413797,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.95,-1.45,11.95,-1.45",
+    "geom:latitude":-1.45,
+    "geom:longitude":11.95,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Iboundji",
+    "gn:country_code":"GA",
+    "gn:dem":625,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2400420,
+    "gn:latitude":-1.45,
+    "gn:longitude":11.95,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Iboundji",
+    "gn:population":0,
+    "gn:timezone":"Africa/Libreville",
+    "iso:country":"GA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632407,
+        85671249,
+        1091909887
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2400420
+    },
+    "wof:country":"GA",
+    "wof:geomhash":"82494f546938bad3d5185201029c40d2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632407,
+            "county_id":1091909887,
+            "locality_id":1293413797,
+            "region_id":85671249
+        }
+    ],
+    "wof:id":1293413797,
+    "wof:lastmodified":1536893031,
+    "wof:name":"Iboundji",
+    "wof:parent_id":1091909887,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ga",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.95,
+    -1.45,
+    11.95,
+    -1.45
+],
+  "geometry": {"coordinates":[11.95,-1.45],"type":"Point"}
+}

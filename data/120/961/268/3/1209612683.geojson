@@ -1,0 +1,61 @@
+{
+  "id": 1209612683,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.80209,-0.09247,11.80209,-0.09247",
+    "geom:latitude":-0.09247,
+    "geom:longitude":11.80209,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Mantoua",
+    "gn:country_code":"GA",
+    "gn:dem":156,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2399166,
+    "gn:latitude":-0.09247,
+    "gn:longitude":11.80209,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Mantoua",
+    "gn:population":0,
+    "gn:timezone":"Africa/Libreville",
+    "iso:country":"GA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632407
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2399166
+    },
+    "wof:country":"GA",
+    "wof:geomhash":"f629e585d2620e9e589f77bd4680dd3d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632407,
+            "locality_id":1209612683
+        }
+    ],
+    "wof:id":1209612683,
+    "wof:lastmodified":1536281795,
+    "wof:name":"Mantoua",
+    "wof:parent_id":85632407,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ga",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.80209,
+    -0.09247,
+    11.80209,
+    -0.09247
+],
+  "geometry": {"coordinates":[11.80209,-0.09247],"type":"Point"}
+}

@@ -1,0 +1,63 @@
+{
+  "id": 1193030287,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.30846,0.58141,9.30846,0.58141",
+    "geom:latitude":0.58141,
+    "geom:longitude":9.30846,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Idokogo",
+    "gn:country_code":"GA",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2400400,
+    "gn:latitude":0.58141,
+    "gn:longitude":9.30846,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Idokogo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Libreville",
+    "iso:country":"GA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2400400
+    },
+    "wof:country":"GA",
+    "wof:geomhash":"41cafaffb1bb841b3c33dcab07460b1f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":-1,
+            "locality_id":1193030287,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1193030287,
+    "wof:lastmodified":1536364724,
+    "wof:name":"Idokogo",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ga",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.30846,
+    0.58141,
+    9.30846,
+    0.58141
+],
+  "geometry": {"coordinates":[9.30846,0.58141],"type":"Point"}
+}

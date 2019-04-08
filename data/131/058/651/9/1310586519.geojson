@@ -1,0 +1,68 @@
+{
+  "id": 1310586519,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.58153,-2.25851,9.58153,-2.25851",
+    "geom:latitude":-2.25851,
+    "geom:longitude":9.58153,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Petit Loango",
+    "gn:country_code":"GA",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2396556,
+    "gn:latitude":-2.25851,
+    "gn:longitude":9.58153,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Petit Loango",
+    "gn:population":0,
+    "gn:timezone":"Africa/Libreville",
+    "iso:country":"GA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Petit Loanga",
+        "Petit Loango"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2396556,
+        "wk:page":"Petit_Loango"
+    },
+    "wof:country":"GA",
+    "wof:geomhash":"f4d38a26600a68c86e3db92b8a2d3716",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":-1,
+            "locality_id":1310586519,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1310586519,
+    "wof:lastmodified":1537622890,
+    "wof:name":"Petit Loango",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ga",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.58153,
+    -2.25851,
+    9.58153,
+    -2.25851
+],
+  "geometry": {"coordinates":[9.58153,-2.25851],"type":"Point"}
+}

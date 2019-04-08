@@ -1,0 +1,67 @@
+{
+  "id": 1327034823,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.28479,-3.13014,11.28479,-3.13014",
+    "geom:latitude":-3.13014,
+    "geom:longitude":11.28479,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Makabana",
+    "gn:country_code":"GA",
+    "gn:dem":60,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2399408,
+    "gn:latitude":-3.13014,
+    "gn:longitude":11.28479,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Makabana",
+    "gn:population":0,
+    "gn:timezone":"Africa/Libreville",
+    "iso:country":"GA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632407,
+        85671251,
+        1091910129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2399408
+    },
+    "wof:country":"GA",
+    "wof:geomhash":"af6344488b0850e8956f559221d747c5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632407,
+            "county_id":1091910129,
+            "locality_id":1327034823,
+            "region_id":85671251
+        }
+    ],
+    "wof:id":1327034823,
+    "wof:lastmodified":1536757012,
+    "wof:name":"Makabana",
+    "wof:parent_id":1091910129,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ga",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.28479,
+    -3.13014,
+    11.28479,
+    -3.13014
+],
+  "geometry": {"coordinates":[11.28479,-3.13014],"type":"Point"}
+}

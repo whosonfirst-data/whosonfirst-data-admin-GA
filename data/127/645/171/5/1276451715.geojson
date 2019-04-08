@@ -1,0 +1,67 @@
+{
+  "id": 1276451715,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.23661,-1.54154,13.23661,-1.54154",
+    "geom:latitude":-1.54154,
+    "geom:longitude":13.23661,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Comilog",
+    "gn:country_code":"GA",
+    "gn:dem":580,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2401346,
+    "gn:latitude":-1.54154,
+    "gn:longitude":13.23661,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Comilog",
+    "gn:population":0,
+    "gn:timezone":"Africa/Libreville",
+    "iso:country":"GA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632407,
+        85671257,
+        1091908967
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2401346
+    },
+    "wof:country":"GA",
+    "wof:geomhash":"a08a31fadf2609a155321d17cc692d45",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632407,
+            "county_id":1091908967,
+            "locality_id":1276451715,
+            "region_id":85671257
+        }
+    ],
+    "wof:id":1276451715,
+    "wof:lastmodified":1536617781,
+    "wof:name":"Comilog",
+    "wof:parent_id":1091908967,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ga",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.23661,
+    -1.54154,
+    13.23661,
+    -1.54154
+],
+  "geometry": {"coordinates":[13.23661,-1.54154],"type":"Point"}
+}

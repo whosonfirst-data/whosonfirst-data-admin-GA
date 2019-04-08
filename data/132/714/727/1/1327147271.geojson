@@ -1,0 +1,71 @@
+{
+  "id": 1327147271,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.54048,-1.16905,13.54048,-1.16905",
+    "geom:latitude":-1.16905,
+    "geom:longitude":13.54048,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Olounga",
+    "gn:country_code":"GA",
+    "gn:dem":317,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2396867,
+    "gn:latitude":-1.16905,
+    "gn:longitude":13.54048,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Olounga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Libreville",
+    "iso:country":"GA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Olonga",
+        "Olounga"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632407,
+        85671257,
+        1091909293
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2396867
+    },
+    "wof:country":"GA",
+    "wof:geomhash":"84c783cb0d81c16926d37d346c11ec9c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632407,
+            "county_id":1091909293,
+            "locality_id":1327147271,
+            "region_id":85671257
+        }
+    ],
+    "wof:id":1327147271,
+    "wof:lastmodified":1537622892,
+    "wof:name":"Olounga",
+    "wof:parent_id":1091909293,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ga",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.54048,
+    -1.16905,
+    13.54048,
+    -1.16905
+],
+  "geometry": {"coordinates":[13.54048,-1.16905],"type":"Point"}
+}

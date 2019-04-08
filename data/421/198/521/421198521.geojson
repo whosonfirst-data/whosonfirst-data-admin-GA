@@ -1,0 +1,115 @@
+{
+  "id": 421198521,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.25905,-1.58431,14.25905,-1.58431",
+    "geom:latitude":-1.58431,
+    "geom:longitude":14.25905,
+    "iso:country":"GA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "L\u00e9koni"
+    ],
+    "name:dut_x_preferred":[
+        "Lekoni"
+    ],
+    "name:eng_x_preferred":[
+        "Lekoni"
+    ],
+    "name:fra_x_preferred":[
+        "L\u00e9koni"
+    ],
+    "name:fre_x_preferred":[
+        "L\u00e9koni"
+    ],
+    "name:ita_x_preferred":[
+        "L\u00e9koni"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30eb\u30b3\u30cb"
+    ],
+    "name:pol_x_preferred":[
+        "L\u00e9coni"
+    ],
+    "name:rus_x_preferred":[
+        "\u041b\u0435\u043a\u043e\u043d\u0438"
+    ],
+    "name:swe_x_preferred":[
+        "L\u00e9koni"
+    ],
+    "name:unk_x_variant":[
+        "Liconi"
+    ],
+    "qs:gn_country":"GA",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":2399831,
+    "qs:gn_pop":3583,
+    "qs:name":"L\u00e9koni",
+    "qs:name_adm0":"Gabon",
+    "qs:name_adm1":"Haut-Ogooue",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":1,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"4",
+    "qs:qs_id":183369,
+    "qs:woe_adm0":23424822,
+    "qs:woe_id":1324151,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":58,
+    "wof:belongsto":[
+        102191573,
+        85632407,
+        85671257,
+        1091909149
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2399831,
+        "gp:id":1324151,
+        "qs:id":183369,
+        "wd:id":"Q6350743",
+        "wk:page":"L\u00e9koni, Gabon"
+    },
+    "wof:country":"GA",
+    "wof:created":1459009951,
+    "wof:geomhash":"d5aa877149a7daf9fb2004e99e37f203",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632407,
+            "county_id":1091909149,
+            "locality_id":421198521,
+            "region_id":85671257
+        }
+    ],
+    "wof:id":421198521,
+    "wof:lastmodified":1527716352,
+    "wof:name":"L\u00e9koni",
+    "wof:parent_id":1091909149,
+    "wof:placetype":"locality",
+    "wof:population":3583,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ga",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.25905,
+    -1.58431,
+    14.25905,
+    -1.58431
+],
+  "geometry": {"coordinates":[14.25905,-1.58431],"type":"Point"}
+}

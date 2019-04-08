@@ -1,0 +1,67 @@
+{
+  "id": 1276666357,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.79082,-1.24571,13.79082,-1.24571",
+    "geom:latitude":-1.24571,
+    "geom:longitude":13.79082,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Allele",
+    "gn:country_code":"GA",
+    "gn:dem":447,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2402378,
+    "gn:latitude":-1.24571,
+    "gn:longitude":13.79082,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Allel\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Libreville",
+    "iso:country":"GA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632407,
+        85671257,
+        1091909347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2402378
+    },
+    "wof:country":"GA",
+    "wof:geomhash":"f3d57be3472d5794dbba29e53e143060",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632407,
+            "county_id":1091909347,
+            "locality_id":1276666357,
+            "region_id":85671257
+        }
+    ],
+    "wof:id":1276666357,
+    "wof:lastmodified":1536828496,
+    "wof:name":"Allele",
+    "wof:parent_id":1091909347,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ga",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.79082,
+    -1.24571,
+    13.79082,
+    -1.24571
+],
+  "geometry": {"coordinates":[13.79082,-1.24571],"type":"Point"}
+}

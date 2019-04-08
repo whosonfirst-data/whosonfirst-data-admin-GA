@@ -1,0 +1,67 @@
+{
+  "id": 1327255069,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.30881,-1.27293,12.30881,-1.27293",
+    "geom:latitude":-1.27293,
+    "geom:longitude":12.30881,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Moulobi",
+    "gn:country_code":"GA",
+    "gn:dem":392,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2398000,
+    "gn:latitude":-1.27293,
+    "gn:longitude":12.30881,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Moulobi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Libreville",
+    "iso:country":"GA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632407,
+        85671265,
+        1091910313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2398000
+    },
+    "wof:country":"GA",
+    "wof:geomhash":"a34d99655cb7d361675b95d8d51332d9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632407,
+            "county_id":1091910313,
+            "locality_id":1327255069,
+            "region_id":85671265
+        }
+    ],
+    "wof:id":1327255069,
+    "wof:lastmodified":1536937667,
+    "wof:name":"Moulobi",
+    "wof:parent_id":1091910313,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ga",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.30881,
+    -1.27293,
+    12.30881,
+    -1.27293
+],
+  "geometry": {"coordinates":[12.30881,-1.27293],"type":"Point"}
+}

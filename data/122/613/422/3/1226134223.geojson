@@ -1,0 +1,72 @@
+{
+  "id": 1226134223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.98333,-1.21667,11.98333,-1.21667",
+    "geom:latitude":-1.21667,
+    "geom:longitude":11.98333,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Tsingui",
+    "gn:cc2":"GA",
+    "gn:country_code":"GA",
+    "gn:dem":488,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2396146,
+    "gn:latitude":-1.21667,
+    "gn:longitude":11.98333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Tsingui",
+    "gn:population":0,
+    "gn:timezone":"Africa/Libreville",
+    "iso:country":"GA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tsengu\u00e9",
+        "Tsingui"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632407,
+        85671265,
+        1091910409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2396146
+    },
+    "wof:country":"GA",
+    "wof:geomhash":"68116251799257b270692e310d75bb42",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632407,
+            "county_id":1091910409,
+            "locality_id":1226134223,
+            "region_id":85671265
+        }
+    ],
+    "wof:id":1226134223,
+    "wof:lastmodified":1537622888,
+    "wof:name":"Tsingui",
+    "wof:parent_id":1091910409,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ga",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.98333,
+    -1.21667,
+    11.98333,
+    -1.21667
+],
+  "geometry": {"coordinates":[11.98333,-1.21667],"type":"Point"}
+}

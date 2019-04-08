@@ -1,0 +1,61 @@
+{
+  "id": 1209414255,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.95259,-2.47935,10.95259,-2.47935",
+    "geom:latitude":-2.47935,
+    "geom:longitude":10.95259,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Keri",
+    "gn:country_code":"GA",
+    "gn:dem":253,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2400073,
+    "gn:latitude":-2.47935,
+    "gn:longitude":10.95259,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"K\u00e9ri",
+    "gn:population":0,
+    "gn:timezone":"Africa/Libreville",
+    "iso:country":"GA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632407
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2400073
+    },
+    "wof:country":"GA",
+    "wof:geomhash":"7594a0f826ad6446374729e3fd7441d6",
+    "wof:hierarchy":[
+        {
+            "country_id":85632407,
+            "locality_id":1209414255
+        }
+    ],
+    "wof:id":1209414255,
+    "wof:lastmodified":1536287740,
+    "wof:name":"Keri",
+    "wof:parent_id":85632407,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ga",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.95259,
+    -2.47935,
+    10.95259,
+    -2.47935
+],
+  "geometry": {"coordinates":[10.95259,-2.47935],"type":"Point"}
+}

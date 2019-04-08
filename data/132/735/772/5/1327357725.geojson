@@ -1,0 +1,67 @@
+{
+  "id": 1327357725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.81667,-1.65,11.81667,-1.65",
+    "geom:latitude":-1.65,
+    "geom:longitude":11.81667,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Divelo",
+    "gn:country_code":"GA",
+    "gn:dem":802,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2401160,
+    "gn:latitude":-1.65,
+    "gn:longitude":11.81667,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Div\u00e9lo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Libreville",
+    "iso:country":"GA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632407,
+        85671249,
+        1091909887
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2401160
+    },
+    "wof:country":"GA",
+    "wof:geomhash":"42671ac5c4e29a26db2a01f18a5e5672",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632407,
+            "county_id":1091909887,
+            "locality_id":1327357725,
+            "region_id":85671249
+        }
+    ],
+    "wof:id":1327357725,
+    "wof:lastmodified":1536789145,
+    "wof:name":"Divelo",
+    "wof:parent_id":1091909887,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ga",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.81667,
+    -1.65,
+    11.81667,
+    -1.65
+],
+  "geometry": {"coordinates":[11.81667,-1.65],"type":"Point"}
+}

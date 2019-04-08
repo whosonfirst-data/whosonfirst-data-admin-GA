@@ -1,0 +1,61 @@
+{
+  "id": 1209109255,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.90233,-1.63628,12.90233,-1.63628",
+    "geom:latitude":-1.63628,
+    "geom:longitude":12.90233,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Magnima",
+    "gn:country_code":"GA",
+    "gn:dem":731,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2399443,
+    "gn:latitude":-1.63628,
+    "gn:longitude":12.90233,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Magnima",
+    "gn:population":0,
+    "gn:timezone":"Africa/Libreville",
+    "iso:country":"GA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632407
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2399443
+    },
+    "wof:country":"GA",
+    "wof:geomhash":"c973411a2db651d24261936e2b911e78",
+    "wof:hierarchy":[
+        {
+            "country_id":85632407,
+            "locality_id":1209109255
+        }
+    ],
+    "wof:id":1209109255,
+    "wof:lastmodified":1536297461,
+    "wof:name":"Magnima",
+    "wof:parent_id":85632407,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ga",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.90233,
+    -1.63628,
+    12.90233,
+    -1.63628
+],
+  "geometry": {"coordinates":[12.90233,-1.63628],"type":"Point"}
+}

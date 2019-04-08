@@ -1,0 +1,84 @@
+{
+  "id": 1225949007,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.66667,-2.91667,11.66667,-2.91667",
+    "geom:latitude":-2.91667,
+    "geom:longitude":11.66667,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Iroungou",
+    "gn:country_code":"GA",
+    "gn:dem":194,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2400242,
+    "gn:latitude":-2.91667,
+    "gn:longitude":11.66667,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Iroungou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Libreville",
+    "iso:country":"GA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632541,
+        85670059,
+        1092013271,
+        85632407,
+        85671251,
+        1091910083
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2400242
+    },
+    "wof:country":"GA",
+    "wof:geomhash":"0605a4c64e2b36f61a41f8e61ce1e0b6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632541,
+            "county_id":1092013271,
+            "locality_id":1225949007,
+            "region_id":85670059
+        },
+        {
+            "continent_id":102191573,
+            "country_id":85632407,
+            "county_id":1091910083,
+            "locality_id":1225949007,
+            "region_id":85671251
+        },
+        {
+            "continent_id":102191573,
+            "country_id":85632541,
+            "county_id":1091910083,
+            "locality_id":1225949007,
+            "region_id":85670059
+        }
+    ],
+    "wof:id":1225949007,
+    "wof:lastmodified":1536863216,
+    "wof:name":"Iroungou",
+    "wof:parent_id":-4,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ga",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.66667,
+    -2.91667,
+    11.66667,
+    -2.91667
+],
+  "geometry": {"coordinates":[11.66667,-2.91667],"type":"Point"}
+}

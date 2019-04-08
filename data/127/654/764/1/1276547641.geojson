@@ -1,0 +1,67 @@
+{
+  "id": 1276547641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.97596,-1.9144,11.97596,-1.9144",
+    "geom:latitude":-1.9144,
+    "geom:longitude":11.97596,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Bayoukou",
+    "gn:country_code":"GA",
+    "gn:dem":724,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2401897,
+    "gn:latitude":-1.9144,
+    "gn:longitude":11.97596,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Bayoukou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Libreville",
+    "iso:country":"GA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632407,
+        85671249,
+        1091909833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2401897
+    },
+    "wof:country":"GA",
+    "wof:geomhash":"f6674aa8e926702bb542bc0e782558a3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632407,
+            "county_id":1091909833,
+            "locality_id":1276547641,
+            "region_id":85671249
+        }
+    ],
+    "wof:id":1276547641,
+    "wof:lastmodified":1536988017,
+    "wof:name":"Bayoukou",
+    "wof:parent_id":1091909833,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ga",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.97596,
+    -1.9144,
+    11.97596,
+    -1.9144
+],
+  "geometry": {"coordinates":[11.97596,-1.9144],"type":"Point"}
+}

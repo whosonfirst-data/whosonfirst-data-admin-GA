@@ -1,0 +1,67 @@
+{
+  "id": 1343959869,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.85,-0.28333,10.85,-0.28333",
+    "geom:latitude":-0.28333,
+    "geom:longitude":10.85,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Ovena",
+    "gn:country_code":"GA",
+    "gn:dem":159,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2396674,
+    "gn:latitude":-0.28333,
+    "gn:longitude":10.85,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Ov\u00e9na",
+    "gn:population":0,
+    "gn:timezone":"Africa/Libreville",
+    "iso:country":"GA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632407,
+        85671247,
+        1091909487
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2396674
+    },
+    "wof:country":"GA",
+    "wof:geomhash":"1402998fac9edfd29d534b85445b699d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632407,
+            "county_id":1091909487,
+            "locality_id":1343959869,
+            "region_id":85671247
+        }
+    ],
+    "wof:id":1343959869,
+    "wof:lastmodified":1537019969,
+    "wof:name":"Ovena",
+    "wof:parent_id":1091909487,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ga",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.85,
+    -0.28333,
+    10.85,
+    -0.28333
+],
+  "geometry": {"coordinates":[10.85,-0.28333],"type":"Point"}
+}

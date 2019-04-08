@@ -1,0 +1,61 @@
+{
+  "id": 1209097745,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.05,-1.2,13.05,-1.2",
+    "geom:latitude":-1.2,
+    "geom:longitude":13.05,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Lecagna",
+    "gn:country_code":"GA",
+    "gn:dem":354,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2399837,
+    "gn:latitude":-1.2,
+    "gn:longitude":13.05,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Lecagna",
+    "gn:population":0,
+    "gn:timezone":"Africa/Libreville",
+    "iso:country":"GA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632407
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2399837
+    },
+    "wof:country":"GA",
+    "wof:geomhash":"d078a3ac787ee39e3dca0ad88cdf3a00",
+    "wof:hierarchy":[
+        {
+            "country_id":85632407,
+            "locality_id":1209097745
+        }
+    ],
+    "wof:id":1209097745,
+    "wof:lastmodified":1536297833,
+    "wof:name":"Lecagna",
+    "wof:parent_id":85632407,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ga",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.05,
+    -1.2,
+    13.05,
+    -1.2
+],
+  "geometry": {"coordinates":[13.05,-1.2],"type":"Point"}
+}

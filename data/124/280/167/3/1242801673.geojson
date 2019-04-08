@@ -1,0 +1,67 @@
+{
+  "id": 1242801673,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.58956,-1.3948,11.58956,-1.3948",
+    "geom:latitude":-1.3948,
+    "geom:longitude":11.58956,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Mobigou",
+    "gn:country_code":"GA",
+    "gn:dem":826,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2398265,
+    "gn:latitude":-1.3948,
+    "gn:longitude":11.58956,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Mobigou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Libreville",
+    "iso:country":"GA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632407,
+        85671249,
+        1091909887
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2398265
+    },
+    "wof:country":"GA",
+    "wof:geomhash":"ec40e2bc85fb6c38baa7fc63180b49a1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632407,
+            "county_id":1091909887,
+            "locality_id":1242801673,
+            "region_id":85671249
+        }
+    ],
+    "wof:id":1242801673,
+    "wof:lastmodified":1536740735,
+    "wof:name":"Mobigou",
+    "wof:parent_id":1091909887,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ga",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.58956,
+    -1.3948,
+    11.58956,
+    -1.3948
+],
+  "geometry": {"coordinates":[11.58956,-1.3948],"type":"Point"}
+}

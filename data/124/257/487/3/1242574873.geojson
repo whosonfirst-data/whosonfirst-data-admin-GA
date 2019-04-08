@@ -1,0 +1,69 @@
+{
+  "id": 1242574873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.7,-0.63333,8.7,-0.63333",
+    "geom:latitude":-0.63333,
+    "geom:longitude":8.7,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Mbonde",
+    "gn:cc2":"GA",
+    "gn:country_code":"GA",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2398867,
+    "gn:latitude":-0.63333,
+    "gn:longitude":8.7,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Mbond\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Libreville",
+    "iso:country":"GA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Village Mbond\u00e9",
+        "Mbond\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632407
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2398867
+    },
+    "wof:country":"GA",
+    "wof:geomhash":"aad04a92184668428fc9fcdc4f98ec47",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632407,
+            "locality_id":1242574873,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1242574873,
+    "wof:lastmodified":1537622900,
+    "wof:name":"Mbonde",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ga",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.7,
+    -0.63333,
+    8.7,
+    -0.63333
+],
+  "geometry": {"coordinates":[8.7,-0.63333],"type":"Point"}
+}

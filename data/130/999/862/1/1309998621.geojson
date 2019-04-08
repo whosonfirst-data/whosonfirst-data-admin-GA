@@ -1,0 +1,71 @@
+{
+  "id": 1309998621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.98216,0.91321,12.98216,0.91321",
+    "geom:latitude":0.91321,
+    "geom:longitude":12.98216,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Ntyeng",
+    "gn:country_code":"GA",
+    "gn:dem":486,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2397158,
+    "gn:latitude":0.91321,
+    "gn:longitude":12.98216,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Ntyeng",
+    "gn:population":0,
+    "gn:timezone":"Africa/Libreville",
+    "iso:country":"GA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ntian",
+        "Ntyeng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632407,
+        85671237,
+        1091910169
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2397158
+    },
+    "wof:country":"GA",
+    "wof:geomhash":"048bbebabb6657b57adfd3bf93983e56",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632407,
+            "county_id":1091910169,
+            "locality_id":1309998621,
+            "region_id":85671237
+        }
+    ],
+    "wof:id":1309998621,
+    "wof:lastmodified":1537622893,
+    "wof:name":"Ntyeng",
+    "wof:parent_id":1091910169,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ga",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.98216,
+    0.91321,
+    12.98216,
+    0.91321
+],
+  "geometry": {"coordinates":[12.98216,0.91321],"type":"Point"}
+}

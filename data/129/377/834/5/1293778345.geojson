@@ -1,0 +1,67 @@
+{
+  "id": 1293778345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.6482,0.94473,10.6482,0.94473",
+    "geom:latitude":0.94473,
+    "geom:longitude":10.6482,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Edoume",
+    "gn:country_code":"GA",
+    "gn:dem":673,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2400867,
+    "gn:latitude":0.94473,
+    "gn:longitude":10.6482,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Edoum\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Libreville",
+    "iso:country":"GA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632407,
+        85671241,
+        1091910783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2400867
+    },
+    "wof:country":"GA",
+    "wof:geomhash":"3348d0111c23f3de64d04ee22f8df42b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632407,
+            "county_id":1091910783,
+            "locality_id":1293778345,
+            "region_id":85671241
+        }
+    ],
+    "wof:id":1293778345,
+    "wof:lastmodified":1536863500,
+    "wof:name":"Edoume",
+    "wof:parent_id":1091910783,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ga",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.6482,
+    0.94473,
+    10.6482,
+    0.94473
+],
+  "geometry": {"coordinates":[10.6482,0.94473],"type":"Point"}
+}

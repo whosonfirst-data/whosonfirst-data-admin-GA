@@ -1,0 +1,71 @@
+{
+  "id": 1310699023,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.86447,0.20174,11.86447,0.20174",
+    "geom:latitude":0.20174,
+    "geom:longitude":11.86447,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Koumameyong",
+    "gn:country_code":"GA",
+    "gn:dem":478,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2399947,
+    "gn:latitude":0.20174,
+    "gn:longitude":11.86447,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Koumameyong",
+    "gn:population":0,
+    "gn:timezone":"Africa/Libreville",
+    "iso:country":"GA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Koumamayong",
+        "Koumameyong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632407,
+        85671237,
+        421188215
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2399947
+    },
+    "wof:country":"GA",
+    "wof:geomhash":"53b90de8f9a2dbc82b18e7f48e6f8607",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632407,
+            "county_id":421188215,
+            "locality_id":1310699023,
+            "region_id":85671237
+        }
+    ],
+    "wof:id":1310699023,
+    "wof:lastmodified":1537622906,
+    "wof:name":"Koumameyong",
+    "wof:parent_id":421188215,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ga",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.86447,
+    0.20174,
+    11.86447,
+    0.20174
+],
+  "geometry": {"coordinates":[11.86447,0.20174],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1276871559,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.1,-2.45,11.1,-2.45",
+    "geom:latitude":-2.45,
+    "geom:longitude":11.1,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Iloga Magounga",
+    "gn:country_code":"GA",
+    "gn:dem":372,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2400325,
+    "gn:latitude":-2.45,
+    "gn:longitude":11.1,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Iloga Magounga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Libreville",
+    "iso:country":"GA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632407,
+        85671251,
+        1091910047
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2400325
+    },
+    "wof:country":"GA",
+    "wof:geomhash":"f200773b2f44b1304d494d417fba41af",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632407,
+            "county_id":1091910047,
+            "locality_id":1276871559,
+            "region_id":85671251
+        }
+    ],
+    "wof:id":1276871559,
+    "wof:lastmodified":1537050196,
+    "wof:name":"Iloga Magounga",
+    "wof:parent_id":1091910047,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ga",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.1,
+    -2.45,
+    11.1,
+    -2.45
+],
+  "geometry": {"coordinates":[11.1,-2.45],"type":"Point"}
+}

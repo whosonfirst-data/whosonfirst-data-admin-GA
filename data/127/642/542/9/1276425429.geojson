@@ -1,0 +1,67 @@
+{
+  "id": 1276425429,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.65,1.61667,11.65,1.61667",
+    "geom:latitude":1.61667,
+    "geom:longitude":11.65,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Endome",
+    "gn:country_code":"GA",
+    "gn:dem":648,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2400751,
+    "gn:latitude":1.61667,
+    "gn:longitude":11.65,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Endome",
+    "gn:population":0,
+    "gn:timezone":"Africa/Libreville",
+    "iso:country":"GA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632407,
+        85671241,
+        1091910593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2400751
+    },
+    "wof:country":"GA",
+    "wof:geomhash":"998196f4b1c1b32166e6755e3108e2a2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632407,
+            "county_id":1091910593,
+            "locality_id":1276425429,
+            "region_id":85671241
+        }
+    ],
+    "wof:id":1276425429,
+    "wof:lastmodified":1536655305,
+    "wof:name":"Endome",
+    "wof:parent_id":1091910593,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ga",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.65,
+    1.61667,
+    11.65,
+    1.61667
+],
+  "geometry": {"coordinates":[11.65,1.61667],"type":"Point"}
+}

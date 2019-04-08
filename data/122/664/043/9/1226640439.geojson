@@ -1,0 +1,67 @@
+{
+  "id": 1226640439,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.13333,-1.51667,12.13333,-1.51667",
+    "geom:latitude":-1.51667,
+    "geom:longitude":12.13333,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Mogoudi",
+    "gn:country_code":"GA",
+    "gn:dem":695,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2398250,
+    "gn:latitude":-1.51667,
+    "gn:longitude":12.13333,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Mogoudi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Libreville",
+    "iso:country":"GA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632407,
+        85671265,
+        1091910313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2398250
+    },
+    "wof:country":"GA",
+    "wof:geomhash":"ea42bc27eccb4c3d61db12e1cf4f6cbd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632407,
+            "county_id":1091910313,
+            "locality_id":1226640439,
+            "region_id":85671265
+        }
+    ],
+    "wof:id":1226640439,
+    "wof:lastmodified":1536865811,
+    "wof:name":"Mogoudi",
+    "wof:parent_id":1091910313,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ga",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.13333,
+    -1.51667,
+    12.13333,
+    -1.51667
+],
+  "geometry": {"coordinates":[12.13333,-1.51667],"type":"Point"}
+}

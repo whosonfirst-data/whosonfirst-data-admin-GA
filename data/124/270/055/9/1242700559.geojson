@@ -1,0 +1,67 @@
+{
+  "id": 1242700559,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.11667,-2.75,11.11667,-2.75",
+    "geom:latitude":-2.75,
+    "geom:longitude":11.11667,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Boungou Bouliba",
+    "gn:country_code":"GA",
+    "gn:dem":297,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2401423,
+    "gn:latitude":-2.75,
+    "gn:longitude":11.11667,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Boungou Bouliba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Libreville",
+    "iso:country":"GA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632407,
+        85671251,
+        1091909931
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2401423
+    },
+    "wof:country":"GA",
+    "wof:geomhash":"5d448eb662445dbf03f78d537dbbdbfa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632407,
+            "county_id":1091909931,
+            "locality_id":1242700559,
+            "region_id":85671251
+        }
+    ],
+    "wof:id":1242700559,
+    "wof:lastmodified":1536886209,
+    "wof:name":"Boungou Bouliba",
+    "wof:parent_id":1091909931,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ga",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.11667,
+    -2.75,
+    11.11667,
+    -2.75
+],
+  "geometry": {"coordinates":[11.11667,-2.75],"type":"Point"}
+}

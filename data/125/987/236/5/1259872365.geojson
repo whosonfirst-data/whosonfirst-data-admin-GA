@@ -1,0 +1,67 @@
+{
+  "id": 1259872365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.05034,0.68568,13.05034,0.68568",
+    "geom:latitude":0.68568,
+    "geom:longitude":13.05034,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Ibinga",
+    "gn:country_code":"GA",
+    "gn:dem":515,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2400428,
+    "gn:latitude":0.68568,
+    "gn:longitude":13.05034,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Ibinga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Libreville",
+    "iso:country":"GA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632407,
+        85671237,
+        1091910169
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2400428
+    },
+    "wof:country":"GA",
+    "wof:geomhash":"2449d70ba2d5807598538b6fd3583649",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632407,
+            "county_id":1091910169,
+            "locality_id":1259872365,
+            "region_id":85671237
+        }
+    ],
+    "wof:id":1259872365,
+    "wof:lastmodified":1536795487,
+    "wof:name":"Ibinga",
+    "wof:parent_id":1091910169,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ga",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.05034,
+    0.68568,
+    13.05034,
+    0.68568
+],
+  "geometry": {"coordinates":[13.05034,0.68568],"type":"Point"}
+}

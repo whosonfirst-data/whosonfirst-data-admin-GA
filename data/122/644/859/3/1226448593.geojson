@@ -1,0 +1,72 @@
+{
+  "id": 1226448593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.93333,-1.2,10.93333,-1.2",
+    "geom:latitude":-1.2,
+    "geom:longitude":10.93333,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Koundou",
+    "gn:cc2":"GA",
+    "gn:country_code":"GA",
+    "gn:dem":412,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2399923,
+    "gn:latitude":-1.2,
+    "gn:longitude":10.93333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Koundou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Libreville",
+    "iso:country":"GA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Coundou",
+        "Koundou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632407,
+        85671249,
+        1091909581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2399923
+    },
+    "wof:country":"GA",
+    "wof:geomhash":"1f1b5c893f7a5444cd0c68a4a191e9c5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632407,
+            "county_id":1091909581,
+            "locality_id":1226448593,
+            "region_id":85671249
+        }
+    ],
+    "wof:id":1226448593,
+    "wof:lastmodified":1537622906,
+    "wof:name":"Koundou",
+    "wof:parent_id":1091909581,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ga",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.93333,
+    -1.2,
+    10.93333,
+    -1.2
+],
+  "geometry": {"coordinates":[10.93333,-1.2],"type":"Point"}
+}

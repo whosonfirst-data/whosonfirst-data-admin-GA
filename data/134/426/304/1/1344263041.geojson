@@ -1,0 +1,67 @@
+{
+  "id": 1344263041,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.82308,-1.7214,10.82308,-1.7214",
+    "geom:latitude":-1.7214,
+    "geom:longitude":10.82308,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Sette-Cama",
+    "gn:country_code":"GA",
+    "gn:dem":116,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2396353,
+    "gn:latitude":-1.7214,
+    "gn:longitude":10.82308,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Sett\u00e9-Cama",
+    "gn:population":0,
+    "gn:timezone":"Africa/Libreville",
+    "iso:country":"GA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632407,
+        85671249,
+        1091909581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2396353
+    },
+    "wof:country":"GA",
+    "wof:geomhash":"6071f7efa22dc84bbfe19af3c6195adf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632407,
+            "county_id":1091909581,
+            "locality_id":1344263041,
+            "region_id":85671249
+        }
+    ],
+    "wof:id":1344263041,
+    "wof:lastmodified":1537077270,
+    "wof:name":"Sette-Cama",
+    "wof:parent_id":1091909581,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ga",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.82308,
+    -1.7214,
+    10.82308,
+    -1.7214
+],
+  "geometry": {"coordinates":[10.82308,-1.7214],"type":"Point"}
+}

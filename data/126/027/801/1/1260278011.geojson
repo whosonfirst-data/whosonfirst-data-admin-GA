@@ -1,0 +1,67 @@
+{
+  "id": 1260278011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.70559,1.18644,11.70559,1.18644",
+    "geom:latitude":1.18644,
+    "geom:longitude":11.70559,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Alene",
+    "gn:country_code":"GA",
+    "gn:dem":589,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2402397,
+    "gn:latitude":1.18644,
+    "gn:longitude":11.70559,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Al\u00e8ne",
+    "gn:population":0,
+    "gn:timezone":"Africa/Libreville",
+    "iso:country":"GA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632407,
+        85671241,
+        1091910593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2402397
+    },
+    "wof:country":"GA",
+    "wof:geomhash":"b5c2988e5f91529e3fb321f8b155fb42",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632407,
+            "county_id":1091910593,
+            "locality_id":1260278011,
+            "region_id":85671241
+        }
+    ],
+    "wof:id":1260278011,
+    "wof:lastmodified":1536719653,
+    "wof:name":"Alene",
+    "wof:parent_id":1091910593,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ga",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.70559,
+    1.18644,
+    11.70559,
+    1.18644
+],
+  "geometry": {"coordinates":[11.70559,1.18644],"type":"Point"}
+}

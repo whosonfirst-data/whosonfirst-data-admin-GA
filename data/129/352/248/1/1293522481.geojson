@@ -1,0 +1,67 @@
+{
+  "id": 1293522481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.2,-2.43333,11.2,-2.43333",
+    "geom:latitude":-2.43333,
+    "geom:longitude":11.2,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Bangola",
+    "gn:country_code":"GA",
+    "gn:dem":158,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2401958,
+    "gn:latitude":-2.43333,
+    "gn:longitude":11.2,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Bangola",
+    "gn:population":0,
+    "gn:timezone":"Africa/Libreville",
+    "iso:country":"GA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632407,
+        85671249,
+        1091909707
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2401958
+    },
+    "wof:country":"GA",
+    "wof:geomhash":"6ea6416833f75512620f47bc184ca703",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632407,
+            "county_id":1091909707,
+            "locality_id":1293522481,
+            "region_id":85671249
+        }
+    ],
+    "wof:id":1293522481,
+    "wof:lastmodified":1536736662,
+    "wof:name":"Bangola",
+    "wof:parent_id":1091909707,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ga",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.2,
+    -2.43333,
+    11.2,
+    -2.43333
+],
+  "geometry": {"coordinates":[11.2,-2.43333],"type":"Point"}
+}

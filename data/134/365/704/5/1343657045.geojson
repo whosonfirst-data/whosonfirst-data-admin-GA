@@ -1,0 +1,67 @@
+{
+  "id": 1343657045,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.33333,0.76667,13.33333,0.76667",
+    "geom:latitude":0.76667,
+    "geom:longitude":13.33333,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Malembe",
+    "gn:country_code":"GA",
+    "gn:dem":537,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2399328,
+    "gn:latitude":0.76667,
+    "gn:longitude":13.33333,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Malemb\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Libreville",
+    "iso:country":"GA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632407,
+        85671237,
+        1091910169
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2399328
+    },
+    "wof:country":"GA",
+    "wof:geomhash":"9b65e0bd0913ae0d184504aea9bd5b56",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632407,
+            "county_id":1091910169,
+            "locality_id":1343657045,
+            "region_id":85671237
+        }
+    ],
+    "wof:id":1343657045,
+    "wof:lastmodified":1536959943,
+    "wof:name":"Malembe",
+    "wof:parent_id":1091910169,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ga",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.33333,
+    0.76667,
+    13.33333,
+    0.76667
+],
+  "geometry": {"coordinates":[13.33333,0.76667],"type":"Point"}
+}

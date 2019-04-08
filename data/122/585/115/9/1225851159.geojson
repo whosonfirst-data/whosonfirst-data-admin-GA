@@ -1,0 +1,67 @@
+{
+  "id": 1225851159,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.85,-1.5,11.85,-1.5",
+    "geom:latitude":-1.5,
+    "geom:longitude":11.85,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Dibamba",
+    "gn:country_code":"GA",
+    "gn:dem":636,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2401276,
+    "gn:latitude":-1.5,
+    "gn:longitude":11.85,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Dibamba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Libreville",
+    "iso:country":"GA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632407,
+        85671249,
+        1091909887
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2401276
+    },
+    "wof:country":"GA",
+    "wof:geomhash":"a4dd59e5b7eb3b24696af728f0f87c41",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632407,
+            "county_id":1091909887,
+            "locality_id":1225851159,
+            "region_id":85671249
+        }
+    ],
+    "wof:id":1225851159,
+    "wof:lastmodified":1537005090,
+    "wof:name":"Dibamba",
+    "wof:parent_id":1091909887,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ga",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.85,
+    -1.5,
+    11.85,
+    -1.5
+],
+  "geometry": {"coordinates":[11.85,-1.5],"type":"Point"}
+}

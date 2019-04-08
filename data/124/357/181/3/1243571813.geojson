@@ -1,0 +1,67 @@
+{
+  "id": 1243571813,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.61667,0.95,9.61667,0.95",
+    "geom:latitude":0.95,
+    "geom:longitude":9.61667,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Nianam II",
+    "gn:country_code":"GA",
+    "gn:dem":48,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2397415,
+    "gn:latitude":0.95,
+    "gn:longitude":9.61667,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Nianam II",
+    "gn:population":0,
+    "gn:timezone":"Africa/Libreville",
+    "iso:country":"GA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632407,
+        85671235,
+        1091908869
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2397415
+    },
+    "wof:country":"GA",
+    "wof:geomhash":"90346fcd6b1d76699e54e0d07e366944",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632407,
+            "county_id":1091908869,
+            "locality_id":1243571813,
+            "region_id":85671235
+        }
+    ],
+    "wof:id":1243571813,
+    "wof:lastmodified":1536622885,
+    "wof:name":"Nianam II",
+    "wof:parent_id":1091908869,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ga",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.61667,
+    0.95,
+    9.61667,
+    0.95
+],
+  "geometry": {"coordinates":[9.61667,0.95],"type":"Point"}
+}

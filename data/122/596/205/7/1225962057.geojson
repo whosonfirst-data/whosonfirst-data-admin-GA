@@ -1,0 +1,61 @@
+{
+  "id": 1225962057,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.75,0.18333,9.75,0.18333",
+    "geom:latitude":0.18333,
+    "geom:longitude":9.75,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Mbolen-Nzork",
+    "gn:country_code":"GA",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2398893,
+    "gn:latitude":0.18333,
+    "gn:longitude":9.75,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Mbolen-Nzork",
+    "gn:population":0,
+    "gn:timezone":"Africa/Libreville",
+    "iso:country":"GA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2398893
+    },
+    "wof:country":"GA",
+    "wof:geomhash":"9e0acdb1396073d0e1d30512789cbb00",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1225962057,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1225962057,
+    "wof:lastmodified":1536844688,
+    "wof:name":"Mbolen-Nzork",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ga",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.75,
+    0.18333,
+    9.75,
+    0.18333
+],
+  "geometry": {"coordinates":[9.75,0.18333],"type":"Point"}
+}

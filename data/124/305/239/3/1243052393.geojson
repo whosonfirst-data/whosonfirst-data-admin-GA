@@ -1,0 +1,67 @@
+{
+  "id": 1243052393,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.9858,2.18875,11.9858,2.18875",
+    "geom:latitude":2.18875,
+    "geom:longitude":11.9858,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Akoulazork",
+    "gn:country_code":"GA",
+    "gn:dem":580,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2402442,
+    "gn:latitude":2.18875,
+    "gn:longitude":11.9858,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Akoulazork",
+    "gn:population":0,
+    "gn:timezone":"Africa/Libreville",
+    "iso:country":"GA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632407,
+        85671241,
+        1091910689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2402442
+    },
+    "wof:country":"GA",
+    "wof:geomhash":"675d64263e90e91e90115a7bda33ca77",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632407,
+            "county_id":1091910689,
+            "locality_id":1243052393,
+            "region_id":85671241
+        }
+    ],
+    "wof:id":1243052393,
+    "wof:lastmodified":1536875714,
+    "wof:name":"Akoulazork",
+    "wof:parent_id":1091910689,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ga",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.9858,
+    2.18875,
+    11.9858,
+    2.18875
+],
+  "geometry": {"coordinates":[11.9858,2.18875],"type":"Point"}
+}

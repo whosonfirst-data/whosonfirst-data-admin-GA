@@ -1,0 +1,67 @@
+{
+  "id": 1259708011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.6,-2.55,11.6,-2.55",
+    "geom:latitude":-2.55,
+    "geom:longitude":11.6,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Souka",
+    "gn:country_code":"GA",
+    "gn:dem":165,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2396290,
+    "gn:latitude":-2.55,
+    "gn:longitude":11.6,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Souka",
+    "gn:population":0,
+    "gn:timezone":"Africa/Libreville",
+    "iso:country":"GA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632541,
+        85670059,
+        1092013271
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2396290
+    },
+    "wof:country":"GA",
+    "wof:geomhash":"d6ca43576ade70efaa0d846cea33b58a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632541,
+            "county_id":1092013271,
+            "locality_id":1259708011,
+            "region_id":85670059
+        }
+    ],
+    "wof:id":1259708011,
+    "wof:lastmodified":1537030457,
+    "wof:name":"Souka",
+    "wof:parent_id":1092013271,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ga",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.6,
+    -2.55,
+    11.6,
+    -2.55
+],
+  "geometry": {"coordinates":[11.6,-2.55],"type":"Point"}
+}

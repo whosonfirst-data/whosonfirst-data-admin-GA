@@ -1,0 +1,67 @@
+{
+  "id": 1276241341,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.89576,-1.47722,13.89576,-1.47722",
+    "geom:latitude":-1.47722,
+    "geom:longitude":13.89576,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Lekei II",
+    "gn:country_code":"GA",
+    "gn:dem":638,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2399804,
+    "gn:latitude":-1.47722,
+    "gn:longitude":13.89576,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Leke\u00ef II",
+    "gn:population":0,
+    "gn:timezone":"Africa/Libreville",
+    "iso:country":"GA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632407,
+        85671257,
+        1091909101
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2399804
+    },
+    "wof:country":"GA",
+    "wof:geomhash":"b9314d51dc72b8102dd06dc64ae3c7ae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632407,
+            "county_id":1091909101,
+            "locality_id":1276241341,
+            "region_id":85671257
+        }
+    ],
+    "wof:id":1276241341,
+    "wof:lastmodified":1536901934,
+    "wof:name":"Lekei II",
+    "wof:parent_id":1091909101,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ga",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.89576,
+    -1.47722,
+    13.89576,
+    -1.47722
+],
+  "geometry": {"coordinates":[13.89576,-1.47722],"type":"Point"}
+}

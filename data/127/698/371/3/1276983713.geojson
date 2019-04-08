@@ -1,0 +1,72 @@
+{
+  "id": 1276983713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.7,-0.36667,13.7,-0.36667",
+    "geom:latitude":-0.36667,
+    "geom:longitude":13.7,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Opinda",
+    "gn:cc2":"GA",
+    "gn:country_code":"GA",
+    "gn:dem":462,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2396800,
+    "gn:latitude":-0.36667,
+    "gn:longitude":13.7,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Opinda",
+    "gn:population":0,
+    "gn:timezone":"Africa/Libreville",
+    "iso:country":"GA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Apinda",
+        "Opinda"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632407,
+        85671257,
+        1091909293
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2396800
+    },
+    "wof:country":"GA",
+    "wof:geomhash":"c30300d13a3aec4fe9bae153bb7de51c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632407,
+            "county_id":1091909293,
+            "locality_id":1276983713,
+            "region_id":85671257
+        }
+    ],
+    "wof:id":1276983713,
+    "wof:lastmodified":1537622891,
+    "wof:name":"Opinda",
+    "wof:parent_id":1091909293,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ga",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.7,
+    -0.36667,
+    13.7,
+    -0.36667
+],
+  "geometry": {"coordinates":[13.7,-0.36667],"type":"Point"}
+}

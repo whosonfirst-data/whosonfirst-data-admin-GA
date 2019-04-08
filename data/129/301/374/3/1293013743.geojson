@@ -1,0 +1,67 @@
+{
+  "id": 1293013743,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.2,-1.55,13.2,-1.55",
+    "geom:latitude":-1.55,
+    "geom:longitude":13.2,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Mavindji-Posso",
+    "gn:country_code":"GA",
+    "gn:dem":402,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2399036,
+    "gn:latitude":-1.55,
+    "gn:longitude":13.2,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Mavindji-Posso",
+    "gn:population":0,
+    "gn:timezone":"Africa/Libreville",
+    "iso:country":"GA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632407,
+        85671257,
+        1091908967
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2399036
+    },
+    "wof:country":"GA",
+    "wof:geomhash":"9b1dbf96e4ca92a7dd7d1549108ef934",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632407,
+            "county_id":1091908967,
+            "locality_id":1293013743,
+            "region_id":85671257
+        }
+    ],
+    "wof:id":1293013743,
+    "wof:lastmodified":1536972518,
+    "wof:name":"Mavindji-Posso",
+    "wof:parent_id":1091908967,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ga",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.2,
+    -1.55,
+    13.2,
+    -1.55
+],
+  "geometry": {"coordinates":[13.2,-1.55],"type":"Point"}
+}

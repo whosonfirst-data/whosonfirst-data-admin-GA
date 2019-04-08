@@ -1,0 +1,67 @@
+{
+  "id": 1293132689,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.49984,-3.27482,11.49984,-3.27482",
+    "geom:latitude":-3.27482,
+    "geom:longitude":11.49984,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Molito",
+    "gn:country_code":"GA",
+    "gn:dem":101,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2398232,
+    "gn:latitude":-3.27482,
+    "gn:longitude":11.49984,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Molito",
+    "gn:population":0,
+    "gn:timezone":"Africa/Libreville",
+    "iso:country":"GA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632407,
+        85671251,
+        1091910129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2398232
+    },
+    "wof:country":"GA",
+    "wof:geomhash":"a0394bd12fa7a911442712cc14684c16",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632407,
+            "county_id":1091910129,
+            "locality_id":1293132689,
+            "region_id":85671251
+        }
+    ],
+    "wof:id":1293132689,
+    "wof:lastmodified":1536801676,
+    "wof:name":"Molito",
+    "wof:parent_id":1091910129,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ga",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.49984,
+    -3.27482,
+    11.49984,
+    -3.27482
+],
+  "geometry": {"coordinates":[11.49984,-3.27482],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1326963289,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.92095,-1.33638,11.92095,-1.33638",
+    "geom:latitude":-1.33638,
+    "geom:longitude":11.92095,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Pounga",
+    "gn:country_code":"GA",
+    "gn:dem":596,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2396504,
+    "gn:latitude":-1.33638,
+    "gn:longitude":11.92095,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Pounga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Libreville",
+    "iso:country":"GA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632407,
+        85671265,
+        1091910409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2396504
+    },
+    "wof:country":"GA",
+    "wof:geomhash":"bbfb1022b172373ac784850970128ab3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632407,
+            "county_id":1091910409,
+            "locality_id":1326963289,
+            "region_id":85671265
+        }
+    ],
+    "wof:id":1326963289,
+    "wof:lastmodified":1536858804,
+    "wof:name":"Pounga",
+    "wof:parent_id":1091910409,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ga",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.92095,
+    -1.33638,
+    11.92095,
+    -1.33638
+],
+  "geometry": {"coordinates":[11.92095,-1.33638],"type":"Point"}
+}

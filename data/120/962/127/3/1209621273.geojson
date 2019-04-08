@@ -1,0 +1,65 @@
+{
+  "id": 1209621273,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.50574,-2.20827,11.50574,-2.20827",
+    "geom:latitude":-2.20827,
+    "geom:longitude":11.50574,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Kanda",
+    "gn:country_code":"GA",
+    "gn:dem":235,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2400139,
+    "gn:latitude":-2.20827,
+    "gn:longitude":11.50574,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Kanda",
+    "gn:population":0,
+    "gn:timezone":"Africa/Libreville",
+    "iso:country":"GA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Canda",
+        "Kanda"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632407
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2400139
+    },
+    "wof:country":"GA",
+    "wof:geomhash":"5563c7e7a021188cc36561a3221ff9ad",
+    "wof:hierarchy":[
+        {
+            "country_id":85632407,
+            "locality_id":1209621273
+        }
+    ],
+    "wof:id":1209621273,
+    "wof:lastmodified":1537622907,
+    "wof:name":"Kanda",
+    "wof:parent_id":85632407,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ga",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.50574,
+    -2.20827,
+    11.50574,
+    -2.20827
+],
+  "geometry": {"coordinates":[11.50574,-2.20827],"type":"Point"}
+}

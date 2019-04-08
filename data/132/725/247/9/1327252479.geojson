@@ -1,0 +1,67 @@
+{
+  "id": 1327252479,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.71807,1.72788,11.71807,1.72788",
+    "geom:latitude":1.72788,
+    "geom:longitude":11.71807,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Adzabassi",
+    "gn:country_code":"GA",
+    "gn:dem":639,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2402585,
+    "gn:latitude":1.72788,
+    "gn:longitude":11.71807,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Adzabassi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Libreville",
+    "iso:country":"GA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632407,
+        85671241,
+        1091910593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2402585
+    },
+    "wof:country":"GA",
+    "wof:geomhash":"7f1d084599781d3930e87b0b1a5c5d9a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632407,
+            "county_id":1091910593,
+            "locality_id":1327252479,
+            "region_id":85671241
+        }
+    ],
+    "wof:id":1327252479,
+    "wof:lastmodified":1536941224,
+    "wof:name":"Adzabassi",
+    "wof:parent_id":1091910593,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ga",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.71807,
+    1.72788,
+    11.71807,
+    1.72788
+],
+  "geometry": {"coordinates":[11.71807,1.72788],"type":"Point"}
+}

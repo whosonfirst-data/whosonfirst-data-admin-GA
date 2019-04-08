@@ -1,0 +1,72 @@
+{
+  "id": 1242580913,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.2,-1.61667,13.2,-1.61667",
+    "geom:latitude":-1.61667,
+    "geom:longitude":13.2,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Lekolo",
+    "gn:cc2":"GA",
+    "gn:country_code":"GA",
+    "gn:dem":458,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2399793,
+    "gn:latitude":-1.61667,
+    "gn:longitude":13.2,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"L\u00e9kolo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Libreville",
+    "iso:country":"GA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Grand L\u00e9kolo",
+        "L\u00e9kolo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632407,
+        85671257,
+        1091908967
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2399793
+    },
+    "wof:country":"GA",
+    "wof:geomhash":"a8245a8a84bab94bed9f6cbf7639b68d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632407,
+            "county_id":1091908967,
+            "locality_id":1242580913,
+            "region_id":85671257
+        }
+    ],
+    "wof:id":1242580913,
+    "wof:lastmodified":1537622905,
+    "wof:name":"Lekolo",
+    "wof:parent_id":1091908967,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ga",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.2,
+    -1.61667,
+    13.2,
+    -1.61667
+],
+  "geometry": {"coordinates":[13.2,-1.61667],"type":"Point"}
+}

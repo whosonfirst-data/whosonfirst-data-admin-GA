@@ -1,0 +1,67 @@
+{
+  "id": 1293522575,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.9,-2.13333,11.9,-2.13333",
+    "geom:latitude":-2.13333,
+    "geom:longitude":11.9,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Siba",
+    "gn:country_code":"GA",
+    "gn:dem":620,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2396348,
+    "gn:latitude":-2.13333,
+    "gn:longitude":11.9,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Siba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Libreville",
+    "iso:country":"GA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632407,
+        85671249,
+        1091909833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2396348
+    },
+    "wof:country":"GA",
+    "wof:geomhash":"bc68d4d2e8c245a5b6ebc097f00e3a5a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632407,
+            "county_id":1091909833,
+            "locality_id":1293522575,
+            "region_id":85671249
+        }
+    ],
+    "wof:id":1293522575,
+    "wof:lastmodified":1536736539,
+    "wof:name":"Siba",
+    "wof:parent_id":1091909833,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ga",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.9,
+    -2.13333,
+    11.9,
+    -2.13333
+],
+  "geometry": {"coordinates":[11.9,-2.13333],"type":"Point"}
+}

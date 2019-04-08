@@ -1,0 +1,67 @@
+{
+  "id": 1243004881,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.68381,-3.27086,10.68381,-3.27086",
+    "geom:latitude":-3.27086,
+    "geom:longitude":10.68381,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Ditoumba Nzambi",
+    "gn:country_code":"GA",
+    "gn:dem":42,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2401167,
+    "gn:latitude":-3.27086,
+    "gn:longitude":10.68381,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Ditoumba Nzambi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Libreville",
+    "iso:country":"GA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632407,
+        85671251,
+        1091909969
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2401167
+    },
+    "wof:country":"GA",
+    "wof:geomhash":"fd6aef319ca4504a11dc5b5217090b61",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632407,
+            "county_id":1091909969,
+            "locality_id":1243004881,
+            "region_id":85671251
+        }
+    ],
+    "wof:id":1243004881,
+    "wof:lastmodified":1536945662,
+    "wof:name":"Ditoumba Nzambi",
+    "wof:parent_id":1091909969,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ga",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.68381,
+    -3.27086,
+    10.68381,
+    -3.27086
+],
+  "geometry": {"coordinates":[10.68381,-3.27086],"type":"Point"}
+}

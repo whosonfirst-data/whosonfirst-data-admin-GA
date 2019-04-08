@@ -1,0 +1,67 @@
+{
+  "id": 1293390355,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.62766,-2.64402,11.62766,-2.64402",
+    "geom:latitude":-2.64402,
+    "geom:longitude":11.62766,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Doussala",
+    "gn:country_code":"GA",
+    "gn:dem":157,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2400975,
+    "gn:latitude":-2.64402,
+    "gn:longitude":11.62766,
+    "gn:modification_date":"2012-04-25",
+    "gn:name":"Doussala",
+    "gn:population":0,
+    "gn:timezone":"Africa/Libreville",
+    "iso:country":"GA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632541,
+        85670059,
+        1092013271
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2400975
+    },
+    "wof:country":"GA",
+    "wof:geomhash":"213567c34ae3ea5e16c9ecb4826d2094",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632541,
+            "county_id":1092013271,
+            "locality_id":1293390355,
+            "region_id":85670059
+        }
+    ],
+    "wof:id":1293390355,
+    "wof:lastmodified":1536927773,
+    "wof:name":"Doussala",
+    "wof:parent_id":1092013271,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ga",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.62766,
+    -2.64402,
+    11.62766,
+    -2.64402
+],
+  "geometry": {"coordinates":[11.62766,-2.64402],"type":"Point"}
+}

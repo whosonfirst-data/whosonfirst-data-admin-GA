@@ -1,0 +1,71 @@
+{
+  "id": 1243087697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.93094,-1.31647,9.93094,-1.31647",
+    "geom:latitude":-1.31647,
+    "geom:longitude":9.93094,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Dibouatinafala",
+    "gn:country_code":"GA",
+    "gn:dem":62,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2401261,
+    "gn:latitude":-1.31647,
+    "gn:longitude":9.93094,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Dibouatinafala",
+    "gn:population":0,
+    "gn:timezone":"Africa/Libreville",
+    "iso:country":"GA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dibotinafouala",
+        "Dibouatinafala"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632407,
+        85671255,
+        1091910509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2401261
+    },
+    "wof:country":"GA",
+    "wof:geomhash":"f4640055898a3e783b012ad1aea0b018",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632407,
+            "county_id":1091910509,
+            "locality_id":1243087697,
+            "region_id":85671255
+        }
+    ],
+    "wof:id":1243087697,
+    "wof:lastmodified":1537622914,
+    "wof:name":"Dibouatinafala",
+    "wof:parent_id":1091910509,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ga",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.93094,
+    -1.31647,
+    9.93094,
+    -1.31647
+],
+  "geometry": {"coordinates":[9.93094,-1.31647],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1360177919,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.20856,0.36975,12.20856,0.36975",
+    "geom:latitude":0.36975,
+    "geom:longitude":12.20856,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Bekou-Bekou",
+    "gn:country_code":"GA",
+    "gn:dem":470,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2401877,
+    "gn:latitude":0.36975,
+    "gn:longitude":12.20856,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Bekou-Bekou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Libreville",
+    "iso:country":"GA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632407,
+        85671237,
+        1091910271
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2401877
+    },
+    "wof:country":"GA",
+    "wof:geomhash":"ea1f286ef48736d2edf147dc60382b40",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632407,
+            "county_id":1091910271,
+            "locality_id":1360177919,
+            "region_id":85671237
+        }
+    ],
+    "wof:id":1360177919,
+    "wof:lastmodified":1536811264,
+    "wof:name":"Bekou-Bekou",
+    "wof:parent_id":1091910271,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ga",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.20856,
+    0.36975,
+    12.20856,
+    0.36975
+],
+  "geometry": {"coordinates":[12.20856,0.36975],"type":"Point"}
+}

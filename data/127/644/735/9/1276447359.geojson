@@ -1,0 +1,67 @@
+{
+  "id": 1276447359,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.79371,-3.53241,10.79371,-3.53241",
+    "geom:latitude":-3.53241,
+    "geom:longitude":10.79371,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Bende Passi Mogno",
+    "gn:country_code":"GA",
+    "gn:dem":25,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2401847,
+    "gn:latitude":-3.53241,
+    "gn:longitude":10.79371,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Bend\u00e9 Passi Mogno",
+    "gn:population":0,
+    "gn:timezone":"Africa/Libreville",
+    "iso:country":"GA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632407,
+        85671251,
+        1091909969
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2401847
+    },
+    "wof:country":"GA",
+    "wof:geomhash":"e95e5b53c7d67a4e3086497b2cdd71fe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632407,
+            "county_id":1091909969,
+            "locality_id":1276447359,
+            "region_id":85671251
+        }
+    ],
+    "wof:id":1276447359,
+    "wof:lastmodified":1536623791,
+    "wof:name":"Bende Passi Mogno",
+    "wof:parent_id":1091909969,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ga",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.79371,
+    -3.53241,
+    10.79371,
+    -3.53241
+],
+  "geometry": {"coordinates":[10.79371,-3.53241],"type":"Point"}
+}

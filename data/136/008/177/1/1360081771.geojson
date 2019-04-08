@@ -1,0 +1,72 @@
+{
+  "id": 1360081771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.36283,0.87118,11.36283,0.87118",
+    "geom:latitude":0.87118,
+    "geom:longitude":11.36283,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Ayol",
+    "gn:country_code":"GA",
+    "gn:dem":555,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2402073,
+    "gn:latitude":0.87118,
+    "gn:longitude":11.36283,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Ayol",
+    "gn:population":0,
+    "gn:timezone":"Africa/Libreville",
+    "iso:country":"GA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ayoul",
+        "Aijo",
+        "Ayol"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632407,
+        85671241,
+        1091910733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2402073
+    },
+    "wof:country":"GA",
+    "wof:geomhash":"4eb5b48d8eff08b035f38997732904ee",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632407,
+            "county_id":1091910733,
+            "locality_id":1360081771,
+            "region_id":85671241
+        }
+    ],
+    "wof:id":1360081771,
+    "wof:lastmodified":1537622917,
+    "wof:name":"Ayol",
+    "wof:parent_id":1091910733,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ga",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.36283,
+    0.87118,
+    11.36283,
+    0.87118
+],
+  "geometry": {"coordinates":[11.36283,0.87118],"type":"Point"}
+}

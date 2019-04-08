@@ -1,0 +1,64 @@
+{
+  "id": 1259703661,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.43524,-2.08168,9.43524,-2.08168",
+    "geom:latitude":-2.08168,
+    "geom:longitude":9.43524,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Tassi",
+    "gn:country_code":"GA",
+    "gn:dem":2,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2396263,
+    "gn:latitude":-2.08168,
+    "gn:longitude":9.43524,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Tassi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Libreville",
+    "iso:country":"GA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632407
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2396263
+    },
+    "wof:country":"GA",
+    "wof:geomhash":"cb48bb2e81f1bbf6f6b0341e5ede8dae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632407,
+            "locality_id":1259703661,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1259703661,
+    "wof:lastmodified":1537036471,
+    "wof:name":"Tassi",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ga",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.43524,
+    -2.08168,
+    9.43524,
+    -2.08168
+],
+  "geometry": {"coordinates":[9.43524,-2.08168],"type":"Point"}
+}

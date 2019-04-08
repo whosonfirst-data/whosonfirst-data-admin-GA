@@ -1,0 +1,67 @@
+{
+  "id": 1276861253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.4408,1.62173,11.4408,1.62173",
+    "geom:latitude":1.62173,
+    "geom:longitude":11.4408,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Ingasse",
+    "gn:country_code":"GA",
+    "gn:dem":648,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2400289,
+    "gn:latitude":1.62173,
+    "gn:longitude":11.4408,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Ingasse",
+    "gn:population":0,
+    "gn:timezone":"Africa/Libreville",
+    "iso:country":"GA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632407,
+        85671241,
+        1091910593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2400289
+    },
+    "wof:country":"GA",
+    "wof:geomhash":"7301b90520e4fe28f6ca2e18aa5819e8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632407,
+            "county_id":1091910593,
+            "locality_id":1276861253,
+            "region_id":85671241
+        }
+    ],
+    "wof:id":1276861253,
+    "wof:lastmodified":1537063269,
+    "wof:name":"Ingasse",
+    "wof:parent_id":1091910593,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ga",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.4408,
+    1.62173,
+    11.4408,
+    1.62173
+],
+  "geometry": {"coordinates":[11.4408,1.62173],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1210012077,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.59056,-0.92313,9.59056,-0.92313",
+    "geom:latitude":-0.92313,
+    "geom:longitude":9.59056,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Esende",
+    "gn:country_code":"GA",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2400717,
+    "gn:latitude":-0.92313,
+    "gn:longitude":9.59056,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Esende",
+    "gn:population":0,
+    "gn:timezone":"Africa/Libreville",
+    "iso:country":"GA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632407,
+        85671255,
+        421181245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2400717
+    },
+    "wof:country":"GA",
+    "wof:geomhash":"76daf853c30d53f0b689dc06eaf091e7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632407,
+            "county_id":421181245,
+            "locality_id":1210012077,
+            "region_id":85671255
+        }
+    ],
+    "wof:id":1210012077,
+    "wof:lastmodified":1536396746,
+    "wof:name":"Esende",
+    "wof:parent_id":421181245,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ga",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.59056,
+    -0.92313,
+    9.59056,
+    -0.92313
+],
+  "geometry": {"coordinates":[9.59056,-0.92313],"type":"Point"}
+}

@@ -1,0 +1,84 @@
+{
+  "id": 1242970211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.7194,-3.17387,11.7194,-3.17387",
+    "geom:latitude":-3.17387,
+    "geom:longitude":11.7194,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Ndendi",
+    "gn:country_code":"GA",
+    "gn:dem":173,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2397690,
+    "gn:latitude":-3.17387,
+    "gn:longitude":11.7194,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Ndendi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Libreville",
+    "iso:country":"GA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632407,
+        85671251,
+        1091910083,
+        85632541,
+        85670059,
+        1092013319
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2397690
+    },
+    "wof:country":"GA",
+    "wof:geomhash":"c5b529564110868a1d70005ed878457b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632407,
+            "county_id":1091910083,
+            "locality_id":1242970211,
+            "region_id":85671251
+        },
+        {
+            "continent_id":102191573,
+            "country_id":85632541,
+            "county_id":1091910083,
+            "locality_id":1242970211,
+            "region_id":85670059
+        },
+        {
+            "continent_id":102191573,
+            "country_id":85632541,
+            "county_id":1092013319,
+            "locality_id":1242970211,
+            "region_id":85670059
+        }
+    ],
+    "wof:id":1242970211,
+    "wof:lastmodified":1536994355,
+    "wof:name":"Ndendi",
+    "wof:parent_id":-4,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ga",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.7194,
+    -3.17387,
+    11.7194,
+    -3.17387
+],
+  "geometry": {"coordinates":[11.7194,-3.17387],"type":"Point"}
+}

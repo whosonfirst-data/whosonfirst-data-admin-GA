@@ -1,0 +1,72 @@
+{
+  "id": 1226047441,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.08333,-2.43333,11.08333,-2.43333",
+    "geom:latitude":-2.43333,
+    "geom:longitude":11.08333,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Mangounga",
+    "gn:cc2":"GA",
+    "gn:country_code":"GA",
+    "gn:dem":317,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2399188,
+    "gn:latitude":-2.43333,
+    "gn:longitude":11.08333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Mangounga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Libreville",
+    "iso:country":"GA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Magounga",
+        "Mangounga"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632407,
+        85671251,
+        1091910047
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2399188
+    },
+    "wof:country":"GA",
+    "wof:geomhash":"d110cb728bd0fff560c1abf05527ee0b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632407,
+            "county_id":1091910047,
+            "locality_id":1226047441,
+            "region_id":85671251
+        }
+    ],
+    "wof:id":1226047441,
+    "wof:lastmodified":1537622902,
+    "wof:name":"Mangounga",
+    "wof:parent_id":1091910047,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ga",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.08333,
+    -2.43333,
+    11.08333,
+    -2.43333
+],
+  "geometry": {"coordinates":[11.08333,-2.43333],"type":"Point"}
+}

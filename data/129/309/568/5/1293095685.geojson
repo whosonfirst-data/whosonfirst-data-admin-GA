@@ -1,0 +1,67 @@
+{
+  "id": 1293095685,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.89411,-0.82803,12.89411,-0.82803",
+    "geom:latitude":-0.82803,
+    "geom:longitude":12.89411,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Mikengue",
+    "gn:country_code":"GA",
+    "gn:dem":252,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2398492,
+    "gn:latitude":-0.82803,
+    "gn:longitude":12.89411,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Mikengu\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Libreville",
+    "iso:country":"GA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632407,
+        85671265,
+        1091910455
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2398492
+    },
+    "wof:country":"GA",
+    "wof:geomhash":"3cb6c96bfd9c48a7e099405b2fbd3e1a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632407,
+            "county_id":1091910455,
+            "locality_id":1293095685,
+            "region_id":85671265
+        }
+    ],
+    "wof:id":1293095685,
+    "wof:lastmodified":1536853849,
+    "wof:name":"Mikengue",
+    "wof:parent_id":1091910455,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ga",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.89411,
+    -0.82803,
+    12.89411,
+    -0.82803
+],
+  "geometry": {"coordinates":[12.89411,-0.82803],"type":"Point"}
+}

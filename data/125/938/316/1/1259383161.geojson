@@ -1,0 +1,67 @@
+{
+  "id": 1259383161,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.98333,-1.65,11.98333,-1.65",
+    "geom:latitude":-1.65,
+    "geom:longitude":11.98333,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Tchengue",
+    "gn:country_code":"GA",
+    "gn:dem":734,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2396256,
+    "gn:latitude":-1.65,
+    "gn:longitude":11.98333,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Tchengu\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Libreville",
+    "iso:country":"GA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632407,
+        85671249,
+        1091909833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2396256
+    },
+    "wof:country":"GA",
+    "wof:geomhash":"eb5dfee776cc3471e262a69c105d2171",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632407,
+            "county_id":1091909833,
+            "locality_id":1259383161,
+            "region_id":85671249
+        }
+    ],
+    "wof:id":1259383161,
+    "wof:lastmodified":1537001972,
+    "wof:name":"Tchengue",
+    "wof:parent_id":1091909833,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ga",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.98333,
+    -1.65,
+    11.98333,
+    -1.65
+],
+  "geometry": {"coordinates":[11.98333,-1.65],"type":"Point"}
+}

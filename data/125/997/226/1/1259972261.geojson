@@ -1,0 +1,67 @@
+{
+  "id": 1259972261,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.95592,0.53397,12.95592,0.53397",
+    "geom:latitude":0.53397,
+    "geom:longitude":12.95592,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Etakaniabe",
+    "gn:country_code":"GA",
+    "gn:dem":515,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2400678,
+    "gn:latitude":0.53397,
+    "gn:longitude":12.95592,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Etakaniab\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Libreville",
+    "iso:country":"GA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632407,
+        85671237,
+        1091910169
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2400678
+    },
+    "wof:country":"GA",
+    "wof:geomhash":"5dd4c866a2444f9175babec92aa8d4df",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632407,
+            "county_id":1091910169,
+            "locality_id":1259972261,
+            "region_id":85671237
+        }
+    ],
+    "wof:id":1259972261,
+    "wof:lastmodified":1536651139,
+    "wof:name":"Etakaniabe",
+    "wof:parent_id":1091910169,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ga",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.95592,
+    0.53397,
+    12.95592,
+    0.53397
+],
+  "geometry": {"coordinates":[12.95592,0.53397],"type":"Point"}
+}

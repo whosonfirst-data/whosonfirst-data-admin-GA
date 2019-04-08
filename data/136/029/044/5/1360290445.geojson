@@ -1,0 +1,67 @@
+{
+  "id": 1360290445,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.48806,-2.93135,10.48806,-2.93135",
+    "geom:latitude":-2.93135,
+    "geom:longitude":10.48806,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Dougou Mamba",
+    "gn:country_code":"GA",
+    "gn:dem":27,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2401026,
+    "gn:latitude":-2.93135,
+    "gn:longitude":10.48806,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Dougou Mamba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Libreville",
+    "iso:country":"GA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632407,
+        85671255,
+        1091910563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2401026
+    },
+    "wof:country":"GA",
+    "wof:geomhash":"77a0d27fe8db7ea8ee94486d09a6c94f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632407,
+            "county_id":1091910563,
+            "locality_id":1360290445,
+            "region_id":85671255
+        }
+    ],
+    "wof:id":1360290445,
+    "wof:lastmodified":1536649044,
+    "wof:name":"Dougou Mamba",
+    "wof:parent_id":1091910563,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ga",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.48806,
+    -2.93135,
+    10.48806,
+    -2.93135
+],
+  "geometry": {"coordinates":[10.48806,-2.93135],"type":"Point"}
+}

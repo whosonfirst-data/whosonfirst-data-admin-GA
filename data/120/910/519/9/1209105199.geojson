@@ -1,0 +1,61 @@
+{
+  "id": 1209105199,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.94154,-2.99315,10.94154,-2.99315",
+    "geom:latitude":-2.99315,
+    "geom:longitude":10.94154,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Mounanga",
+    "gn:country_code":"GA",
+    "gn:dem":126,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2397972,
+    "gn:latitude":-2.99315,
+    "gn:longitude":10.94154,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Mounanga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Libreville",
+    "iso:country":"GA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632407
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2397972
+    },
+    "wof:country":"GA",
+    "wof:geomhash":"8d96f665375c3a30094ee6725b8f1b22",
+    "wof:hierarchy":[
+        {
+            "country_id":85632407,
+            "locality_id":1209105199
+        }
+    ],
+    "wof:id":1209105199,
+    "wof:lastmodified":1536297597,
+    "wof:name":"Mounanga",
+    "wof:parent_id":85632407,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ga",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.94154,
+    -2.99315,
+    10.94154,
+    -2.99315
+],
+  "geometry": {"coordinates":[10.94154,-2.99315],"type":"Point"}
+}

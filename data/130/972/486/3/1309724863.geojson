@@ -1,0 +1,71 @@
+{
+  "id": 1309724863,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.74661,-0.64048,13.74661,-0.64048",
+    "geom:latitude":-0.64048,
+    "geom:longitude":13.74661,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Ossinga II",
+    "gn:country_code":"GA",
+    "gn:dem":338,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2396774,
+    "gn:latitude":-0.64048,
+    "gn:longitude":13.74661,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Ossinga II",
+    "gn:population":0,
+    "gn:timezone":"Africa/Libreville",
+    "iso:country":"GA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ossinga",
+        "Ossinga II"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632407,
+        85671257,
+        1091909293
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2396774
+    },
+    "wof:country":"GA",
+    "wof:geomhash":"1f030cb933e95ea9c7ba7a48cddebba7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632407,
+            "county_id":1091909293,
+            "locality_id":1309724863,
+            "region_id":85671257
+        }
+    ],
+    "wof:id":1309724863,
+    "wof:lastmodified":1537622891,
+    "wof:name":"Ossinga II",
+    "wof:parent_id":1091909293,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ga",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.74661,
+    -0.64048,
+    13.74661,
+    -0.64048
+],
+  "geometry": {"coordinates":[13.74661,-0.64048],"type":"Point"}
+}

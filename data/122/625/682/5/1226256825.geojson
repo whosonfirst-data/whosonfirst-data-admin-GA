@@ -1,0 +1,67 @@
+{
+  "id": 1226256825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.23333,0.08333,10.23333,0.08333",
+    "geom:latitude":0.08333,
+    "geom:longitude":10.23333,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Nzeng-Bour",
+    "gn:country_code":"GA",
+    "gn:dem":28,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2397075,
+    "gn:latitude":0.08333,
+    "gn:longitude":10.23333,
+    "gn:modification_date":"2011-01-14",
+    "gn:name":"Nzeng-Bour",
+    "gn:population":0,
+    "gn:timezone":"Africa/Libreville",
+    "iso:country":"GA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632407,
+        85671235,
+        1091908823
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2397075
+    },
+    "wof:country":"GA",
+    "wof:geomhash":"c2e7573328487f8cc28e41cf867d5254",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632407,
+            "county_id":1091908823,
+            "locality_id":1226256825,
+            "region_id":85671235
+        }
+    ],
+    "wof:id":1226256825,
+    "wof:lastmodified":1536918131,
+    "wof:name":"Nzeng-Bour",
+    "wof:parent_id":1091908823,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ga",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.23333,
+    0.08333,
+    10.23333,
+    0.08333
+],
+  "geometry": {"coordinates":[10.23333,0.08333],"type":"Point"}
+}

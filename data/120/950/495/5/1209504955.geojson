@@ -1,0 +1,61 @@
+{
+  "id": 1209504955,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.61772,1.81588,11.61772,1.81588",
+    "geom:latitude":1.81588,
+    "geom:longitude":11.61772,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Koumassi",
+    "gn:country_code":"GA",
+    "gn:dem":603,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2399945,
+    "gn:latitude":1.81588,
+    "gn:longitude":11.61772,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Koumassi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Libreville",
+    "iso:country":"GA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632407
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2399945
+    },
+    "wof:country":"GA",
+    "wof:geomhash":"4fd1a978a1f473a3b8ead9ed5a68beb8",
+    "wof:hierarchy":[
+        {
+            "country_id":85632407,
+            "locality_id":1209504955
+        }
+    ],
+    "wof:id":1209504955,
+    "wof:lastmodified":1536285063,
+    "wof:name":"Koumassi",
+    "wof:parent_id":85632407,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ga",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.61772,
+    1.81588,
+    11.61772,
+    1.81588
+],
+  "geometry": {"coordinates":[11.61772,1.81588],"type":"Point"}
+}

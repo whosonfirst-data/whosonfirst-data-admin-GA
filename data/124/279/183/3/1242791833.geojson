@@ -1,0 +1,70 @@
+{
+  "id": 1242791833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.07699,0.18932,10.07699,0.18932",
+    "geom:latitude":0.18932,
+    "geom:longitude":10.07699,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Kouame",
+    "gn:country_code":"GA",
+    "gn:dem":32,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2399975,
+    "gn:latitude":0.18932,
+    "gn:longitude":10.07699,
+    "gn:modification_date":"2013-10-06",
+    "gn:name":"Kouame",
+    "gn:population":0,
+    "gn:timezone":"Africa/Libreville",
+    "iso:country":"GA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kouam\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632407,
+        85671235,
+        1091908823
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2399975
+    },
+    "wof:country":"GA",
+    "wof:geomhash":"650d0d9cc95f95e74f01a067af061327",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632407,
+            "county_id":1091908823,
+            "locality_id":1242791833,
+            "region_id":85671235
+        }
+    ],
+    "wof:id":1242791833,
+    "wof:lastmodified":1537622906,
+    "wof:name":"Kouame",
+    "wof:parent_id":1091908823,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ga",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.07699,
+    0.18932,
+    10.07699,
+    0.18932
+],
+  "geometry": {"coordinates":[10.07699,0.18932],"type":"Point"}
+}

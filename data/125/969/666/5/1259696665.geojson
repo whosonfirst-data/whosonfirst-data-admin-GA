@@ -1,0 +1,71 @@
+{
+  "id": 1259696665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.77276,-1.60244,13.77276,-1.60244",
+    "geom:latitude":-1.60244,
+    "geom:longitude":13.77276,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Kelle I",
+    "gn:country_code":"GA",
+    "gn:dem":438,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2400098,
+    "gn:latitude":-1.60244,
+    "gn:longitude":13.77276,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Kell\u00e9 I",
+    "gn:population":0,
+    "gn:timezone":"Africa/Libreville",
+    "iso:country":"GA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kell\u00e9",
+        "Kell\u00e9 I"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632407,
+        85671257,
+        1091909101
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2400098
+    },
+    "wof:country":"GA",
+    "wof:geomhash":"a9f28916905cc0113a851f8ddadaefde",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632407,
+            "county_id":1091909101,
+            "locality_id":1259696665,
+            "region_id":85671257
+        }
+    ],
+    "wof:id":1259696665,
+    "wof:lastmodified":1537622907,
+    "wof:name":"Kelle I",
+    "wof:parent_id":1091909101,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ga",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.77276,
+    -1.60244,
+    13.77276,
+    -1.60244
+],
+  "geometry": {"coordinates":[13.77276,-1.60244],"type":"Point"}
+}

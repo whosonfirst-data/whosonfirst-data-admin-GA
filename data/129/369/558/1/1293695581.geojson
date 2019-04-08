@@ -1,0 +1,68 @@
+{
+  "id": 1293695581,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.02052,-1.82703,13.02052,-1.82703",
+    "geom:latitude":-1.82703,
+    "geom:longitude":13.02052,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Bakoumba",
+    "gn:country_code":"GA",
+    "gn:dem":609,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8260633,
+    "gn:latitude":-1.82703,
+    "gn:longitude":13.02052,
+    "gn:modification_date":"2012-04-25",
+    "gn:name":"Bakoumba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Libreville",
+    "iso:country":"GA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632407,
+        85671257,
+        1091909017
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8260633,
+        "wk:page":"Bakoumba"
+    },
+    "wof:country":"GA",
+    "wof:geomhash":"154ebd90741bca973e4f2f9f553a16cd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632407,
+            "county_id":1091909017,
+            "locality_id":1293695581,
+            "region_id":85671257
+        }
+    ],
+    "wof:id":1293695581,
+    "wof:lastmodified":1537562898,
+    "wof:name":"Bakoumba",
+    "wof:parent_id":1091909017,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ga",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.02052,
+    -1.82703,
+    13.02052,
+    -1.82703
+],
+  "geometry": {"coordinates":[13.02052,-1.82703],"type":"Point"}
+}

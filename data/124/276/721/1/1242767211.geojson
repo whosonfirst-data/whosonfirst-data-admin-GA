@@ -1,0 +1,67 @@
+{
+  "id": 1242767211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.37918,2.05016,11.37918,2.05016",
+    "geom:latitude":2.05016,
+    "geom:longitude":11.37918,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Metui",
+    "gn:country_code":"GA",
+    "gn:dem":612,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2398623,
+    "gn:latitude":2.05016,
+    "gn:longitude":11.37918,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"M\u00e9tui",
+    "gn:population":0,
+    "gn:timezone":"Africa/Libreville",
+    "iso:country":"GA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632407,
+        85671241,
+        1091910639
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2398623
+    },
+    "wof:country":"GA",
+    "wof:geomhash":"98e043e7f0ed1595c1d47997a7001674",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632407,
+            "county_id":1091910639,
+            "locality_id":1242767211,
+            "region_id":85671241
+        }
+    ],
+    "wof:id":1242767211,
+    "wof:lastmodified":1536790961,
+    "wof:name":"Metui",
+    "wof:parent_id":1091910639,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ga",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.37918,
+    2.05016,
+    11.37918,
+    2.05016
+],
+  "geometry": {"coordinates":[11.37918,2.05016],"type":"Point"}
+}

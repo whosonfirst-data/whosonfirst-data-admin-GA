@@ -1,0 +1,67 @@
+{
+  "id": 1242667193,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.39806,1.56185,11.39806,1.56185",
+    "geom:latitude":1.56185,
+    "geom:longitude":11.39806,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Melene",
+    "gn:country_code":"GA",
+    "gn:dem":666,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2398715,
+    "gn:latitude":1.56185,
+    "gn:longitude":11.39806,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Mel\u00e8ne",
+    "gn:population":0,
+    "gn:timezone":"Africa/Libreville",
+    "iso:country":"GA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632407,
+        85671241,
+        1091910593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2398715
+    },
+    "wof:country":"GA",
+    "wof:geomhash":"7d9a9379d08a3b6b8e67c66be43fabb9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632407,
+            "county_id":1091910593,
+            "locality_id":1242667193,
+            "region_id":85671241
+        }
+    ],
+    "wof:id":1242667193,
+    "wof:lastmodified":1536935527,
+    "wof:name":"Melene",
+    "wof:parent_id":1091910593,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ga",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.39806,
+    1.56185,
+    11.39806,
+    1.56185
+],
+  "geometry": {"coordinates":[11.39806,1.56185],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1243057579,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.34353,1.98207,11.34353,1.98207",
+    "geom:latitude":1.98207,
+    "geom:longitude":11.34353,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Adzabilone",
+    "gn:country_code":"GA",
+    "gn:dem":592,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2402577,
+    "gn:latitude":1.98207,
+    "gn:longitude":11.34353,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Adzabilone",
+    "gn:population":0,
+    "gn:timezone":"Africa/Libreville",
+    "iso:country":"GA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632407,
+        85671241,
+        1091910639
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2402577
+    },
+    "wof:country":"GA",
+    "wof:geomhash":"d32263788e1199a629ec6058e86d2c93",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632407,
+            "county_id":1091910639,
+            "locality_id":1243057579,
+            "region_id":85671241
+        }
+    ],
+    "wof:id":1243057579,
+    "wof:lastmodified":1536867933,
+    "wof:name":"Adzabilone",
+    "wof:parent_id":1091910639,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ga",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.34353,
+    1.98207,
+    11.34353,
+    1.98207
+],
+  "geometry": {"coordinates":[11.34353,1.98207],"type":"Point"}
+}

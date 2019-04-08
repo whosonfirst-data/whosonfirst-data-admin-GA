@@ -1,0 +1,67 @@
+{
+  "id": 1226234921,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.78333,0.56667,12.78333,0.56667",
+    "geom:latitude":0.56667,
+    "geom:longitude":12.78333,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Akougoubilye",
+    "gn:country_code":"GA",
+    "gn:dem":531,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2402444,
+    "gn:latitude":0.56667,
+    "gn:longitude":12.78333,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Akougoubily\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Libreville",
+    "iso:country":"GA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632407,
+        85671237,
+        1091910169
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2402444
+    },
+    "wof:country":"GA",
+    "wof:geomhash":"23bfc5a88b813984785725225cce49b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632407,
+            "county_id":1091910169,
+            "locality_id":1226234921,
+            "region_id":85671237
+        }
+    ],
+    "wof:id":1226234921,
+    "wof:lastmodified":1536949527,
+    "wof:name":"Akougoubilye",
+    "wof:parent_id":1091910169,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ga",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.78333,
+    0.56667,
+    12.78333,
+    0.56667
+],
+  "geometry": {"coordinates":[12.78333,0.56667],"type":"Point"}
+}

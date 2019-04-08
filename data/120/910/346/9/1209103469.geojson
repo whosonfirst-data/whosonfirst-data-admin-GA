@@ -1,0 +1,61 @@
+{
+  "id": 1209103469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.05,0.75,14.05,0.75",
+    "geom:latitude":0.75,
+    "geom:longitude":14.05,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Djokoloudja I",
+    "gn:country_code":"GA",
+    "gn:dem":534,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2401126,
+    "gn:latitude":0.75,
+    "gn:longitude":14.05,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Djokoloudja I",
+    "gn:population":0,
+    "gn:timezone":"Africa/Libreville",
+    "iso:country":"GA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632407
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2401126
+    },
+    "wof:country":"GA",
+    "wof:geomhash":"d81896603a111306d3ec64f56bd17533",
+    "wof:hierarchy":[
+        {
+            "country_id":85632407,
+            "locality_id":1209103469
+        }
+    ],
+    "wof:id":1209103469,
+    "wof:lastmodified":1536297656,
+    "wof:name":"Djokoloudja I",
+    "wof:parent_id":85632407,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ga",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.05,
+    0.75,
+    14.05,
+    0.75
+],
+  "geometry": {"coordinates":[14.05,0.75],"type":"Point"}
+}

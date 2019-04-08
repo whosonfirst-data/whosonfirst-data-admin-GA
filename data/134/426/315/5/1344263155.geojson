@@ -1,0 +1,67 @@
+{
+  "id": 1344263155,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.41252,-2.26229,11.41252,-2.26229",
+    "geom:latitude":-2.26229,
+    "geom:longitude":11.41252,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Moussambo",
+    "gn:country_code":"GA",
+    "gn:dem":172,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2397917,
+    "gn:latitude":-2.26229,
+    "gn:longitude":11.41252,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Moussambo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Libreville",
+    "iso:country":"GA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632407,
+        85671249,
+        1091909707
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2397917
+    },
+    "wof:country":"GA",
+    "wof:geomhash":"8ed6e2b085a8c563c7e6e5ea6d6e5b68",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632407,
+            "county_id":1091909707,
+            "locality_id":1344263155,
+            "region_id":85671249
+        }
+    ],
+    "wof:id":1344263155,
+    "wof:lastmodified":1537077107,
+    "wof:name":"Moussambo",
+    "wof:parent_id":1091909707,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ga",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.41252,
+    -2.26229,
+    11.41252,
+    -2.26229
+],
+  "geometry": {"coordinates":[11.41252,-2.26229],"type":"Point"}
+}

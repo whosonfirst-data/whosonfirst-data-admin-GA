@@ -1,0 +1,61 @@
+{
+  "id": 1209198773,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.63598,1.93859,11.63598,1.93859",
+    "geom:latitude":1.93859,
+    "geom:longitude":11.63598,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Bikang",
+    "gn:country_code":"GA",
+    "gn:dem":615,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2401722,
+    "gn:latitude":1.93859,
+    "gn:longitude":11.63598,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Bikang",
+    "gn:population":0,
+    "gn:timezone":"Africa/Libreville",
+    "iso:country":"GA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632407
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2401722
+    },
+    "wof:country":"GA",
+    "wof:geomhash":"ab9cbc846ba767e8533bd8319c54a436",
+    "wof:hierarchy":[
+        {
+            "country_id":85632407,
+            "locality_id":1209198773
+        }
+    ],
+    "wof:id":1209198773,
+    "wof:lastmodified":1536294682,
+    "wof:name":"Bikang",
+    "wof:parent_id":85632407,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ga",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.63598,
+    1.93859,
+    11.63598,
+    1.93859
+],
+  "geometry": {"coordinates":[11.63598,1.93859],"type":"Point"}
+}

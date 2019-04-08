@@ -1,0 +1,67 @@
+{
+  "id": 1343850755,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.84671,0.57316,12.84671,0.57316",
+    "geom:latitude":0.57316,
+    "geom:longitude":12.84671,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Nzingmeyong",
+    "gn:country_code":"GA",
+    "gn:dem":510,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2397056,
+    "gn:latitude":0.57316,
+    "gn:longitude":12.84671,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Nzingmeyong",
+    "gn:population":0,
+    "gn:timezone":"Africa/Libreville",
+    "iso:country":"GA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632407,
+        85671237,
+        1091910169
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2397056
+    },
+    "wof:country":"GA",
+    "wof:geomhash":"43a839d5bf593b17cc0c25bc6cae1138",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632407,
+            "county_id":1091910169,
+            "locality_id":1343850755,
+            "region_id":85671237
+        }
+    ],
+    "wof:id":1343850755,
+    "wof:lastmodified":1536680608,
+    "wof:name":"Nzingmeyong",
+    "wof:parent_id":1091910169,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ga",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.84671,
+    0.57316,
+    12.84671,
+    0.57316
+],
+  "geometry": {"coordinates":[12.84671,0.57316],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1242679497,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.83187,-0.84163,9.83187,-0.84163",
+    "geom:latitude":-0.84163,
+    "geom:longitude":9.83187,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Iguendjo",
+    "gn:country_code":"GA",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2400367,
+    "gn:latitude":-0.84163,
+    "gn:longitude":9.83187,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Iguendjo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Libreville",
+    "iso:country":"GA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632407,
+        85671247,
+        1091909431
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2400367
+    },
+    "wof:country":"GA",
+    "wof:geomhash":"58de2241d842b7d8880a21a2d32abbb1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632407,
+            "county_id":1091909431,
+            "locality_id":1242679497,
+            "region_id":85671247
+        }
+    ],
+    "wof:id":1242679497,
+    "wof:lastmodified":1536917550,
+    "wof:name":"Iguendjo",
+    "wof:parent_id":1091909431,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ga",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.83187,
+    -0.84163,
+    9.83187,
+    -0.84163
+],
+  "geometry": {"coordinates":[9.83187,-0.84163],"type":"Point"}
+}

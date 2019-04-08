@@ -1,0 +1,67 @@
+{
+  "id": 1343550979,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.38333,2.2,11.38333,2.2",
+    "geom:latitude":2.2,
+    "geom:longitude":11.38333,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Bikas Essangui",
+    "gn:country_code":"GA",
+    "gn:dem":602,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2401720,
+    "gn:latitude":2.2,
+    "gn:longitude":11.38333,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Bikas Essangui",
+    "gn:population":0,
+    "gn:timezone":"Africa/Libreville",
+    "iso:country":"GA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632407,
+        85671241,
+        1091910639
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2401720
+    },
+    "wof:country":"GA",
+    "wof:geomhash":"25e6909eb9d2cf96bdb8c3fccb7ab48a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632407,
+            "county_id":1091910639,
+            "locality_id":1343550979,
+            "region_id":85671241
+        }
+    ],
+    "wof:id":1343550979,
+    "wof:lastmodified":1536613193,
+    "wof:name":"Bikas Essangui",
+    "wof:parent_id":1091910639,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ga",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.38333,
+    2.2,
+    11.38333,
+    2.2
+],
+  "geometry": {"coordinates":[11.38333,2.2],"type":"Point"}
+}

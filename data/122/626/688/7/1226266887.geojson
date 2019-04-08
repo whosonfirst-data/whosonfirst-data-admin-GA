@@ -1,0 +1,67 @@
+{
+  "id": 1226266887,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.8,-2.23333,11.8,-2.23333",
+    "geom:latitude":-2.23333,
+    "geom:longitude":11.8,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Bouloula",
+    "gn:country_code":"GA",
+    "gn:dem":415,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2401451,
+    "gn:latitude":-2.23333,
+    "gn:longitude":11.8,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Bouloula",
+    "gn:population":0,
+    "gn:timezone":"Africa/Libreville",
+    "iso:country":"GA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632407,
+        85671249,
+        1091909833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2401451
+    },
+    "wof:country":"GA",
+    "wof:geomhash":"4df976bf757c2902db0d1a7affbf8018",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632407,
+            "county_id":1091909833,
+            "locality_id":1226266887,
+            "region_id":85671249
+        }
+    ],
+    "wof:id":1226266887,
+    "wof:lastmodified":1536903308,
+    "wof:name":"Bouloula",
+    "wof:parent_id":1091909833,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ga",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.8,
+    -2.23333,
+    11.8,
+    -2.23333
+],
+  "geometry": {"coordinates":[11.8,-2.23333],"type":"Point"}
+}

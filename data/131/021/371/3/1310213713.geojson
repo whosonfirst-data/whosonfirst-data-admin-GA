@@ -1,0 +1,71 @@
+{
+  "id": 1310213713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.69327,-1.61265,13.69327,-1.61265",
+    "geom:latitude":-1.61265,
+    "geom:longitude":13.69327,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Lengori",
+    "gn:country_code":"GA",
+    "gn:dem":408,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2399757,
+    "gn:latitude":-1.61265,
+    "gn:longitude":13.69327,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Lengori",
+    "gn:population":0,
+    "gn:timezone":"Africa/Libreville",
+    "iso:country":"GA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lengori I",
+        "Lengori"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632407,
+        85671257,
+        1091908919
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2399757
+    },
+    "wof:country":"GA",
+    "wof:geomhash":"5bb2271ce7dc093e015e92490a561850",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632407,
+            "county_id":1091908919,
+            "locality_id":1310213713,
+            "region_id":85671257
+        }
+    ],
+    "wof:id":1310213713,
+    "wof:lastmodified":1537622905,
+    "wof:name":"Lengori",
+    "wof:parent_id":1091908919,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ga",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.69327,
+    -1.61265,
+    13.69327,
+    -1.61265
+],
+  "geometry": {"coordinates":[13.69327,-1.61265],"type":"Point"}
+}

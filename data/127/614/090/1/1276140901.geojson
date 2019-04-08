@@ -1,0 +1,67 @@
+{
+  "id": 1276140901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.36667,2.16667,11.36667,2.16667",
+    "geom:latitude":2.16667,
+    "geom:longitude":11.36667,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Meboko",
+    "gn:country_code":"GA",
+    "gn:dem":572,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2398808,
+    "gn:latitude":2.16667,
+    "gn:longitude":11.36667,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"M\u00e9boko",
+    "gn:population":0,
+    "gn:timezone":"Africa/Libreville",
+    "iso:country":"GA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632407,
+        85671241,
+        1091910639
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2398808
+    },
+    "wof:country":"GA",
+    "wof:geomhash":"2bd55e6bb78a775695bae5c18358adc3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632407,
+            "county_id":1091910639,
+            "locality_id":1276140901,
+            "region_id":85671241
+        }
+    ],
+    "wof:id":1276140901,
+    "wof:lastmodified":1537035016,
+    "wof:name":"Meboko",
+    "wof:parent_id":1091910639,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ga",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.36667,
+    2.16667,
+    11.36667,
+    2.16667
+],
+  "geometry": {"coordinates":[11.36667,2.16667],"type":"Point"}
+}

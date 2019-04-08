@@ -1,0 +1,66 @@
+{
+  "id": 1225849205,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.53333,0.26667,9.53333,0.26667",
+    "geom:latitude":0.26667,
+    "geom:longitude":9.53333,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Coniquet",
+    "gn:cc2":"GA",
+    "gn:country_code":"GA",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2401336,
+    "gn:latitude":0.26667,
+    "gn:longitude":9.53333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Coniquet",
+    "gn:population":0,
+    "gn:timezone":"Africa/Libreville",
+    "iso:country":"GA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Conniquet",
+        "Coniquet"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2401336
+    },
+    "wof:country":"GA",
+    "wof:geomhash":"95c8bce4dbf008c19ed1a48a59ae1811",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1225849205,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1225849205,
+    "wof:lastmodified":1537622914,
+    "wof:name":"Coniquet",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ga",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.53333,
+    0.26667,
+    9.53333,
+    0.26667
+],
+  "geometry": {"coordinates":[9.53333,0.26667],"type":"Point"}
+}

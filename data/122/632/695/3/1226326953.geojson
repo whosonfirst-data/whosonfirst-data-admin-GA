@@ -1,0 +1,67 @@
+{
+  "id": 1226326953,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.45231,1.74193,11.45231,1.74193",
+    "geom:latitude":1.74193,
+    "geom:longitude":11.45231,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Ekong",
+    "gn:country_code":"GA",
+    "gn:dem":680,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2400826,
+    "gn:latitude":1.74193,
+    "gn:longitude":11.45231,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Ekong",
+    "gn:population":0,
+    "gn:timezone":"Africa/Libreville",
+    "iso:country":"GA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632407,
+        85671241,
+        1091910593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2400826
+    },
+    "wof:country":"GA",
+    "wof:geomhash":"8b371de736d70bf5f6974d0839d4b846",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632407,
+            "county_id":1091910593,
+            "locality_id":1226326953,
+            "region_id":85671241
+        }
+    ],
+    "wof:id":1226326953,
+    "wof:lastmodified":1536815842,
+    "wof:name":"Ekong",
+    "wof:parent_id":1091910593,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ga",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.45231,
+    1.74193,
+    11.45231,
+    1.74193
+],
+  "geometry": {"coordinates":[11.45231,1.74193],"type":"Point"}
+}

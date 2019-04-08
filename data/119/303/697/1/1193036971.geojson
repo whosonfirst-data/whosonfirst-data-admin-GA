@@ -1,0 +1,67 @@
+{
+  "id": 1193036971,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.67735,1.3352,11.67735,1.3352",
+    "geom:latitude":1.3352,
+    "geom:longitude":11.67735,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Mvane",
+    "gn:country_code":"GA",
+    "gn:dem":666,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2397806,
+    "gn:latitude":1.3352,
+    "gn:longitude":11.67735,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Mvane",
+    "gn:population":0,
+    "gn:timezone":"Africa/Libreville",
+    "iso:country":"GA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632407,
+        85671241,
+        1091910593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2397806
+    },
+    "wof:country":"GA",
+    "wof:geomhash":"659f870082a8c1ef0e197b157109ae4b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632407,
+            "county_id":1091910593,
+            "locality_id":1193036971,
+            "region_id":85671241
+        }
+    ],
+    "wof:id":1193036971,
+    "wof:lastmodified":1536380014,
+    "wof:name":"Mvane",
+    "wof:parent_id":1091910593,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ga",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.67735,
+    1.3352,
+    11.67735,
+    1.3352
+],
+  "geometry": {"coordinates":[11.67735,1.3352],"type":"Point"}
+}

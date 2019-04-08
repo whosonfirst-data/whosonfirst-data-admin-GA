@@ -1,0 +1,67 @@
+{
+  "id": 1260288691,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.48333,0.41667,9.48333,0.41667",
+    "geom:latitude":0.41667,
+    "geom:longitude":9.48333,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Atouda-Simba",
+    "gn:country_code":"GA",
+    "gn:dem":64,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2402151,
+    "gn:latitude":0.41667,
+    "gn:longitude":9.48333,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Atouda-Simba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Libreville",
+    "iso:country":"GA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632407,
+        85671235,
+        1091908769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2402151
+    },
+    "wof:country":"GA",
+    "wof:geomhash":"376c1eab298fd409f9bd4bd3de2cea26",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632407,
+            "county_id":1091908769,
+            "locality_id":1260288691,
+            "region_id":85671235
+        }
+    ],
+    "wof:id":1260288691,
+    "wof:lastmodified":1536705209,
+    "wof:name":"Atouda-Simba",
+    "wof:parent_id":1091908769,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ga",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.48333,
+    0.41667,
+    9.48333,
+    0.41667
+],
+  "geometry": {"coordinates":[9.48333,0.41667],"type":"Point"}
+}

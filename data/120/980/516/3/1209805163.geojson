@@ -1,0 +1,71 @@
+{
+  "id": 1209805163,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.04545,0.96132,11.04545,0.96132",
+    "geom:latitude":0.96132,
+    "geom:longitude":11.04545,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Mebolo",
+    "gn:country_code":"GA",
+    "gn:dem":518,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2398806,
+    "gn:latitude":0.96132,
+    "gn:longitude":11.04545,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"M\u00e9bolo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Libreville",
+    "iso:country":"GA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Oua",
+        "M\u00e9bolo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632407,
+        85671241,
+        1091910733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2398806
+    },
+    "wof:country":"GA",
+    "wof:geomhash":"96f9fed6ada4dfe574b9950a98d61877",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632407,
+            "county_id":1091910733,
+            "locality_id":1209805163,
+            "region_id":85671241
+        }
+    ],
+    "wof:id":1209805163,
+    "wof:lastmodified":1537622900,
+    "wof:name":"Mebolo",
+    "wof:parent_id":1091910733,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ga",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.04545,
+    0.96132,
+    11.04545,
+    0.96132
+],
+  "geometry": {"coordinates":[11.04545,0.96132],"type":"Point"}
+}

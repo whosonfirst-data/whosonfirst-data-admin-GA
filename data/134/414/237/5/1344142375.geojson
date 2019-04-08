@@ -1,0 +1,67 @@
+{
+  "id": 1344142375,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.66021,-2.18781,9.66021,-2.18781",
+    "geom:latitude":-2.18781,
+    "geom:longitude":9.66021,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Nioungou Goumbi",
+    "gn:country_code":"GA",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2397368,
+    "gn:latitude":-2.18781,
+    "gn:longitude":9.66021,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Nioungou Goumbi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Libreville",
+    "iso:country":"GA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632407,
+        85671255,
+        1091910509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2397368
+    },
+    "wof:country":"GA",
+    "wof:geomhash":"370e31c96a35e6177c2c930404c79372",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632407,
+            "county_id":1091910509,
+            "locality_id":1344142375,
+            "region_id":85671255
+        }
+    ],
+    "wof:id":1344142375,
+    "wof:lastmodified":1536757563,
+    "wof:name":"Nioungou Goumbi",
+    "wof:parent_id":1091910509,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ga",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.66021,
+    -2.18781,
+    9.66021,
+    -2.18781
+],
+  "geometry": {"coordinates":[9.66021,-2.18781],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1209721593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.56925,-2.19298,11.56925,-2.19298",
+    "geom:latitude":-2.19298,
+    "geom:longitude":11.56925,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Moukoundou",
+    "gn:country_code":"GA",
+    "gn:dem":308,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2398016,
+    "gn:latitude":-2.19298,
+    "gn:longitude":11.56925,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Moukoundou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Libreville",
+    "iso:country":"GA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632407,
+        85671249,
+        1091909757
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2398016
+    },
+    "wof:country":"GA",
+    "wof:geomhash":"d744ce49430f668284c194e6356b819e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632407,
+            "county_id":1091909757,
+            "locality_id":1209721593,
+            "region_id":85671249
+        }
+    ],
+    "wof:id":1209721593,
+    "wof:lastmodified":1536386128,
+    "wof:name":"Moukoundou",
+    "wof:parent_id":1091909757,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ga",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.56925,
+    -2.19298,
+    11.56925,
+    -2.19298
+],
+  "geometry": {"coordinates":[11.56925,-2.19298],"type":"Point"}
+}

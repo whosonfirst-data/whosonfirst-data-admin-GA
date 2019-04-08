@@ -1,0 +1,67 @@
+{
+  "id": 1259388971,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.28202,-1.71562,11.28202,-1.71562",
+    "geom:latitude":-1.71562,
+    "geom:longitude":11.28202,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Piti Massango",
+    "gn:country_code":"GA",
+    "gn:dem":448,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2396537,
+    "gn:latitude":-1.71562,
+    "gn:longitude":11.28202,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Piti Massango",
+    "gn:population":0,
+    "gn:timezone":"Africa/Libreville",
+    "iso:country":"GA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632407,
+        85671249,
+        1091909887
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2396537
+    },
+    "wof:country":"GA",
+    "wof:geomhash":"e80ce1ff24acaac5f88a1b8bda9b888a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632407,
+            "county_id":1091909887,
+            "locality_id":1259388971,
+            "region_id":85671249
+        }
+    ],
+    "wof:id":1259388971,
+    "wof:lastmodified":1536993458,
+    "wof:name":"Piti Massango",
+    "wof:parent_id":1091909887,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ga",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.28202,
+    -1.71562,
+    11.28202,
+    -1.71562
+],
+  "geometry": {"coordinates":[11.28202,-1.71562],"type":"Point"}
+}

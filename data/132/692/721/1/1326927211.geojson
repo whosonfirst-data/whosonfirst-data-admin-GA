@@ -1,0 +1,67 @@
+{
+  "id": 1326927211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.41924,-1.30673,12.41924,-1.30673",
+    "geom:latitude":-1.30673,
+    "geom:longitude":12.41924,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Paris",
+    "gn:country_code":"GA",
+    "gn:dem":335,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2396598,
+    "gn:latitude":-1.30673,
+    "gn:longitude":12.41924,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Paris",
+    "gn:population":0,
+    "gn:timezone":"Africa/Libreville",
+    "iso:country":"GA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632407,
+        85671265,
+        1091910313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2396598
+    },
+    "wof:country":"GA",
+    "wof:geomhash":"985a870412e55c5d3a5ff9c572d2ac04",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632407,
+            "county_id":1091910313,
+            "locality_id":1326927211,
+            "region_id":85671265
+        }
+    ],
+    "wof:id":1326927211,
+    "wof:lastmodified":1536912446,
+    "wof:name":"Paris",
+    "wof:parent_id":1091910313,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ga",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.41924,
+    -1.30673,
+    12.41924,
+    -1.30673
+],
+  "geometry": {"coordinates":[12.41924,-1.30673],"type":"Point"}
+}

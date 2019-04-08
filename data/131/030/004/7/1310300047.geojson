@@ -1,0 +1,67 @@
+{
+  "id": 1310300047,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.61845,0.89832,11.61845,0.89832",
+    "geom:latitude":0.89832,
+    "geom:longitude":11.61845,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Nsang",
+    "gn:country_code":"GA",
+    "gn:dem":533,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2397212,
+    "gn:latitude":0.89832,
+    "gn:longitude":11.61845,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Nsang",
+    "gn:population":0,
+    "gn:timezone":"Africa/Libreville",
+    "iso:country":"GA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632407,
+        85671241,
+        1091910733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2397212
+    },
+    "wof:country":"GA",
+    "wof:geomhash":"2e1a5c508486811a5d27b3622f4ba9e7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632407,
+            "county_id":1091910733,
+            "locality_id":1310300047,
+            "region_id":85671241
+        }
+    ],
+    "wof:id":1310300047,
+    "wof:lastmodified":1536716143,
+    "wof:name":"Nsang",
+    "wof:parent_id":1091910733,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ga",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.61845,
+    0.89832,
+    11.61845,
+    0.89832
+],
+  "geometry": {"coordinates":[11.61845,0.89832],"type":"Point"}
+}

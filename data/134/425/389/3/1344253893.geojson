@@ -1,0 +1,67 @@
+{
+  "id": 1344253893,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.96905,-1.1854,12.96905,-1.1854",
+    "geom:latitude":-1.1854,
+    "geom:longitude":12.96905,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Idiba",
+    "gn:country_code":"GA",
+    "gn:dem":528,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2400403,
+    "gn:latitude":-1.1854,
+    "gn:longitude":12.96905,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Idiba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Libreville",
+    "iso:country":"GA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632407,
+        85671265,
+        1091910455
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2400403
+    },
+    "wof:country":"GA",
+    "wof:geomhash":"bbfe7de8e12fd1ded909782ad1de1217",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632407,
+            "county_id":1091910455,
+            "locality_id":1344253893,
+            "region_id":85671265
+        }
+    ],
+    "wof:id":1344253893,
+    "wof:lastmodified":1537090526,
+    "wof:name":"Idiba",
+    "wof:parent_id":1091910455,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ga",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.96905,
+    -1.1854,
+    12.96905,
+    -1.1854
+],
+  "geometry": {"coordinates":[12.96905,-1.1854],"type":"Point"}
+}

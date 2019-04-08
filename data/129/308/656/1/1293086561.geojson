@@ -1,0 +1,67 @@
+{
+  "id": 1293086561,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.19571,-2.16045,10.19571,-2.16045",
+    "geom:latitude":-2.16045,
+    "geom:longitude":10.19571,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Sangourouma",
+    "gn:country_code":"GA",
+    "gn:dem":30,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2396375,
+    "gn:latitude":-2.16045,
+    "gn:longitude":10.19571,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Sangourouma",
+    "gn:population":0,
+    "gn:timezone":"Africa/Libreville",
+    "iso:country":"GA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632407,
+        85671255,
+        1091910563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2396375
+    },
+    "wof:country":"GA",
+    "wof:geomhash":"e4cb3ce08c9b9fd950384a9820af2465",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632407,
+            "county_id":1091910563,
+            "locality_id":1293086561,
+            "region_id":85671255
+        }
+    ],
+    "wof:id":1293086561,
+    "wof:lastmodified":1536866859,
+    "wof:name":"Sangourouma",
+    "wof:parent_id":1091910563,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ga",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.19571,
+    -2.16045,
+    10.19571,
+    -2.16045
+],
+  "geometry": {"coordinates":[10.19571,-2.16045],"type":"Point"}
+}

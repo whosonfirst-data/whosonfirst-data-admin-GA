@@ -1,0 +1,72 @@
+{
+  "id": 1242586219,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.58333,-1.88333,13.58333,-1.88333",
+    "geom:latitude":-1.88333,
+    "geom:longitude":13.58333,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Ngounda",
+    "gn:cc2":"GA",
+    "gn:country_code":"GA",
+    "gn:dem":486,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2397476,
+    "gn:latitude":-1.88333,
+    "gn:longitude":13.58333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Ngounda",
+    "gn:population":0,
+    "gn:timezone":"Africa/Libreville",
+    "iso:country":"GA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ngouda",
+        "Ngounda"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632407,
+        85671257,
+        1091908919
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2397476
+    },
+    "wof:country":"GA",
+    "wof:geomhash":"a14b63ea3359b7d909cefb40794a42ef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632407,
+            "county_id":1091908919,
+            "locality_id":1242586219,
+            "region_id":85671257
+        }
+    ],
+    "wof:id":1242586219,
+    "wof:lastmodified":1537622895,
+    "wof:name":"Ngounda",
+    "wof:parent_id":1091908919,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ga",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.58333,
+    -1.88333,
+    13.58333,
+    -1.88333
+],
+  "geometry": {"coordinates":[13.58333,-1.88333],"type":"Point"}
+}

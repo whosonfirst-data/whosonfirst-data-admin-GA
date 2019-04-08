@@ -1,0 +1,68 @@
+{
+  "id": 1259380601,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.05518,1.09664,14.05518,1.09664",
+    "geom:latitude":1.09664,
+    "geom:longitude":14.05518,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Zoula",
+    "gn:country_code":"GA",
+    "gn:dem":540,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2395932,
+    "gn:latitude":1.09664,
+    "gn:longitude":14.05518,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Zoula",
+    "gn:population":0,
+    "gn:timezone":"Africa/Libreville",
+    "iso:country":"GA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632407,
+        85671237,
+        1091910219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2395932,
+        "wk:page":"Zoula"
+    },
+    "wof:country":"GA",
+    "wof:geomhash":"83fab65247c395b09f0fa5d864bf5533",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632407,
+            "county_id":1091910219,
+            "locality_id":1259380601,
+            "region_id":85671237
+        }
+    ],
+    "wof:id":1259380601,
+    "wof:lastmodified":1537562893,
+    "wof:name":"Zoula",
+    "wof:parent_id":1091910219,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ga",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.05518,
+    1.09664,
+    14.05518,
+    1.09664
+],
+  "geometry": {"coordinates":[14.05518,1.09664],"type":"Point"}
+}

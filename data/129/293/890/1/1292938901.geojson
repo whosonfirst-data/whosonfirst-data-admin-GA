@@ -1,0 +1,74 @@
+{
+  "id": 1292938901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.25,-1.08333,11.25,-1.08333",
+    "geom:latitude":-1.08333,
+    "geom:longitude":11.25,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Boutijobo",
+    "gn:cc2":"GA",
+    "gn:country_code":"GA",
+    "gn:dem":465,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2401407,
+    "gn:latitude":-1.08333,
+    "gn:longitude":11.25,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Boutijobo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Libreville",
+    "iso:country":"GA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Boubapobo",
+        "Boutapobo",
+        "Boutipabo",
+        "Boutijobo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632407,
+        85671249,
+        1091909887
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2401407
+    },
+    "wof:country":"GA",
+    "wof:geomhash":"f11fc1add539f0efa7bc0907543a69fa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632407,
+            "county_id":1091909887,
+            "locality_id":1292938901,
+            "region_id":85671249
+        }
+    ],
+    "wof:id":1292938901,
+    "wof:lastmodified":1537622914,
+    "wof:name":"Boutijobo",
+    "wof:parent_id":1091909887,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ga",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.25,
+    -1.08333,
+    11.25,
+    -1.08333
+],
+  "geometry": {"coordinates":[11.25,-1.08333],"type":"Point"}
+}

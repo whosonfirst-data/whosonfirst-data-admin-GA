@@ -1,0 +1,67 @@
+{
+  "id": 1293384433,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.49643,2.18375,11.49643,2.18375",
+    "geom:latitude":2.18375,
+    "geom:longitude":11.49643,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Adzap I",
+    "gn:country_code":"GA",
+    "gn:dem":608,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2402570,
+    "gn:latitude":2.18375,
+    "gn:longitude":11.49643,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Adzap I",
+    "gn:population":0,
+    "gn:timezone":"Africa/Libreville",
+    "iso:country":"GA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632407,
+        85671241,
+        1091910639
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2402570
+    },
+    "wof:country":"GA",
+    "wof:geomhash":"aeaa31ab4ce47f4eb77180efa16162d9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632407,
+            "county_id":1091910639,
+            "locality_id":1293384433,
+            "region_id":85671241
+        }
+    ],
+    "wof:id":1293384433,
+    "wof:lastmodified":1536936366,
+    "wof:name":"Adzap I",
+    "wof:parent_id":1091910639,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ga",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.49643,
+    2.18375,
+    11.49643,
+    2.18375
+],
+  "geometry": {"coordinates":[11.49643,2.18375],"type":"Point"}
+}

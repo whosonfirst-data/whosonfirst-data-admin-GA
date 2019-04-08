@@ -1,0 +1,61 @@
+{
+  "id": 1209516287,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.3,-1.28333,11.3,-1.28333",
+    "geom:latitude":-1.28333,
+    "geom:longitude":11.3,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Mavaco",
+    "gn:country_code":"GA",
+    "gn:dem":554,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2399041,
+    "gn:latitude":-1.28333,
+    "gn:longitude":11.3,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Mavaco",
+    "gn:population":0,
+    "gn:timezone":"Africa/Libreville",
+    "iso:country":"GA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632407
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2399041
+    },
+    "wof:country":"GA",
+    "wof:geomhash":"68f6de47e9ae0cb76589d932ab9768b9",
+    "wof:hierarchy":[
+        {
+            "country_id":85632407,
+            "locality_id":1209516287
+        }
+    ],
+    "wof:id":1209516287,
+    "wof:lastmodified":1536284722,
+    "wof:name":"Mavaco",
+    "wof:parent_id":85632407,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ga",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.3,
+    -1.28333,
+    11.3,
+    -1.28333
+],
+  "geometry": {"coordinates":[11.3,-1.28333],"type":"Point"}
+}

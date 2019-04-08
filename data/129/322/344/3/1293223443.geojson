@@ -1,0 +1,67 @@
+{
+  "id": 1293223443,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.87964,-2.98079,10.87964,-2.98079",
+    "geom:latitude":-2.98079,
+    "geom:longitude":10.87964,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Pounga-Nganda",
+    "gn:country_code":"GA",
+    "gn:dem":378,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2396502,
+    "gn:latitude":-2.98079,
+    "gn:longitude":10.87964,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Pounga-Nganda",
+    "gn:population":0,
+    "gn:timezone":"Africa/Libreville",
+    "iso:country":"GA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632407,
+        85671251,
+        1091909931
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2396502
+    },
+    "wof:country":"GA",
+    "wof:geomhash":"43913765708e187b6a2917c21e591b2e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632407,
+            "county_id":1091909931,
+            "locality_id":1293223443,
+            "region_id":85671251
+        }
+    ],
+    "wof:id":1293223443,
+    "wof:lastmodified":1536670684,
+    "wof:name":"Pounga-Nganda",
+    "wof:parent_id":1091909931,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ga",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.87964,
+    -2.98079,
+    10.87964,
+    -2.98079
+],
+  "geometry": {"coordinates":[10.87964,-2.98079],"type":"Point"}
+}

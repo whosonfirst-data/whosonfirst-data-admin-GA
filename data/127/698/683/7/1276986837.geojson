@@ -1,0 +1,67 @@
+{
+  "id": 1276986837,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.58333,-2.2,11.58333,-2.2",
+    "geom:latitude":-2.2,
+    "geom:longitude":11.58333,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Ibaga",
+    "gn:country_code":"GA",
+    "gn:dem":343,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2400442,
+    "gn:latitude":-2.2,
+    "gn:longitude":11.58333,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Ibaga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Libreville",
+    "iso:country":"GA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632407,
+        85671249,
+        1091909757
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2400442
+    },
+    "wof:country":"GA",
+    "wof:geomhash":"b6221c6db0f7bc76b0c34c9c6c289fe3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632407,
+            "county_id":1091909757,
+            "locality_id":1276986837,
+            "region_id":85671249
+        }
+    ],
+    "wof:id":1276986837,
+    "wof:lastmodified":1536897679,
+    "wof:name":"Ibaga",
+    "wof:parent_id":1091909757,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ga",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.58333,
+    -2.2,
+    11.58333,
+    -2.2
+],
+  "geometry": {"coordinates":[11.58333,-2.2],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1327139203,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.01861,-3.7949,11.01861,-3.7949",
+    "geom:latitude":-3.7949,
+    "geom:longitude":11.01861,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Sainte-Marie",
+    "gn:country_code":"GA",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2396433,
+    "gn:latitude":-3.7949,
+    "gn:longitude":11.01861,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Sainte-Marie",
+    "gn:population":0,
+    "gn:timezone":"Africa/Libreville",
+    "iso:country":"GA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Village Sainte Marie",
+        "Sainte-Marie"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632407,
+        85671251,
+        1091910019
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2396433
+    },
+    "wof:country":"GA",
+    "wof:geomhash":"8f23d8c840755b0b5dfc58bc8bce9500",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632407,
+            "county_id":1091910019,
+            "locality_id":1327139203,
+            "region_id":85671251
+        }
+    ],
+    "wof:id":1327139203,
+    "wof:lastmodified":1537622889,
+    "wof:name":"Sainte-Marie",
+    "wof:parent_id":1091910019,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ga",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.01861,
+    -3.7949,
+    11.01861,
+    -3.7949
+],
+  "geometry": {"coordinates":[11.01861,-3.7949],"type":"Point"}
+}

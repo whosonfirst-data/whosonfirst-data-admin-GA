@@ -1,0 +1,67 @@
+{
+  "id": 1259973953,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.61667,1.85,11.61667,1.85",
+    "geom:latitude":1.85,
+    "geom:longitude":11.61667,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Eves",
+    "gn:country_code":"GA",
+    "gn:dem":620,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2400660,
+    "gn:latitude":1.85,
+    "gn:longitude":11.61667,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Eves",
+    "gn:population":0,
+    "gn:timezone":"Africa/Libreville",
+    "iso:country":"GA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632407,
+        85671241,
+        1091910593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2400660
+    },
+    "wof:country":"GA",
+    "wof:geomhash":"9c5f485d52ddd63a64426c13983067c9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632407,
+            "county_id":1091910593,
+            "locality_id":1259973953,
+            "region_id":85671241
+        }
+    ],
+    "wof:id":1259973953,
+    "wof:lastmodified":1536648556,
+    "wof:name":"Eves",
+    "wof:parent_id":1091910593,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ga",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.61667,
+    1.85,
+    11.61667,
+    1.85
+],
+  "geometry": {"coordinates":[11.61667,1.85],"type":"Point"}
+}

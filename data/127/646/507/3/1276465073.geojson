@@ -1,0 +1,67 @@
+{
+  "id": 1276465073,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.03828,-1.20461,12.03828,-1.20461",
+    "geom:latitude":-1.20461,
+    "geom:longitude":12.03828,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Poungou",
+    "gn:country_code":"GA",
+    "gn:dem":450,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2396498,
+    "gn:latitude":-1.20461,
+    "gn:longitude":12.03828,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Poungou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Libreville",
+    "iso:country":"GA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632407,
+        85671265,
+        1091910313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2396498
+    },
+    "wof:country":"GA",
+    "wof:geomhash":"2512af85084033266e7b67ae81eaccd7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632407,
+            "county_id":1091910313,
+            "locality_id":1276465073,
+            "region_id":85671265
+        }
+    ],
+    "wof:id":1276465073,
+    "wof:lastmodified":1537096134,
+    "wof:name":"Poungou",
+    "wof:parent_id":1091910313,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ga",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.03828,
+    -1.20461,
+    12.03828,
+    -1.20461
+],
+  "geometry": {"coordinates":[12.03828,-1.20461],"type":"Point"}
+}

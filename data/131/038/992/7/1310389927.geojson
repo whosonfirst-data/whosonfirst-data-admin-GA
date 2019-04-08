@@ -1,0 +1,77 @@
+{
+  "id": 1310389927,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.90182,1.00618,10.90182,1.00618",
+    "geom:latitude":1.00618,
+    "geom:longitude":10.90182,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Efot",
+    "gn:country_code":"GA",
+    "gn:dem":469,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2400859,
+    "gn:latitude":1.00618,
+    "gn:longitude":10.90182,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Efot",
+    "gn:population":0,
+    "gn:timezone":"Africa/Libreville",
+    "iso:country":"GA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632407,
+        85671241,
+        1091910783,
+        85632287,
+        85671565,
+        1108785227
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2400859
+    },
+    "wof:country":"GA",
+    "wof:geomhash":"b7f2e64af257b35514b81ffa00a8fe7d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632407,
+            "county_id":1091910783,
+            "locality_id":1310389927,
+            "region_id":85671241
+        },
+        {
+            "continent_id":102191573,
+            "country_id":85632287,
+            "county_id":1108785227,
+            "locality_id":1310389927,
+            "region_id":85671565
+        }
+    ],
+    "wof:id":1310389927,
+    "wof:lastmodified":1537080575,
+    "wof:name":"Efot",
+    "wof:parent_id":-4,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ga",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.90182,
+    1.00618,
+    10.90182,
+    1.00618
+],
+  "geometry": {"coordinates":[10.90182,1.00618],"type":"Point"}
+}

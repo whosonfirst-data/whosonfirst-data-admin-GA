@@ -1,0 +1,67 @@
+{
+  "id": 1293868439,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.92829,1.91195,11.92829,1.91195",
+    "geom:latitude":1.91195,
+    "geom:longitude":11.92829,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Nkogomesseng",
+    "gn:country_code":"GA",
+    "gn:dem":623,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2397315,
+    "gn:latitude":1.91195,
+    "gn:longitude":11.92829,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Nkogomesseng",
+    "gn:population":0,
+    "gn:timezone":"Africa/Libreville",
+    "iso:country":"GA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632407,
+        85671241,
+        1091910689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2397315
+    },
+    "wof:country":"GA",
+    "wof:geomhash":"8c800e9d71d39ed7e772157d6e170214",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632407,
+            "county_id":1091910689,
+            "locality_id":1293868439,
+            "region_id":85671241
+        }
+    ],
+    "wof:id":1293868439,
+    "wof:lastmodified":1536735192,
+    "wof:name":"Nkogomesseng",
+    "wof:parent_id":1091910689,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ga",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.92829,
+    1.91195,
+    11.92829,
+    1.91195
+],
+  "geometry": {"coordinates":[11.92829,1.91195],"type":"Point"}
+}

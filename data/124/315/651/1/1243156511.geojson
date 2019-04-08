@@ -1,0 +1,67 @@
+{
+  "id": 1243156511,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.62739,1.88249,11.62739,1.88249",
+    "geom:latitude":1.88249,
+    "geom:longitude":11.62739,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Aoua",
+    "gn:country_code":"GA",
+    "gn:dem":620,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2402233,
+    "gn:latitude":1.88249,
+    "gn:longitude":11.62739,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Aoua",
+    "gn:population":0,
+    "gn:timezone":"Africa/Libreville",
+    "iso:country":"GA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632407,
+        85671241,
+        1091910639
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2402233
+    },
+    "wof:country":"GA",
+    "wof:geomhash":"4ce0097b4d96129342183380740690c9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632407,
+            "county_id":1091910639,
+            "locality_id":1243156511,
+            "region_id":85671241
+        }
+    ],
+    "wof:id":1243156511,
+    "wof:lastmodified":1536726969,
+    "wof:name":"Aoua",
+    "wof:parent_id":1091910639,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ga",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.62739,
+    1.88249,
+    11.62739,
+    1.88249
+],
+  "geometry": {"coordinates":[11.62739,1.88249],"type":"Point"}
+}

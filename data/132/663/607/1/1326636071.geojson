@@ -1,0 +1,67 @@
+{
+  "id": 1326636071,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.32356,-2.00253,12.32356,-2.00253",
+    "geom:latitude":-2.00253,
+    "geom:longitude":12.32356,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Lemba",
+    "gn:country_code":"GA",
+    "gn:dem":765,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2399775,
+    "gn:latitude":-2.00253,
+    "gn:longitude":12.32356,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Lemba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Libreville",
+    "iso:country":"GA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632407,
+        85671249,
+        1091909787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2399775
+    },
+    "wof:country":"GA",
+    "wof:geomhash":"889e7ff81ec6a69663259fb227792e3b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632407,
+            "county_id":1091909787,
+            "locality_id":1326636071,
+            "region_id":85671249
+        }
+    ],
+    "wof:id":1326636071,
+    "wof:lastmodified":1536833194,
+    "wof:name":"Lemba",
+    "wof:parent_id":1091909787,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ga",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.32356,
+    -2.00253,
+    12.32356,
+    -2.00253
+],
+  "geometry": {"coordinates":[12.32356,-2.00253],"type":"Point"}
+}

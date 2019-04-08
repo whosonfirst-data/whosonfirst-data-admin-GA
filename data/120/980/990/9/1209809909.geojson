@@ -1,0 +1,67 @@
+{
+  "id": 1209809909,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.50871,2.01686,11.50871,2.01686",
+    "geom:latitude":2.01686,
+    "geom:longitude":11.50871,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Bindoumessang",
+    "gn:country_code":"GA",
+    "gn:dem":575,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2401642,
+    "gn:latitude":2.01686,
+    "gn:longitude":11.50871,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Bindoumessang",
+    "gn:population":0,
+    "gn:timezone":"Africa/Libreville",
+    "iso:country":"GA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632407,
+        85671241,
+        1091910639
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2401642
+    },
+    "wof:country":"GA",
+    "wof:geomhash":"199bb5d58ed34606afdf2b82b7cb3118",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632407,
+            "county_id":1091910639,
+            "locality_id":1209809909,
+            "region_id":85671241
+        }
+    ],
+    "wof:id":1209809909,
+    "wof:lastmodified":1536386911,
+    "wof:name":"Bindoumessang",
+    "wof:parent_id":1091910639,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ga",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.50871,
+    2.01686,
+    11.50871,
+    2.01686
+],
+  "geometry": {"coordinates":[11.50871,2.01686],"type":"Point"}
+}

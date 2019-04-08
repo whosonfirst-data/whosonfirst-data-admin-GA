@@ -1,0 +1,67 @@
+{
+  "id": 1276670887,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.7312,-0.6883,13.7312,-0.6883",
+    "geom:latitude":-0.6883,
+    "geom:longitude":13.7312,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Engoumou",
+    "gn:country_code":"GA",
+    "gn:dem":411,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2400737,
+    "gn:latitude":-0.6883,
+    "gn:longitude":13.7312,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Engoumou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Libreville",
+    "iso:country":"GA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632407,
+        85671257,
+        1091909293
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2400737
+    },
+    "wof:country":"GA",
+    "wof:geomhash":"b0e226052ce2b86dfe7d3d468cf321cc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632407,
+            "county_id":1091909293,
+            "locality_id":1276670887,
+            "region_id":85671257
+        }
+    ],
+    "wof:id":1276670887,
+    "wof:lastmodified":1536822445,
+    "wof:name":"Engoumou",
+    "wof:parent_id":1091909293,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ga",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.7312,
+    -0.6883,
+    13.7312,
+    -0.6883
+],
+  "geometry": {"coordinates":[13.7312,-0.6883],"type":"Point"}
+}

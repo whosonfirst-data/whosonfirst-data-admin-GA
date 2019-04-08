@@ -1,0 +1,71 @@
+{
+  "id": 1276450113,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.95698,-0.08111,10.95698,-0.08111",
+    "geom:latitude":-0.08111,
+    "geom:longitude":10.95698,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Alembe",
+    "gn:country_code":"GA",
+    "gn:dem":84,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2402410,
+    "gn:latitude":-0.08111,
+    "gn:longitude":10.95698,
+    "gn:modification_date":"2013-10-06",
+    "gn:name":"Al\u00e8mb\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Libreville",
+    "iso:country":"GA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Al\u00e8mb\u00e9",
+        "Alemb\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632407,
+        85671247,
+        1091909487
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2402410
+    },
+    "wof:country":"GA",
+    "wof:geomhash":"dbb516f23cc5111d9b0aa464ef4efd4e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632407,
+            "county_id":1091909487,
+            "locality_id":1276450113,
+            "region_id":85671247
+        }
+    ],
+    "wof:id":1276450113,
+    "wof:lastmodified":1537622919,
+    "wof:name":"Alembe",
+    "wof:parent_id":1091909487,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ga",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.95698,
+    -0.08111,
+    10.95698,
+    -0.08111
+],
+  "geometry": {"coordinates":[10.95698,-0.08111],"type":"Point"}
+}

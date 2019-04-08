@@ -1,0 +1,67 @@
+{
+  "id": 1293710281,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.04001,-0.94302,13.04001,-0.94302",
+    "geom:latitude":-0.94302,
+    "geom:longitude":13.04001,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Magnigma-Mbomo",
+    "gn:country_code":"GA",
+    "gn:dem":283,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2399444,
+    "gn:latitude":-0.94302,
+    "gn:longitude":13.04001,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Magnigma-Mbomo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Libreville",
+    "iso:country":"GA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632407,
+        85671265,
+        1091910455
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2399444
+    },
+    "wof:country":"GA",
+    "wof:geomhash":"47e9375b34973921de8b1499afd0f9de",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632407,
+            "county_id":1091910455,
+            "locality_id":1293710281,
+            "region_id":85671265
+        }
+    ],
+    "wof:id":1293710281,
+    "wof:lastmodified":1536963145,
+    "wof:name":"Magnigma-Mbomo",
+    "wof:parent_id":1091910455,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ga",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.04001,
+    -0.94302,
+    13.04001,
+    -0.94302
+],
+  "geometry": {"coordinates":[13.04001,-0.94302],"type":"Point"}
+}

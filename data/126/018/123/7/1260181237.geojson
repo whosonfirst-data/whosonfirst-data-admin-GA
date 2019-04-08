@@ -1,0 +1,67 @@
+{
+  "id": 1260181237,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.51347,-2.9156,10.51347,-2.9156",
+    "geom:latitude":-2.9156,
+    "geom:longitude":10.51347,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Mouenda",
+    "gn:country_code":"GA",
+    "gn:dem":80,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2398124,
+    "gn:latitude":-2.9156,
+    "gn:longitude":10.51347,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Mouenda",
+    "gn:population":0,
+    "gn:timezone":"Africa/Libreville",
+    "iso:country":"GA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632407,
+        85671251,
+        1091909969
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2398124
+    },
+    "wof:country":"GA",
+    "wof:geomhash":"321d1ad09c84cf0945b2ef69e8b4458b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632407,
+            "county_id":1091909969,
+            "locality_id":1260181237,
+            "region_id":85671251
+        }
+    ],
+    "wof:id":1260181237,
+    "wof:lastmodified":1536849963,
+    "wof:name":"Mouenda",
+    "wof:parent_id":1091909969,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ga",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.51347,
+    -2.9156,
+    10.51347,
+    -2.9156
+],
+  "geometry": {"coordinates":[10.51347,-2.9156],"type":"Point"}
+}

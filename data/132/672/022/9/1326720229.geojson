@@ -1,0 +1,67 @@
+{
+  "id": 1326720229,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.46924,1.07883,11.46924,1.07883",
+    "geom:latitude":1.07883,
+    "geom:longitude":11.46924,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Akam II",
+    "gn:country_code":"GA",
+    "gn:dem":569,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2402511,
+    "gn:latitude":1.07883,
+    "gn:longitude":11.46924,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Akam II",
+    "gn:population":0,
+    "gn:timezone":"Africa/Libreville",
+    "iso:country":"GA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632407,
+        85671241,
+        1091910593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2402511
+    },
+    "wof:country":"GA",
+    "wof:geomhash":"0c420ed8faa275079aac04615505d80a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632407,
+            "county_id":1091910593,
+            "locality_id":1326720229,
+            "region_id":85671241
+        }
+    ],
+    "wof:id":1326720229,
+    "wof:lastmodified":1536713401,
+    "wof:name":"Akam II",
+    "wof:parent_id":1091910593,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ga",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.46924,
+    1.07883,
+    11.46924,
+    1.07883
+],
+  "geometry": {"coordinates":[11.46924,1.07883],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1226343109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.4796,-1.49779,11.4796,-1.49779",
+    "geom:latitude":-1.49779,
+    "geom:longitude":11.4796,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Eteke",
+    "gn:country_code":"GA",
+    "gn:dem":789,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2400673,
+    "gn:latitude":-1.49779,
+    "gn:longitude":11.4796,
+    "gn:modification_date":"2012-02-02",
+    "gn:name":"\u00c9t\u00e9k\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Libreville",
+    "iso:country":"GA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u00c9t\u00e9k\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632407,
+        85671249,
+        1091909887
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2400673,
+        "wk:page":"Eteke"
+    },
+    "wof:country":"GA",
+    "wof:geomhash":"8493d1ad601daeb40215630604fc0ea2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632407,
+            "county_id":1091909887,
+            "locality_id":1226343109,
+            "region_id":85671249
+        }
+    ],
+    "wof:id":1226343109,
+    "wof:lastmodified":1537622910,
+    "wof:name":"Eteke",
+    "wof:parent_id":1091909887,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ga",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.4796,
+    -1.49779,
+    11.4796,
+    -1.49779
+],
+  "geometry": {"coordinates":[11.4796,-1.49779],"type":"Point"}
+}

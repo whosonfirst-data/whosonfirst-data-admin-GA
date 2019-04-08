@@ -1,0 +1,77 @@
+{
+  "id": 1310590865,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.76009,1.00187,10.76009,1.00187",
+    "geom:latitude":1.00187,
+    "geom:longitude":10.76009,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Efoulana",
+    "gn:country_code":"GA",
+    "gn:dem":627,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2400858,
+    "gn:latitude":1.00187,
+    "gn:longitude":10.76009,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Efoulana",
+    "gn:population":0,
+    "gn:timezone":"Africa/Libreville",
+    "iso:country":"GA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632407,
+        85671241,
+        1091910783,
+        85632287,
+        85671565,
+        1108785227
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2400858
+    },
+    "wof:country":"GA",
+    "wof:geomhash":"adf854104d3dea4baf35f20c407379f5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632407,
+            "county_id":1091910783,
+            "locality_id":1310590865,
+            "region_id":85671241
+        },
+        {
+            "continent_id":102191573,
+            "country_id":85632287,
+            "county_id":1108785227,
+            "locality_id":1310590865,
+            "region_id":85671565
+        }
+    ],
+    "wof:id":1310590865,
+    "wof:lastmodified":1536794108,
+    "wof:name":"Efoulana",
+    "wof:parent_id":-4,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ga",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.76009,
+    1.00187,
+    10.76009,
+    1.00187
+],
+  "geometry": {"coordinates":[10.76009,1.00187],"type":"Point"}
+}

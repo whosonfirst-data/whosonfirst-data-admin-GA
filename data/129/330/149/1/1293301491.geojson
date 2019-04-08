@@ -1,0 +1,67 @@
+{
+  "id": 1293301491,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.69692,-1.6185,13.69692,-1.6185",
+    "geom:latitude":-1.6185,
+    "geom:longitude":13.69692,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Eyouga II",
+    "gn:country_code":"GA",
+    "gn:dem":415,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2400615,
+    "gn:latitude":-1.6185,
+    "gn:longitude":13.69692,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Eyouga II",
+    "gn:population":0,
+    "gn:timezone":"Africa/Libreville",
+    "iso:country":"GA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632407,
+        85671257,
+        1091908919
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2400615
+    },
+    "wof:country":"GA",
+    "wof:geomhash":"462b8cbf1af3b67f90d1f7a6b3b37b78",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632407,
+            "county_id":1091908919,
+            "locality_id":1293301491,
+            "region_id":85671257
+        }
+    ],
+    "wof:id":1293301491,
+    "wof:lastmodified":1537052814,
+    "wof:name":"Eyouga II",
+    "wof:parent_id":1091908919,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ga",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.69692,
+    -1.6185,
+    13.69692,
+    -1.6185
+],
+  "geometry": {"coordinates":[13.69692,-1.6185],"type":"Point"}
+}

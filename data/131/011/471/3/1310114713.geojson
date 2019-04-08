@@ -1,0 +1,71 @@
+{
+  "id": 1310114713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.16231,-1.42282,13.16231,-1.42282",
+    "geom:latitude":-1.42282,
+    "geom:longitude":13.16231,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Massengo I",
+    "gn:country_code":"GA",
+    "gn:dem":405,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2399103,
+    "gn:latitude":-1.42282,
+    "gn:longitude":13.16231,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Massengo I",
+    "gn:population":0,
+    "gn:timezone":"Africa/Libreville",
+    "iso:country":"GA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Massengo",
+        "Massengo I"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632407,
+        85671257,
+        1091908967
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2399103
+    },
+    "wof:country":"GA",
+    "wof:geomhash":"14ed30236d75730290a6e52d71e011db",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632407,
+            "county_id":1091908967,
+            "locality_id":1310114713,
+            "region_id":85671257
+        }
+    ],
+    "wof:id":1310114713,
+    "wof:lastmodified":1537622902,
+    "wof:name":"Massengo I",
+    "wof:parent_id":1091908967,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ga",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.16231,
+    -1.42282,
+    13.16231,
+    -1.42282
+],
+  "geometry": {"coordinates":[13.16231,-1.42282],"type":"Point"}
+}

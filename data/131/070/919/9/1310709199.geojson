@@ -1,0 +1,70 @@
+{
+  "id": 1310709199,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.4367,-0.27381,10.4367,-0.27381",
+    "geom:latitude":-0.27381,
+    "geom:longitude":10.4367,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Akok",
+    "gn:country_code":"GA",
+    "gn:dem":64,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2397311,
+    "gn:latitude":-0.27381,
+    "gn:longitude":10.4367,
+    "gn:modification_date":"2013-10-06",
+    "gn:name":"Akok",
+    "gn:population":0,
+    "gn:timezone":"Africa/Libreville",
+    "iso:country":"GA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nkok"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632407,
+        85671247,
+        1091909487
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2397311
+    },
+    "wof:country":"GA",
+    "wof:geomhash":"3836bc32f6c33c0ddf168bdb9d3eb044",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632407,
+            "county_id":1091909487,
+            "locality_id":1310709199,
+            "region_id":85671247
+        }
+    ],
+    "wof:id":1310709199,
+    "wof:lastmodified":1537622894,
+    "wof:name":"Akok",
+    "wof:parent_id":1091909487,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ga",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.4367,
+    -0.27381,
+    10.4367,
+    -0.27381
+],
+  "geometry": {"coordinates":[10.4367,-0.27381],"type":"Point"}
+}

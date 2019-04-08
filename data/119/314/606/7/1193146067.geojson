@@ -1,0 +1,67 @@
+{
+  "id": 1193146067,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.08901,-1.3082,13.08901,-1.3082",
+    "geom:latitude":-1.3082,
+    "geom:longitude":13.08901,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Ndoubi",
+    "gn:country_code":"GA",
+    "gn:dem":499,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2397642,
+    "gn:latitude":-1.3082,
+    "gn:longitude":13.08901,
+    "gn:modification_date":"2012-04-25",
+    "gn:name":"Ndoubi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Libreville",
+    "iso:country":"GA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632407,
+        85671265,
+        1091910455
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2397642
+    },
+    "wof:country":"GA",
+    "wof:geomhash":"691e25283ecc4d59b0860f51164e90bd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632407,
+            "county_id":1091910455,
+            "locality_id":1193146067,
+            "region_id":85671265
+        }
+    ],
+    "wof:id":1193146067,
+    "wof:lastmodified":1536383251,
+    "wof:name":"Ndoubi",
+    "wof:parent_id":1091910455,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ga",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.08901,
+    -1.3082,
+    13.08901,
+    -1.3082
+],
+  "geometry": {"coordinates":[13.08901,-1.3082],"type":"Point"}
+}

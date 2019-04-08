@@ -1,0 +1,67 @@
+{
+  "id": 1242699043,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.16667,-1.23333,12.16667,-1.23333",
+    "geom:latitude":-1.23333,
+    "geom:longitude":12.16667,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Libamba",
+    "gn:country_code":"GA",
+    "gn:dem":510,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2399707,
+    "gn:latitude":-1.23333,
+    "gn:longitude":12.16667,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Libamba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Libreville",
+    "iso:country":"GA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632407,
+        85671265,
+        1091910313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2399707
+    },
+    "wof:country":"GA",
+    "wof:geomhash":"fba3ce2c3b79c2e3db945fa52a763939",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632407,
+            "county_id":1091910313,
+            "locality_id":1242699043,
+            "region_id":85671265
+        }
+    ],
+    "wof:id":1242699043,
+    "wof:lastmodified":1536888473,
+    "wof:name":"Libamba",
+    "wof:parent_id":1091910313,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ga",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.16667,
+    -1.23333,
+    12.16667,
+    -1.23333
+],
+  "geometry": {"coordinates":[12.16667,-1.23333],"type":"Point"}
+}

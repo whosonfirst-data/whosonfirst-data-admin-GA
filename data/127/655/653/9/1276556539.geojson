@@ -1,0 +1,67 @@
+{
+  "id": 1276556539,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.10319,-1.51524,14.10319,-1.51524",
+    "geom:latitude":-1.51524,
+    "geom:longitude":14.10319,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Soubba",
+    "gn:country_code":"GA",
+    "gn:dem":614,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2396295,
+    "gn:latitude":-1.51524,
+    "gn:longitude":14.10319,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Soubba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Libreville",
+    "iso:country":"GA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632407,
+        85671257,
+        1091909101
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2396295
+    },
+    "wof:country":"GA",
+    "wof:geomhash":"327aa5c6acca768e66e605f875b80d43",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632407,
+            "county_id":1091909101,
+            "locality_id":1276556539,
+            "region_id":85671257
+        }
+    ],
+    "wof:id":1276556539,
+    "wof:lastmodified":1536976366,
+    "wof:name":"Soubba",
+    "wof:parent_id":1091909101,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ga",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.10319,
+    -1.51524,
+    14.10319,
+    -1.51524
+],
+  "geometry": {"coordinates":[14.10319,-1.51524],"type":"Point"}
+}

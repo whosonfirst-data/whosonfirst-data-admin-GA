@@ -1,0 +1,72 @@
+{
+  "id": 1309809857,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.81581,-1.21841,11.81581,-1.21841",
+    "geom:latitude":-1.21841,
+    "geom:longitude":11.81581,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Ndinghi",
+    "gn:country_code":"GA",
+    "gn:dem":545,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2397682,
+    "gn:latitude":-1.21841,
+    "gn:longitude":11.81581,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Ndinghi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Libreville",
+    "iso:country":"GA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ndingui",
+        "Ndengu\u00e9",
+        "Ndinghi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632407,
+        85671265,
+        1091910409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2397682
+    },
+    "wof:country":"GA",
+    "wof:geomhash":"98ec1b702eb873b931a1bd54f6746321",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632407,
+            "county_id":1091910409,
+            "locality_id":1309809857,
+            "region_id":85671265
+        }
+    ],
+    "wof:id":1309809857,
+    "wof:lastmodified":1537622896,
+    "wof:name":"Ndinghi",
+    "wof:parent_id":1091910409,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ga",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.81581,
+    -1.21841,
+    11.81581,
+    -1.21841
+],
+  "geometry": {"coordinates":[11.81581,-1.21841],"type":"Point"}
+}

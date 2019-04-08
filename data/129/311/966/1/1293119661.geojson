@@ -1,0 +1,67 @@
+{
+  "id": 1293119661,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.96667,0.91667,10.96667,0.91667",
+    "geom:latitude":0.91667,
+    "geom:longitude":10.96667,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Nzoumou",
+    "gn:country_code":"GA",
+    "gn:dem":472,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2397003,
+    "gn:latitude":0.91667,
+    "gn:longitude":10.96667,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Nzoumou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Libreville",
+    "iso:country":"GA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632407,
+        85671241,
+        1091910733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2397003
+    },
+    "wof:country":"GA",
+    "wof:geomhash":"89d55b1967667131ed7c13839c97ab23",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632407,
+            "county_id":1091910733,
+            "locality_id":1293119661,
+            "region_id":85671241
+        }
+    ],
+    "wof:id":1293119661,
+    "wof:lastmodified":1536819543,
+    "wof:name":"Nzoumou",
+    "wof:parent_id":1091910733,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ga",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.96667,
+    0.91667,
+    10.96667,
+    0.91667
+],
+  "geometry": {"coordinates":[10.96667,0.91667],"type":"Point"}
+}

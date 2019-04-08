@@ -1,0 +1,67 @@
+{
+  "id": 1243168901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.5,-1.65,12.5,-1.65",
+    "geom:latitude":-1.65,
+    "geom:longitude":12.5,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Mbomo",
+    "gn:country_code":"GA",
+    "gn:dem":690,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2398874,
+    "gn:latitude":-1.65,
+    "gn:longitude":12.5,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Mbomo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Libreville",
+    "iso:country":"GA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632407,
+        85671265,
+        1091910313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2398874
+    },
+    "wof:country":"GA",
+    "wof:geomhash":"3675288273b1315dda43b1bebf342689",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632407,
+            "county_id":1091910313,
+            "locality_id":1243168901,
+            "region_id":85671265
+        }
+    ],
+    "wof:id":1243168901,
+    "wof:lastmodified":1536709053,
+    "wof:name":"Mbomo",
+    "wof:parent_id":1091910313,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ga",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.5,
+    -1.65,
+    12.5,
+    -1.65
+],
+  "geometry": {"coordinates":[12.5,-1.65],"type":"Point"}
+}

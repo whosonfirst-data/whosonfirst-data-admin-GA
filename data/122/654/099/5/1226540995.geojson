@@ -1,0 +1,72 @@
+{
+  "id": 1226540995,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.2,-1.55,11.2,-1.55",
+    "geom:latitude":-1.55,
+    "geom:longitude":11.2,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Mouboungou",
+    "gn:cc2":"GA",
+    "gn:country_code":"GA",
+    "gn:dem":760,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2398146,
+    "gn:latitude":-1.55,
+    "gn:longitude":11.2,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Mouboungou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Libreville",
+    "iso:country":"GA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Moubongou",
+        "Mouboungou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632407,
+        85671249,
+        1091909531
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2398146
+    },
+    "wof:country":"GA",
+    "wof:geomhash":"bfb5e22faaf2ef2e5176b695989e7f78",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632407,
+            "county_id":1091909531,
+            "locality_id":1226540995,
+            "region_id":85671249
+        }
+    ],
+    "wof:id":1226540995,
+    "wof:lastmodified":1537622898,
+    "wof:name":"Mouboungou",
+    "wof:parent_id":1091909531,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ga",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.2,
+    -1.55,
+    11.2,
+    -1.55
+],
+  "geometry": {"coordinates":[11.2,-1.55],"type":"Point"}
+}

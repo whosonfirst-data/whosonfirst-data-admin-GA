@@ -1,0 +1,77 @@
+{
+  "id": 1259969503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.75508,1.01672,10.75508,1.01672",
+    "geom:latitude":1.01672,
+    "geom:longitude":10.75508,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Kouala",
+    "gn:country_code":"GA",
+    "gn:dem":631,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2399977,
+    "gn:latitude":1.01672,
+    "gn:longitude":10.75508,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Kouala",
+    "gn:population":0,
+    "gn:timezone":"Africa/Libreville",
+    "iso:country":"GA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632407,
+        85671241,
+        1091910783,
+        85632287,
+        85671565,
+        1108785227
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2399977
+    },
+    "wof:country":"GA",
+    "wof:geomhash":"fefa8c35b786e67bc2bfc5fa16b553d9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632407,
+            "county_id":1091910783,
+            "locality_id":1259969503,
+            "region_id":85671241
+        },
+        {
+            "continent_id":102191573,
+            "country_id":85632287,
+            "county_id":1108785227,
+            "locality_id":1259969503,
+            "region_id":85671565
+        }
+    ],
+    "wof:id":1259969503,
+    "wof:lastmodified":1536655323,
+    "wof:name":"Kouala",
+    "wof:parent_id":-4,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ga",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.75508,
+    1.01672,
+    10.75508,
+    1.01672
+],
+  "geometry": {"coordinates":[10.75508,1.01672],"type":"Point"}
+}

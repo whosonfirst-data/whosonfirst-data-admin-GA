@@ -1,0 +1,71 @@
+{
+  "id": 1309906913,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.80353,-1.06712,10.80353,-1.06712",
+    "geom:latitude":-1.06712,
+    "geom:longitude":10.80353,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Obeye",
+    "gn:country_code":"GA",
+    "gn:dem":125,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2396977,
+    "gn:latitude":-1.06712,
+    "gn:longitude":10.80353,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Obeye",
+    "gn:population":0,
+    "gn:timezone":"Africa/Libreville",
+    "iso:country":"GA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Obaye",
+        "Obeye"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632407,
+        85671249,
+        1091909581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2396977
+    },
+    "wof:country":"GA",
+    "wof:geomhash":"4302ffe3ab035b4e1289c65a815ea160",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632407,
+            "county_id":1091909581,
+            "locality_id":1309906913,
+            "region_id":85671249
+        }
+    ],
+    "wof:id":1309906913,
+    "wof:lastmodified":1537622892,
+    "wof:name":"Obeye",
+    "wof:parent_id":1091909581,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ga",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.80353,
+    -1.06712,
+    10.80353,
+    -1.06712
+],
+  "geometry": {"coordinates":[10.80353,-1.06712],"type":"Point"}
+}

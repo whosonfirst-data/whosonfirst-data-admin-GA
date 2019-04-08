@@ -1,0 +1,67 @@
+{
+  "id": 1343360927,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.67709,-0.83064,9.67709,-0.83064",
+    "geom:latitude":-0.83064,
+    "geom:longitude":9.67709,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Akomba",
+    "gn:country_code":"GA",
+    "gn:dem":25,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2402463,
+    "gn:latitude":-0.83064,
+    "gn:longitude":9.67709,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Akomba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Libreville",
+    "iso:country":"GA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632407,
+        85671247,
+        1091909431
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2402463
+    },
+    "wof:country":"GA",
+    "wof:geomhash":"4171c50e3b3f256ca0388762715d125f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632407,
+            "county_id":1091909431,
+            "locality_id":1343360927,
+            "region_id":85671247
+        }
+    ],
+    "wof:id":1343360927,
+    "wof:lastmodified":1536889410,
+    "wof:name":"Akomba",
+    "wof:parent_id":1091909431,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ga",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.67709,
+    -0.83064,
+    9.67709,
+    -0.83064
+],
+  "geometry": {"coordinates":[9.67709,-0.83064],"type":"Point"}
+}

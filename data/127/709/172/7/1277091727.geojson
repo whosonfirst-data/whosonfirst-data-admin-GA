@@ -1,0 +1,67 @@
+{
+  "id": 1277091727,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.1,0.63333,10.1,0.63333",
+    "geom:latitude":0.63333,
+    "geom:longitude":10.1,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Mendouga",
+    "gn:country_code":"GA",
+    "gn:dem":44,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2398680,
+    "gn:latitude":0.63333,
+    "gn:longitude":10.1,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Mendouga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Libreville",
+    "iso:country":"GA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632407,
+        85671235,
+        1091908869
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2398680
+    },
+    "wof:country":"GA",
+    "wof:geomhash":"583fa0101c7f0b45b26b8306c22f77cd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632407,
+            "county_id":1091908869,
+            "locality_id":1277091727,
+            "region_id":85671235
+        }
+    ],
+    "wof:id":1277091727,
+    "wof:lastmodified":1536754680,
+    "wof:name":"Mendouga",
+    "wof:parent_id":1091908869,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ga",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.1,
+    0.63333,
+    10.1,
+    0.63333
+],
+  "geometry": {"coordinates":[10.1,0.63333],"type":"Point"}
+}

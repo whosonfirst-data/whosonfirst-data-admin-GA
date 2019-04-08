@@ -1,0 +1,72 @@
+{
+  "id": 1343585261,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.45,-0.93333,11.45,-0.93333",
+    "geom:latitude":-0.93333,
+    "geom:longitude":11.45,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Ancien Matica",
+    "gn:cc2":"GA",
+    "gn:country_code":"GA",
+    "gn:dem":660,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2402323,
+    "gn:latitude":-0.93333,
+    "gn:longitude":11.45,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Ancien Matica",
+    "gn:population":0,
+    "gn:timezone":"Africa/Libreville",
+    "iso:country":"GA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Matica",
+        "Ancien Matica"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632407,
+        85671249,
+        1091909887
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2402323
+    },
+    "wof:country":"GA",
+    "wof:geomhash":"f778afca05e13ddd483b24b12a20cbf5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632407,
+            "county_id":1091909887,
+            "locality_id":1343585261,
+            "region_id":85671249
+        }
+    ],
+    "wof:id":1343585261,
+    "wof:lastmodified":1537622918,
+    "wof:name":"Ancien Matica",
+    "wof:parent_id":1091909887,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ga",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.45,
+    -0.93333,
+    11.45,
+    -0.93333
+],
+  "geometry": {"coordinates":[11.45,-0.93333],"type":"Point"}
+}

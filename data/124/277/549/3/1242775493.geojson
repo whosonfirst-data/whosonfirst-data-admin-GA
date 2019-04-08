@@ -1,0 +1,67 @@
+{
+  "id": 1242775493,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.97518,0.82539,12.97518,0.82539",
+    "geom:latitude":0.82539,
+    "geom:longitude":12.97518,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Abor",
+    "gn:country_code":"GA",
+    "gn:dem":478,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2402624,
+    "gn:latitude":0.82539,
+    "gn:longitude":12.97518,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Abor",
+    "gn:population":0,
+    "gn:timezone":"Africa/Libreville",
+    "iso:country":"GA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632407,
+        85671237,
+        1091910169
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2402624
+    },
+    "wof:country":"GA",
+    "wof:geomhash":"1c3ba97dfa13a6814adc2c059716d083",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632407,
+            "county_id":1091910169,
+            "locality_id":1242775493,
+            "region_id":85671237
+        }
+    ],
+    "wof:id":1242775493,
+    "wof:lastmodified":1536779188,
+    "wof:name":"Abor",
+    "wof:parent_id":1091910169,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ga",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.97518,
+    0.82539,
+    12.97518,
+    0.82539
+],
+  "geometry": {"coordinates":[12.97518,0.82539],"type":"Point"}
+}

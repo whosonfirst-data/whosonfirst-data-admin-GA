@@ -1,0 +1,67 @@
+{
+  "id": 1276533849,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.37747,-1.65434,9.37747,-1.65434",
+    "geom:latitude":-1.65434,
+    "geom:longitude":9.37747,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Odende",
+    "gn:country_code":"GA",
+    "gn:dem":27,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2396950,
+    "gn:latitude":-1.65434,
+    "gn:longitude":9.37747,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Odende",
+    "gn:population":0,
+    "gn:timezone":"Africa/Libreville",
+    "iso:country":"GA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632407,
+        85671255,
+        1091910509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2396950
+    },
+    "wof:country":"GA",
+    "wof:geomhash":"25e6f50951d0726fa3506a3c64a97587",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632407,
+            "county_id":1091910509,
+            "locality_id":1276533849,
+            "region_id":85671255
+        }
+    ],
+    "wof:id":1276533849,
+    "wof:lastmodified":1537006581,
+    "wof:name":"Odende",
+    "wof:parent_id":1091910509,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ga",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.37747,
+    -1.65434,
+    9.37747,
+    -1.65434
+],
+  "geometry": {"coordinates":[9.37747,-1.65434],"type":"Point"}
+}

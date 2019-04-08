@@ -1,0 +1,77 @@
+{
+  "id": 1327444213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.42633,-1.67131,14.42633,-1.67131",
+    "geom:latitude":-1.67131,
+    "geom:longitude":14.42633,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Kabala",
+    "gn:country_code":"GA",
+    "gn:dem":580,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2400172,
+    "gn:latitude":-1.67131,
+    "gn:longitude":14.42633,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Kabala",
+    "gn:population":0,
+    "gn:timezone":"Africa/Libreville",
+    "iso:country":"GA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632541,
+        85670023,
+        1092012809,
+        85632407,
+        85671257,
+        1091909149
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2400172
+    },
+    "wof:country":"GA",
+    "wof:geomhash":"089b64e76405600ee46cd0f68cb7c20d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632541,
+            "county_id":1092012809,
+            "locality_id":1327444213,
+            "region_id":85670023
+        },
+        {
+            "continent_id":102191573,
+            "country_id":85632407,
+            "county_id":1091909149,
+            "locality_id":1327444213,
+            "region_id":85671257
+        }
+    ],
+    "wof:id":1327444213,
+    "wof:lastmodified":1536663674,
+    "wof:name":"Kabala",
+    "wof:parent_id":-4,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ga",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.42633,
+    -1.67131,
+    14.42633,
+    -1.67131
+],
+  "geometry": {"coordinates":[14.42633,-1.67131],"type":"Point"}
+}

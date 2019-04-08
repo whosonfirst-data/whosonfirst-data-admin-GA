@@ -1,0 +1,67 @@
+{
+  "id": 1343264883,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.40329,-1.49976,13.40329,-1.49976",
+    "geom:latitude":-1.49976,
+    "geom:longitude":13.40329,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Yeye",
+    "gn:country_code":"GA",
+    "gn:dem":452,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2396028,
+    "gn:latitude":-1.49976,
+    "gn:longitude":13.40329,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Y\u00e9y\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Libreville",
+    "iso:country":"GA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632407,
+        85671257,
+        1091908919
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2396028
+    },
+    "wof:country":"GA",
+    "wof:geomhash":"64fa0b41cee189fc6c0c91bad6d8dc9e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632407,
+            "county_id":1091908919,
+            "locality_id":1343264883,
+            "region_id":85671257
+        }
+    ],
+    "wof:id":1343264883,
+    "wof:lastmodified":1537027294,
+    "wof:name":"Yeye",
+    "wof:parent_id":1091908919,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ga",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.40329,
+    -1.49976,
+    13.40329,
+    -1.49976
+],
+  "geometry": {"coordinates":[13.40329,-1.49976],"type":"Point"}
+}

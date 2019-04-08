@@ -1,0 +1,67 @@
+{
+  "id": 1277083155,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.58333,-1.81667,13.58333,-1.81667",
+    "geom:latitude":-1.81667,
+    "geom:longitude":13.58333,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Mopounga I",
+    "gn:country_code":"GA",
+    "gn:dem":421,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2398186,
+    "gn:latitude":-1.81667,
+    "gn:longitude":13.58333,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Mopounga I",
+    "gn:population":0,
+    "gn:timezone":"Africa/Libreville",
+    "iso:country":"GA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632407,
+        85671257,
+        1091908919
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2398186
+    },
+    "wof:country":"GA",
+    "wof:geomhash":"b03a86660c2384710db8a7bdd644bac7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632407,
+            "county_id":1091908919,
+            "locality_id":1277083155,
+            "region_id":85671257
+        }
+    ],
+    "wof:id":1277083155,
+    "wof:lastmodified":1536767374,
+    "wof:name":"Mopounga I",
+    "wof:parent_id":1091908919,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ga",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.58333,
+    -1.81667,
+    13.58333,
+    -1.81667
+],
+  "geometry": {"coordinates":[13.58333,-1.81667],"type":"Point"}
+}

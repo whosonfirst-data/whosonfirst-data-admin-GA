@@ -1,0 +1,65 @@
+{
+  "id": 1209307181,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.56075,-0.68081,11.56075,-0.68081",
+    "geom:latitude":-0.68081,
+    "geom:longitude":11.56075,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Ancien Okaka",
+    "gn:country_code":"GA",
+    "gn:dem":499,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2402321,
+    "gn:latitude":-0.68081,
+    "gn:longitude":11.56075,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Ancien Okaka",
+    "gn:population":0,
+    "gn:timezone":"Africa/Libreville",
+    "iso:country":"GA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Okaka",
+        "Ancien Okaka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632407
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2402321
+    },
+    "wof:country":"GA",
+    "wof:geomhash":"0b6494ed87de4e521719394513d12379",
+    "wof:hierarchy":[
+        {
+            "country_id":85632407,
+            "locality_id":1209307181
+        }
+    ],
+    "wof:id":1209307181,
+    "wof:lastmodified":1537622918,
+    "wof:name":"Ancien Okaka",
+    "wof:parent_id":85632407,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ga",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.56075,
+    -0.68081,
+    11.56075,
+    -0.68081
+],
+  "geometry": {"coordinates":[11.56075,-0.68081],"type":"Point"}
+}

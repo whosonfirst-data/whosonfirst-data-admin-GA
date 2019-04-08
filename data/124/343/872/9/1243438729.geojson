@@ -1,0 +1,71 @@
+{
+  "id": 1243438729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.59517,1.49929,11.59517,1.49929",
+    "geom:latitude":1.49929,
+    "geom:longitude":11.59517,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Mvomayop",
+    "gn:country_code":"GA",
+    "gn:dem":655,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2397765,
+    "gn:latitude":1.49929,
+    "gn:longitude":11.59517,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Mvomayop",
+    "gn:population":0,
+    "gn:timezone":"Africa/Libreville",
+    "iso:country":"GA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "M\u2019Vomayop I",
+        "Mvomayop"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632407,
+        85671241,
+        1091910593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2397765
+    },
+    "wof:country":"GA",
+    "wof:geomhash":"a21e4bff2397e10353b06a7031d25d18",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632407,
+            "county_id":1091910593,
+            "locality_id":1243438729,
+            "region_id":85671241
+        }
+    ],
+    "wof:id":1243438729,
+    "wof:lastmodified":1537622896,
+    "wof:name":"Mvomayop",
+    "wof:parent_id":1091910593,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ga",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.59517,
+    1.49929,
+    11.59517,
+    1.49929
+],
+  "geometry": {"coordinates":[11.59517,1.49929],"type":"Point"}
+}

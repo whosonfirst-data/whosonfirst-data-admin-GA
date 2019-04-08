@@ -1,0 +1,67 @@
+{
+  "id": 1310618827,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.63333,-0.01667,9.63333,-0.01667",
+    "geom:latitude":-0.01667,
+    "geom:longitude":9.63333,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Nlang-Mbeng",
+    "gn:country_code":"GA",
+    "gn:dem":45,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2397239,
+    "gn:latitude":-0.01667,
+    "gn:longitude":9.63333,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Nlang-Mbeng",
+    "gn:population":0,
+    "gn:timezone":"Africa/Libreville",
+    "iso:country":"GA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632407,
+        85671235,
+        421178363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2397239
+    },
+    "wof:country":"GA",
+    "wof:geomhash":"69fa1d61e26543690b2f4a5fa9c56e23",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632407,
+            "county_id":421178363,
+            "locality_id":1310618827,
+            "region_id":85671235
+        }
+    ],
+    "wof:id":1310618827,
+    "wof:lastmodified":1536753457,
+    "wof:name":"Nlang-Mbeng",
+    "wof:parent_id":421178363,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ga",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.63333,
+    -0.01667,
+    9.63333,
+    -0.01667
+],
+  "geometry": {"coordinates":[9.63333,-0.01667],"type":"Point"}
+}

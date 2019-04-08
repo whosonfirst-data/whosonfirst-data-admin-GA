@@ -1,0 +1,65 @@
+{
+  "id": 1209320971,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.10339,-1.58841,10.10339,-1.58841",
+    "geom:latitude":-1.58841,
+    "geom:longitude":10.10339,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Mbila Nzambi",
+    "gn:country_code":"GA",
+    "gn:dem":24,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2398923,
+    "gn:latitude":-1.58841,
+    "gn:longitude":10.10339,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Mbila Nzambi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Libreville",
+    "iso:country":"GA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bilazambi",
+        "Mbila Nzambi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632407
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2398923
+    },
+    "wof:country":"GA",
+    "wof:geomhash":"f896b5cfaee75e6e18bc940428a14d90",
+    "wof:hierarchy":[
+        {
+            "country_id":85632407,
+            "locality_id":1209320971
+        }
+    ],
+    "wof:id":1209320971,
+    "wof:lastmodified":1537622901,
+    "wof:name":"Mbila Nzambi",
+    "wof:parent_id":85632407,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ga",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.10339,
+    -1.58841,
+    10.10339,
+    -1.58841
+],
+  "geometry": {"coordinates":[10.10339,-1.58841],"type":"Point"}
+}

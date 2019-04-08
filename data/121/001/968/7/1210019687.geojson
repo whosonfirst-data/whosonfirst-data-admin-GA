@@ -1,0 +1,72 @@
+{
+  "id": 1210019687,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.31667,-2.0,14.31667,-2.0",
+    "geom:latitude":-2.0,
+    "geom:longitude":14.31667,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Mpfoubi",
+    "gn:cc2":"GA",
+    "gn:country_code":"GA",
+    "gn:dem":680,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2397831,
+    "gn:latitude":-2.0,
+    "gn:longitude":14.31667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Mpfoubi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Libreville",
+    "iso:country":"GA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pfoubi",
+        "Mpfoubi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632541,
+        85670063,
+        1092013609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2397831
+    },
+    "wof:country":"GA",
+    "wof:geomhash":"bbe4854008f98097045b8607999675b9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632541,
+            "county_id":1092013609,
+            "locality_id":1210019687,
+            "region_id":85670063
+        }
+    ],
+    "wof:id":1210019687,
+    "wof:lastmodified":1537622896,
+    "wof:name":"Mpfoubi",
+    "wof:parent_id":1092013609,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ga",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.31667,
+    -2.0,
+    14.31667,
+    -2.0
+],
+  "geometry": {"coordinates":[14.31667,-2.0],"type":"Point"}
+}

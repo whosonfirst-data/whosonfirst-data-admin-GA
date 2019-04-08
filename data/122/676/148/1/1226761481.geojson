@@ -1,0 +1,66 @@
+{
+  "id": 1226761481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.43333,0.4,9.43333,0.4",
+    "geom:latitude":0.4,
+    "geom:longitude":9.43333,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Quaben",
+    "gn:cc2":"GA",
+    "gn:country_code":"GA",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2396483,
+    "gn:latitude":0.4,
+    "gn:longitude":9.43333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Quaben",
+    "gn:population":0,
+    "gn:timezone":"Africa/Libreville",
+    "iso:country":"GA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kwaben",
+        "Quaben"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2396483
+    },
+    "wof:country":"GA",
+    "wof:geomhash":"471f9661bfd94045c45cc54375103db0",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1226761481,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1226761481,
+    "wof:lastmodified":1537622890,
+    "wof:name":"Quaben",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ga",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.43333,
+    0.4,
+    9.43333,
+    0.4
+],
+  "geometry": {"coordinates":[9.43333,0.4],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1276557513,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.24113,0.05703,10.24113,0.05703",
+    "geom:latitude":0.05703,
+    "geom:longitude":10.24113,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Ayeme",
+    "gn:country_code":"GA",
+    "gn:dem":24,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2402081,
+    "gn:latitude":0.05703,
+    "gn:longitude":10.24113,
+    "gn:modification_date":"2013-10-06",
+    "gn:name":"Ayeme",
+    "gn:population":0,
+    "gn:timezone":"Africa/Libreville",
+    "iso:country":"GA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ay\u00e9m\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632407,
+        85671235,
+        1091908823
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2402081
+    },
+    "wof:country":"GA",
+    "wof:geomhash":"74dcbc39c2007f60e71b1cb61023cb58",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632407,
+            "county_id":1091908823,
+            "locality_id":1276557513,
+            "region_id":85671235
+        }
+    ],
+    "wof:id":1276557513,
+    "wof:lastmodified":1537622917,
+    "wof:name":"Ayeme",
+    "wof:parent_id":1091908823,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ga",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.24113,
+    0.05703,
+    10.24113,
+    0.05703
+],
+  "geometry": {"coordinates":[10.24113,0.05703],"type":"Point"}
+}

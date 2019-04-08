@@ -1,0 +1,67 @@
+{
+  "id": 1310197539,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.86667,0.66667,12.86667,0.66667",
+    "geom:latitude":0.66667,
+    "geom:longitude":12.86667,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Toulo",
+    "gn:country_code":"GA",
+    "gn:dem":521,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2396195,
+    "gn:latitude":0.66667,
+    "gn:longitude":12.86667,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Toulo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Libreville",
+    "iso:country":"GA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632407,
+        85671237,
+        1091910169
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2396195
+    },
+    "wof:country":"GA",
+    "wof:geomhash":"8fd7e853eae1d24f5aa423730c752823",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632407,
+            "county_id":1091910169,
+            "locality_id":1310197539,
+            "region_id":85671237
+        }
+    ],
+    "wof:id":1310197539,
+    "wof:lastmodified":1536862399,
+    "wof:name":"Toulo",
+    "wof:parent_id":1091910169,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ga",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.86667,
+    0.66667,
+    12.86667,
+    0.66667
+],
+  "geometry": {"coordinates":[12.86667,0.66667],"type":"Point"}
+}

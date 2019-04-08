@@ -1,0 +1,71 @@
+{
+  "id": 1360076887,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.35214,-1.09741,12.35214,-1.09741",
+    "geom:latitude":-1.09741,
+    "geom:longitude":12.35214,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Mibaka",
+    "gn:country_code":"GA",
+    "gn:dem":326,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2398552,
+    "gn:latitude":-1.09741,
+    "gn:longitude":12.35214,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Mibaka",
+    "gn:population":0,
+    "gn:timezone":"Africa/Libreville",
+    "iso:country":"GA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mibaca",
+        "Mibaka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632407,
+        85671265,
+        1091910313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2398552
+    },
+    "wof:country":"GA",
+    "wof:geomhash":"8639a4cfdd686dbaf882ad10574e700c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632407,
+            "county_id":1091910313,
+            "locality_id":1360076887,
+            "region_id":85671265
+        }
+    ],
+    "wof:id":1360076887,
+    "wof:lastmodified":1537622899,
+    "wof:name":"Mibaka",
+    "wof:parent_id":1091910313,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ga",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.35214,
+    -1.09741,
+    12.35214,
+    -1.09741
+],
+  "geometry": {"coordinates":[12.35214,-1.09741],"type":"Point"}
+}

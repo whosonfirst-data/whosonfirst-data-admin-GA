@@ -1,0 +1,67 @@
+{
+  "id": 1293193925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.95,0.73333,12.95,0.73333",
+    "geom:latitude":0.73333,
+    "geom:longitude":12.95,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Magnon",
+    "gn:country_code":"GA",
+    "gn:dem":490,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2399440,
+    "gn:latitude":0.73333,
+    "gn:longitude":12.95,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Magnon",
+    "gn:population":0,
+    "gn:timezone":"Africa/Libreville",
+    "iso:country":"GA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632407,
+        85671237,
+        1091910169
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2399440
+    },
+    "wof:country":"GA",
+    "wof:geomhash":"8961c7927ce57f7a1e040d852aee8725",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632407,
+            "county_id":1091910169,
+            "locality_id":1293193925,
+            "region_id":85671237
+        }
+    ],
+    "wof:id":1293193925,
+    "wof:lastmodified":1536713630,
+    "wof:name":"Magnon",
+    "wof:parent_id":1091910169,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ga",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.95,
+    0.73333,
+    12.95,
+    0.73333
+],
+  "geometry": {"coordinates":[12.95,0.73333],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1209399301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.01667,0.65,11.01667,0.65",
+    "geom:latitude":0.65,
+    "geom:longitude":11.01667,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Ayong",
+    "gn:country_code":"GA",
+    "gn:dem":453,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2402072,
+    "gn:latitude":0.65,
+    "gn:longitude":11.01667,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Ayong",
+    "gn:population":0,
+    "gn:timezone":"Africa/Libreville",
+    "iso:country":"GA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632407
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2402072
+    },
+    "wof:country":"GA",
+    "wof:geomhash":"d911aff053c47b518f49eb7b1e441032",
+    "wof:hierarchy":[
+        {
+            "country_id":85632407,
+            "locality_id":1209399301
+        }
+    ],
+    "wof:id":1209399301,
+    "wof:lastmodified":1536288199,
+    "wof:name":"Ayong",
+    "wof:parent_id":85632407,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ga",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.01667,
+    0.65,
+    11.01667,
+    0.65
+],
+  "geometry": {"coordinates":[11.01667,0.65],"type":"Point"}
+}

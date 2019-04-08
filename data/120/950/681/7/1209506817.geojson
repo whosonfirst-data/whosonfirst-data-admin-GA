@@ -1,0 +1,61 @@
+{
+  "id": 1209506817,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.13333,-1.1,13.13333,-1.1",
+    "geom:latitude":-1.1,
+    "geom:longitude":13.13333,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Ouniongo",
+    "gn:country_code":"GA",
+    "gn:dem":355,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2396701,
+    "gn:latitude":-1.1,
+    "gn:longitude":13.13333,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Ouniongo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Libreville",
+    "iso:country":"GA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632407
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2396701
+    },
+    "wof:country":"GA",
+    "wof:geomhash":"47a724844527add73b3827cd3cb7856b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632407,
+            "locality_id":1209506817
+        }
+    ],
+    "wof:id":1209506817,
+    "wof:lastmodified":1536285009,
+    "wof:name":"Ouniongo",
+    "wof:parent_id":85632407,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ga",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.13333,
+    -1.1,
+    13.13333,
+    -1.1
+],
+  "geometry": {"coordinates":[13.13333,-1.1],"type":"Point"}
+}

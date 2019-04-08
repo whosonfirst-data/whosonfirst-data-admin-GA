@@ -1,0 +1,67 @@
+{
+  "id": 1343560207,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.48514,-2.88197,10.48514,-2.88197",
+    "geom:latitude":-2.88197,
+    "geom:longitude":10.48514,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Disofou",
+    "gn:country_code":"GA",
+    "gn:dem":87,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2401178,
+    "gn:latitude":-2.88197,
+    "gn:longitude":10.48514,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Disofou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Libreville",
+    "iso:country":"GA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632407,
+        85671255,
+        1091910563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2401178
+    },
+    "wof:country":"GA",
+    "wof:geomhash":"be08e3bb4f018104368581ceefa7b644",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632407,
+            "county_id":1091910563,
+            "locality_id":1343560207,
+            "region_id":85671255
+        }
+    ],
+    "wof:id":1343560207,
+    "wof:lastmodified":1537096615,
+    "wof:name":"Disofou",
+    "wof:parent_id":1091910563,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ga",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.48514,
+    -2.88197,
+    10.48514,
+    -2.88197
+],
+  "geometry": {"coordinates":[10.48514,-2.88197],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1209409421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.06667,-1.01667,12.06667,-1.01667",
+    "geom:latitude":-1.01667,
+    "geom:longitude":12.06667,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Ikembele",
+    "gn:country_code":"GA",
+    "gn:dem":513,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2400358,
+    "gn:latitude":-1.01667,
+    "gn:longitude":12.06667,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Ikemb\u00e9l\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Libreville",
+    "iso:country":"GA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632407
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2400358
+    },
+    "wof:country":"GA",
+    "wof:geomhash":"eef904af0cec1935f1af3392dbb67d12",
+    "wof:hierarchy":[
+        {
+            "country_id":85632407,
+            "locality_id":1209409421
+        }
+    ],
+    "wof:id":1209409421,
+    "wof:lastmodified":1536287888,
+    "wof:name":"Ikembele",
+    "wof:parent_id":85632407,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ga",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.06667,
+    -1.01667,
+    12.06667,
+    -1.01667
+],
+  "geometry": {"coordinates":[12.06667,-1.01667],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1293776441,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.98336,0.98659,12.98336,0.98659",
+    "geom:latitude":0.98659,
+    "geom:longitude":12.98336,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Manyal",
+    "gn:country_code":"GA",
+    "gn:dem":487,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2399165,
+    "gn:latitude":0.98659,
+    "gn:longitude":12.98336,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Manyal",
+    "gn:population":0,
+    "gn:timezone":"Africa/Libreville",
+    "iso:country":"GA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632407,
+        85671237,
+        1091910169
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2399165
+    },
+    "wof:country":"GA",
+    "wof:geomhash":"1dcb4f451d3bb042b447743a3f607eae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632407,
+            "county_id":1091910169,
+            "locality_id":1293776441,
+            "region_id":85671237
+        }
+    ],
+    "wof:id":1293776441,
+    "wof:lastmodified":1536866307,
+    "wof:name":"Manyal",
+    "wof:parent_id":1091910169,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ga",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.98336,
+    0.98659,
+    12.98336,
+    0.98659
+],
+  "geometry": {"coordinates":[12.98336,0.98659],"type":"Point"}
+}

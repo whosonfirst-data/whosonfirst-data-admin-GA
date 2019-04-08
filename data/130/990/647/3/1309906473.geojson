@@ -1,0 +1,72 @@
+{
+  "id": 1309906473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.85,-2.06667,11.85,-2.06667",
+    "geom:latitude":-2.06667,
+    "geom:longitude":11.85,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Lebengo",
+    "gn:cc2":"GA",
+    "gn:country_code":"GA",
+    "gn:dem":698,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2399847,
+    "gn:latitude":-2.06667,
+    "gn:longitude":11.85,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Lebengo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Libreville",
+    "iso:country":"GA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Libengo",
+        "Lebengo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632407,
+        85671249,
+        1091909833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2399847
+    },
+    "wof:country":"GA",
+    "wof:geomhash":"aa091ec7b1fc6c554a3e972fad951c7c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632407,
+            "county_id":1091909833,
+            "locality_id":1309906473,
+            "region_id":85671249
+        }
+    ],
+    "wof:id":1309906473,
+    "wof:lastmodified":1537622905,
+    "wof:name":"Lebengo",
+    "wof:parent_id":1091909833,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ga",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.85,
+    -2.06667,
+    11.85,
+    -2.06667
+],
+  "geometry": {"coordinates":[11.85,-2.06667],"type":"Point"}
+}

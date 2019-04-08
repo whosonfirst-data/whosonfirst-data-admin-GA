@@ -1,0 +1,65 @@
+{
+  "id": 1209414261,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.65924,-2.58783,10.65924,-2.58783",
+    "geom:latitude":-2.58783,
+    "geom:longitude":10.65924,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Mouvanga-Panza",
+    "gn:country_code":"GA",
+    "gn:dem":131,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2397874,
+    "gn:latitude":-2.58783,
+    "gn:longitude":10.65924,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Mouvanga-Panza",
+    "gn:population":0,
+    "gn:timezone":"Africa/Libreville",
+    "iso:country":"GA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mouvango-Pinza",
+        "Mouvanga-Panza"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632407
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2397874
+    },
+    "wof:country":"GA",
+    "wof:geomhash":"b1a9277243bd5d022be2662a66e26bc7",
+    "wof:hierarchy":[
+        {
+            "country_id":85632407,
+            "locality_id":1209414261
+        }
+    ],
+    "wof:id":1209414261,
+    "wof:lastmodified":1537622897,
+    "wof:name":"Mouvanga-Panza",
+    "wof:parent_id":85632407,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ga",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.65924,
+    -2.58783,
+    10.65924,
+    -2.58783
+],
+  "geometry": {"coordinates":[10.65924,-2.58783],"type":"Point"}
+}

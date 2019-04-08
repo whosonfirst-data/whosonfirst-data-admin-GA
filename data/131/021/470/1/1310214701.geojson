@@ -1,0 +1,67 @@
+{
+  "id": 1310214701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.56632,0.46403,10.56632,0.46403",
+    "geom:latitude":0.46403,
+    "geom:longitude":10.56632,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Bissobinam",
+    "gn:country_code":"GA",
+    "gn:dem":497,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2401595,
+    "gn:latitude":0.46403,
+    "gn:longitude":10.56632,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Bissobinam",
+    "gn:population":0,
+    "gn:timezone":"Africa/Libreville",
+    "iso:country":"GA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632407,
+        85671235,
+        1091908823
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2401595
+    },
+    "wof:country":"GA",
+    "wof:geomhash":"b3925a5638acf9c006739724cda5a435",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632407,
+            "county_id":1091908823,
+            "locality_id":1310214701,
+            "region_id":85671235
+        }
+    ],
+    "wof:id":1310214701,
+    "wof:lastmodified":1536837871,
+    "wof:name":"Bissobinam",
+    "wof:parent_id":1091908823,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ga",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.56632,
+    0.46403,
+    10.56632,
+    0.46403
+],
+  "geometry": {"coordinates":[10.56632,0.46403],"type":"Point"}
+}

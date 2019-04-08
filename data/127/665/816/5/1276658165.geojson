@@ -1,0 +1,67 @@
+{
+  "id": 1276658165,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.76667,-1.43333,11.76667,-1.43333",
+    "geom:latitude":-1.43333,
+    "geom:longitude":11.76667,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Diboundi",
+    "gn:country_code":"GA",
+    "gn:dem":696,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2401254,
+    "gn:latitude":-1.43333,
+    "gn:longitude":11.76667,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Diboundi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Libreville",
+    "iso:country":"GA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632407,
+        85671249,
+        1091909887
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2401254
+    },
+    "wof:country":"GA",
+    "wof:geomhash":"2806db2bfc458faed8fb4ba6cbc0d739",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632407,
+            "county_id":1091909887,
+            "locality_id":1276658165,
+            "region_id":85671249
+        }
+    ],
+    "wof:id":1276658165,
+    "wof:lastmodified":1536839444,
+    "wof:name":"Diboundi",
+    "wof:parent_id":1091909887,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ga",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.76667,
+    -1.43333,
+    11.76667,
+    -1.43333
+],
+  "geometry": {"coordinates":[11.76667,-1.43333],"type":"Point"}
+}

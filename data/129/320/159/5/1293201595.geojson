@@ -1,0 +1,71 @@
+{
+  "id": 1293201595,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.632,-2.07217,10.632,-2.07217",
+    "geom:latitude":-2.07217,
+    "geom:longitude":10.632,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Tchengue-Paga",
+    "gn:country_code":"GA",
+    "gn:dem":327,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2396255,
+    "gn:latitude":-2.07217,
+    "gn:longitude":10.632,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Tchengu\u00e9-Paga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Libreville",
+    "iso:country":"GA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tchengui-Paga",
+        "Tchengu\u00e9-Paga"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632407,
+        85671249,
+        1091909663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2396255
+    },
+    "wof:country":"GA",
+    "wof:geomhash":"dd00ebead9dc210f7983e6ce973b8d45",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632407,
+            "county_id":1091909663,
+            "locality_id":1293201595,
+            "region_id":85671249
+        }
+    ],
+    "wof:id":1293201595,
+    "wof:lastmodified":1537622889,
+    "wof:name":"Tchengue-Paga",
+    "wof:parent_id":1091909663,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ga",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.632,
+    -2.07217,
+    10.632,
+    -2.07217
+],
+  "geometry": {"coordinates":[10.632,-2.07217],"type":"Point"}
+}

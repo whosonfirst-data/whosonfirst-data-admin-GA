@@ -1,0 +1,71 @@
+{
+  "id": 1209737005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.78518,-1.72786,12.78518,-1.72786",
+    "geom:latitude":-1.72786,
+    "geom:longitude":12.78518,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Mitoungou",
+    "gn:country_code":"GA",
+    "gn:dem":697,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2398298,
+    "gn:latitude":-1.72786,
+    "gn:longitude":12.78518,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Mitoungou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Libreville",
+    "iso:country":"GA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mitounga",
+        "Mitoungou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632407,
+        85671265,
+        1091910359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2398298
+    },
+    "wof:country":"GA",
+    "wof:geomhash":"0f8d7a70835abf16b35b4b804a97571c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632407,
+            "county_id":1091910359,
+            "locality_id":1209737005,
+            "region_id":85671265
+        }
+    ],
+    "wof:id":1209737005,
+    "wof:lastmodified":1537622899,
+    "wof:name":"Mitoungou",
+    "wof:parent_id":1091910359,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ga",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.78518,
+    -1.72786,
+    12.78518,
+    -1.72786
+],
+  "geometry": {"coordinates":[12.78518,-1.72786],"type":"Point"}
+}

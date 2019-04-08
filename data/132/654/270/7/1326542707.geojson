@@ -1,0 +1,71 @@
+{
+  "id": 1326542707,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.66334,-0.01659,13.66334,-0.01659",
+    "geom:latitude":-0.01659,
+    "geom:longitude":13.66334,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Tebe I",
+    "gn:country_code":"GA",
+    "gn:dem":520,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2396238,
+    "gn:latitude":-0.01659,
+    "gn:longitude":13.66334,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"T\u00e9b\u00e9 I",
+    "gn:population":0,
+    "gn:timezone":"Africa/Libreville",
+    "iso:country":"GA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "T\u00e9b\u00e9",
+        "T\u00e9b\u00e9 I"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632407,
+        85671257,
+        1091909293
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2396238
+    },
+    "wof:country":"GA",
+    "wof:geomhash":"fd33f46edf07ee3fd56fbd4f032ab2a5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632407,
+            "county_id":1091909293,
+            "locality_id":1326542707,
+            "region_id":85671257
+        }
+    ],
+    "wof:id":1326542707,
+    "wof:lastmodified":1537622888,
+    "wof:name":"Tebe I",
+    "wof:parent_id":1091909293,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ga",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.66334,
+    -0.01659,
+    13.66334,
+    -0.01659
+],
+  "geometry": {"coordinates":[13.66334,-0.01659],"type":"Point"}
+}

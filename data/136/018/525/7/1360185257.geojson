@@ -1,0 +1,67 @@
+{
+  "id": 1360185257,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.53333,-1.5,10.53333,-1.5",
+    "geom:latitude":-1.5,
+    "geom:longitude":10.53333,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Tsifala",
+    "gn:country_code":"GA",
+    "gn:dem":110,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2396149,
+    "gn:latitude":-1.5,
+    "gn:longitude":10.53333,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Tsifala",
+    "gn:population":0,
+    "gn:timezone":"Africa/Libreville",
+    "iso:country":"GA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632407,
+        85671249,
+        1091909635
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2396149
+    },
+    "wof:country":"GA",
+    "wof:geomhash":"6c29620eb5a729e90841e21ab222574b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632407,
+            "county_id":1091909635,
+            "locality_id":1360185257,
+            "region_id":85671249
+        }
+    ],
+    "wof:id":1360185257,
+    "wof:lastmodified":1536801166,
+    "wof:name":"Tsifala",
+    "wof:parent_id":1091909635,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ga",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.53333,
+    -1.5,
+    10.53333,
+    -1.5
+],
+  "geometry": {"coordinates":[10.53333,-1.5],"type":"Point"}
+}

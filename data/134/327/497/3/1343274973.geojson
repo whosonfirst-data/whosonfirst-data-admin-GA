@@ -1,0 +1,67 @@
+{
+  "id": 1343274973,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.71667,-0.26667,13.71667,-0.26667",
+    "geom:latitude":-0.26667,
+    "geom:longitude":13.71667,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Eleko",
+    "gn:country_code":"GA",
+    "gn:dem":578,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2400799,
+    "gn:latitude":-0.26667,
+    "gn:longitude":13.71667,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Eleko",
+    "gn:population":0,
+    "gn:timezone":"Africa/Libreville",
+    "iso:country":"GA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632407,
+        85671257,
+        1091909293
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2400799
+    },
+    "wof:country":"GA",
+    "wof:geomhash":"352d7a01bd76c412728b4434e72b6836",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632407,
+            "county_id":1091909293,
+            "locality_id":1343274973,
+            "region_id":85671257
+        }
+    ],
+    "wof:id":1343274973,
+    "wof:lastmodified":1537013185,
+    "wof:name":"Eleko",
+    "wof:parent_id":1091909293,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ga",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.71667,
+    -0.26667,
+    13.71667,
+    -0.26667
+],
+  "geometry": {"coordinates":[13.71667,-0.26667],"type":"Point"}
+}

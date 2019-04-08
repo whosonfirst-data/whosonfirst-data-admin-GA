@@ -1,0 +1,61 @@
+{
+  "id": 1209409453,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.05172,-0.74386,13.05172,-0.74386",
+    "geom:latitude":-0.74386,
+    "geom:longitude":13.05172,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Baposso",
+    "gn:country_code":"GA",
+    "gn:dem":307,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2401925,
+    "gn:latitude":-0.74386,
+    "gn:longitude":13.05172,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Baposso",
+    "gn:population":0,
+    "gn:timezone":"Africa/Libreville",
+    "iso:country":"GA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632407
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2401925
+    },
+    "wof:country":"GA",
+    "wof:geomhash":"3614bb69648f4e678dfca4860ae94ceb",
+    "wof:hierarchy":[
+        {
+            "country_id":85632407,
+            "locality_id":1209409453
+        }
+    ],
+    "wof:id":1209409453,
+    "wof:lastmodified":1536287887,
+    "wof:name":"Baposso",
+    "wof:parent_id":85632407,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ga",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.05172,
+    -0.7438600000000001,
+    13.05172,
+    -0.7438600000000001
+],
+  "geometry": {"coordinates":[13.05172,-0.74386],"type":"Point"}
+}

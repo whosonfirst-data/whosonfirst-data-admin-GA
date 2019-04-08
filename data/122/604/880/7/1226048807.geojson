@@ -1,0 +1,67 @@
+{
+  "id": 1226048807,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.30668,-1.54421,10.30668,-1.54421",
+    "geom:latitude":-1.54421,
+    "geom:longitude":10.30668,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Moyenou",
+    "gn:country_code":"GA",
+    "gn:dem":145,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2397841,
+    "gn:latitude":-1.54421,
+    "gn:longitude":10.30668,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Moyenou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Libreville",
+    "iso:country":"GA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632407,
+        85671249,
+        1091909635
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2397841
+    },
+    "wof:country":"GA",
+    "wof:geomhash":"f745b7499a25e517c1ab84118a156c7c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632407,
+            "county_id":1091909635,
+            "locality_id":1226048807,
+            "region_id":85671249
+        }
+    ],
+    "wof:id":1226048807,
+    "wof:lastmodified":1536721062,
+    "wof:name":"Moyenou",
+    "wof:parent_id":1091909635,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ga",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.30668,
+    -1.54421,
+    10.30668,
+    -1.54421
+],
+  "geometry": {"coordinates":[10.30668,-1.54421],"type":"Point"}
+}

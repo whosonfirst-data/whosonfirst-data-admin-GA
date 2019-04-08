@@ -1,0 +1,61 @@
+{
+  "id": 1209415459,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.43833,-1.84079,11.43833,-1.84079",
+    "geom:latitude":-1.84079,
+    "geom:longitude":11.43833,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Massika",
+    "gn:country_code":"GA",
+    "gn:dem":318,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2399096,
+    "gn:latitude":-1.84079,
+    "gn:longitude":11.43833,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Massika",
+    "gn:population":0,
+    "gn:timezone":"Africa/Libreville",
+    "iso:country":"GA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632407
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2399096
+    },
+    "wof:country":"GA",
+    "wof:geomhash":"af25771ac98e8638e0fbb89ef7c8a685",
+    "wof:hierarchy":[
+        {
+            "country_id":85632407,
+            "locality_id":1209415459
+        }
+    ],
+    "wof:id":1209415459,
+    "wof:lastmodified":1536287703,
+    "wof:name":"Massika",
+    "wof:parent_id":85632407,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ga",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.43833,
+    -1.84079,
+    11.43833,
+    -1.84079
+],
+  "geometry": {"coordinates":[11.43833,-1.84079],"type":"Point"}
+}

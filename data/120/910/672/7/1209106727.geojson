@@ -1,0 +1,66 @@
+{
+  "id": 1209106727,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.38333,-1.9,11.38333,-1.9",
+    "geom:latitude":-1.9,
+    "geom:longitude":11.38333,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Nyanga Moubighou",
+    "gn:cc2":"GA",
+    "gn:country_code":"GA",
+    "gn:dem":304,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2397140,
+    "gn:latitude":-1.9,
+    "gn:longitude":11.38333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Nyanga Moubighou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Libreville",
+    "iso:country":"GA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nyanga",
+        "Nyanga Moubighou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632407
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2397140
+    },
+    "wof:country":"GA",
+    "wof:geomhash":"6da6a166dc89bd175816933c24281e43",
+    "wof:hierarchy":[
+        {
+            "country_id":85632407,
+            "locality_id":1209106727
+        }
+    ],
+    "wof:id":1209106727,
+    "wof:lastmodified":1537622893,
+    "wof:name":"Nyanga Moubighou",
+    "wof:parent_id":85632407,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ga",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.38333,
+    -1.9,
+    11.38333,
+    -1.9
+],
+  "geometry": {"coordinates":[11.38333,-1.9],"type":"Point"}
+}

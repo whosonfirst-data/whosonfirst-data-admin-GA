@@ -1,0 +1,61 @@
+{
+  "id": 1209310305,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.36877,2.22597,11.36877,2.22597",
+    "geom:latitude":2.22597,
+    "geom:longitude":11.36877,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Alen Effak",
+    "gn:country_code":"GA",
+    "gn:dem":595,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2402388,
+    "gn:latitude":2.22597,
+    "gn:longitude":11.36877,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Alen Effak",
+    "gn:population":0,
+    "gn:timezone":"Africa/Libreville",
+    "iso:country":"GA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632407
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2402388
+    },
+    "wof:country":"GA",
+    "wof:geomhash":"fb821b55d43e6b1f5b7a0449985c7201",
+    "wof:hierarchy":[
+        {
+            "country_id":85632407,
+            "locality_id":1209310305
+        }
+    ],
+    "wof:id":1209310305,
+    "wof:lastmodified":1536291052,
+    "wof:name":"Alen Effak",
+    "wof:parent_id":85632407,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ga",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.36877,
+    2.22597,
+    11.36877,
+    2.22597
+],
+  "geometry": {"coordinates":[11.36877,2.22597],"type":"Point"}
+}

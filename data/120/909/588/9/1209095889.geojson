@@ -1,0 +1,61 @@
+{
+  "id": 1209095889,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.61508,1.89265,11.61508,1.89265",
+    "geom:latitude":1.89265,
+    "geom:longitude":11.61508,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Akom",
+    "gn:country_code":"GA",
+    "gn:dem":642,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2402468,
+    "gn:latitude":1.89265,
+    "gn:longitude":11.61508,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Akom",
+    "gn:population":0,
+    "gn:timezone":"Africa/Libreville",
+    "iso:country":"GA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632407
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2402468
+    },
+    "wof:country":"GA",
+    "wof:geomhash":"f798d99a64537da89f4551411ccfe972",
+    "wof:hierarchy":[
+        {
+            "country_id":85632407,
+            "locality_id":1209095889
+        }
+    ],
+    "wof:id":1209095889,
+    "wof:lastmodified":1536297888,
+    "wof:name":"Akom",
+    "wof:parent_id":85632407,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ga",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.61508,
+    1.89265,
+    11.61508,
+    1.89265
+],
+  "geometry": {"coordinates":[11.61508,1.89265],"type":"Point"}
+}

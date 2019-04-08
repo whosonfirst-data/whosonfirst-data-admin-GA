@@ -1,0 +1,67 @@
+{
+  "id": 1310590795,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.58373,1.55622,11.58373,1.55622",
+    "geom:latitude":1.55622,
+    "geom:longitude":11.58373,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Mfoul",
+    "gn:country_code":"GA",
+    "gn:dem":651,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2398582,
+    "gn:latitude":1.55622,
+    "gn:longitude":11.58373,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Mfoul",
+    "gn:population":0,
+    "gn:timezone":"Africa/Libreville",
+    "iso:country":"GA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632407,
+        85671241,
+        1091910593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2398582
+    },
+    "wof:country":"GA",
+    "wof:geomhash":"f9038dcba32553d2be7711474d9f71ce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632407,
+            "county_id":1091910593,
+            "locality_id":1310590795,
+            "region_id":85671241
+        }
+    ],
+    "wof:id":1310590795,
+    "wof:lastmodified":1536794208,
+    "wof:name":"Mfoul",
+    "wof:parent_id":1091910593,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ga",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.58373,
+    1.55622,
+    11.58373,
+    1.55622
+],
+  "geometry": {"coordinates":[11.58373,1.55622],"type":"Point"}
+}

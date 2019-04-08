@@ -1,0 +1,67 @@
+{
+  "id": 1326450385,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.47069,-2.00921,9.47069,-2.00921",
+    "geom:latitude":-2.00921,
+    "geom:longitude":9.47069,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Pointe Claire",
+    "gn:country_code":"GA",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2396535,
+    "gn:latitude":-2.00921,
+    "gn:longitude":9.47069,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Pointe Claire",
+    "gn:population":0,
+    "gn:timezone":"Africa/Libreville",
+    "iso:country":"GA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632407,
+        85671255,
+        1091910509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2396535
+    },
+    "wof:country":"GA",
+    "wof:geomhash":"1786ad6228bf1c9354f55a8e10804619",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632407,
+            "county_id":1091910509,
+            "locality_id":1326450385,
+            "region_id":85671255
+        }
+    ],
+    "wof:id":1326450385,
+    "wof:lastmodified":1536601896,
+    "wof:name":"Pointe Claire",
+    "wof:parent_id":1091910509,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ga",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.47069,
+    -2.00921,
+    9.47069,
+    -2.00921
+],
+  "geometry": {"coordinates":[9.47069,-2.00921],"type":"Point"}
+}

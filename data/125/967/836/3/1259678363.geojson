@@ -1,0 +1,72 @@
+{
+  "id": 1259678363,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.03333,2.18333,12.03333,2.18333",
+    "geom:latitude":2.18333,
+    "geom:longitude":12.03333,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Etogou",
+    "gn:cc2":"GA",
+    "gn:country_code":"GA",
+    "gn:dem":604,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2400671,
+    "gn:latitude":2.18333,
+    "gn:longitude":12.03333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"\u00c9togou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Libreville",
+    "iso:country":"GA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Etogo",
+        "\u00c9togou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632407,
+        85671241,
+        1091910689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2400671
+    },
+    "wof:country":"GA",
+    "wof:geomhash":"57b16a9124224c356ce8f058d6c89848",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632407,
+            "county_id":1091910689,
+            "locality_id":1259678363,
+            "region_id":85671241
+        }
+    ],
+    "wof:id":1259678363,
+    "wof:lastmodified":1537622910,
+    "wof:name":"Etogou",
+    "wof:parent_id":1091910689,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ga",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.03333,
+    2.18333,
+    12.03333,
+    2.18333
+],
+  "geometry": {"coordinates":[12.03333,2.18333],"type":"Point"}
+}

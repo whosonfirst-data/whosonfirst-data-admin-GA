@@ -1,0 +1,67 @@
+{
+  "id": 1226327849,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.49357,-1.56676,9.49357,-1.56676",
+    "geom:latitude":-1.56676,
+    "geom:longitude":9.49357,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Sallanou",
+    "gn:country_code":"GA",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2396410,
+    "gn:latitude":-1.56676,
+    "gn:longitude":9.49357,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Sallanou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Libreville",
+    "iso:country":"GA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632407,
+        85671255,
+        1091910509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2396410
+    },
+    "wof:country":"GA",
+    "wof:geomhash":"59560a20c303c782063a801e70e7ae06",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632407,
+            "county_id":1091910509,
+            "locality_id":1226327849,
+            "region_id":85671255
+        }
+    ],
+    "wof:id":1226327849,
+    "wof:lastmodified":1536814595,
+    "wof:name":"Sallanou",
+    "wof:parent_id":1091910509,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ga",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.49357,
+    -1.56676,
+    9.49357,
+    -1.56676
+],
+  "geometry": {"coordinates":[9.49357,-1.56676],"type":"Point"}
+}

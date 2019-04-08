@@ -1,0 +1,67 @@
+{
+  "id": 1360108653,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.68414,-1.50469,10.68414,-1.50469",
+    "geom:latitude":-1.50469,
+    "geom:longitude":10.68414,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Tsiengui Panga",
+    "gn:country_code":"GA",
+    "gn:dem":115,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2396151,
+    "gn:latitude":-1.50469,
+    "gn:longitude":10.68414,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Tsiengui Panga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Libreville",
+    "iso:country":"GA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632407,
+        85671249,
+        1091909581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2396151
+    },
+    "wof:country":"GA",
+    "wof:geomhash":"f2e689ac1123a5d8532570edebd595e9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632407,
+            "county_id":1091909581,
+            "locality_id":1360108653,
+            "region_id":85671249
+        }
+    ],
+    "wof:id":1360108653,
+    "wof:lastmodified":1536912022,
+    "wof:name":"Tsiengui Panga",
+    "wof:parent_id":1091909581,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ga",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.68414,
+    -1.50469,
+    10.68414,
+    -1.50469
+],
+  "geometry": {"coordinates":[10.68414,-1.50469],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1293689921,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.7731,-1.56483,13.7731,-1.56483",
+    "geom:latitude":-1.56483,
+    "geom:longitude":13.7731,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Ondili",
+    "gn:country_code":"GA",
+    "gn:dem":441,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2396832,
+    "gn:latitude":-1.56483,
+    "gn:longitude":13.7731,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Ondili",
+    "gn:population":0,
+    "gn:timezone":"Africa/Libreville",
+    "iso:country":"GA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632407,
+        85671257,
+        1091909347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2396832
+    },
+    "wof:country":"GA",
+    "wof:geomhash":"b981c551bed58e87a340e7e7d2ff5f8f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632407,
+            "county_id":1091909347,
+            "locality_id":1293689921,
+            "region_id":85671257
+        }
+    ],
+    "wof:id":1293689921,
+    "wof:lastmodified":1536991651,
+    "wof:name":"Ondili",
+    "wof:parent_id":1091909347,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ga",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.7731,
+    -1.56483,
+    13.7731,
+    -1.56483
+],
+  "geometry": {"coordinates":[13.7731,-1.56483],"type":"Point"}
+}

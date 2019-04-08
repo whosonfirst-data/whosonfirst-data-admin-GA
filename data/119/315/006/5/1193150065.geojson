@@ -1,0 +1,67 @@
+{
+  "id": 1193150065,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.91667,-1.13333,13.91667,-1.13333",
+    "geom:latitude":-1.13333,
+    "geom:longitude":13.91667,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Oma",
+    "gn:country_code":"GA",
+    "gn:dem":435,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2396865,
+    "gn:latitude":-1.13333,
+    "gn:longitude":13.91667,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Oma",
+    "gn:population":0,
+    "gn:timezone":"Africa/Libreville",
+    "iso:country":"GA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632407,
+        85671257,
+        1091909243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2396865
+    },
+    "wof:country":"GA",
+    "wof:geomhash":"76c94d46a59f4688bbfbef3c036335ca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632407,
+            "county_id":1091909243,
+            "locality_id":1193150065,
+            "region_id":85671257
+        }
+    ],
+    "wof:id":1193150065,
+    "wof:lastmodified":1536379187,
+    "wof:name":"Oma",
+    "wof:parent_id":1091909243,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ga",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.91667,
+    -1.13333,
+    13.91667,
+    -1.13333
+],
+  "geometry": {"coordinates":[13.91667,-1.13333],"type":"Point"}
+}

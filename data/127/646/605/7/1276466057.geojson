@@ -1,0 +1,67 @@
+{
+  "id": 1276466057,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.88847,0.06622,11.88847,0.06622",
+    "geom:latitude":0.06622,
+    "geom:longitude":11.88847,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Nzafieng",
+    "gn:country_code":"GA",
+    "gn:dem":330,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2397125,
+    "gn:latitude":0.06622,
+    "gn:longitude":11.88847,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Nzafieng",
+    "gn:population":0,
+    "gn:timezone":"Africa/Libreville",
+    "iso:country":"GA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632407,
+        85671237,
+        421188215
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2397125
+    },
+    "wof:country":"GA",
+    "wof:geomhash":"524f9515bae5c460d12ffe6f60e3de4e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632407,
+            "county_id":421188215,
+            "locality_id":1276466057,
+            "region_id":85671237
+        }
+    ],
+    "wof:id":1276466057,
+    "wof:lastmodified":1537094829,
+    "wof:name":"Nzafieng",
+    "wof:parent_id":421188215,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ga",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.88847,
+    0.06622,
+    11.88847,
+    0.06622
+],
+  "geometry": {"coordinates":[11.88847,0.06622],"type":"Point"}
+}

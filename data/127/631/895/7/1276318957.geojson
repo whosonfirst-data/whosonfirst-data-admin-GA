@@ -1,0 +1,67 @@
+{
+  "id": 1276318957,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.69787,-0.92347,9.69787,-0.92347",
+    "geom:latitude":-0.92347,
+    "geom:longitude":9.69787,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Apari",
+    "gn:country_code":"GA",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2402225,
+    "gn:latitude":-0.92347,
+    "gn:longitude":9.69787,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Apari",
+    "gn:population":0,
+    "gn:timezone":"Africa/Libreville",
+    "iso:country":"GA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632407,
+        85671255,
+        421181245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2402225
+    },
+    "wof:country":"GA",
+    "wof:geomhash":"669f4f4eae6a0abdf66576b050999af6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632407,
+            "county_id":421181245,
+            "locality_id":1276318957,
+            "region_id":85671255
+        }
+    ],
+    "wof:id":1276318957,
+    "wof:lastmodified":1536798141,
+    "wof:name":"Apari",
+    "wof:parent_id":421181245,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ga",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.69787,
+    -0.92347,
+    9.69787,
+    -0.92347
+],
+  "geometry": {"coordinates":[9.69787,-0.92347],"type":"Point"}
+}

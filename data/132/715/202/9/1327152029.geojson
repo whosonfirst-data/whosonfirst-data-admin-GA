@@ -1,0 +1,67 @@
+{
+  "id": 1327152029,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.61667,-0.15,9.61667,-0.15",
+    "geom:latitude":-0.15,
+    "geom:longitude":9.61667,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Ex-case Boyer",
+    "gn:country_code":"GA",
+    "gn:dem":38,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2400633,
+    "gn:latitude":-0.15,
+    "gn:longitude":9.61667,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Ex-case Boyer",
+    "gn:population":0,
+    "gn:timezone":"Africa/Libreville",
+    "iso:country":"GA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632407,
+        85671235,
+        421178363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2400633
+    },
+    "wof:country":"GA",
+    "wof:geomhash":"b06924698412e6e27c11170eb01f919d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632407,
+            "county_id":421178363,
+            "locality_id":1327152029,
+            "region_id":85671235
+        }
+    ],
+    "wof:id":1327152029,
+    "wof:lastmodified":1537082453,
+    "wof:name":"Ex-case Boyer",
+    "wof:parent_id":421178363,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ga",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.61667,
+    -0.15,
+    9.61667,
+    -0.15
+],
+  "geometry": {"coordinates":[9.61667,-0.15],"type":"Point"}
+}

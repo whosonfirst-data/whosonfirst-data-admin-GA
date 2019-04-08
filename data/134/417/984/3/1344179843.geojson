@@ -1,0 +1,67 @@
+{
+  "id": 1344179843,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.97314,-2.82185,10.97314,-2.82185",
+    "geom:latitude":-2.82185,
+    "geom:longitude":10.97314,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Koumougari",
+    "gn:country_code":"GA",
+    "gn:dem":281,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2399931,
+    "gn:latitude":-2.82185,
+    "gn:longitude":10.97314,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Koumougari",
+    "gn:population":0,
+    "gn:timezone":"Africa/Libreville",
+    "iso:country":"GA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632407,
+        85671251,
+        1091909931
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2399931
+    },
+    "wof:country":"GA",
+    "wof:geomhash":"2cadeaa95a37dd43223b4afef6a6eadc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632407,
+            "county_id":1091909931,
+            "locality_id":1344179843,
+            "region_id":85671251
+        }
+    ],
+    "wof:id":1344179843,
+    "wof:lastmodified":1536703643,
+    "wof:name":"Koumougari",
+    "wof:parent_id":1091909931,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ga",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.97314,
+    -2.82185,
+    10.97314,
+    -2.82185
+],
+  "geometry": {"coordinates":[10.97314,-2.82185],"type":"Point"}
+}

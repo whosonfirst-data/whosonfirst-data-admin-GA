@@ -1,0 +1,71 @@
+{
+  "id": 1343959799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.21843,-0.63819,10.21843,-0.63819",
+    "geom:latitude":-0.63819,
+    "geom:longitude":10.21843,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Mintone",
+    "gn:country_code":"GA",
+    "gn:dem":37,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2398286,
+    "gn:latitude":-0.63819,
+    "gn:longitude":10.21843,
+    "gn:modification_date":"2013-10-06",
+    "gn:name":"Minton\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Libreville",
+    "iso:country":"GA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Minton\u00e9",
+        "Mitton\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632407,
+        85671247,
+        1091909431
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2398286
+    },
+    "wof:country":"GA",
+    "wof:geomhash":"15aeb19b6d31f0a1aa985a41579687fa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632407,
+            "county_id":1091909431,
+            "locality_id":1343959799,
+            "region_id":85671247
+        }
+    ],
+    "wof:id":1343959799,
+    "wof:lastmodified":1537622899,
+    "wof:name":"Mintone",
+    "wof:parent_id":1091909431,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ga",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.21843,
+    -0.63819,
+    10.21843,
+    -0.63819
+],
+  "geometry": {"coordinates":[10.21843,-0.63819],"type":"Point"}
+}

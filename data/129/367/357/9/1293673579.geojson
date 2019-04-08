@@ -1,0 +1,72 @@
+{
+  "id": 1293673579,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.66115,1.59666,11.66115,1.59666",
+    "geom:latitude":1.59666,
+    "geom:longitude":11.66115,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Benga",
+    "gn:country_code":"GA",
+    "gn:dem":667,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2401837,
+    "gn:latitude":1.59666,
+    "gn:longitude":11.66115,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Benga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Libreville",
+    "iso:country":"GA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mbanga",
+        "Mbenga",
+        "Benga"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632407,
+        85671241,
+        1091910593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2401837
+    },
+    "wof:country":"GA",
+    "wof:geomhash":"5b6c3da4436991ab7df958424c609f21",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632407,
+            "county_id":1091910593,
+            "locality_id":1293673579,
+            "region_id":85671241
+        }
+    ],
+    "wof:id":1293673579,
+    "wof:lastmodified":1537622916,
+    "wof:name":"Benga",
+    "wof:parent_id":1091910593,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ga",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.66115,
+    1.59666,
+    11.66115,
+    1.59666
+],
+  "geometry": {"coordinates":[11.66115,1.59666],"type":"Point"}
+}

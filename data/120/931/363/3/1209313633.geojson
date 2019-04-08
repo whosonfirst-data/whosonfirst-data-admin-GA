@@ -1,0 +1,61 @@
+{
+  "id": 1209313633,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.9687,-2.43408,10.9687,-2.43408",
+    "geom:latitude":-2.43408,
+    "geom:longitude":10.9687,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Moutoungou",
+    "gn:country_code":"GA",
+    "gn:dem":281,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2397880,
+    "gn:latitude":-2.43408,
+    "gn:longitude":10.9687,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Moutoungou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Libreville",
+    "iso:country":"GA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632407
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2397880
+    },
+    "wof:country":"GA",
+    "wof:geomhash":"3d0717cc4356dcd4ea3cb0f1705287f8",
+    "wof:hierarchy":[
+        {
+            "country_id":85632407,
+            "locality_id":1209313633
+        }
+    ],
+    "wof:id":1209313633,
+    "wof:lastmodified":1536290941,
+    "wof:name":"Moutoungou",
+    "wof:parent_id":85632407,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ga",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.9687,
+    -2.43408,
+    10.9687,
+    -2.43408
+],
+  "geometry": {"coordinates":[10.9687,-2.43408],"type":"Point"}
+}

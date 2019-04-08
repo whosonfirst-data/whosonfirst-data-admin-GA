@@ -1,0 +1,71 @@
+{
+  "id": 1343776179,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.37587,0.30402,9.37587,0.30402",
+    "geom:latitude":0.30402,
+    "geom:longitude":9.37587,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Ntchogo",
+    "gn:country_code":"GA",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2397192,
+    "gn:latitude":0.30402,
+    "gn:longitude":9.37587,
+    "gn:modification_date":"2013-10-06",
+    "gn:name":"Ntchogo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Libreville",
+    "iso:country":"GA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "N\u2019Tchago",
+        "Ntchogo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632407,
+        85671235,
+        421178363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2397192
+    },
+    "wof:country":"GA",
+    "wof:geomhash":"c33b5d41b2ba9d4a63fcd8d96f212458",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632407,
+            "county_id":421178363,
+            "locality_id":1343776179,
+            "region_id":85671235
+        }
+    ],
+    "wof:id":1343776179,
+    "wof:lastmodified":1537622894,
+    "wof:name":"Ntchogo",
+    "wof:parent_id":421178363,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ga",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.37587,
+    0.30402,
+    9.37587,
+    0.30402
+],
+  "geometry": {"coordinates":[9.37587,0.30402],"type":"Point"}
+}

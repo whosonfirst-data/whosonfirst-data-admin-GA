@@ -1,0 +1,61 @@
+{
+  "id": 1209422399,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.71667,-0.2,10.71667,-0.2",
+    "geom:latitude":-0.2,
+    "geom:longitude":10.71667,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Mveyassi",
+    "gn:country_code":"GA",
+    "gn:dem":81,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2397780,
+    "gn:latitude":-0.2,
+    "gn:longitude":10.71667,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Mveyassi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Libreville",
+    "iso:country":"GA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632407
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2397780
+    },
+    "wof:country":"GA",
+    "wof:geomhash":"e6d4d44f621d933ec881194fd2da7232",
+    "wof:hierarchy":[
+        {
+            "country_id":85632407,
+            "locality_id":1209422399
+        }
+    ],
+    "wof:id":1209422399,
+    "wof:lastmodified":1536287488,
+    "wof:name":"Mveyassi",
+    "wof:parent_id":85632407,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ga",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.71667,
+    -0.2,
+    10.71667,
+    -0.2
+],
+  "geometry": {"coordinates":[10.71667,-0.2],"type":"Point"}
+}

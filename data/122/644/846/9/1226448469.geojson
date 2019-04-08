@@ -1,0 +1,67 @@
+{
+  "id": 1226448469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.61667,-2.25,11.61667,-2.25",
+    "geom:latitude":-2.25,
+    "geom:longitude":11.61667,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Lepepe",
+    "gn:country_code":"GA",
+    "gn:dem":323,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2399744,
+    "gn:latitude":-2.25,
+    "gn:longitude":11.61667,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Lepepe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Libreville",
+    "iso:country":"GA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632407,
+        85671249,
+        1091909833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2399744
+    },
+    "wof:country":"GA",
+    "wof:geomhash":"b9a1d9bd985815bcbe4fc6ddbb7d2fdf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632407,
+            "county_id":1091909833,
+            "locality_id":1226448469,
+            "region_id":85671249
+        }
+    ],
+    "wof:id":1226448469,
+    "wof:lastmodified":1536640616,
+    "wof:name":"Lepepe",
+    "wof:parent_id":1091909833,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ga",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.61667,
+    -2.25,
+    11.61667,
+    -2.25
+],
+  "geometry": {"coordinates":[11.61667,-2.25],"type":"Point"}
+}

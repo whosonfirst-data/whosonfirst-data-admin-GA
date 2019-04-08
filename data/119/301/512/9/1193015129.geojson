@@ -1,0 +1,67 @@
+{
+  "id": 1193015129,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.47458,-3.03877,10.47458,-3.03877",
+    "geom:latitude":-3.03877,
+    "geom:longitude":10.47458,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Moukondo",
+    "gn:country_code":"GA",
+    "gn:dem":50,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2398038,
+    "gn:latitude":-3.03877,
+    "gn:longitude":10.47458,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Moukondo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Libreville",
+    "iso:country":"GA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632407,
+        85671251,
+        1091909969
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2398038
+    },
+    "wof:country":"GA",
+    "wof:geomhash":"53bbe11f36538fe5bcfb2ebd06b22229",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632407,
+            "county_id":1091909969,
+            "locality_id":1193015129,
+            "region_id":85671251
+        }
+    ],
+    "wof:id":1193015129,
+    "wof:lastmodified":1536379292,
+    "wof:name":"Moukondo",
+    "wof:parent_id":1091909969,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ga",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.47458,
+    -3.03877,
+    10.47458,
+    -3.03877
+],
+  "geometry": {"coordinates":[10.47458,-3.03877],"type":"Point"}
+}

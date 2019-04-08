@@ -1,0 +1,67 @@
+{
+  "id": 1309696865,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.98333,2.1,11.98333,2.1",
+    "geom:latitude":2.1,
+    "geom:longitude":11.98333,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Minkone",
+    "gn:country_code":"GA",
+    "gn:dem":590,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2398378,
+    "gn:latitude":2.1,
+    "gn:longitude":11.98333,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Minkone",
+    "gn:population":0,
+    "gn:timezone":"Africa/Libreville",
+    "iso:country":"GA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632407,
+        85671241,
+        1091910689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2398378
+    },
+    "wof:country":"GA",
+    "wof:geomhash":"f9122d0b9a7f81e51bdcbab1a67b8647",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632407,
+            "county_id":1091910689,
+            "locality_id":1309696865,
+            "region_id":85671241
+        }
+    ],
+    "wof:id":1309696865,
+    "wof:lastmodified":1537085027,
+    "wof:name":"Minkone",
+    "wof:parent_id":1091910689,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ga",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.98333,
+    2.1,
+    11.98333,
+    2.1
+],
+  "geometry": {"coordinates":[11.98333,2.1],"type":"Point"}
+}

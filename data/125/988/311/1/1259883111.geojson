@@ -1,0 +1,71 @@
+{
+  "id": 1259883111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.63452,-2.05056,13.63452,-2.05056",
+    "geom:latitude":-2.05056,
+    "geom:longitude":13.63452,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Mougouango II",
+    "gn:country_code":"GA",
+    "gn:dem":511,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2398088,
+    "gn:latitude":-2.05056,
+    "gn:longitude":13.63452,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Mougouango II",
+    "gn:population":0,
+    "gn:timezone":"Africa/Libreville",
+    "iso:country":"GA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mougouango",
+        "Mougouango II"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632407,
+        85671257,
+        1091909065
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2398088
+    },
+    "wof:country":"GA",
+    "wof:geomhash":"8e8fee2a2f218756c39819045bd3cdba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632407,
+            "county_id":1091909065,
+            "locality_id":1259883111,
+            "region_id":85671257
+        }
+    ],
+    "wof:id":1259883111,
+    "wof:lastmodified":1537622898,
+    "wof:name":"Mougouango II",
+    "wof:parent_id":1091909065,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ga",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.63452,
+    -2.05056,
+    13.63452,
+    -2.05056
+],
+  "geometry": {"coordinates":[13.63452,-2.05056],"type":"Point"}
+}

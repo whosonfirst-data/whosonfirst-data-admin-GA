@@ -1,0 +1,61 @@
+{
+  "id": 1209337415,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.05,-2.35,11.05,-2.35",
+    "geom:latitude":-2.35,
+    "geom:longitude":11.05,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Mivangiri",
+    "gn:country_code":"GA",
+    "gn:dem":357,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2398282,
+    "gn:latitude":-2.35,
+    "gn:longitude":11.05,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Mivangiri",
+    "gn:population":0,
+    "gn:timezone":"Africa/Libreville",
+    "iso:country":"GA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632407
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2398282
+    },
+    "wof:country":"GA",
+    "wof:geomhash":"fc9ba924e68ba59a4492aa95a776c84b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632407,
+            "locality_id":1209337415
+        }
+    ],
+    "wof:id":1209337415,
+    "wof:lastmodified":1536290174,
+    "wof:name":"Mivangiri",
+    "wof:parent_id":85632407,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ga",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.05,
+    -2.35,
+    11.05,
+    -2.35
+],
+  "geometry": {"coordinates":[11.05,-2.35],"type":"Point"}
+}

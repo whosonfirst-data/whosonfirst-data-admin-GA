@@ -1,0 +1,71 @@
+{
+  "id": 1276571293,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.34742,-1.43023,9.34742,-1.43023",
+    "geom:latitude":-1.43023,
+    "geom:longitude":9.34742,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Elomba",
+    "gn:country_code":"GA",
+    "gn:dem":30,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2400783,
+    "gn:latitude":-1.43023,
+    "gn:longitude":9.34742,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Elomba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Libreville",
+    "iso:country":"GA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Village Atova",
+        "Elomba"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632407,
+        85671255,
+        1091910509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2400783
+    },
+    "wof:country":"GA",
+    "wof:geomhash":"73f1f32aca277c4336d50f73cf4a8a91",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632407,
+            "county_id":1091910509,
+            "locality_id":1276571293,
+            "region_id":85671255
+        }
+    ],
+    "wof:id":1276571293,
+    "wof:lastmodified":1537622911,
+    "wof:name":"Elomba",
+    "wof:parent_id":1091910509,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ga",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.34742,
+    -1.43023,
+    9.34742,
+    -1.43023
+],
+  "geometry": {"coordinates":[9.34742,-1.43023],"type":"Point"}
+}

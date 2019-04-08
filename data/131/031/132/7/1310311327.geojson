@@ -1,0 +1,71 @@
+{
+  "id": 1310311327,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.93783,-1.79456,11.93783,-1.79456",
+    "geom:latitude":-1.79456,
+    "geom:longitude":11.93783,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Lebagny",
+    "gn:country_code":"GA",
+    "gn:dem":696,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2399862,
+    "gn:latitude":-1.79456,
+    "gn:longitude":11.93783,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Lebagny",
+    "gn:population":0,
+    "gn:timezone":"Africa/Libreville",
+    "iso:country":"GA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "L\u00e9bagni",
+        "Lebagny"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632407,
+        85671249,
+        1091909833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2399862
+    },
+    "wof:country":"GA",
+    "wof:geomhash":"95983b8c52723213171f0b6e571b59b6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632407,
+            "county_id":1091909833,
+            "locality_id":1310311327,
+            "region_id":85671249
+        }
+    ],
+    "wof:id":1310311327,
+    "wof:lastmodified":1537622906,
+    "wof:name":"Lebagny",
+    "wof:parent_id":1091909833,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ga",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.93783,
+    -1.79456,
+    11.93783,
+    -1.79456
+],
+  "geometry": {"coordinates":[11.93783,-1.79456],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1343662107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.94405,-1.68932,10.94405,-1.68932",
+    "geom:latitude":-1.68932,
+    "geom:longitude":10.94405,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Toubaganga",
+    "gn:country_code":"GA",
+    "gn:dem":88,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2396199,
+    "gn:latitude":-1.68932,
+    "gn:longitude":10.94405,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Toubaganga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Libreville",
+    "iso:country":"GA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632407,
+        85671249,
+        1091909531
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2396199
+    },
+    "wof:country":"GA",
+    "wof:geomhash":"ef1887d333efbcd76ea5f82f28caf79b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632407,
+            "county_id":1091909531,
+            "locality_id":1343662107,
+            "region_id":85671249
+        }
+    ],
+    "wof:id":1343662107,
+    "wof:lastmodified":1536952822,
+    "wof:name":"Toubaganga",
+    "wof:parent_id":1091909531,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ga",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.94405,
+    -1.68932,
+    10.94405,
+    -1.68932
+],
+  "geometry": {"coordinates":[10.94405,-1.68932],"type":"Point"}
+}
