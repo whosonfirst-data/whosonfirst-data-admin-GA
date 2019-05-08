@@ -10,6 +10,12 @@
     "geom:latitude":-0.571511,
     "geom:longitude":12.937029,
     "iso:country":"GA",
+    "label:eng_x_preferred_longname":[
+        "Mouloundou Department"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "department"
+    ],
     "lbl:latitude":-0.614258,
     "lbl:longitude":12.98027,
     "meso:admin_1":"OGOOUE-LOLO",
@@ -90,7 +96,7 @@
         }
     ],
     "wof:id":1091910455,
-    "wof:lastmodified":1536615011,
+    "wof:lastmodified":1554489151,
     "wof:name":"Mouloundou",
     "wof:parent_id":85671265,
     "wof:placetype":"county",

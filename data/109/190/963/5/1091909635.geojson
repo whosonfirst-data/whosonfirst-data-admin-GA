@@ -10,6 +10,12 @@
     "geom:latitude":-1.59814,
     "geom:longitude":10.246341,
     "iso:country":"GA",
+    "label:eng_x_preferred_longname":[
+        "Ndolou Department"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "department"
+    ],
     "lbl:latitude":-1.628017,
     "lbl:longitude":10.188449,
     "meso:admin_1":"NGOUNIE",
@@ -89,7 +95,7 @@
         }
     ],
     "wof:id":1091909635,
-    "wof:lastmodified":1536615006,
+    "wof:lastmodified":1554489143,
     "wof:name":"Ndolou",
     "wof:parent_id":85671249,
     "wof:placetype":"county",

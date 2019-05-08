@@ -10,6 +10,12 @@
     "geom:latitude":-2.919589,
     "geom:longitude":11.620548,
     "iso:country":"GA",
+    "label:eng_x_preferred_longname":[
+        "Doutsila Department"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "department"
+    ],
     "lbl:latitude":-3.044606,
     "lbl:longitude":11.799897,
     "meso:admin_1":"NYANGA",
@@ -101,7 +107,7 @@
         }
     ],
     "wof:id":1091910083,
-    "wof:lastmodified":1536615009,
+    "wof:lastmodified":1554489145,
     "wof:name":"Doutsila",
     "wof:parent_id":-1,
     "wof:placetype":"county",

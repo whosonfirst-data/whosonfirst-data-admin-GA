@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.60737,
-    "geom:area_square_m":7509253946.809359,
+    "geom:area_square_m":7509253946.809195,
     "geom:bbox":"8.69961399972,-1.37340800032,9.96126900006,-0.273203999681",
     "geom:latitude":-0.90793,
     "geom:longitude":9.378878,
     "iso:country":"GA",
+    "label:eng_x_preferred_longname":[
+        "Bendje Department"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "department"
+    ],
     "lbl:latitude":-0.908369,
     "lbl:longitude":9.369426,
     "meso:admin_1":"OGOOUE MARITIME",
@@ -117,7 +123,7 @@
         }
     ],
     "wof:id":421181245,
-    "wof:lastmodified":1553816370,
+    "wof:lastmodified":1555037128,
     "wof:name":"Bendje",
     "wof:parent_id":85671255,
     "wof:placetype":"county",

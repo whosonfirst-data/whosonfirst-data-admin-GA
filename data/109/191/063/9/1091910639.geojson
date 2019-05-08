@@ -10,6 +10,12 @@
     "geom:latitude":2.092345,
     "geom:longitude":11.570191,
     "iso:country":"GA",
+    "label:eng_x_preferred_longname":[
+        "Ntem Department"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "department"
+    ],
     "lbl:latitude":2.094105,
     "lbl:longitude":11.570157,
     "meso:admin_1":"WOLEU NTEM",
@@ -86,7 +92,7 @@
         }
     ],
     "wof:id":1091910639,
-    "wof:lastmodified":1536615012,
+    "wof:lastmodified":1554489148,
     "wof:name":"Ntem",
     "wof:parent_id":85671241,
     "wof:placetype":"county",

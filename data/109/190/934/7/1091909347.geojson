@@ -10,6 +10,12 @@
     "geom:latitude":-1.362063,
     "geom:longitude":13.728337,
     "iso:country":"GA",
+    "label:eng_x_preferred_longname":[
+        "Lekabi Lewolo Department"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "department"
+    ],
     "lbl:latitude":-1.363855,
     "lbl:longitude":13.745233,
     "meso:admin_1":"HAUT OGOOUE",
@@ -90,7 +96,7 @@
         }
     ],
     "wof:id":1091909347,
-    "wof:lastmodified":1536615005,
+    "wof:lastmodified":1554489140,
     "wof:name":"Lekabi Lewolo",
     "wof:parent_id":85671257,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":0.071879,
     "geom:longitude":9.581932,
     "iso:country":"GA",
+    "label:eng_x_preferred_longname":[
+        "Komo Mondah Department"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "department"
+    ],
     "lbl:latitude":-0.12467,
     "lbl:longitude":9.581661,
     "meso:admin_1":"ESTUAIRE",
@@ -114,10 +120,11 @@
         }
     ],
     "wof:id":421178363,
-    "wof:lastmodified":1536615963,
+    "wof:lastmodified":1554488783,
     "wof:name":"Komo Mondah",
     "wof:parent_id":85671235,
     "wof:placetype":"county",
+    "wof:placetype_local":"department",
     "wof:repo":"whosonfirst-data-admin-ga",
     "wof:shortcode":"KM",
     "wof:superseded_by":[],

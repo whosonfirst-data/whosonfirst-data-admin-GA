@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.806585,
-    "geom:area_square_m":9973385046.29006,
+    "geom:area_square_m":9973385046.289722,
     "geom:bbox":"9.7572440004,-0.424821000188,10.9736100003,0.81708700019",
     "geom:latitude":0.230581,
     "geom:longitude":10.307718,
     "iso:country":"GA",
+    "label:eng_x_preferred_longname":[
+        "Komo Department"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "department"
+    ],
     "lbl:latitude":0.244412,
     "lbl:longitude":10.316941,
     "meso:admin_1":"ESTUAIRE",
@@ -92,7 +98,7 @@
         }
     ],
     "wof:id":1091908823,
-    "wof:lastmodified":1553816439,
+    "wof:lastmodified":1555037688,
     "wof:name":"Komo",
     "wof:parent_id":85671235,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":-2.198305,
     "geom:longitude":13.535304,
     "iso:country":"GA",
+    "label:eng_x_preferred_longname":[
+        "Ogooue Letili Department"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "department"
+    ],
     "lbl:latitude":-2.182327,
     "lbl:longitude":13.57245,
     "meso:admin_1":"HAUT OGOOUE",
@@ -90,7 +96,7 @@
         }
     ],
     "wof:id":1091909065,
-    "wof:lastmodified":1536615003,
+    "wof:lastmodified":1554489140,
     "wof:name":"Ogooue Letili",
     "wof:parent_id":85671257,
     "wof:placetype":"county",

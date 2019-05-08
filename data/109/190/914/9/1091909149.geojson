@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.441801,
-    "geom:area_square_m":5460441194.012209,
+    "geom:area_square_m":5460441194.012054,
     "geom:bbox":"13.8323650001,-2.51160999997,14.5224910001,-1.00976000022",
     "geom:latitude":-1.692363,
     "geom:longitude":14.220564,
     "iso:country":"GA",
+    "label:eng_x_preferred_longname":[
+        "Plateaux Department"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "department"
+    ],
     "lbl:latitude":-1.772526,
     "lbl:longitude":14.254397,
     "meso:admin_1":"HAUT OGOOUE",
@@ -92,7 +98,7 @@
         }
     ],
     "wof:id":1091909149,
-    "wof:lastmodified":1553816439,
+    "wof:lastmodified":1555037687,
     "wof:name":"Plateaux",
     "wof:parent_id":85671257,
     "wof:placetype":"county",

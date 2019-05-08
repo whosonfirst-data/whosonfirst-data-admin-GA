@@ -10,6 +10,12 @@
     "geom:latitude":-0.687331,
     "geom:longitude":10.15582,
     "iso:country":"GA",
+    "label:eng_x_preferred_longname":[
+        "Ogooue Et Lacs Department"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "department"
+    ],
     "lbl:latitude":-0.720545,
     "lbl:longitude":10.16626,
     "meso:admin_1":"MOYEN OGOOUE",
@@ -90,7 +96,7 @@
         }
     ],
     "wof:id":1091909431,
-    "wof:lastmodified":1536615005,
+    "wof:lastmodified":1554489144,
     "wof:name":"Ogooue Et Lacs",
     "wof:parent_id":85671247,
     "wof:placetype":"county",

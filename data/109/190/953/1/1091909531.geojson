@@ -10,6 +10,12 @@
     "geom:latitude":-1.696694,
     "geom:longitude":11.05429,
     "iso:country":"GA",
+    "label:eng_x_preferred_longname":[
+        "Douya Onoye Department"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "department"
+    ],
     "lbl:latitude":-1.683525,
     "lbl:longitude":11.082387,
     "meso:admin_1":"NGOUNIE",
@@ -90,7 +96,7 @@
         }
     ],
     "wof:id":1091909531,
-    "wof:lastmodified":1536615006,
+    "wof:lastmodified":1554489142,
     "wof:name":"Douya Onoye",
     "wof:parent_id":85671249,
     "wof:placetype":"county",

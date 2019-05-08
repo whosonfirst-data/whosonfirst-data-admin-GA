@@ -10,6 +10,12 @@
     "geom:latitude":-1.085234,
     "geom:longitude":13.893536,
     "iso:country":"GA",
+    "label:eng_x_preferred_longname":[
+        "Lekoni Lekori Department"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "department"
+    ],
     "lbl:latitude":-1.094767,
     "lbl:longitude":13.889852,
     "meso:admin_1":"HAUT OGOOUE",
@@ -90,7 +96,7 @@
         }
     ],
     "wof:id":1091909243,
-    "wof:lastmodified":1536615004,
+    "wof:lastmodified":1554489141,
     "wof:name":"Lekoni Lekori",
     "wof:parent_id":85671257,
     "wof:placetype":"county",

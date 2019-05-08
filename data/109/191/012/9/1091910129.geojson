@@ -10,6 +10,12 @@
     "geom:latitude":-3.281903,
     "geom:longitude":11.455969,
     "iso:country":"GA",
+    "label:eng_x_preferred_longname":[
+        "Mongo Department"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "department"
+    ],
     "lbl:latitude":-3.260317,
     "lbl:longitude":11.397129,
     "meso:admin_1":"NYANGA",
@@ -93,7 +99,7 @@
         }
     ],
     "wof:id":1091910129,
-    "wof:lastmodified":1536615009,
+    "wof:lastmodified":1554489146,
     "wof:name":"Mongo",
     "wof:parent_id":85671251,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":-1.081947,
     "geom:longitude":11.868188,
     "iso:country":"GA",
+    "label:eng_x_preferred_longname":[
+        "Offoue Onoye Department"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "department"
+    ],
     "lbl:latitude":-1.113058,
     "lbl:longitude":11.902556,
     "meso:admin_1":"OGOOUE LOLO",
@@ -67,7 +73,7 @@
         }
     ],
     "wof:id":1091910409,
-    "wof:lastmodified":1536615011,
+    "wof:lastmodified":1554489147,
     "wof:name":"Offoue Onoye",
     "wof:parent_id":85671265,
     "wof:placetype":"county",

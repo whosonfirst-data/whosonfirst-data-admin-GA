@@ -10,6 +10,12 @@
     "geom:latitude":-0.504569,
     "geom:longitude":13.653479,
     "iso:country":"GA",
+    "label:eng_x_preferred_longname":[
+        "Sebe Brikolo Department"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "department"
+    ],
     "lbl:latitude":-0.415819,
     "lbl:longitude":13.686228,
     "meso:admin_1":"HAUT OGOOUE",
@@ -74,10 +80,11 @@
         }
     ],
     "wof:id":1091909293,
-    "wof:lastmodified":1536615005,
+    "wof:lastmodified":1554489142,
     "wof:name":"Sebe Brikolo",
     "wof:parent_id":85671257,
     "wof:placetype":"county",
+    "wof:placetype_local":"department",
     "wof:repo":"whosonfirst-data-admin-ga",
     "wof:shortcode":"SB",
     "wof:superseded_by":[],

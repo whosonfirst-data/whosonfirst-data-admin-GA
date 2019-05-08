@@ -10,6 +10,12 @@
     "geom:latitude":0.838868,
     "geom:longitude":10.624803,
     "iso:country":"GA",
+    "label:eng_x_preferred_longname":[
+        "Haut Komo Department"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "department"
+    ],
     "lbl:latitude":0.848578,
     "lbl:longitude":10.619658,
     "meso:admin_1":"WOLEU NTEM",
@@ -90,7 +96,7 @@
         }
     ],
     "wof:id":1091910783,
-    "wof:lastmodified":1536615013,
+    "wof:lastmodified":1554489147,
     "wof:name":"Haut Komo",
     "wof:parent_id":85671241,
     "wof:placetype":"county",

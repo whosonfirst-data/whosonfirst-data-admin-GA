@@ -10,6 +10,12 @@
     "geom:latitude":-2.21823,
     "geom:longitude":12.23446,
     "iso:country":"GA",
+    "label:eng_x_preferred_longname":[
+        "Louetsi Bibaka Department"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "department"
+    ],
     "lbl:latitude":-2.245637,
     "lbl:longitude":12.228267,
     "meso:admin_1":"NGOUNIE",
@@ -67,7 +73,7 @@
         }
     ],
     "wof:id":1091909787,
-    "wof:lastmodified":1536615007,
+    "wof:lastmodified":1554489146,
     "wof:name":"Louetsi Bibaka",
     "wof:parent_id":85671249,
     "wof:placetype":"county",

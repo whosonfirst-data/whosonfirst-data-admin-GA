@@ -10,6 +10,12 @@
     "geom:latitude":-1.392859,
     "geom:longitude":11.488598,
     "iso:country":"GA",
+    "label:eng_x_preferred_longname":[
+        "Ogoulou Department"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "department"
+    ],
     "lbl:latitude":-1.448108,
     "lbl:longitude":11.530452,
     "meso:admin_1":"NGOUNIE",
@@ -89,7 +95,7 @@
         }
     ],
     "wof:id":1091909887,
-    "wof:lastmodified":1536615008,
+    "wof:lastmodified":1554489148,
     "wof:name":"Ogoulou",
     "wof:parent_id":85671249,
     "wof:placetype":"county",

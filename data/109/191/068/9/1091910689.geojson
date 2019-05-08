@@ -10,6 +10,12 @@
     "geom:latitude":1.816814,
     "geom:longitude":12.57689,
     "iso:country":"GA",
+    "label:eng_x_preferred_longname":[
+        "Haut Ntem Department"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "department"
+    ],
     "lbl:latitude":1.868488,
     "lbl:longitude":12.720866,
     "meso:admin_1":"WOLEU NTEM",
@@ -86,7 +92,7 @@
         }
     ],
     "wof:id":1091910689,
-    "wof:lastmodified":1536615013,
+    "wof:lastmodified":1554489152,
     "wof:name":"Haut Ntem",
     "wof:parent_id":85671241,
     "wof:placetype":"county",

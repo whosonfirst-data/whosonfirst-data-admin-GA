@@ -10,6 +10,12 @@
     "geom:latitude":-1.133954,
     "geom:longitude":10.814742,
     "iso:country":"GA",
+    "label:eng_x_preferred_longname":[
+        "Tsamba Magotsi Department"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "department"
+    ],
     "lbl:latitude":-0.939543,
     "lbl:longitude":10.81463,
     "meso:admin_1":"NGOUNIE",
@@ -93,7 +99,7 @@
         }
     ],
     "wof:id":1091909581,
-    "wof:lastmodified":1536615006,
+    "wof:lastmodified":1554489144,
     "wof:name":"Tsamba Magotsi",
     "wof:parent_id":85671249,
     "wof:placetype":"county",

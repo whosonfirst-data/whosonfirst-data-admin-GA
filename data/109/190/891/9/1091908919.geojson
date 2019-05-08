@@ -10,6 +10,12 @@
     "geom:latitude":-1.761957,
     "geom:longitude":13.648872,
     "iso:country":"GA",
+    "label:eng_x_preferred_longname":[
+        "Mpassa Department"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "department"
+    ],
     "lbl:latitude":-1.763056,
     "lbl:longitude":13.577007,
     "meso:admin_1":"HAUT-OGOOUE",
@@ -90,7 +96,7 @@
         }
     ],
     "wof:id":1091908919,
-    "wof:lastmodified":1536615003,
+    "wof:lastmodified":1554489143,
     "wof:name":"Mpassa",
     "wof:parent_id":85671257,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":-2.003252,
     "geom:longitude":13.116212,
     "iso:country":"GA",
+    "label:eng_x_preferred_longname":[
+        "Lekoko Department"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "department"
+    ],
     "lbl:latitude":-1.994765,
     "lbl:longitude":13.12317,
     "meso:admin_1":"HAUT OGOOUE",
@@ -90,7 +96,7 @@
         }
     ],
     "wof:id":1091909017,
-    "wof:lastmodified":1536615003,
+    "wof:lastmodified":1554489141,
     "wof:name":"Lekoko",
     "wof:parent_id":85671257,
     "wof:placetype":"county",

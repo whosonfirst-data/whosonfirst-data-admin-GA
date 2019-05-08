@@ -10,6 +10,12 @@
     "geom:latitude":0.705472,
     "geom:longitude":11.484983,
     "iso:country":"GA",
+    "label:eng_x_preferred_longname":[
+        "Okano Department"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "department"
+    ],
     "lbl:latitude":0.652896,
     "lbl:longitude":11.303651,
     "meso:admin_1":"WOLEU NTEM",
@@ -86,7 +92,7 @@
         }
     ],
     "wof:id":1091910733,
-    "wof:lastmodified":1536615013,
+    "wof:lastmodified":1554489148,
     "wof:name":"Okano",
     "wof:parent_id":85671241,
     "wof:placetype":"county",

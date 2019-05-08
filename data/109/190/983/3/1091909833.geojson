@@ -10,6 +10,12 @@
     "geom:latitude":-2.019201,
     "geom:longitude":11.847817,
     "iso:country":"GA",
+    "label:eng_x_preferred_longname":[
+        "Boumi Louetsi Department"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "department"
+    ],
     "lbl:latitude":-1.982722,
     "lbl:longitude":11.817383,
     "meso:admin_1":"NGOUNIE",
@@ -87,7 +93,7 @@
         }
     ],
     "wof:id":1091909833,
-    "wof:lastmodified":1536615007,
+    "wof:lastmodified":1554489143,
     "wof:name":"Boumi Louetsi",
     "wof:parent_id":85671249,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":-2.082999,
     "geom:longitude":10.780614,
     "iso:country":"GA",
+    "label:eng_x_preferred_longname":[
+        "Mougalaba Department"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "department"
+    ],
     "lbl:latitude":-2.088724,
     "lbl:longitude":10.785872,
     "meso:admin_1":"NGOUNIE",
@@ -67,7 +73,7 @@
         }
     ],
     "wof:id":1091909663,
-    "wof:lastmodified":1536615007,
+    "wof:lastmodified":1554489144,
     "wof:name":"Mougalaba",
     "wof:parent_id":85671249,
     "wof:placetype":"county",
