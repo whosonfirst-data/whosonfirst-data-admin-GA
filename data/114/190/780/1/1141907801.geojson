@@ -23,28 +23,22 @@
     "name:bul_x_preferred":[
         "\u041c\u0443\u0438\u043b\u0430"
     ],
-    "name:chi_x_preferred":[
-        "\u7a46\u4f0a\u62c9"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Mouila"
     ],
     "name:dan_x_preferred":[
         "Mouila"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Mouila"
     ],
     "name:eng_x_preferred":[
         "Mouila"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Mouila"
     ],
     "name:frr_x_preferred":[
-        "Mouila"
-    ],
-    "name:ger_x_preferred":[
         "Mouila"
     ],
     "name:hrv_x_preferred":[
@@ -61,6 +55,9 @@
     ],
     "name:lit_x_preferred":[
         "Muila"
+    ],
+    "name:nld_x_preferred":[
+        "Mouila"
     ],
     "name:nob_x_preferred":[
         "Mouila"
@@ -87,6 +84,9 @@
         "\u7a46\u4f0a\u62c9"
     ],
     "name:yue_x_preferred":[
+        "\u7a46\u4f0a\u62c9"
+    ],
+    "name:zho_x_preferred":[
         "\u7a46\u4f0a\u62c9"
     ],
     "ne:ADM0CAP":0.0,
@@ -208,7 +208,7 @@
         }
     ],
     "wof:id":1141907801,
-    "wof:lastmodified":1553816736,
+    "wof:lastmodified":1561837507,
     "wof:name":"Mouila",
     "wof:parent_id":1091909531,
     "wof:placetype":"locality",

@@ -22,13 +22,10 @@
     "name:bul_x_preferred":[
         "\u0427\u0438\u0431\u0430\u043d\u0433\u0430"
     ],
-    "name:chi_x_preferred":[
-        "\u5947\u73ed\u52a0"
-    ],
     "name:dan_x_preferred":[
         "Tchibanga"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Tchibanga"
     ],
     "name:eng_x_preferred":[
@@ -37,13 +34,10 @@
     "name:fin_x_preferred":[
         "Tchibanga"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Tchibanga"
     ],
     "name:frr_x_preferred":[
-        "Tchibanga"
-    ],
-    "name:ger_x_preferred":[
         "Tchibanga"
     ],
     "name:heb_x_preferred":[
@@ -63,6 +57,9 @@
     ],
     "name:lit_x_preferred":[
         "\u010cibanga"
+    ],
+    "name:nld_x_preferred":[
+        "Tchibanga"
     ],
     "name:nob_x_preferred":[
         "Tchibanga"
@@ -84,6 +81,9 @@
     ],
     "name:war_x_preferred":[
         "Tchibanga"
+    ],
+    "name:zho_x_preferred":[
+        "\u5947\u73ed\u52a0"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Gabon",
@@ -212,7 +212,7 @@
         }
     ],
     "wof:id":890451651,
-    "wof:lastmodified":1553816402,
+    "wof:lastmodified":1561837503,
     "wof:name":"Tchibanga",
     "wof:parent_id":1091909931,
     "wof:placetype":"locality",

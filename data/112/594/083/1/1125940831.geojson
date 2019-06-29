@@ -22,13 +22,10 @@
     "name:bul_x_preferred":[
         "\u041c\u0438\u043c\u043e\u043d\u0433\u043e"
     ],
-    "name:dut_x_preferred":[
-        "Mimongo"
-    ],
     "name:eng_x_preferred":[
         "Mimongo"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Mimongo"
     ],
     "name:ita_x_preferred":[
@@ -36,6 +33,9 @@
     ],
     "name:jpn_x_preferred":[
         "\u30df\u30e2\u30f3\u30b4"
+    ],
+    "name:nld_x_preferred":[
+        "Mimongo"
     ],
     "name:pol_x_preferred":[
         "Mimongo"
@@ -85,7 +85,7 @@
         }
     ],
     "wof:id":1125940831,
-    "wof:lastmodified":1514440381,
+    "wof:lastmodified":1561837503,
     "wof:name":"Mimongo",
     "wof:parent_id":1091909887,
     "wof:placetype":"locality",

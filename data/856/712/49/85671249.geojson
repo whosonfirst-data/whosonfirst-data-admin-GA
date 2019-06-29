@@ -50,20 +50,14 @@
     "name:ces_x_preferred":[
         "Ngouni\u00e9"
     ],
-    "name:chi_x_preferred":[
-        "\u6069\u53e4\u6d85\u7701"
-    ],
-    "name:cze_x_preferred":[
-        "Ngouni\u00e9"
-    ],
     "name:dan_x_preferred":[
         "Ngouni\u00e9 Province"
     ],
     "name:deu_x_preferred":[
         "Ngouni\u00e9"
     ],
-    "name:dut_x_preferred":[
-        "Ngouni\u00e9"
+    "name:ell_x_preferred":[
+        "\u039d\u03b3\u03ba\u03bf\u03c5\u03bd\u03b9\u03ad"
     ],
     "name:eng_x_preferred":[
         "Ngouni Province"
@@ -80,20 +74,7 @@
         "Ngouni\u00e9"
     ],
     "name:fra_x_variant":[
-        "Ngouni\u00e9",
         "Ngounie"
-    ],
-    "name:fre_x_preferred":[
-        "Ngouni\u00e9"
-    ],
-    "name:geo_x_preferred":[
-        "\u10dc\u10d2\u10e3\u10dc\u10d8\u10d4"
-    ],
-    "name:ger_x_preferred":[
-        "Ngouni\u00e9"
-    ],
-    "name:gre_x_preferred":[
-        "\u039d\u03b3\u03ba\u03bf\u03c5\u03bd\u03b9\u03ad"
     ],
     "name:guj_x_preferred":[
         "\u0aa8\u0a97\u0acb\u0a89\u0aa8\u0ac0\u0a8f \u0aaa\u0acd\u0ab0\u0abe\u0a82\u0aa4"
@@ -116,6 +97,9 @@
     "name:kan_x_preferred":[
         "\u0c8e\u0ca8\u0ccd\u0c97\u0ccb\u0ca8\u0cbf \u0caa\u0ccd\u0cb0\u0cbe\u0c82\u0ca4\u0ccd\u0caf"
     ],
+    "name:kat_x_preferred":[
+        "\u10dc\u10d2\u10e3\u10dc\u10d8\u10d4"
+    ],
     "name:kor_x_preferred":[
         "\uc751\uad6c\ub2c8\uc5d0 \uc8fc"
     ],
@@ -131,7 +115,10 @@
     "name:mar_x_preferred":[
         "\u0928\u0917\u094b\u090a\u0928\u093f\u090f \u092a\u094d\u0930\u093e\u0902\u0924"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
+        "Ngouni\u00e9"
+    ],
+    "name:nld_x_preferred":[
         "Ngouni\u00e9"
     ],
     "name:nob_x_preferred":[
@@ -146,7 +133,7 @@
     "name:por_x_preferred":[
         "Ngouni\u00e9"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Provincia Ngouni\u00e9"
     ],
     "name:rus_x_preferred":[
@@ -190,6 +177,9 @@
     ],
     "name:war_x_preferred":[
         "Ngouni\u00e9"
+    ],
+    "name:zho_x_preferred":[
+        "\u6069\u53e4\u6d85\u7701"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"GAB",
@@ -314,7 +304,7 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1553550425,
+    "wof:lastmodified":1561837482,
     "wof:name":"Ngouni\u00e9",
     "wof:parent_id":85632407,
     "wof:placetype":"region",

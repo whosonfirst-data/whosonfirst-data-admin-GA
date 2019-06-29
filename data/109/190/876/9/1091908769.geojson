@@ -31,9 +31,6 @@
     "mps:longitude":9.468673,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:dut_x_preferred":[
-        "Komo-Mondah Department"
-    ],
     "name:eng_x_preferred":[
         "Komo-Mondah Department"
     ],
@@ -41,7 +38,7 @@
         "Libreville",
         "Komo-Mondah"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Komo-Mondah"
     ],
     "name:ita_x_preferred":[
@@ -50,13 +47,16 @@
     "name:jpn_x_preferred":[
         "\u30b3\u30e2\uff1d\u30e2\u30f3\u30c0\u30fc\u770c"
     ],
+    "name:nld_x_preferred":[
+        "Komo-Mondah Department"
+    ],
     "name:pol_x_preferred":[
         "Departament Komo-Mondah"
     ],
     "name:por_x_preferred":[
         "Komo-Mondah"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Departamentul Komo-Mondah"
     ],
     "name:rus_x_preferred":[
@@ -92,7 +92,7 @@
         }
     ],
     "wof:id":1091908769,
-    "wof:lastmodified":1554489139,
+    "wof:lastmodified":1561837498,
     "wof:name":"Libreville",
     "wof:parent_id":85671235,
     "wof:placetype":"county",

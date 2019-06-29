@@ -31,9 +31,6 @@
     "mps:longitude":11.082387,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:dut_x_preferred":[
-        "Douya-Onoy Department"
-    ],
     "name:eng_x_preferred":[
         "Douya-Onoye"
     ],
@@ -42,7 +39,7 @@
         "Douya Onoye",
         "Douya-Onoy Department"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Douya-Onoye"
     ],
     "name:ita_x_preferred":[
@@ -51,10 +48,13 @@
     "name:jpn_x_preferred":[
         "\u30c7\u30e5\u30e4\uff1d\u30aa\u30ce\u30ef\u770c"
     ],
+    "name:nld_x_preferred":[
+        "Douya-Onoy Department"
+    ],
     "name:por_x_preferred":[
         "Douya-Onoy"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Departamentul Douya-Onoy"
     ],
     "name:swe_x_preferred":[
@@ -96,7 +96,7 @@
         }
     ],
     "wof:id":1091909531,
-    "wof:lastmodified":1554489142,
+    "wof:lastmodified":1561837495,
     "wof:name":"Douya Onoye",
     "wof:parent_id":85671249,
     "wof:placetype":"county",
