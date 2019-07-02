@@ -25,19 +25,13 @@
     "name:bul_x_preferred":[
         "\u0411\u0438\u0442\u0430\u043c"
     ],
-    "name:chi_x_preferred":[
-        "\u6bd4\u5854\u59c6"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Bitam"
     ],
     "name:eng_x_preferred":[
         "Bitam"
     ],
-    "name:fre_x_preferred":[
-        "Bitam"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Bitam"
     ],
     "name:heb_x_preferred":[
@@ -51,6 +45,9 @@
     ],
     "name:lit_x_preferred":[
         "Bitamas"
+    ],
+    "name:nld_x_preferred":[
+        "Bitam"
     ],
     "name:nob_x_preferred":[
         "Bitam"
@@ -66,6 +63,9 @@
     ],
     "name:swe_x_preferred":[
         "Bitam"
+    ],
+    "name:zho_x_preferred":[
+        "\u6bd4\u5854\u59c6"
     ],
     "qs_pg:aaroncc":"GA",
     "qs_pg:gn_country":"GA",
@@ -106,7 +106,7 @@
         }
     ],
     "wof:id":1125913629,
-    "wof:lastmodified":1534379315,
+    "wof:lastmodified":1561837503,
     "wof:name":"Bitam",
     "wof:parent_id":1091910639,
     "wof:placetype":"locality",

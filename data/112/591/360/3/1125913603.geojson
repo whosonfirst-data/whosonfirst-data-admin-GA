@@ -25,25 +25,19 @@
     "name:bul_x_preferred":[
         "\u041c\u0430\u043a\u043e\u043a\u0443"
     ],
-    "name:chi_x_preferred":[
-        "\u99ac\u79d1\u5eab"
-    ],
     "name:dan_x_preferred":[
         "Makokou"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Makokou"
     ],
     "name:eng_x_preferred":[
         "Makokou"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Makokou"
     ],
     "name:frr_x_preferred":[
-        "Makokou"
-    ],
-    "name:ger_x_preferred":[
         "Makokou"
     ],
     "name:heb_x_preferred":[
@@ -64,6 +58,9 @@
     "name:lit_x_preferred":[
         "Makoku"
     ],
+    "name:nld_x_preferred":[
+        "Makokou"
+    ],
     "name:nob_x_preferred":[
         "Makokou"
     ],
@@ -73,7 +70,7 @@
     "name:por_x_preferred":[
         "Makokou"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Makokou"
     ],
     "name:rus_x_preferred":[
@@ -90,6 +87,9 @@
     ],
     "name:war_x_preferred":[
         "Makokou"
+    ],
+    "name:zho_x_preferred":[
+        "\u99ac\u79d1\u5eab"
     ],
     "qs_pg:aaroncc":"GA",
     "qs_pg:gn_country":"GA",
@@ -130,7 +130,7 @@
         }
     ],
     "wof:id":1125913603,
-    "wof:lastmodified":1534379315,
+    "wof:lastmodified":1561837503,
     "wof:name":"Makokou",
     "wof:parent_id":1091910169,
     "wof:placetype":"locality",

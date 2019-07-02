@@ -24,13 +24,10 @@
     "name:bul_x_preferred":[
         "\u041e\u0439\u0435\u043c"
     ],
-    "name:chi_x_preferred":[
-        "\u5967\u8036\u59c6"
-    ],
     "name:dan_x_preferred":[
         "Oyem"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Oyem"
     ],
     "name:eng_x_preferred":[
@@ -39,16 +36,10 @@
     "name:est_x_preferred":[
         "Oyem"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Oyem"
     ],
     "name:frr_x_preferred":[
-        "Oyem"
-    ],
-    "name:geo_x_preferred":[
-        "\u10dd\u10d4\u10db\u10d8"
-    ],
-    "name:ger_x_preferred":[
         "Oyem"
     ],
     "name:heb_x_preferred":[
@@ -69,14 +60,20 @@
     "name:jpn_x_preferred":[
         "\u30aa\u30a4\u30a7\u30e0"
     ],
+    "name:kat_x_preferred":[
+        "\u10dd\u10d4\u10db\u10d8"
+    ],
     "name:kor_x_preferred":[
         "\uc624\uc618"
     ],
     "name:lit_x_preferred":[
         "Ojemas"
     ],
-    "name:mac_x_preferred":[
+    "name:mkd_x_preferred":[
         "\u041e\u0458\u0435\u043c"
+    ],
+    "name:nld_x_preferred":[
+        "Oyem"
     ],
     "name:nob_x_preferred":[
         "Oyem"
@@ -104,6 +101,9 @@
     ],
     "name:war_x_preferred":[
         "Oyem"
+    ],
+    "name:zho_x_preferred":[
+        "\u5967\u8036\u59c6"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Gabon",
@@ -238,7 +238,7 @@
         }
     ],
     "wof:id":1141908945,
-    "wof:lastmodified":1534379315,
+    "wof:lastmodified":1561837507,
     "wof:name":"Oyem",
     "wof:parent_id":1091910593,
     "wof:placetype":"locality",

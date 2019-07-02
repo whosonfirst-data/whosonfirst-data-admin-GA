@@ -31,9 +31,6 @@
     "mps:longitude":11.502304,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:dut_x_preferred":[
-        "Louetsi-Wano Department"
-    ],
     "name:eng_x_preferred":[
         "Louetsi-Wano"
     ],
@@ -41,7 +38,7 @@
         "Louetsi-Wano",
         "Louetsi-Wano Department"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Louetsi-Wano"
     ],
     "name:ita_x_preferred":[
@@ -50,10 +47,13 @@
     "name:jpn_x_preferred":[
         "\u30eb\u30a8\u30a4\uff1d\u30ef\u30ce\u770c"
     ],
+    "name:nld_x_preferred":[
+        "Louetsi-Wano Department"
+    ],
     "name:por_x_preferred":[
         "Louetsi-Wano"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Departamentul Louetsi-Wano"
     ],
     "name:swe_x_preferred":[
@@ -95,7 +95,7 @@
         }
     ],
     "wof:id":1091909757,
-    "wof:lastmodified":1554489141,
+    "wof:lastmodified":1561837500,
     "wof:name":"Louetsi Wano",
     "wof:parent_id":85671249,
     "wof:placetype":"county",
