@@ -31,6 +31,9 @@
     "mps:longitude":13.686228,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:deu_x_preferred":[
+        "Sebe-Brikolo"
+    ],
     "name:eng_x_preferred":[
         "Sebe-Brikolo Department"
     ],
@@ -39,6 +42,9 @@
         "S\u00e9b\u00e9-Brikolo"
     ],
     "name:fra_x_preferred":[
+        "S\u00e9b\u00e9-Brikolo"
+    ],
+    "name:frr_x_preferred":[
         "S\u00e9b\u00e9-Brikolo"
     ],
     "name:ita_x_preferred":[
@@ -55,6 +61,15 @@
     ],
     "name:ron_x_preferred":[
         "Departamentul Sebe-Brikolo"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0435\u0431\u0435-\u0411\u0440\u0438\u043a\u043e\u043b\u043e"
+    ],
+    "name:spa_x_preferred":[
+        "S\u00e9b\u00e9-Brikolo"
+    ],
+    "name:vie_x_preferred":[
+        "Sebe-Brikolo"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -80,7 +95,7 @@
         }
     ],
     "wof:id":1091909293,
-    "wof:lastmodified":1561837499,
+    "wof:lastmodified":1563326285,
     "wof:name":"Sebe Brikolo",
     "wof:parent_id":85671257,
     "wof:placetype":"county",

@@ -32,12 +32,17 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Bendje"
+    ],
+    "name:deu_x_preferred":[
+        "Bendj\u00e9"
+    ],
     "name:eng_x_preferred":[
         "Bendj\u00e9"
     ],
     "name:eng_x_variant":[
         "Bendje",
-        "Bendj\u00e9",
         "Bendje Department"
     ],
     "name:fra_x_preferred":[
@@ -58,7 +63,16 @@
     "name:ron_x_preferred":[
         "Departamentul Bendje"
     ],
+    "name:rus_x_preferred":[
+        "\u0411\u0435\u043d\u0434\u0436\u0435"
+    ],
+    "name:spa_x_preferred":[
+        "Bendj\u00e9"
+    ],
     "name:swe_x_preferred":[
+        "Bendje"
+    ],
+    "name:vie_x_preferred":[
         "Bendje"
     ],
     "name:zho_x_preferred":[
@@ -123,7 +137,7 @@
         }
     ],
     "wof:id":421181245,
-    "wof:lastmodified":1561837502,
+    "wof:lastmodified":1563326312,
     "wof:name":"Bendje",
     "wof:parent_id":85671255,
     "wof:placetype":"county",

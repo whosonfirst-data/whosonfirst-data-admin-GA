@@ -31,14 +31,25 @@
     "mps:longitude":10.316941,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:bar_x_preferred":[
+        "Komo"
+    ],
+    "name:ceb_x_preferred":[
+        "Komo Department"
+    ],
+    "name:deu_x_preferred":[
+        "Komo"
+    ],
     "name:eng_x_preferred":[
         "Komo"
     ],
     "name:eng_x_variant":[
-        "Komo",
         "Komo Department"
     ],
     "name:fra_x_preferred":[
+        "Komo"
+    ],
+    "name:frr_x_preferred":[
         "Komo"
     ],
     "name:ita_x_preferred":[
@@ -56,11 +67,20 @@
     "name:ron_x_preferred":[
         "Departamentul Komo"
     ],
+    "name:rus_x_preferred":[
+        "\u041a\u043e\u043c\u043e"
+    ],
+    "name:spa_x_preferred":[
+        "Komo"
+    ],
     "name:swa_x_preferred":[
         "Komo Department"
     ],
     "name:swe_x_preferred":[
         "Komo Department"
+    ],
+    "name:vie_x_preferred":[
+        "Komo"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -98,7 +118,7 @@
         }
     ],
     "wof:id":1091908823,
-    "wof:lastmodified":1561837498,
+    "wof:lastmodified":1563326280,
     "wof:name":"Komo",
     "wof:parent_id":85671235,
     "wof:placetype":"county",

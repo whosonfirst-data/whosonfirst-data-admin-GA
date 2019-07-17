@@ -22,6 +22,9 @@
     "name:bul_x_preferred":[
         "\u041c\u0438\u043c\u043e\u043d\u0433\u043e"
     ],
+    "name:ceb_x_preferred":[
+        "Mimongo"
+    ],
     "name:eng_x_preferred":[
         "Mimongo"
     ],
@@ -85,7 +88,7 @@
         }
     ],
     "wof:id":1125940831,
-    "wof:lastmodified":1561837503,
+    "wof:lastmodified":1563326320,
     "wof:name":"Mimongo",
     "wof:parent_id":1091909887,
     "wof:placetype":"locality",

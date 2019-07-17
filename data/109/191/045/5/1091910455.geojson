@@ -31,11 +31,16 @@
     "mps:longitude":12.98027,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Mouloundou Department"
+    ],
+    "name:deu_x_preferred":[
+        "Mulundu"
+    ],
     "name:eng_x_preferred":[
         "Mouloundou"
     ],
     "name:eng_x_variant":[
-        "Mouloundou",
         "Mouloudnou",
         "Mouloundou Department"
     ],
@@ -57,8 +62,17 @@
     "name:ron_x_preferred":[
         "Departamentul Mouloundou"
     ],
+    "name:rus_x_preferred":[
+        "\u041c\u0443\u043b\u0443\u043d\u0434\u0443"
+    ],
+    "name:spa_x_preferred":[
+        "Mulundu"
+    ],
     "name:swe_x_preferred":[
         "Mouloundou Department"
+    ],
+    "name:vie_x_preferred":[
+        "Mouloundou"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -96,7 +110,7 @@
         }
     ],
     "wof:id":1091910455,
-    "wof:lastmodified":1561837491,
+    "wof:lastmodified":1563326262,
     "wof:name":"Mouloundou",
     "wof:parent_id":85671265,
     "wof:placetype":"county",

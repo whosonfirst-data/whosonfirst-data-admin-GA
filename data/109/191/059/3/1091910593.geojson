@@ -31,11 +31,13 @@
     "mps:longitude":11.682249,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:deu_x_preferred":[
+        "Woleu"
+    ],
     "name:eng_x_preferred":[
         "Woleu"
     ],
     "name:eng_x_variant":[
-        "Woleu",
         "Woleu Department"
     ],
     "name:fra_x_preferred":[
@@ -55,6 +57,15 @@
     ],
     "name:ron_x_preferred":[
         "Departamentul Woleu"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u043e\u043b\u0451"
+    ],
+    "name:spa_x_preferred":[
+        "Woleu"
+    ],
+    "name:vie_x_preferred":[
+        "Woleu"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -92,7 +103,7 @@
         }
     ],
     "wof:id":1091910593,
-    "wof:lastmodified":1561837493,
+    "wof:lastmodified":1563326267,
     "wof:name":"Woleu",
     "wof:parent_id":85671241,
     "wof:placetype":"county",

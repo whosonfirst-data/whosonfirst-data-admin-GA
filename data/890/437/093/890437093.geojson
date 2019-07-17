@@ -18,6 +18,9 @@
     "name:bul_x_preferred":[
         "\u041c\u0443\u043d\u0430\u043d\u0430"
     ],
+    "name:ceb_x_preferred":[
+        "Mounana"
+    ],
     "name:eng_x_preferred":[
         "Mounana"
     ],
@@ -92,7 +95,7 @@
         }
     ],
     "wof:id":890437093,
-    "wof:lastmodified":1561837502,
+    "wof:lastmodified":1563326315,
     "wof:name":"Mounana",
     "wof:parent_id":1091908967,
     "wof:placetype":"locality",

@@ -17,6 +17,9 @@
     "name:bul_x_preferred":[
         "\u041c\u0435\u043a\u0430\u043c\u0431\u043e"
     ],
+    "name:ceb_x_preferred":[
+        "M\u00e9kambo"
+    ],
     "name:eng_x_preferred":[
         "M\u00e9kambo"
     ],
@@ -40,6 +43,9 @@
     ],
     "name:rus_x_preferred":[
         "\u041c\u0435\u043a\u0430\u043c\u0431\u043e"
+    ],
+    "name:spa_x_preferred":[
+        "M\u00e9kambo"
     ],
     "name:swe_x_preferred":[
         "M\u00e9kambo"
@@ -163,7 +169,7 @@
         }
     ],
     "wof:id":1141907781,
-    "wof:lastmodified":1561837507,
+    "wof:lastmodified":1563326496,
     "wof:name":"Mekambo",
     "wof:parent_id":1091910219,
     "wof:placetype":"locality",

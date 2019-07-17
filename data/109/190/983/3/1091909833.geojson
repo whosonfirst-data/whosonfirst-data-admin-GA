@@ -31,11 +31,13 @@
     "mps:longitude":11.817383,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:deu_x_preferred":[
+        "Boumi-Louetsi"
+    ],
     "name:eng_x_preferred":[
         "Boumi-Louetsi"
     ],
     "name:eng_x_variant":[
-        "Boumi-Louetsi",
         "Boumi-lowetsi",
         "Boumi-Louetsi Department"
     ],
@@ -56,6 +58,15 @@
     ],
     "name:ron_x_preferred":[
         "Departamentul Boumi-Louetsi"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0443\u043c\u0438-\u041b\u044e\u044d"
+    ],
+    "name:spa_x_preferred":[
+        "Boumi-Lou\u00e9tsi"
+    ],
+    "name:vie_x_preferred":[
+        "Boumi-Louetsi"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -93,7 +104,7 @@
         }
     ],
     "wof:id":1091909833,
-    "wof:lastmodified":1561837496,
+    "wof:lastmodified":1563326275,
     "wof:name":"Boumi Louetsi",
     "wof:parent_id":85671249,
     "wof:placetype":"county",

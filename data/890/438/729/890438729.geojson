@@ -18,6 +18,9 @@
     "name:bul_x_preferred":[
         "\u0424\u043e\u0443\u0433\u0430\u043c\u043e\u0443"
     ],
+    "name:ceb_x_preferred":[
+        "Fougamou"
+    ],
     "name:eng_x_preferred":[
         "Fougamou"
     ],
@@ -38,6 +41,9 @@
     ],
     "name:rus_x_preferred":[
         "\u0424\u0443\u0433\u0430\u043c\u0443"
+    ],
+    "name:spa_x_preferred":[
+        "Fougamou"
     ],
     "name:swe_x_preferred":[
         "Fougamou"
@@ -80,7 +86,7 @@
         }
     ],
     "wof:id":890438729,
-    "wof:lastmodified":1561837503,
+    "wof:lastmodified":1563326318,
     "wof:name":"Fougamou",
     "wof:parent_id":1091909581,
     "wof:placetype":"locality",

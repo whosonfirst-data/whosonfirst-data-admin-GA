@@ -76,6 +76,9 @@
     "name:fra_x_variant":[
         "Ogooue-Lolo"
     ],
+    "name:frr_x_preferred":[
+        "Ogoou\u00e9-Lolo"
+    ],
     "name:guj_x_preferred":[
         "\u0a93\u0a97\u0acb\u0a89\u0a8f -\u0ab2\u0acb\u0ab2\u0acb \u0aaa\u0acd\u0ab0\u0abe\u0a82\u0aa4"
     ],
@@ -177,6 +180,12 @@
     ],
     "name:war_x_preferred":[
         "Ogoou\u00e9-Lolo"
+    ],
+    "name:wuu_x_preferred":[
+        "\u5967\u679c\u97cb-\u6d1b\u6d1b\u7701"
+    ],
+    "name:yue_x_preferred":[
+        "\u5967\u679c\u97cb-\u6d1b\u6d1b\u7701"
     ],
     "name:zho_x_preferred":[
         "\u5967\u679c\u97cb-\u6d1b\u6d1b\u7701"
@@ -304,7 +313,7 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1561837479,
+    "wof:lastmodified":1563325948,
     "wof:name":"Ogoou\u00e9-Lolo",
     "wof:parent_id":85632407,
     "wof:placetype":"region",

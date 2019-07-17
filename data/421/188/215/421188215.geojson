@@ -35,12 +35,17 @@
     "name:cat_x_preferred":[
         "Parc Nacional de Lop\u00e9"
     ],
+    "name:ceb_x_preferred":[
+        "Lope Department"
+    ],
+    "name:deu_x_preferred":[
+        "Lop\u00e9"
+    ],
     "name:eng_x_preferred":[
         "Lop\u00e9"
     ],
     "name:eng_x_variant":[
         "Lope",
-        "Lop\u00e9",
         "Lope Department"
     ],
     "name:fra_x_preferred":[
@@ -79,11 +84,23 @@
     "name:rus_x_preferred":[
         "\u041d\u0430\u0446\u0438\u043e\u043d\u0430\u043b\u044c\u043d\u044b\u0439 \u043f\u0430\u0440\u043a \u041b\u043e\u043f\u0435"
     ],
+    "name:rus_x_variant":[
+        "\u041b\u043e\u043f\u0435"
+    ],
     "name:spa_x_preferred":[
         "Parque nacional de Lop\u00e9"
     ],
+    "name:spa_x_variant":[
+        "Lop\u00e9"
+    ],
     "name:swe_x_preferred":[
         "Lop\u00e9 nationalpark"
+    ],
+    "name:swe_x_variant":[
+        "Lope Department"
+    ],
+    "name:vie_x_preferred":[
+        "Lop\u00e9"
     ],
     "qs:gn_country":null,
     "qs:gn_fcode":null,
@@ -144,7 +161,7 @@
         }
     ],
     "wof:id":421188215,
-    "wof:lastmodified":1561837501,
+    "wof:lastmodified":1563326311,
     "wof:name":"Lope",
     "wof:parent_id":85671237,
     "wof:placetype":"county",

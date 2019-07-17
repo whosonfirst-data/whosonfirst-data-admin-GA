@@ -22,6 +22,9 @@
     "name:bul_x_preferred":[
         "\u0427\u0438\u0431\u0430\u043d\u0433\u0430"
     ],
+    "name:ceb_x_preferred":[
+        "Tchibanga"
+    ],
     "name:dan_x_preferred":[
         "Tchibanga"
     ],
@@ -78,6 +81,9 @@
     ],
     "name:swe_x_preferred":[
         "Tchibanga"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0427\u0438\u0431\u0430\u043d\u0433\u0430"
     ],
     "name:war_x_preferred":[
         "Tchibanga"
@@ -212,7 +218,7 @@
         }
     ],
     "wof:id":890451651,
-    "wof:lastmodified":1561837503,
+    "wof:lastmodified":1563326320,
     "wof:name":"Tchibanga",
     "wof:parent_id":1091909931,
     "wof:placetype":"locality",

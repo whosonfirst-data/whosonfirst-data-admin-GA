@@ -78,6 +78,9 @@
     "name:fra_x_variant":[
         "Haut-Ogoou\u00e9"
     ],
+    "name:frr_x_preferred":[
+        "Haut-Ogoou\u00e9"
+    ],
     "name:guj_x_preferred":[
         "\u0ab9\u0acc\u0a9f-\u0a93\u0a97\u0acb\u0a89\u0a87 \u0aaa\u0acd\u0ab0\u0abe\u0a82\u0aa4"
     ],
@@ -179,6 +182,12 @@
     ],
     "name:war_x_preferred":[
         "Haut-Ogoou\u00e9"
+    ],
+    "name:wuu_x_preferred":[
+        "\u4e0a\u5967\u679c\u97cb\u7701"
+    ],
+    "name:yue_x_preferred":[
+        "\u4e0a\u5967\u679c\u97cb\u7701"
     ],
     "name:zho_x_preferred":[
         "\u4e0a\u5965\u679c\u97e6\u7701"
@@ -306,7 +315,7 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1561837478,
+    "wof:lastmodified":1563325943,
     "wof:name":"Haut-Ogoou\u00e9",
     "wof:parent_id":85632407,
     "wof:placetype":"region",
