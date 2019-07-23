@@ -37,6 +37,9 @@
     "name:rus_x_preferred":[
         "\u041b\u0435\u043a\u043e\u043d\u0438"
     ],
+    "name:spa_x_preferred":[
+        "L\u00e9coni"
+    ],
     "name:swe_x_preferred":[
         "L\u00e9koni"
     ],
@@ -91,7 +94,7 @@
         }
     ],
     "wof:id":421198521,
-    "wof:lastmodified":1561837502,
+    "wof:lastmodified":1563326313,
     "wof:name":"L\u00e9koni",
     "wof:parent_id":1091909149,
     "wof:placetype":"locality",

@@ -25,6 +25,9 @@
     "name:bul_x_preferred":[
         "\u041c\u0430\u043a\u043e\u043a\u0443"
     ],
+    "name:ceb_x_preferred":[
+        "Makokou"
+    ],
     "name:dan_x_preferred":[
         "Makokou"
     ],
@@ -82,6 +85,9 @@
     "name:swe_x_preferred":[
         "Makokou"
     ],
+    "name:ukr_x_preferred":[
+        "\u041c\u0430\u043a\u043e\u043a\u0443"
+    ],
     "name:unk_x_variant":[
         "Makokou Fortifi\u00e9"
     ],
@@ -130,7 +136,7 @@
         }
     ],
     "wof:id":1125913603,
-    "wof:lastmodified":1561837503,
+    "wof:lastmodified":1563326324,
     "wof:name":"Makokou",
     "wof:parent_id":1091910169,
     "wof:placetype":"locality",

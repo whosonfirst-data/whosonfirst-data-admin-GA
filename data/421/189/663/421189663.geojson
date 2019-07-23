@@ -29,6 +29,9 @@
     "name:ast_x_preferred":[
         "Libreville"
     ],
+    "name:azb_x_preferred":[
+        "\u0644\u06cc\u0628\u0631\u0648\u06cc\u0644"
+    ],
     "name:aze_x_preferred":[
         "Librevil"
     ],
@@ -40,6 +43,9 @@
     ],
     "name:ben_x_preferred":[
         "\u09b2\u09bf\u09ac\u09cd\u09b0\u09c7\u09ad\u09bf\u09b2\u09bf"
+    ],
+    "name:ben_x_variant":[
+        "\u09b2\u09bf\u09ac\u09cd\u09b0\u09ad\u09bf\u09b2"
     ],
     "name:bod_x_preferred":[
         "\u0f63\u0f72\u0f56\u0f0b\u0f62\u0f7a\u0f0b\u0f5d\u0f72\u0f63\u0f0d"
@@ -131,6 +137,9 @@
     "name:glg_x_preferred":[
         "Libreville"
     ],
+    "name:grn_x_preferred":[
+        "Libreville"
+    ],
     "name:guj_x_preferred":[
         "\u0ab2\u0abe\u0a88\u0aac\u0acd\u0ab0\u0ac7\u0ab5\u0abf\u0ab2"
     ],
@@ -139,6 +148,9 @@
     ],
     "name:hat_x_preferred":[
         "Libvil"
+    ],
+    "name:hau_x_preferred":[
+        "Libreville"
     ],
     "name:hbs_x_preferred":[
         "Libreville"
@@ -152,7 +164,13 @@
     "name:hin_x_preferred":[
         "\u0932\u093f\u092c\u0930\u0947\u0935\u093f\u0932\u0947"
     ],
+    "name:hin_x_variant":[
+        "\u0932\u093f\u092c\u094d\u0930\u0947\u0935\u093f\u0932\u0947"
+    ],
     "name:hrv_x_preferred":[
+        "Libreville"
+    ],
+    "name:hsb_x_preferred":[
         "Libreville"
     ],
     "name:hun_x_preferred":[
@@ -227,6 +245,9 @@
     "name:ltz_x_preferred":[
         "Libreville"
     ],
+    "name:mal_x_preferred":[
+        "\u0d32\u0d3f\u0d2c\u0d4d\u0d30\u0d35\u0d3f\u0d32\u0d4d\u0d32\u0d46"
+    ],
     "name:mar_x_preferred":[
         "\u0932\u093f\u092c\u094d\u0930\u0947\u0935\u094d\u0939\u093f\u0932"
     ],
@@ -241,6 +262,9 @@
     ],
     "name:msa_x_preferred":[
         "Libreville"
+    ],
+    "name:mya_x_preferred":[
+        "\u101c\u1005\u103a\u1017\u101b\u102e\u1017\u1031\u1038\u101c\u103a\u1019\u103c\u102d\u102f\u1037"
     ],
     "name:nah_x_preferred":[
         "Libreville"
@@ -286,6 +310,9 @@
     ],
     "name:por_x_preferred":[
         "Libreville"
+    ],
+    "name:pus_x_preferred":[
+        "\u0644\u06cc\u0628\u0631\u0648\u06cc\u0644"
     ],
     "name:ron_x_preferred":[
         "Libreville"
@@ -346,6 +373,9 @@
     ],
     "name:tha_x_preferred":[
         "\u0e25\u0e35\u0e40\u0e1a\u0e23\u0e2d\u0e27\u0e34\u0e25"
+    ],
+    "name:tha_x_variant":[
+        "\u0e25\u0e35\u0e40\u0e1a\u0e23\u0e2d\u0e27\u0e35\u0e25"
     ],
     "name:tur_x_preferred":[
         "Libreville"
@@ -558,7 +588,7 @@
         }
     ],
     "wof:id":421189663,
-    "wof:lastmodified":1561837501,
+    "wof:lastmodified":1563326311,
     "wof:name":"Libreville",
     "wof:parent_id":1091908769,
     "wof:placetype":"locality",

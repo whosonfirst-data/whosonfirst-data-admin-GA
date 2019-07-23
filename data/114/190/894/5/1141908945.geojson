@@ -21,8 +21,14 @@
     "name:ara_x_preferred":[
         "\u0623\u0648\u064a\u064a\u0645"
     ],
+    "name:bak_x_preferred":[
+        "\u041e\u0435\u043c"
+    ],
     "name:bul_x_preferred":[
         "\u041e\u0439\u0435\u043c"
+    ],
+    "name:ceb_x_preferred":[
+        "Oyem"
     ],
     "name:dan_x_preferred":[
         "Oyem"
@@ -238,7 +244,7 @@
         }
     ],
     "wof:id":1141908945,
-    "wof:lastmodified":1561837507,
+    "wof:lastmodified":1563326496,
     "wof:name":"Oyem",
     "wof:parent_id":1091910593,
     "wof:placetype":"locality",

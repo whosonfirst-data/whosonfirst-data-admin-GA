@@ -21,7 +21,13 @@
     "name:cat_x_preferred":[
         "Cocobeach"
     ],
+    "name:ceb_x_preferred":[
+        "Cocobeach"
+    ],
     "name:eng_x_preferred":[
+        "Cocobeach"
+    ],
+    "name:eus_x_preferred":[
         "Cocobeach"
     ],
     "name:fra_x_preferred":[
@@ -90,7 +96,7 @@
         }
     ],
     "wof:id":890422771,
-    "wof:lastmodified":1561837502,
+    "wof:lastmodified":1563326315,
     "wof:name":"Cocobeach",
     "wof:parent_id":1091908869,
     "wof:placetype":"locality",

@@ -31,11 +31,16 @@
     "mps:longitude":10.188449,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Ndolou Department"
+    ],
+    "name:deu_x_preferred":[
+        "Ndolou"
+    ],
     "name:eng_x_preferred":[
         "Ndolou"
     ],
     "name:eng_x_variant":[
-        "Ndolou",
         "Ndolou Department"
     ],
     "name:fra_x_preferred":[
@@ -56,8 +61,17 @@
     "name:ron_x_preferred":[
         "Departamentul Ndolou"
     ],
+    "name:rus_x_preferred":[
+        "\u041d\u0434\u0443\u043b\u044e"
+    ],
+    "name:spa_x_preferred":[
+        "Ndolou"
+    ],
     "name:swe_x_preferred":[
         "Ndolou Department"
+    ],
+    "name:vie_x_preferred":[
+        "Ndolou"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -95,7 +109,7 @@
         }
     ],
     "wof:id":1091909635,
-    "wof:lastmodified":1561837496,
+    "wof:lastmodified":1563326273,
     "wof:name":"Ndolou",
     "wof:parent_id":85671249,
     "wof:placetype":"county",

@@ -31,11 +31,16 @@
     "mps:longitude":11.530452,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Ogoulou Department"
+    ],
+    "name:deu_x_preferred":[
+        "Ogoulou"
+    ],
     "name:eng_x_preferred":[
         "Ogoulou"
     ],
     "name:eng_x_variant":[
-        "Ogoulou",
         "Ogoulou Department"
     ],
     "name:fra_x_preferred":[
@@ -56,8 +61,17 @@
     "name:ron_x_preferred":[
         "Departamentul Ogoulou"
     ],
+    "name:rus_x_preferred":[
+        "\u041e\u0433\u0443\u043b\u044e"
+    ],
+    "name:spa_x_preferred":[
+        "Ogoulou"
+    ],
     "name:swe_x_preferred":[
         "Ogoulou Department"
+    ],
+    "name:vie_x_preferred":[
+        "Ogoulou"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -95,7 +109,7 @@
         }
     ],
     "wof:id":1091909887,
-    "wof:lastmodified":1561837500,
+    "wof:lastmodified":1563326286,
     "wof:name":"Ogoulou",
     "wof:parent_id":85671249,
     "wof:placetype":"county",

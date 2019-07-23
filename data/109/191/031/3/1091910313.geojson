@@ -31,11 +31,13 @@
     "mps:longitude":12.358442,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:deu_x_preferred":[
+        "Lolo-Bouenguidi"
+    ],
     "name:eng_x_preferred":[
         "Lolo-Bouenguidi"
     ],
     "name:eng_x_variant":[
-        "Lolo-Bouenguidi",
         "Lolo Bouenguidi",
         "Lolo-Bouenguidi Department"
     ],
@@ -59,6 +61,15 @@
     ],
     "name:ron_x_preferred":[
         "Departamentul Lolo-Bouenguidi"
+    ],
+    "name:rus_x_preferred":[
+        "\u041b\u043e\u043b\u043e-\u0411\u0443\u0430\u043d\u0433\u0438\u0434\u0438"
+    ],
+    "name:spa_x_preferred":[
+        "Lolo-Bou\u00e9nguidi"
+    ],
+    "name:vie_x_preferred":[
+        "Lolo-Bouenguidi"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -96,7 +107,7 @@
         }
     ],
     "wof:id":1091910313,
-    "wof:lastmodified":1561837490,
+    "wof:lastmodified":1563326259,
     "wof:name":"Lolo Bouenguidi",
     "wof:parent_id":85671265,
     "wof:placetype":"county",

@@ -31,11 +31,16 @@
     "mps:longitude":11.799897,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Mougoutsi Department"
+    ],
+    "name:deu_x_preferred":[
+        "Mougoutsi"
+    ],
     "name:eng_x_preferred":[
         "Doutsila"
     ],
     "name:eng_x_variant":[
-        "Doutsila",
         "Mougoutsi",
         "Mougoutsi Department"
     ],
@@ -60,8 +65,14 @@
     "name:rus_x_preferred":[
         "\u041c\u0443\u0433\u0443\u0446\u0438"
     ],
+    "name:spa_x_preferred":[
+        "Mougoutsi"
+    ],
     "name:swe_x_preferred":[
         "Mougoutsi Department"
+    ],
+    "name:vie_x_preferred":[
+        "Mougoutsi"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -107,7 +118,7 @@
         }
     ],
     "wof:id":1091910083,
-    "wof:lastmodified":1561837491,
+    "wof:lastmodified":1563326261,
     "wof:name":"Doutsila",
     "wof:parent_id":-1,
     "wof:placetype":"county",

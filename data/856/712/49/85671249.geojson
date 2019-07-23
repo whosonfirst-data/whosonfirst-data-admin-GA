@@ -76,6 +76,9 @@
     "name:fra_x_variant":[
         "Ngounie"
     ],
+    "name:frr_x_preferred":[
+        "Ngouni\u00e9"
+    ],
     "name:guj_x_preferred":[
         "\u0aa8\u0a97\u0acb\u0a89\u0aa8\u0ac0\u0a8f \u0aaa\u0acd\u0ab0\u0abe\u0a82\u0aa4"
     ],
@@ -177,6 +180,12 @@
     ],
     "name:war_x_preferred":[
         "Ngouni\u00e9"
+    ],
+    "name:wuu_x_preferred":[
+        "\u6069\u53e4\u6d85\u7701"
+    ],
+    "name:yue_x_preferred":[
+        "\u6069\u53e4\u6d85\u7701"
     ],
     "name:zho_x_preferred":[
         "\u6069\u53e4\u6d85\u7701"
@@ -304,7 +313,7 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1561837482,
+    "wof:lastmodified":1563325954,
     "wof:name":"Ngouni\u00e9",
     "wof:parent_id":85632407,
     "wof:placetype":"region",

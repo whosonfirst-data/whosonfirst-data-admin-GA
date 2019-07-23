@@ -22,6 +22,12 @@
     "name:bul_x_preferred":[
         "\u041a\u0443\u043b\u0430\u043c\u0443\u0442\u0443"
     ],
+    "name:bul_x_variant":[
+        "\u041a\u0443\u043b\u0430 \u041c\u0443\u0442\u0443"
+    ],
+    "name:ceb_x_preferred":[
+        "Koulamoutou"
+    ],
     "name:ces_x_preferred":[
         "Koulamoutou"
     ],
@@ -78,6 +84,9 @@
     ],
     "name:swe_x_preferred":[
         "Koulamoutou"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0443\u043b\u0430\u043c\u0443\u0442\u0443"
     ],
     "name:unk_x_variant":[
         "Koula Mouta"
@@ -224,7 +233,7 @@
         }
     ],
     "wof:id":890444373,
-    "wof:lastmodified":1561837503,
+    "wof:lastmodified":1563326319,
     "wof:name":"Koulamoutou",
     "wof:parent_id":1091910313,
     "wof:placetype":"locality",

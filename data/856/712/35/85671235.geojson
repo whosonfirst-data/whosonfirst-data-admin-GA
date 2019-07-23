@@ -32,6 +32,9 @@
     "name:ast_x_preferred":[
         "Provincia d'Estuaire"
     ],
+    "name:bar_x_preferred":[
+        "Estuaire"
+    ],
     "name:ben_x_preferred":[
         "\u0986\u09ae\u09cb\u09b0\u09bf\u09af\u09bc\u09be \u09aa\u09cd\u09b0\u09a6\u09c7\u09b6"
     ],
@@ -43,6 +46,12 @@
     ],
     "name:cat_x_preferred":[
         "Prov\u00edncia dEstuaire"
+    ],
+    "name:cat_x_variant":[
+        "Prov\u00edncia d'Estuaire"
+    ],
+    "name:ceb_x_preferred":[
+        "Estuaire"
     ],
     "name:ces_x_preferred":[
         "Estuaire"
@@ -62,6 +71,9 @@
     "name:eng_x_variant":[
         "Estuaire"
     ],
+    "name:epo_x_preferred":[
+        "Provinco Estuaro"
+    ],
     "name:eus_x_preferred":[
         "Estuaire probintzia"
     ],
@@ -69,6 +81,9 @@
         "Estuaire"
     ],
     "name:fra_x_preferred":[
+        "Estuaire"
+    ],
+    "name:frr_x_preferred":[
         "Estuaire"
     ],
     "name:guj_x_preferred":[
@@ -137,6 +152,9 @@
     "name:rus_x_preferred":[
         "\u042d\u0441\u0442\u0443\u044d\u0440"
     ],
+    "name:rus_x_variant":[
+        "\u042d\u0441\u0442\u0443\u0430\u0440\u0438\u0439"
+    ],
     "name:sin_x_preferred":[
         "\u0d91\u0dc3\u0dca\u0da7\u0dd4\u0d85\u0dba\u0dbb\u0dca \u0db4\u0dc5\u0dcf\u0dad"
     ],
@@ -178,6 +196,9 @@
     ],
     "name:war_x_preferred":[
         "Estuaire"
+    ],
+    "name:yue_x_preferred":[
+        "\u6cb3\u53e3\u7701"
     ],
     "name:zho_x_preferred":[
         "\u6cb3\u53e3\u7701"
@@ -305,7 +326,7 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1561837479,
+    "wof:lastmodified":1563325945,
     "wof:name":"Estuaire",
     "wof:parent_id":85632407,
     "wof:placetype":"region",

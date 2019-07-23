@@ -75,6 +75,9 @@
     "name:fra_x_variant":[
         "Moyen-Ogooue"
     ],
+    "name:frr_x_preferred":[
+        "Moyen-Ogoou\u00e9"
+    ],
     "name:guj_x_preferred":[
         "\u0aae\u0acb\u0aaf\u0ac7\u0aa8-\u0a93\u0a97\u0acb\u0a89\u0aaf\u0ac7 \u0aaa\u0acd\u0ab0\u0abe\u0a82\u0aa4"
     ],
@@ -176,6 +179,12 @@
     ],
     "name:war_x_preferred":[
         "Moyen-Ogoou\u00e9"
+    ],
+    "name:wuu_x_preferred":[
+        "\u4e2d\u5967\u679c\u97cb\u7701"
+    ],
+    "name:yue_x_preferred":[
+        "\u4e2d\u5967\u679c\u97cb\u7701"
     ],
     "name:zho_x_preferred":[
         "\u4e2d\u5967\u679c\u97cb\u7701"
@@ -303,7 +312,7 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1561837482,
+    "wof:lastmodified":1563325955,
     "wof:name":"Moyen-Ogoou\u00e9",
     "wof:parent_id":85632407,
     "wof:placetype":"region",

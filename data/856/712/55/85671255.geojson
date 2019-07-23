@@ -29,6 +29,9 @@
     "name:ara_x_preferred":[
         "\u0645\u0642\u0627\u0637\u0639\u0629 \u0623\u0648\u063a\u0648\u0648\u064a - \u0627\u0644\u0628\u062d\u0631\u064a\u0629"
     ],
+    "name:bar_x_preferred":[
+        "Ogoou\u00e9-Maritime"
+    ],
     "name:bel_x_preferred":[
         "\u043f\u0440\u0430\u0432\u0456\u043d\u0446\u044b\u044f \u0410\u0433\u0430\u045e\u044d-\u041c\u0430\u0440\u044b\u0442\u044b\u043c"
     ],
@@ -43,6 +46,9 @@
     ],
     "name:bul_x_preferred":[
         "\u041e\u0433\u043e\u0443\u0435 \u041c\u0430\u0440\u0438\u0442\u0438\u043c"
+    ],
+    "name:bul_x_variant":[
+        "\u041e\u0433\u043e\u0443\u0435-\u041c\u0430\u0440\u0438\u0442\u0438\u043c"
     ],
     "name:cat_x_preferred":[
         "Prov\u00edncia d'Ogoou\u00e9-Maritime"
@@ -81,8 +87,14 @@
     "name:fra_x_variant":[
         "Ogooue-Martime"
     ],
+    "name:frr_x_preferred":[
+        "Ogoou\u00e9-Maritime"
+    ],
     "name:guj_x_preferred":[
         "\u0a93\u0a97\u0acb\u0a89\u0a8f-\u0aae\u0ac7\u0ab0\u0ac0\u0a9f\u0abe\u0a87\u0aae"
+    ],
+    "name:guj_x_variant":[
+        "\u0a93\u0a97\u0acb\u0a89\u0a8f-\u0aae\u0ac7\u0ab0\u0ac0\u0a9f\u0abe\u0a87\u0aae "
     ],
     "name:hin_x_preferred":[
         "\u0913\u0917\u094b\u0909\u0908-\u092e\u0947\u0930\u0940\u091f\u093e\u0907\u092e \u092a\u094d\u0930\u093e\u0902\u0924"
@@ -182,6 +194,12 @@
     ],
     "name:war_x_preferred":[
         "Ogoou\u00e9-Maritime"
+    ],
+    "name:wuu_x_preferred":[
+        "\u6ff1\u6d77\u5967\u679c\u97cb\u7701"
+    ],
+    "name:yue_x_preferred":[
+        "\u6ff1\u6d77\u5967\u679c\u97cb\u7701"
     ],
     "name:zho_x_preferred":[
         "\u6ff1\u6d77\u5967\u679c\u97cb\u7701"
@@ -309,7 +327,7 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1561837481,
+    "wof:lastmodified":1563325951,
     "wof:name":"Ogoou\u00e9-Maritime",
     "wof:parent_id":85632407,
     "wof:placetype":"region",

@@ -43,6 +43,12 @@
     "name:rus_x_preferred":[
         "\u0411\u043e\u0432\u0435"
     ],
+    "name:rus_x_variant":[
+        "\u0411\u0443\u0435"
+    ],
+    "name:spa_x_preferred":[
+        "Boou\u00e9"
+    ],
     "name:swe_x_preferred":[
         "Boou\u00e9"
     ],
@@ -100,7 +106,7 @@
         }
     ],
     "wof:id":421176877,
-    "wof:lastmodified":1561837502,
+    "wof:lastmodified":1563326314,
     "wof:name":"Boou\u00e9",
     "wof:parent_id":421188215,
     "wof:placetype":"locality",

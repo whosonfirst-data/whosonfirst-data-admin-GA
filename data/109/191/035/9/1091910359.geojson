@@ -31,11 +31,13 @@
     "mps:longitude":12.677037,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:deu_x_preferred":[
+        "Lombo-Bouenguidi"
+    ],
     "name:eng_x_preferred":[
         "Lombo-Bouenguidi"
     ],
     "name:eng_x_variant":[
-        "Lombo-Bouenguidi",
         "Lombo-Bouenguidi Department"
     ],
     "name:fra_x_preferred":[
@@ -55,6 +57,15 @@
     ],
     "name:ron_x_preferred":[
         "Departamentul Lombo-Bouenguidi"
+    ],
+    "name:rus_x_preferred":[
+        "\u041b\u043e\u043c\u0431\u043e-\u0411\u0443\u0435\u043d\u0433\u0438\u0434\u0438"
+    ],
+    "name:spa_x_preferred":[
+        "Lombo-Bou\u00e9nguidi"
+    ],
+    "name:vie_x_preferred":[
+        "Lombo-Bouenguidi"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -92,7 +103,7 @@
         }
     ],
     "wof:id":1091910359,
-    "wof:lastmodified":1561837493,
+    "wof:lastmodified":1563326267,
     "wof:name":"Lombo-Bouenguidi (Pana)",
     "wof:parent_id":85671265,
     "wof:placetype":"county",

@@ -31,15 +31,23 @@
     "mps:longitude":13.577007,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Mpassa Department"
+    ],
+    "name:deu_x_preferred":[
+        "Mpassa"
+    ],
     "name:eng_x_preferred":[
         "Mpassa"
     ],
     "name:eng_x_variant":[
         "Passa",
-        "Mpassa",
         "Mpassa Department"
     ],
     "name:fra_x_preferred":[
+        "Mpassa"
+    ],
+    "name:frr_x_preferred":[
         "Mpassa"
     ],
     "name:ita_x_preferred":[
@@ -57,8 +65,17 @@
     "name:ron_x_preferred":[
         "Departamentul Mpassa"
     ],
+    "name:rus_x_preferred":[
+        "\u041c\u043f\u0430\u0441\u0430"
+    ],
+    "name:spa_x_preferred":[
+        "Mpassa"
+    ],
     "name:swe_x_preferred":[
         "Mpassa Department"
+    ],
+    "name:vie_x_preferred":[
+        "Mpassa"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -96,7 +113,7 @@
         }
     ],
     "wof:id":1091908919,
-    "wof:lastmodified":1561837499,
+    "wof:lastmodified":1563326284,
     "wof:name":"Mpassa",
     "wof:parent_id":85671257,
     "wof:placetype":"county",

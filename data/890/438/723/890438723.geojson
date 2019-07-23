@@ -34,6 +34,9 @@
     "name:cat_x_preferred":[
         "Franceville"
     ],
+    "name:ceb_x_preferred":[
+        "Franceville"
+    ],
     "name:dan_x_preferred":[
         "Franceville"
     ],
@@ -59,6 +62,9 @@
         "Franceville"
     ],
     "name:frr_x_preferred":[
+        "Franceville"
+    ],
+    "name:grn_x_preferred":[
         "Franceville"
     ],
     "name:guj_x_preferred":[
@@ -305,7 +311,7 @@
         }
     ],
     "wof:id":890438723,
-    "wof:lastmodified":1561837502,
+    "wof:lastmodified":1563326317,
     "wof:name":"Franceville",
     "wof:parent_id":1091908919,
     "wof:placetype":"locality",

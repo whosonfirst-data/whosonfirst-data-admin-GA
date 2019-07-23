@@ -18,6 +18,9 @@
     "name:bul_x_preferred":[
         "\u041c\u0431\u0438\u0433\u043e\u0443"
     ],
+    "name:ceb_x_preferred":[
+        "Mbigou"
+    ],
     "name:eng_x_preferred":[
         "Mbigou"
     ],
@@ -39,11 +42,17 @@
     "name:rus_x_preferred":[
         "\u041c\u0431\u0438\u0433\u0443"
     ],
+    "name:spa_x_preferred":[
+        "Mbigou"
+    ],
     "name:swe_x_preferred":[
         "Mbigou"
     ],
     "name:unk_x_variant":[
         "M\u2019bigou"
+    ],
+    "name:zho_x_preferred":[
+        "\u59c6\u6bd4\u53e4"
     ],
     "qs:name":"Mbigou",
     "qs:photos_9r":0,
@@ -78,7 +87,7 @@
         }
     ],
     "wof:id":890440289,
-    "wof:lastmodified":1561837502,
+    "wof:lastmodified":1563326314,
     "wof:name":"Mbigou",
     "wof:parent_id":1091909833,
     "wof:placetype":"locality",

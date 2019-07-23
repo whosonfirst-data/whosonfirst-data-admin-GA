@@ -16,6 +16,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.7,
+    "name:ceb_x_preferred":[
+        "Ombou\u00e9"
+    ],
     "name:eng_x_preferred":[
         "Ombou\u00e9"
     ],
@@ -171,7 +174,7 @@
         }
     ],
     "wof:id":890438717,
-    "wof:lastmodified":1561837503,
+    "wof:lastmodified":1563326318,
     "wof:name":"Ombou\u00e9",
     "wof:parent_id":1091910509,
     "wof:placetype":"locality",

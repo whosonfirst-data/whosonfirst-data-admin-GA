@@ -23,6 +23,9 @@
     "name:bul_x_preferred":[
         "\u041c\u0443\u0438\u043b\u0430"
     ],
+    "name:ceb_x_preferred":[
+        "Mouila"
+    ],
     "name:ces_x_preferred":[
         "Mouila"
     ],
@@ -76,6 +79,9 @@
     ],
     "name:swe_x_preferred":[
         "Mouila"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u0443\u0457\u043b\u0430"
     ],
     "name:war_x_preferred":[
         "Mouila"
@@ -208,7 +214,7 @@
         }
     ],
     "wof:id":1141907801,
-    "wof:lastmodified":1561837507,
+    "wof:lastmodified":1563326497,
     "wof:name":"Mouila",
     "wof:parent_id":1091909531,
     "wof:placetype":"locality",

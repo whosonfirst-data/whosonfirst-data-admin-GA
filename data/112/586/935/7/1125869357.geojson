@@ -22,6 +22,9 @@
     "name:ara_x_preferred":[
         "\u0645\u064a\u062a\u0632\u064a\u0643"
     ],
+    "name:ceb_x_preferred":[
+        "Mitzic"
+    ],
     "name:dan_x_preferred":[
         "Mitzic"
     ],
@@ -48,6 +51,9 @@
     ],
     "name:rus_x_preferred":[
         "\u041c\u0438\u0446\u0438\u043a"
+    ],
+    "name:spa_x_preferred":[
+        "Mitzic"
     ],
     "name:swe_x_preferred":[
         "Mitzic"
@@ -97,7 +103,7 @@
         }
     ],
     "wof:id":1125869357,
-    "wof:lastmodified":1561837503,
+    "wof:lastmodified":1563326321,
     "wof:name":"Mitzic",
     "wof:parent_id":1091910733,
     "wof:placetype":"locality",

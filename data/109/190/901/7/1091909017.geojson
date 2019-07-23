@@ -31,15 +31,23 @@
     "mps:longitude":13.12317,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Lekoko Department"
+    ],
+    "name:deu_x_preferred":[
+        "Lekoko"
+    ],
     "name:eng_x_preferred":[
         "L\u00e9koko"
     ],
     "name:eng_x_variant":[
         "Lekoko",
-        "L\u00e9koko",
         "Lekoko Department"
     ],
     "name:fra_x_preferred":[
+        "L\u00e9koko"
+    ],
+    "name:frr_x_preferred":[
         "L\u00e9koko"
     ],
     "name:ita_x_preferred":[
@@ -57,8 +65,17 @@
     "name:ron_x_preferred":[
         "Departamentul Lekoko"
     ],
+    "name:rus_x_preferred":[
+        "\u041b\u0435\u043a\u043e\u043a\u043e"
+    ],
+    "name:spa_x_preferred":[
+        "L\u00e9koko"
+    ],
     "name:swe_x_preferred":[
         "Lekoko Department"
+    ],
+    "name:vie_x_preferred":[
+        "Lekoko"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -96,7 +113,7 @@
         }
     ],
     "wof:id":1091909017,
-    "wof:lastmodified":1561837495,
+    "wof:lastmodified":1563326272,
     "wof:name":"Lekoko",
     "wof:parent_id":85671257,
     "wof:placetype":"county",
