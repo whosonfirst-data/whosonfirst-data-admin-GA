@@ -25,6 +25,24 @@
     "iso:country":"GA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Ngoumou"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e0\u05d2\u05d5\u05de\u05d5"
+    ],
+    "name:ita_x_preferred":[
+        "Ngoumou"
+    ],
+    "name:msa_x_preferred":[
+        "Ngoumou"
+    ],
+    "name:pol_x_preferred":[
+        "Ngoumou"
+    ],
+    "name:spa_x_preferred":[
+        "Ngoumou"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +66,7 @@
         }
     ],
     "wof:id":1293206619,
-    "wof:lastmodified":1536695146,
+    "wof:lastmodified":1564149729,
     "wof:name":"Ngoumou",
     "wof:parent_id":1091909707,
     "wof:placetype":"locality",

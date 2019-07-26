@@ -26,6 +26,24 @@
     "iso:country":"GA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Mimongo"
+    ],
+    "name:fra_x_preferred":[
+        "Mimongo"
+    ],
+    "name:ita_x_preferred":[
+        "Mimongo"
+    ],
+    "name:pol_x_preferred":[
+        "Mimongo"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0438\u043c\u043e\u043d\u0433\u043e"
+    ],
+    "name:swe_x_preferred":[
+        "Mimongo"
+    ],
     "name:und_x_variant":[
         "Ancien Mimongo",
         "Mimango",
@@ -54,7 +72,7 @@
         }
     ],
     "wof:id":1242683971,
-    "wof:lastmodified":1537622899,
+    "wof:lastmodified":1564150067,
     "wof:name":"Mimongo",
     "wof:parent_id":1091909887,
     "wof:placetype":"locality",

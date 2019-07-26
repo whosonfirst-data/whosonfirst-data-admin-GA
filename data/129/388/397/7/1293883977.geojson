@@ -26,6 +26,18 @@
     "iso:country":"GA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Yamba"
+    ],
+    "name:deu_x_preferred":[
+        "Yamba"
+    ],
+    "name:fra_x_preferred":[
+        "Yamba"
+    ],
+    "name:swe_x_preferred":[
+        "Yamba"
+    ],
     "name:und_x_variant":[
         "Yamba I",
         "Yamba"
@@ -53,7 +65,7 @@
         }
     ],
     "wof:id":1293883977,
-    "wof:lastmodified":1537622887,
+    "wof:lastmodified":1564149747,
     "wof:name":"Yamba",
     "wof:parent_id":1091909663,
     "wof:placetype":"locality",

@@ -25,6 +25,18 @@
     "iso:country":"GA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Alen"
+    ],
+    "name:deu_x_preferred":[
+        "Alen"
+    ],
+    "name:eus_x_preferred":[
+        "Alen"
+    ],
+    "name:nld_x_preferred":[
+        "Alen"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":1209805143,
-    "wof:lastmodified":1536388943,
+    "wof:lastmodified":1564149879,
     "wof:name":"Alen",
     "wof:parent_id":1091910689,
     "wof:placetype":"locality",

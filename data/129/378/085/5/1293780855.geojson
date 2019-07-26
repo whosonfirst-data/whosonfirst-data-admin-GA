@@ -25,6 +25,15 @@
     "iso:country":"GA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Boundji"
+    ],
+    "name:pol_x_preferred":[
+        "Boundji"
+    ],
+    "name:urd_x_preferred":[
+        "\u0628\u0624\u0646\u062c\u06cc"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +57,7 @@
         }
     ],
     "wof:id":1293780855,
-    "wof:lastmodified":1536859880,
+    "wof:lastmodified":1564149704,
     "wof:name":"Boundji",
     "wof:parent_id":1091910313,
     "wof:placetype":"locality",

@@ -25,6 +25,9 @@
     "iso:country":"GA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Adzap"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1310395127,
-    "wof:lastmodified":1537073122,
+    "wof:lastmodified":1564149963,
     "wof:name":"Adzap",
     "wof:parent_id":1091910593,
     "wof:placetype":"locality",

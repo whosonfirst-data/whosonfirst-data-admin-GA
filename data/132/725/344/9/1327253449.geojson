@@ -25,6 +25,15 @@
     "iso:country":"GA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u0421\u0435\u0442\u0435 \u041a\u0430\u043c\u0430"
+    ],
+    "name:fra_x_preferred":[
+        "Sett\u00e9 Cama"
+    ],
+    "name:pol_x_preferred":[
+        "Sette Cama"
+    ],
     "name:und_x_variant":[
         "Sett\u00e9 Cama"
     ],
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":1327253449,
-    "wof:lastmodified":1537622889,
+    "wof:lastmodified":1564149541,
     "wof:name":"Sette Cama",
     "wof:parent_id":1091910563,
     "wof:placetype":"locality",

@@ -25,6 +25,15 @@
     "iso:country":"GA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Assia"
+    ],
+    "name:ita_x_preferred":[
+        "Assia"
+    ],
+    "name:ron_x_preferred":[
+        "Assia"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +57,7 @@
         }
     ],
     "wof:id":1310001839,
-    "wof:lastmodified":1536648271,
+    "wof:lastmodified":1564149950,
     "wof:name":"Assia",
     "wof:parent_id":1091910733,
     "wof:placetype":"locality",

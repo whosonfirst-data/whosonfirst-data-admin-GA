@@ -25,6 +25,12 @@
     "iso:country":"GA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "Itaba"
+    ],
+    "name:swa_x_preferred":[
+        "Itaba"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +54,7 @@
         }
     ],
     "wof:id":1293488215,
-    "wof:lastmodified":1536786492,
+    "wof:lastmodified":1564149695,
     "wof:name":"Itaba",
     "wof:parent_id":1091909757,
     "wof:placetype":"locality",

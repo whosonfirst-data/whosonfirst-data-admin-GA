@@ -25,6 +25,30 @@
     "iso:country":"GA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Okola"
+    ],
+    "name:deu_x_preferred":[
+        "Okola"
+    ],
+    "name:fra_x_preferred":[
+        "Okola"
+    ],
+    "name:ita_x_preferred":[
+        "Okola"
+    ],
+    "name:msa_x_preferred":[
+        "Okola"
+    ],
+    "name:spa_x_preferred":[
+        "Okola"
+    ],
+    "name:swe_x_preferred":[
+        "Okola"
+    ],
+    "name:szl_x_preferred":[
+        "Okola"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +72,7 @@
         }
     ],
     "wof:id":1293296889,
-    "wof:lastmodified":1537059173,
+    "wof:lastmodified":1564149733,
     "wof:name":"Okola",
     "wof:parent_id":1091908869,
     "wof:placetype":"locality",

@@ -25,6 +25,9 @@
     "iso:country":"GA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ukr_x_preferred":[
+        "\u041b\u0456\u043a\u0456\u043b\u0430"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1277080211,
-    "wof:lastmodified":1536771766,
+    "wof:lastmodified":1564149755,
     "wof:name":"Likila",
     "wof:parent_id":1091909581,
     "wof:placetype":"locality",

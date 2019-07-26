@@ -25,6 +25,42 @@
     "iso:country":"GA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:arg_x_preferred":[
+        "Popa"
+    ],
+    "name:cat_x_preferred":[
+        "Popa"
+    ],
+    "name:ceb_x_preferred":[
+        "Popa"
+    ],
+    "name:deu_x_preferred":[
+        "Popa"
+    ],
+    "name:eus_x_preferred":[
+        "Popa"
+    ],
+    "name:fra_x_preferred":[
+        "Popa"
+    ],
+    "name:ita_x_preferred":[
+        "Popa"
+    ],
+    "name:mya_x_preferred":[
+        "\u1015\u102f\u1015\u1039\u1015\u102b\u1038"
+    ],
+    "name:por_x_preferred":[
+        "Popa"
+    ],
+    "name:ron_x_preferred":[
+        "Popa"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u043e\u043f\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Popa"
+    ],
     "name:und_x_variant":[
         "Poupa",
         "Popa"
@@ -52,7 +88,7 @@
         }
     ],
     "wof:id":1276357413,
-    "wof:lastmodified":1537622890,
+    "wof:lastmodified":1564149779,
     "wof:name":"Popa",
     "wof:parent_id":1091910313,
     "wof:placetype":"locality",

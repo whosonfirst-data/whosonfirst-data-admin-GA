@@ -25,6 +25,30 @@
     "iso:country":"GA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Djoum"
+    ],
+    "name:fra_x_preferred":[
+        "Djoum"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d3\u05d6'\u05d5\u05dd"
+    ],
+    "name:ita_x_preferred":[
+        "Djoum"
+    ],
+    "name:msa_x_preferred":[
+        "Djoum"
+    ],
+    "name:pol_x_preferred":[
+        "Djoum"
+    ],
+    "name:ron_x_preferred":[
+        "Djoum"
+    ],
+    "name:spa_x_preferred":[
+        "Djoum"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +72,7 @@
         }
     ],
     "wof:id":1243063865,
-    "wof:lastmodified":1536858762,
+    "wof:lastmodified":1564150056,
     "wof:name":"Djoum",
     "wof:parent_id":1091910689,
     "wof:placetype":"locality",

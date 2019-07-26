@@ -25,6 +25,15 @@
     "iso:country":"GA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Paga"
+    ],
+    "name:pol_x_preferred":[
+        "Paga"
+    ],
+    "name:swe_x_preferred":[
+        "Paga"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +57,7 @@
         }
     ],
     "wof:id":1326836407,
-    "wof:lastmodified":1537040977,
+    "wof:lastmodified":1564149571,
     "wof:name":"Paga",
     "wof:parent_id":1091909581,
     "wof:placetype":"locality",

@@ -25,6 +25,15 @@
     "iso:country":"GA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Bifoun"
+    ],
+    "name:lit_x_preferred":[
+        "Bifunas"
+    ],
+    "name:pol_x_preferred":[
+        "Bifoun"
+    ],
     "name:und_x_variant":[
         "Bifoum",
         "Bifoun"
@@ -53,7 +62,7 @@
         }
     ],
     "wof:id":1293391929,
-    "wof:lastmodified":1537622915,
+    "wof:lastmodified":1564149680,
     "wof:name":"Bifoun",
     "wof:parent_id":1091909487,
     "wof:placetype":"locality",

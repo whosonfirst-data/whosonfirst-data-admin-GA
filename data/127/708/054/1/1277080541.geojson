@@ -25,6 +25,18 @@
     "iso:country":"GA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Bagny"
+    ],
+    "name:lit_x_preferred":[
+        "Bagnai"
+    ],
+    "name:pol_x_preferred":[
+        "Bagny"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0430\u0491\u043d\u0438"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":1277080541,
-    "wof:lastmodified":1536771269,
+    "wof:lastmodified":1564149754,
     "wof:name":"Bagny",
     "wof:parent_id":1091909833,
     "wof:placetype":"locality",

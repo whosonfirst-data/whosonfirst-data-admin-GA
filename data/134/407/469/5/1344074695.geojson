@@ -25,6 +25,9 @@
     "iso:country":"GA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Alene"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1344074695,
-    "wof:lastmodified":1536853917,
+    "wof:lastmodified":1564149616,
     "wof:name":"Alene",
     "wof:parent_id":1091908869,
     "wof:placetype":"locality",

@@ -25,6 +25,30 @@
     "iso:country":"GA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Kouango"
+    ],
+    "name:fra_x_preferred":[
+        "Kouango"
+    ],
+    "name:ita_x_preferred":[
+        "Kouango"
+    ],
+    "name:pol_x_preferred":[
+        "Kouango"
+    ],
+    "name:ron_x_preferred":[
+        "Kouango"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0443\u0430\u043d\u0433\u043e"
+    ],
+    "name:swe_x_preferred":[
+        "Kouango"
+    ],
+    "name:tur_x_preferred":[
+        "Kouango"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +72,7 @@
         }
     ],
     "wof:id":1242600527,
-    "wof:lastmodified":1537029385,
+    "wof:lastmodified":1564150073,
     "wof:name":"Kouango",
     "wof:parent_id":1091910047,
     "wof:placetype":"locality",

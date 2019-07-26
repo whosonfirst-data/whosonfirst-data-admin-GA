@@ -25,6 +25,21 @@
     "iso:country":"GA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Dambo"
+    ],
+    "name:glg_x_preferred":[
+        "Dambo"
+    ],
+    "name:ita_x_preferred":[
+        "Dambo"
+    ],
+    "name:pol_x_preferred":[
+        "Dambo"
+    ],
+    "name:spa_x_preferred":[
+        "Dambo"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +63,7 @@
         }
     ],
     "wof:id":1260383005,
-    "wof:lastmodified":1537072583,
+    "wof:lastmodified":1564149911,
     "wof:name":"Dambo",
     "wof:parent_id":1091910455,
     "wof:placetype":"locality",

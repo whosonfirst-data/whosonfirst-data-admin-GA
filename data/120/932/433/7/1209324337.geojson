@@ -26,6 +26,21 @@
     "iso:country":"GA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Nango"
+    ],
+    "name:ceb_x_preferred":[
+        "Nango"
+    ],
+    "name:deu_x_preferred":[
+        "Nango"
+    ],
+    "name:fra_x_preferred":[
+        "Nang\u014d"
+    ],
+    "name:swe_x_preferred":[
+        "Nango"
+    ],
     "name:und_x_variant":[
         "Nanga",
         "Nango"
@@ -47,7 +62,7 @@
         }
     ],
     "wof:id":1209324337,
-    "wof:lastmodified":1537622896,
+    "wof:lastmodified":1564149864,
     "wof:name":"Nango",
     "wof:parent_id":85632407,
     "wof:placetype":"locality",

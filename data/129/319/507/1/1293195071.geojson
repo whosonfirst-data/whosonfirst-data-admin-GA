@@ -25,6 +25,18 @@
     "iso:country":"GA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Likouala"
+    ],
+    "name:fra_x_preferred":[
+        "Likouala"
+    ],
+    "name:pol_x_preferred":[
+        "Likouala"
+    ],
+    "name:swe_x_preferred":[
+        "Likouala"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":1293195071,
-    "wof:lastmodified":1536711962,
+    "wof:lastmodified":1564149743,
     "wof:name":"Likouala",
     "wof:parent_id":1091910455,
     "wof:placetype":"locality",

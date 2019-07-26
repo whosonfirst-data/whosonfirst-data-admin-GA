@@ -25,6 +25,30 @@
     "iso:country":"GA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Dilolo"
+    ],
+    "name:deu_x_preferred":[
+        "Dilolo"
+    ],
+    "name:fra_x_preferred":[
+        "Dilolo"
+    ],
+    "name:ita_x_preferred":[
+        "Dilolo"
+    ],
+    "name:ron_x_preferred":[
+        "Dilolo"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u0438\u043b\u043e\u043b\u043e"
+    ],
+    "name:swe_x_preferred":[
+        "Dilolo"
+    ],
+    "name:zho_x_preferred":[
+        "\u8fea\u6d1b\u6d1b"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +72,7 @@
         }
     ],
     "wof:id":1259784023,
-    "wof:lastmodified":1536923079,
+    "wof:lastmodified":1564150149,
     "wof:name":"Dilolo",
     "wof:parent_id":1091909833,
     "wof:placetype":"locality",
