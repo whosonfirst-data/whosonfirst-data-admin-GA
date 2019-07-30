@@ -25,6 +25,9 @@
     "iso:country":"GA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Kougouleu"
+    ],
     "name:und_x_variant":[
         "Kougoul\u00e9",
         "Kougouleu"
@@ -47,7 +50,7 @@
         }
     ],
     "wof:id":1209115771,
-    "wof:lastmodified":1537622906,
+    "wof:lastmodified":1564149874,
     "wof:name":"Kougouleu",
     "wof:parent_id":85632407,
     "wof:placetype":"locality",

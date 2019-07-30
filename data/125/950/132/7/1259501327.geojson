@@ -25,6 +25,30 @@
     "iso:country":"GA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Owendo"
+    ],
+    "name:fra_x_preferred":[
+        "Owendo"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30aa\u30a6\u30a7\u30f3\u30c9"
+    ],
+    "name:kat_x_preferred":[
+        "\u10dd\u10e3\u10d4\u10dc\u10d3\u10dd"
+    ],
+    "name:pol_x_preferred":[
+        "Owendo"
+    ],
+    "name:rus_x_preferred":[
+        "\u041e\u0432\u0435\u043d\u0434\u043e"
+    ],
+    "name:spa_x_preferred":[
+        "Owendo"
+    ],
+    "name:swe_x_preferred":[
+        "Owendo"
+    ],
     "name:und_x_variant":[
         "Owenda",
         "Ovendo",
@@ -54,7 +78,7 @@
         }
     ],
     "wof:id":1259501327,
-    "wof:lastmodified":1537622891,
+    "wof:lastmodified":1564150153,
     "wof:name":"Owendo",
     "wof:parent_id":421178363,
     "wof:placetype":"locality",

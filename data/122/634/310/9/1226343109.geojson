@@ -25,6 +25,9 @@
     "iso:country":"GA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "\u00c9t\u00e9k\u00e9"
+    ],
     "name:und_x_variant":[
         "\u00c9t\u00e9k\u00e9"
     ],
@@ -52,7 +55,7 @@
         }
     ],
     "wof:id":1226343109,
-    "wof:lastmodified":1537622910,
+    "wof:lastmodified":1564150199,
     "wof:name":"Eteke",
     "wof:parent_id":1091909887,
     "wof:placetype":"locality",

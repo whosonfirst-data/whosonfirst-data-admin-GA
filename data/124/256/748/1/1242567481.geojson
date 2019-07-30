@@ -25,6 +25,24 @@
     "iso:country":"GA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Andon"
+    ],
+    "name:fra_x_preferred":[
+        "Andon"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u043d\u0434\u043e\u043d"
+    ],
+    "name:slk_x_preferred":[
+        "Andon"
+    ],
+    "name:spa_x_preferred":[
+        "Andon"
+    ],
+    "name:swe_x_preferred":[
+        "Andon"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +66,7 @@
         }
     ],
     "wof:id":1242567481,
-    "wof:lastmodified":1537075147,
+    "wof:lastmodified":1564150079,
     "wof:name":"Andon",
     "wof:parent_id":1091910639,
     "wof:placetype":"locality",

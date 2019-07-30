@@ -26,6 +26,15 @@
     "iso:country":"GA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "Fouala"
+    ],
+    "name:msa_x_preferred":[
+        "Fouala"
+    ],
+    "name:spa_x_preferred":[
+        "Fouala"
+    ],
     "name:und_x_variant":[
         "Babinga",
         "Fouala"
@@ -53,7 +62,7 @@
         }
     ],
     "wof:id":1226534055,
-    "wof:lastmodified":1537622910,
+    "wof:lastmodified":1564150238,
     "wof:name":"Fouala",
     "wof:parent_id":1091910455,
     "wof:placetype":"locality",

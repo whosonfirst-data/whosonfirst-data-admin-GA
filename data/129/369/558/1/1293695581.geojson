@@ -25,6 +25,30 @@
     "iso:country":"GA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u0411\u0430\u043a\u0443\u043c\u0431\u0430"
+    ],
+    "name:ceb_x_preferred":[
+        "Bakoumba"
+    ],
+    "name:fra_x_preferred":[
+        "Bakoumba"
+    ],
+    "name:ita_x_preferred":[
+        "Bakoumba"
+    ],
+    "name:pol_x_preferred":[
+        "Bakoumba"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0430\u043a\u0443\u043c\u0431\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Bakoumba"
+    ],
+    "name:zho_x_preferred":[
+        "\u5df4\u6606\u5df4"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -49,7 +73,7 @@
         }
     ],
     "wof:id":1293695581,
-    "wof:lastmodified":1537562898,
+    "wof:lastmodified":1564149716,
     "wof:name":"Bakoumba",
     "wof:parent_id":1091909017,
     "wof:placetype":"locality",

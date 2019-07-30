@@ -25,6 +25,15 @@
     "iso:country":"GA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Menai"
+    ],
+    "name:deu_x_preferred":[
+        "Menai"
+    ],
+    "name:swe_x_preferred":[
+        "Menai"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +57,7 @@
         }
     ],
     "wof:id":1276456165,
-    "wof:lastmodified":1536611532,
+    "wof:lastmodified":1564149767,
     "wof:name":"Menai",
     "wof:parent_id":1091908919,
     "wof:placetype":"locality",

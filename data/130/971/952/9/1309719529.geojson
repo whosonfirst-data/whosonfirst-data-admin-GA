@@ -25,6 +25,9 @@
     "iso:country":"GA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:heb_x_preferred":[
+        "\u05d1\u05e2\u05dc \u05e7\u05e8\u05d9"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1309719529,
-    "wof:lastmodified":1537053125,
+    "wof:lastmodified":1564150029,
     "wof:name":"Keri",
     "wof:parent_id":1091909431,
     "wof:placetype":"locality",

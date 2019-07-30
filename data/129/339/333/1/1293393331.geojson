@@ -26,6 +26,30 @@
     "iso:country":"GA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Welle"
+    ],
+    "name:deu_x_preferred":[
+        "Welle"
+    ],
+    "name:eus_x_preferred":[
+        "Welle"
+    ],
+    "name:fra_x_preferred":[
+        "Welle"
+    ],
+    "name:ita_x_preferred":[
+        "Welle"
+    ],
+    "name:nld_x_preferred":[
+        "Welle"
+    ],
+    "name:pol_x_preferred":[
+        "Welle"
+    ],
+    "name:swe_x_preferred":[
+        "Welle"
+    ],
     "name:und_x_variant":[
         "Well\u00e9-Leboung",
         "W\u00e9ll\u00e9"
@@ -53,7 +77,7 @@
         }
     ],
     "wof:id":1293393331,
-    "wof:lastmodified":1537622888,
+    "wof:lastmodified":1564149682,
     "wof:name":"Welle",
     "wof:parent_id":1091908967,
     "wof:placetype":"locality",

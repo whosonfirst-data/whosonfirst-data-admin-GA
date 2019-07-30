@@ -25,6 +25,15 @@
     "iso:country":"GA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Ngando"
+    ],
+    "name:deu_x_preferred":[
+        "Ngando"
+    ],
+    "name:swe_x_preferred":[
+        "Ngando"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +57,7 @@
         }
     ],
     "wof:id":1293284969,
-    "wof:lastmodified":1537075875,
+    "wof:lastmodified":1564149738,
     "wof:name":"Ngando",
     "wof:parent_id":1091910219,
     "wof:placetype":"locality",

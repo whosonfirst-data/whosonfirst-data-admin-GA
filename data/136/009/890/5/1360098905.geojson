@@ -25,6 +25,18 @@
     "iso:country":"GA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Bik\u00e9l\u00e9"
+    ],
+    "name:fra_x_preferred":[
+        "Bikele"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0438\u043a\u0435\u043b\u0435"
+    ],
+    "name:swe_x_preferred":[
+        "Bik\u00e9l\u00e9"
+    ],
     "name:und_x_variant":[
         "Bikel\u00e9",
         "Bik\u00e9l\u00e9"
@@ -53,7 +65,7 @@
         }
     ],
     "wof:id":1360098905,
-    "wof:lastmodified":1537622915,
+    "wof:lastmodified":1564149995,
     "wof:name":"Bikele",
     "wof:parent_id":421178363,
     "wof:placetype":"locality",

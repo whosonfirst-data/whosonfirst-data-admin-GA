@@ -25,6 +25,9 @@
     "iso:country":"GA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ron_x_preferred":[
+        "Ayem"
+    ],
     "name:und_x_variant":[
         "L\u00e9l\u00e9di",
         "Ay\u00e8me",
@@ -54,7 +57,7 @@
         }
     ],
     "wof:id":1226164921,
-    "wof:lastmodified":1537622917,
+    "wof:lastmodified":1564150195,
     "wof:name":"Ayem",
     "wof:parent_id":421188215,
     "wof:placetype":"locality",

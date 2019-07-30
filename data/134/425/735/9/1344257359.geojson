@@ -25,6 +25,18 @@
     "iso:country":"GA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "L\u00e9bamba"
+    ],
+    "name:fra_x_preferred":[
+        "L\u00e9bamba"
+    ],
+    "name:spa_x_preferred":[
+        "L\u00e9bamba"
+    ],
+    "name:swe_x_preferred":[
+        "L\u00e9bamba"
+    ],
     "name:und_x_variant":[
         "L\u00e9bamba"
     ],
@@ -52,7 +64,7 @@
         }
     ],
     "wof:id":1344257359,
-    "wof:lastmodified":1537622906,
+    "wof:lastmodified":1564149604,
     "wof:name":"Lebamba",
     "wof:parent_id":1091909757,
     "wof:placetype":"locality",

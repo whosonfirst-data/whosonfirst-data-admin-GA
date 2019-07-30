@@ -25,6 +25,12 @@
     "iso:country":"GA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Dibamba"
+    ],
+    "name:msa_x_preferred":[
+        "Dibamba"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +54,7 @@
         }
     ],
     "wof:id":1326830615,
-    "wof:lastmodified":1537049033,
+    "wof:lastmodified":1564149572,
     "wof:name":"Dibamba",
     "wof:parent_id":1091909887,
     "wof:placetype":"locality",

@@ -25,6 +25,12 @@
     "iso:country":"GA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Mindomo"
+    ],
+    "name:spa_x_preferred":[
+        "Mindomo"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +54,7 @@
         }
     ],
     "wof:id":1309895537,
-    "wof:lastmodified":1536801731,
+    "wof:lastmodified":1564150039,
     "wof:name":"Mindomo",
     "wof:parent_id":1091910689,
     "wof:placetype":"locality",

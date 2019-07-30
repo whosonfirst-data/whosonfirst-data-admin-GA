@@ -26,6 +26,15 @@
     "iso:country":"GA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Ilala"
+    ],
+    "name:ita_x_preferred":[
+        "Ilala"
+    ],
+    "name:swe_x_preferred":[
+        "Ilala"
+    ],
     "name:und_x_variant":[
         "Illala",
         "Ilala"
@@ -53,7 +62,7 @@
         }
     ],
     "wof:id":1276156443,
-    "wof:lastmodified":1537622908,
+    "wof:lastmodified":1564149800,
     "wof:name":"Ilala",
     "wof:parent_id":1091909707,
     "wof:placetype":"locality",
