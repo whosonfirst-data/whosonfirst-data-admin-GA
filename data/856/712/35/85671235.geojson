@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "province"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "ES"
+    ],
     "lbl:latitude":0.515273,
     "lbl:longitude":9.947289,
     "meso:name_local":"Estuaire",
@@ -317,16 +320,13 @@
         }
     ],
     "wof:id":85671235,
-    "wof:lang":[
-        "fre"
-    ],
     "wof:lang_x_official":[
         "fra"
     ],
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1563325945,
+    "wof:lastmodified":1565711109,
     "wof:name":"Estuaire",
     "wof:parent_id":85632407,
     "wof:placetype":"region",

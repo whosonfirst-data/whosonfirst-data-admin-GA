@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "province"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "OM"
+    ],
     "lbl:latitude":-1.364692,
     "lbl:longitude":9.545133,
     "meso:name_local":"Ogoou\u00e9-Maritime",
@@ -318,16 +321,13 @@
         }
     ],
     "wof:id":85671255,
-    "wof:lang":[
-        "fre"
-    ],
     "wof:lang_x_official":[
         "fra"
     ],
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1563325951,
+    "wof:lastmodified":1565711111,
     "wof:name":"Ogoou\u00e9-Maritime",
     "wof:parent_id":85632407,
     "wof:placetype":"region",

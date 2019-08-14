@@ -18,6 +18,9 @@
     "label:eng_x_preferred_placetype":[
         "province"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "OI"
+    ],
     "lbl:latitude":0.661211,
     "lbl:longitude":13.420808,
     "meso:name_local":"Ogoou\u00e9-Ivindo",
@@ -303,16 +306,13 @@
         }
     ],
     "wof:id":85671237,
-    "wof:lang":[
-        "fre"
-    ],
     "wof:lang_x_official":[
         "fra"
     ],
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1563325949,
+    "wof:lastmodified":1565711111,
     "wof:name":"Ogoou\u00e9-Ivindo",
     "wof:parent_id":85632407,
     "wof:placetype":"region",

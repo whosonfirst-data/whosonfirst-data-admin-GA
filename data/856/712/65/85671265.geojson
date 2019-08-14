@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "province"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "OL"
+    ],
     "lbl:latitude":-0.964144,
     "lbl:longitude":12.623951,
     "meso:name_local":"Ogoou\u00e9-Lolo",
@@ -304,16 +307,13 @@
         }
     ],
     "wof:id":85671265,
-    "wof:lang":[
-        "fre"
-    ],
     "wof:lang_x_official":[
         "fra"
     ],
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1563325948,
+    "wof:lastmodified":1565711110,
     "wof:name":"Ogoou\u00e9-Lolo",
     "wof:parent_id":85632407,
     "wof:placetype":"region",

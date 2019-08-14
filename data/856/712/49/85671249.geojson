@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "province"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "NG"
+    ],
     "lbl:latitude":-1.626413,
     "lbl:longitude":11.186045,
     "meso:name_local":"Ngouni\u00e9",
@@ -304,16 +307,13 @@
         }
     ],
     "wof:id":85671249,
-    "wof:lang":[
-        "fre"
-    ],
     "wof:lang_x_official":[
         "fra"
     ],
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1563325954,
+    "wof:lastmodified":1565711112,
     "wof:name":"Ngouni\u00e9",
     "wof:parent_id":85632407,
     "wof:placetype":"region",

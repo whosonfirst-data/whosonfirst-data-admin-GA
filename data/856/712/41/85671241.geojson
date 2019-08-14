@@ -18,6 +18,9 @@
     "label:eng_x_preferred_placetype":[
         "province"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "WN"
+    ],
     "lbl:latitude":1.677179,
     "lbl:longitude":11.918929,
     "meso:name_local":"Woleu-Ntem",
@@ -295,16 +298,13 @@
         }
     ],
     "wof:id":85671241,
-    "wof:lang":[
-        "fre"
-    ],
     "wof:lang_x_official":[
         "fra"
     ],
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1563325952,
+    "wof:lastmodified":1565711112,
     "wof:name":"Woleu-Ntem",
     "wof:parent_id":85632407,
     "wof:placetype":"region",

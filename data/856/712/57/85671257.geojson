@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "province"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "HO"
+    ],
     "lbl:latitude":-1.441519,
     "lbl:longitude":13.82088,
     "meso:name_local":"Haut-Ogoou\u00e9",
@@ -306,16 +309,13 @@
         }
     ],
     "wof:id":85671257,
-    "wof:lang":[
-        "fre"
-    ],
     "wof:lang_x_official":[
         "fra"
     ],
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1563325943,
+    "wof:lastmodified":1565711108,
     "wof:name":"Haut-Ogoou\u00e9",
     "wof:parent_id":85632407,
     "wof:placetype":"region",

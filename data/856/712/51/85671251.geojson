@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "province"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "NY"
+    ],
     "lbl:latitude":-3.113515,
     "lbl:longitude":11.158628,
     "meso:name_local":"Nyanga",
@@ -290,16 +293,13 @@
         }
     ],
     "wof:id":85671251,
-    "wof:lang":[
-        "fre"
-    ],
     "wof:lang_x_official":[
         "fra"
     ],
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1563325947,
+    "wof:lastmodified":1565711110,
     "wof:name":"Nyanga",
     "wof:parent_id":85632407,
     "wof:placetype":"region",
