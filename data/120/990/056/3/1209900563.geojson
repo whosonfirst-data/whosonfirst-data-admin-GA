@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Libreville",
     "iso:country":"GA",
+    "lbl:bbox":"11.484,1.61217,11.524,1.65217",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Yaffa"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1209900563,
-    "wof:lastmodified":1564149839,
+    "wof:lastmodified":1566627056,
     "wof:name":"Yaffa",
     "wof:parent_id":1091910593,
     "wof:placetype":"locality",

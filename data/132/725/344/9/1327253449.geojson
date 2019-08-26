@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Libreville",
     "iso:country":"GA",
+    "lbl:bbox":"9.7339,-2.54574,9.7739,-2.50574",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0421\u0435\u0442\u0435 \u041a\u0430\u043c\u0430"
     ],
@@ -33,9 +37,6 @@
     ],
     "name:pol_x_preferred":[
         "Sette Cama"
-    ],
-    "name:und_x_variant":[
-        "Sett\u00e9 Cama"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -61,7 +62,7 @@
         }
     ],
     "wof:id":1327253449,
-    "wof:lastmodified":1564149541,
+    "wof:lastmodified":1566626864,
     "wof:name":"Sette Cama",
     "wof:parent_id":1091910563,
     "wof:placetype":"locality",

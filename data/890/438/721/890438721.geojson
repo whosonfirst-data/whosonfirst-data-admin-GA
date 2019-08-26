@@ -11,8 +11,11 @@
     "geom:longitude":10.0,
     "gn:country":"GA",
     "gn:fcode":"PPL",
-    "gn:pop":9928,
+    "gn:population":9928,
     "iso:country":"GA",
+    "lbl:bbox":"9.98,-2.67,10.02,-2.63",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
@@ -166,7 +169,7 @@
     "wof:concordances":{
         "gn:id":2400547,
         "gp:id":56618402,
-        "qs:id":1035396,
+        "qs_pg:id":1035396,
         "wd:id":"Q1492877",
         "wk:page":"Gamba"
     },
@@ -183,7 +186,7 @@
         }
     ],
     "wof:id":890438721,
-    "wof:lastmodified":1563326318,
+    "wof:lastmodified":1566627213,
     "wof:name":"Gamba",
     "wof:parent_id":1091910563,
     "wof:placetype":"locality",

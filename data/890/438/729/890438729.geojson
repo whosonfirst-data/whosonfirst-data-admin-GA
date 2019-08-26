@@ -11,10 +11,14 @@
     "geom:longitude":10.58378,
     "gn:country":"GA",
     "gn:fcode":"PPL",
-    "gn:pop":5649,
+    "gn:population":5649,
     "iso:country":"GA",
+    "lbl:bbox":"10.56378,-1.23544,10.60378,-1.19544",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u0424\u043e\u0443\u0433\u0430\u043c\u043e\u0443"
     ],
@@ -69,7 +73,7 @@
     "wof:concordances":{
         "gn:id":2400578,
         "gp:id":1483641,
-        "qs:id":1035406,
+        "qs_pg:id":1035406,
         "wd:id":"Q1106169",
         "wk:page":"Fougamou"
     },
@@ -86,7 +90,7 @@
         }
     ],
     "wof:id":890438729,
-    "wof:lastmodified":1563326318,
+    "wof:lastmodified":1566627213,
     "wof:name":"Fougamou",
     "wof:parent_id":1091909581,
     "wof:placetype":"locality",

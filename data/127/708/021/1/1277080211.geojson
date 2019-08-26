@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Libreville",
     "iso:country":"GA",
+    "lbl:bbox":"10.57249,-0.87936,10.61249,-0.83936",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ukr_x_preferred":[
         "\u041b\u0456\u043a\u0456\u043b\u0430"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1277080211,
-    "wof:lastmodified":1564149755,
+    "wof:lastmodified":1566627007,
     "wof:name":"Likila",
     "wof:parent_id":1091909581,
     "wof:placetype":"locality",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Libreville",
     "iso:country":"GA",
+    "lbl:bbox":"10.91333,-1.22,10.95333,-1.18",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u041a\u0443\u043d\u0434\u0443"
     ],
@@ -39,8 +43,7 @@
         "Koundou"
     ],
     "name:und_x_variant":[
-        "Coundou",
-        "Koundou"
+        "Coundou"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -65,7 +68,7 @@
         }
     ],
     "wof:id":1226448593,
-    "wof:lastmodified":1564150184,
+    "wof:lastmodified":1566627296,
     "wof:name":"Koundou",
     "wof:parent_id":1091909581,
     "wof:placetype":"locality",

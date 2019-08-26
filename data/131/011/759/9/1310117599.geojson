@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Libreville",
     "iso:country":"GA",
+    "lbl:bbox":"10.21412,-0.53971,10.25412,-0.49971",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Koungoul\u00e9",
         "Koungoua"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1310117599,
-    "wof:lastmodified":1537622906,
+    "wof:lastmodified":1566627135,
     "wof:name":"Koungoule",
     "wof:parent_id":1091909431,
     "wof:placetype":"locality",

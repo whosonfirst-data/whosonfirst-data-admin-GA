@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Libreville",
     "iso:country":"GA",
+    "lbl:bbox":"12.49667,-1.08667,12.53667,-1.04667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Tsandi"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1242569467,
-    "wof:lastmodified":1564150078,
+    "wof:lastmodified":1566627236,
     "wof:name":"Tsandi",
     "wof:parent_id":1091910313,
     "wof:placetype":"locality",

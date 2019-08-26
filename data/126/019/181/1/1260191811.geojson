@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Libreville",
     "iso:country":"GA",
+    "lbl:bbox":"13.56333,-1.27,13.60333,-1.23",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1260191811,
-    "wof:lastmodified":1536835399,
+    "wof:lastmodified":1566627115,
     "wof:name":"Okouba I",
     "wof:parent_id":1091908919,
     "wof:placetype":"locality",

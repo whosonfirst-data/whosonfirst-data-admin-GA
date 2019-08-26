@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Libreville",
     "iso:country":"GA",
+    "lbl:bbox":"11.53382,1.23877,11.57382,1.27877",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1326724765,
-    "wof:lastmodified":1536706851,
+    "wof:lastmodified":1566626854,
     "wof:name":"Bissok II",
     "wof:parent_id":1091910593,
     "wof:placetype":"locality",

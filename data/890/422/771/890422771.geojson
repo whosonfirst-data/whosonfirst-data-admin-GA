@@ -11,10 +11,14 @@
     "geom:longitude":9.58228,
     "gn:country":"GA",
     "gn:fcode":"PPL",
-    "gn:pop":1653,
+    "gn:population":1653,
     "iso:country":"GA",
+    "lbl:bbox":"9.56228,0.98019,9.60228,1.02019",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u041a\u043e\u043a\u043e\u0431\u0438\u0439\u0447"
     ],
@@ -60,7 +64,7 @@
     "name:swe_x_preferred":[
         "Cocobeach"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ukoko"
     ],
     "qs:name":"Cocobeach",
@@ -79,7 +83,7 @@
     "wof:concordances":{
         "gn:id":2401357,
         "gp:id":1323398,
-        "qs:id":1035418,
+        "qs_pg:id":1035418,
         "wd:id":"Q491801",
         "wk:page":"Cocobeach"
     },
@@ -96,7 +100,7 @@
         }
     ],
     "wof:id":890422771,
-    "wof:lastmodified":1563326315,
+    "wof:lastmodified":1566627212,
     "wof:name":"Cocobeach",
     "wof:parent_id":1091908869,
     "wof:placetype":"locality",

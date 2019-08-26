@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Libreville",
     "iso:country":"GA",
+    "lbl:bbox":"12.30129,-2.14356,12.34129,-2.10356",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Bengu\u00e9-Memba",
         "Lemenga",
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1326530267,
-    "wof:lastmodified":1537622905,
+    "wof:lastmodified":1566626889,
     "wof:name":"Lemanga",
     "wof:parent_id":1091909787,
     "wof:placetype":"locality",

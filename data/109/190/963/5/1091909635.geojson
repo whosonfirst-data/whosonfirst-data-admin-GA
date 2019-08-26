@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":-1.628017,
     "lbl:longitude":10.188449,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"NGOUNIE",
     "meso:gadm_admin":"Ndolou",
     "meso:gadm_hasc2":"GA.NG.NL",
@@ -31,6 +33,7 @@
     "mps:longitude":10.188449,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Ndolou Department"
     ],
@@ -74,9 +77,9 @@
         "Ndolou"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2013-10-01",
+    "src:population_date":"2013-10-01",
     "statoids:area_km":"",
     "statoids:as_of_date":"2013-10-01",
     "statoids:capital":"Mandji",
@@ -109,7 +112,7 @@
         }
     ],
     "wof:id":1091909635,
-    "wof:lastmodified":1563326273,
+    "wof:lastmodified":1566627180,
     "wof:name":"Ndolou",
     "wof:parent_id":85671249,
     "wof:placetype":"county",

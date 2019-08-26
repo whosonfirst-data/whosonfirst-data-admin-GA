@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Libreville",
     "iso:country":"GA",
+    "lbl:bbox":"12.01333,-1.78667,12.05333,-1.74667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Mikouma",
         "Mikoumou"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1276370215,
-    "wof:lastmodified":1537622899,
+    "wof:lastmodified":1566627040,
     "wof:name":"Mikoumou",
     "wof:parent_id":1091909833,
     "wof:placetype":"locality",

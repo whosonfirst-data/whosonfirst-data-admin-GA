@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Libreville",
     "iso:country":"GA",
+    "lbl:bbox":"12.34025,-1.48383,12.38025,-1.44383",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Nzenz\u00e9l\u00e9",
         "Zindz\u00e9l\u00e9"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1326927335,
-    "wof:lastmodified":1537622887,
+    "wof:lastmodified":1566626861,
     "wof:name":"Zindzele",
     "wof:parent_id":1091910313,
     "wof:placetype":"locality",

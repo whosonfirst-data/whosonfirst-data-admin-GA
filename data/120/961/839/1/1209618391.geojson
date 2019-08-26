@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Libreville",
     "iso:country":"GA",
+    "lbl:bbox":"13.78232,-0.82645,13.82232,-0.78645",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632407
@@ -34,7 +38,7 @@
         "gn:id":2396818
     },
     "wof:country":"GA",
-    "wof:geomhash":"f3e64ba1f0c0ea04bbbb4a3a7265fb15",
+    "wof:geomhash":"6102f84a73d3a3167a8e2d6d71d88808",
     "wof:hierarchy":[
         {
             "country_id":85632407,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209618391,
-    "wof:lastmodified":1536281607,
+    "wof:lastmodified":1566627068,
     "wof:name":"Ongouangoubou",
     "wof:parent_id":85632407,
     "wof:placetype":"locality",
@@ -52,9 +56,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    13.802320000000002,
+    13.80232,
     -0.80645,
-    13.802320000000002,
+    13.80232,
     -0.80645
 ],
   "geometry": {"coordinates":[13.80232,-0.80645],"type":"Point"}

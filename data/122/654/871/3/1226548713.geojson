@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Libreville",
     "iso:country":"GA",
+    "lbl:bbox":"13.53,-0.82,13.57,-0.78",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1226548713,
-    "wof:lastmodified":1536992853,
+    "wof:lastmodified":1566627332,
     "wof:name":"Bomo Komo II",
     "wof:parent_id":1091909293,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Libreville",
     "iso:country":"GA",
+    "lbl:bbox":"9.63552,-1.66176,9.67552,-1.62176",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Batanga"
     ],
@@ -35,8 +39,7 @@
         "Batanga"
     ],
     "name:und_x_variant":[
-        "Batenga",
-        "Batanga"
+        "Batenga"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -61,7 +64,7 @@
         }
     ],
     "wof:id":1327125097,
-    "wof:lastmodified":1564149549,
+    "wof:lastmodified":1566626869,
     "wof:name":"Batanga",
     "wof:parent_id":1091910509,
     "wof:placetype":"locality",

@@ -10,6 +10,9 @@
     "geom:latitude":-0.69092,
     "geom:longitude":10.21175,
     "iso:country":"GA",
+    "lbl:bbox":"10.19175,-0.71092,10.23175,-0.67092",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.7,
@@ -249,9 +252,11 @@
     "wof:concordances":{
         "gn:id":2399888,
         "gp:id":1324108,
-        "qs:id":1115579,
         "qs_pg:id":1035393,
         "wd:id":"Q874197"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1115579
     },
     "wof:country":"GA",
     "wof:created":1459009632,
@@ -266,7 +271,7 @@
         }
     ],
     "wof:id":421189661,
-    "wof:lastmodified":1563326309,
+    "wof:lastmodified":1566627208,
     "wof:name":"Lambar\u00e9n\u00e9",
     "wof:parent_id":1091909431,
     "wof:placetype":"locality",

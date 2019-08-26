@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Libreville",
     "iso:country":"GA",
+    "lbl:bbox":"13.72661,-0.66048,13.76661,-0.62048",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Ossinga",
         "Ossinga II"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1309724863,
-    "wof:lastmodified":1537622891,
+    "wof:lastmodified":1566627207,
     "wof:name":"Ossinga II",
     "wof:parent_id":1091909293,
     "wof:placetype":"locality",

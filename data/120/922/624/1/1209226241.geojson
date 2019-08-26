@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Libreville",
     "iso:country":"GA",
+    "lbl:bbox":"9.67523,-0.77706,9.71523,-0.73706",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632407
@@ -34,7 +38,7 @@
         "gn:id":2396432
     },
     "wof:country":"GA",
-    "wof:geomhash":"8bf5624c9c467841f5259b90729b4aea",
+    "wof:geomhash":"82b742f70e58fd707129b427b61af61a",
     "wof:hierarchy":[
         {
             "country_id":85632407,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209226241,
-    "wof:lastmodified":1536293791,
+    "wof:lastmodified":1566627066,
     "wof:name":"Saint-Francois",
     "wof:parent_id":85632407,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
 },
   "bbox": [
     9.69523,
-    -0.7570600000000001,
+    -0.75706,
     9.69523,
-    -0.7570600000000001
+    -0.75706
 ],
   "geometry": {"coordinates":[9.69523,-0.75706],"type":"Point"}
 }

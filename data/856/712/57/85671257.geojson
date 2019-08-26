@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":-1.441519,
     "lbl:longitude":13.82088,
+    "lbl:min_zoom":8.0,
     "meso:name_local":"Haut-Ogoou\u00e9",
     "mps:latitude":-1.432329,
     "mps:longitude":13.802877,
@@ -174,7 +175,7 @@
     "name:ukr_x_preferred":[
         "\u041f\u0440\u043e\u0432\u0456\u043d\u0446\u0456\u044f \u0412\u0435\u0440\u0445\u043d\u0454 \u041e\u0433\u043e\u0432\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "R\u00e9gion du Haut-Ogoou\u00e9"
     ],
     "name:urd_x_preferred":[
@@ -267,9 +268,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2013-10-01",
+    "src:population_date":"2013-10-01",
     "statoids:area_km":"36,547",
     "statoids:area_mi":"14,111",
     "statoids:as_of_date":"2013-10-01",
@@ -294,7 +295,7 @@
         "gp:id":2345450,
         "hasc:id":"GA.HO",
         "iso:id":"GA-2",
-        "qs:id":229374,
+        "qs_pg:id":229374,
         "unlc:id":"GA-2",
         "wd:id":"Q654438",
         "wk:page":"Haut-Ogoou\u00e9 Province"
@@ -315,11 +316,10 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1565711108,
+    "wof:lastmodified":1566626945,
     "wof:name":"Haut-Ogoou\u00e9",
     "wof:parent_id":85632407,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"province",
     "wof:population":250799,
     "wof:population_rank":10,
