@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Libreville",
     "iso:country":"GA",
+    "lbl:bbox":"11.64115,1.57666,11.68115,1.61666",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Benga"
     ],
@@ -48,8 +52,7 @@
     ],
     "name:und_x_variant":[
         "Mbanga",
-        "Mbenga",
-        "Benga"
+        "Mbenga"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -74,7 +77,7 @@
         }
     ],
     "wof:id":1293673579,
-    "wof:lastmodified":1564149721,
+    "wof:lastmodified":1566626988,
     "wof:name":"Benga",
     "wof:parent_id":1091910593,
     "wof:placetype":"locality",

@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":0.730924,
     "lbl:longitude":12.911967,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"OGOOUE-IVINDO",
     "meso:gadm_admin":"Ivindo",
     "meso:gadm_hasc2":"GA.OI.IV",
@@ -31,6 +33,7 @@
     "mps:longitude":12.911967,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:deu_x_preferred":[
         "Ivindo"
     ],
@@ -68,9 +71,9 @@
         "Ivindo"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2013-10-01",
+    "src:population_date":"2013-10-01",
     "statoids:area_km":"",
     "statoids:as_of_date":"2013-10-01",
     "statoids:capital":"Makokou",
@@ -103,7 +106,7 @@
         }
     ],
     "wof:id":1091910169,
-    "wof:lastmodified":1563326264,
+    "wof:lastmodified":1566627170,
     "wof:name":"Ivindo",
     "wof:parent_id":85671237,
     "wof:placetype":"county",

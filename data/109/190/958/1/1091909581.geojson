@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":-0.939543,
     "lbl:longitude":10.81463,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"NGOUNIE",
     "meso:gadm_admin":"Tsamba Mangotsi",
     "meso:gadm_hasc2":"GA.NG.TM",
@@ -31,6 +33,7 @@
     "mps:longitude":10.81463,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Tsamba-Magotsi Department"
     ],
@@ -75,9 +78,9 @@
         "Tsamba-Magotsi"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2013-10-01",
+    "src:population_date":"2013-10-01",
     "statoids:area_km":"",
     "statoids:as_of_date":"2013-10-01",
     "statoids:capital":"Fougamou",
@@ -110,7 +113,7 @@
         }
     ],
     "wof:id":1091909581,
-    "wof:lastmodified":1563326279,
+    "wof:lastmodified":1566627185,
     "wof:name":"Tsamba Magotsi",
     "wof:parent_id":85671249,
     "wof:placetype":"county",

@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":-1.593362,
     "lbl:longitude":12.677037,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"OGOOUE LOLO",
     "meso:gadm_admin":"Lombo-Bouenguidi",
     "meso:gadm_hasc2":"GA.OL.LB",
@@ -31,6 +33,7 @@
     "mps:longitude":12.677037,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:deu_x_preferred":[
         "Lombo-Bouenguidi"
     ],
@@ -68,9 +71,9 @@
         "Lombo-Bouenguidi"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2013-10-01",
+    "src:population_date":"2013-10-01",
     "statoids:area_km":"",
     "statoids:as_of_date":"2013-10-01",
     "statoids:capital":"Pana",
@@ -103,7 +106,7 @@
         }
     ],
     "wof:id":1091910359,
-    "wof:lastmodified":1563326267,
+    "wof:lastmodified":1566627173,
     "wof:name":"Lombo-Bouenguidi (Pana)",
     "wof:parent_id":85671265,
     "wof:placetype":"county",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Libreville",
     "iso:country":"GA",
+    "lbl:bbox":"11.48574,-2.22827,11.52574,-2.18827",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Kanda"
     ],
@@ -62,8 +66,7 @@
         "\u041a\u0430\u043d\u0434\u0430"
     ],
     "name:und_x_variant":[
-        "Canda",
-        "Kanda"
+        "Canda"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -82,7 +85,7 @@
         }
     ],
     "wof:id":1209621273,
-    "wof:lastmodified":1564149831,
+    "wof:lastmodified":1566627051,
     "wof:name":"Kanda",
     "wof:parent_id":85632407,
     "wof:placetype":"locality",

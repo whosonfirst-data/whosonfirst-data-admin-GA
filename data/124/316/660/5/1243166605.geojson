@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Libreville",
     "iso:country":"GA",
+    "lbl:bbox":"11.95737,1.57609,11.99737,1.61609",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0986\u09b2\u0982"
     ],
@@ -117,7 +121,7 @@
         }
     ],
     "wof:id":1243166605,
-    "wof:lastmodified":1564150114,
+    "wof:lastmodified":1566627256,
     "wof:name":"Alang",
     "wof:parent_id":1091910593,
     "wof:placetype":"locality",

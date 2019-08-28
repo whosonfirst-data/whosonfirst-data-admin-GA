@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Libreville",
     "iso:country":"GA",
+    "lbl:bbox":"9.48688,0.3202,9.52688,0.3602",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Akournam\u00e9"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1310120085,
-    "wof:lastmodified":1537622919,
+    "wof:lastmodified":1566627115,
     "wof:name":"Akournam",
     "wof:parent_id":421178363,
     "wof:placetype":"locality",

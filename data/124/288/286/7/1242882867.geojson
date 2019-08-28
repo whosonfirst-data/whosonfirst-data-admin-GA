@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Libreville",
     "iso:country":"GA",
+    "lbl:bbox":"13.00529,-1.7976,13.04529,-1.7576",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1242882867,
-    "wof:lastmodified":1536621838,
+    "wof:lastmodified":1566627225,
     "wof:name":"Mipoundi I",
     "wof:parent_id":1091909017,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Libreville",
     "iso:country":"GA",
+    "lbl:bbox":"10.93698,-0.10111,10.97698,-0.06111",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fas_x_preferred":[
         "\u0627\u0644\u06cc\u0645\u0628"
     ],
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1276450113,
-    "wof:lastmodified":1564149767,
+    "wof:lastmodified":1566627016,
     "wof:name":"Alembe",
     "wof:parent_id":1091909487,
     "wof:placetype":"locality",

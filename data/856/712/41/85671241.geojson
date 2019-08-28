@@ -23,6 +23,7 @@
     ],
     "lbl:latitude":1.677179,
     "lbl:longitude":11.918929,
+    "lbl:min_zoom":8.0,
     "meso:name_local":"Woleu-Ntem",
     "mps:latitude":1.675617,
     "mps:longitude":11.928077,
@@ -165,7 +166,7 @@
     "name:ukr_x_preferred":[
         "\u0412\u043e\u043b\u044e-\u041d\u0442\u0435\u043c"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "R\u00e9gion de Woleu-N\u2019tem"
     ],
     "name:urd_x_preferred":[
@@ -255,9 +256,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2013-10-01",
+    "src:population_date":"2013-10-01",
     "statoids:area_km":"38,465",
     "statoids:area_mi":"14,851",
     "statoids:as_of_date":"2013-10-01",
@@ -283,7 +284,7 @@
         "gp:id":2345457,
         "hasc:id":"GA.WN",
         "iso:id":"GA-9",
-        "qs:id":91358,
+        "qs_pg:id":91358,
         "unlc:id":"GA-9",
         "wd:id":"Q823800",
         "wk:page":"Woleu-Ntem Province"
@@ -304,11 +305,10 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1565711112,
+    "wof:lastmodified":1566626951,
     "wof:name":"Woleu-Ntem",
     "wof:parent_id":85632407,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"province",
     "wof:population":154986,
     "wof:population_rank":9,

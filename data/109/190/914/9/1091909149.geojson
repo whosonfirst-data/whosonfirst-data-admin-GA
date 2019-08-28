@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":-1.772526,
     "lbl:longitude":14.254397,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"HAUT OGOOUE",
     "meso:gadm_admin":"Plateaux",
     "meso:gadm_hasc2":"GA.HO.PL",
@@ -31,6 +33,7 @@
     "mps:longitude":14.254397,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Plateaux Department"
     ],
@@ -80,9 +83,9 @@
         "Plateaux"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2013-10-01",
+    "src:population_date":"2013-10-01",
     "statoids:area_km":"",
     "statoids:as_of_date":"2013-10-01",
     "statoids:capital":"L\u00e9koni",
@@ -115,7 +118,7 @@
         }
     ],
     "wof:id":1091909149,
-    "wof:lastmodified":1563326277,
+    "wof:lastmodified":1566627183,
     "wof:name":"Plateaux",
     "wof:parent_id":85671257,
     "wof:placetype":"county",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Libreville",
     "iso:country":"GA",
+    "lbl:bbox":"9.75598,0.20956,9.79598,0.24956",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "\u00c9long \u00c9ko",
         "Elong-Eko"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1327148587,
-    "wof:lastmodified":1537622911,
+    "wof:lastmodified":1566626866,
     "wof:name":"Elong Eko",
     "wof:parent_id":421178363,
     "wof:placetype":"locality",

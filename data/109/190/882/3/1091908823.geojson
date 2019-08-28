@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":0.244412,
     "lbl:longitude":10.316941,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"ESTUAIRE",
     "meso:gadm_admin":"Komo",
     "meso:gadm_hasc2":"GA.ES.KO",
@@ -31,6 +33,7 @@
     "mps:longitude":10.316941,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:bar_x_preferred":[
         "Komo"
     ],
@@ -83,9 +86,9 @@
         "Komo"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2013-10-01",
+    "src:population_date":"2013-10-01",
     "statoids:area_km":"",
     "statoids:as_of_date":"2013-10-01",
     "statoids:capital":"Kango",
@@ -118,7 +121,7 @@
         }
     ],
     "wof:id":1091908823,
-    "wof:lastmodified":1563326280,
+    "wof:lastmodified":1566627187,
     "wof:name":"Komo",
     "wof:parent_id":85671235,
     "wof:placetype":"county",

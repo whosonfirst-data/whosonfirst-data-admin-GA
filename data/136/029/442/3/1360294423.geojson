@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Libreville",
     "iso:country":"GA",
+    "lbl:bbox":"12.87642,-1.70371,12.91642,-1.66371",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1360294423,
-    "wof:lastmodified":1536642787,
+    "wof:lastmodified":1566627159,
     "wof:name":"Bekomi",
     "wof:parent_id":1091908967,
     "wof:placetype":"locality",

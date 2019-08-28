@@ -9,15 +9,18 @@
     "geom:bbox":"12.86419,0.57381,12.86419,0.57381",
     "geom:latitude":0.57381,
     "geom:longitude":12.86419,
-    "gn:gn_country":"GA",
-    "gn:gn_fcode":"PPLA",
-    "gn:gn_pop":13571,
+    "gn:country":"GA",
+    "gn:fcode":"PPLA",
     "gn:population":13571,
     "iso:country":"GA",
+    "lbl:bbox":"12.84419,0.55381,12.88419,0.59381",
     "lbl:latitude":0.57381,
     "lbl:longitude":12.86419,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
         "\u0645\u0627\u0643\u0648\u0643\u0648"
@@ -88,7 +91,7 @@
     "name:ukr_x_preferred":[
         "\u041c\u0430\u043a\u043e\u043a\u0443"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Makokou Fortifi\u00e9"
     ],
     "name:war_x_preferred":[
@@ -109,7 +112,7 @@
     "qs_pg:qs_id":1035382,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         102191573,
@@ -136,7 +139,7 @@
         }
     ],
     "wof:id":1125913603,
-    "wof:lastmodified":1563326324,
+    "wof:lastmodified":1566627215,
     "wof:name":"Makokou",
     "wof:parent_id":1091910169,
     "wof:placetype":"locality",

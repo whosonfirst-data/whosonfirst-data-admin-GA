@@ -10,10 +10,14 @@
     "geom:latitude":-1.866154,
     "geom:longitude":11.016681,
     "iso:country":"GA",
+    "lbl:bbox":"10.996681273,-1.88615354524,11.036681273,-1.84615354524",
     "lbl:latitude":-1.866154,
     "lbl:longitude":11.016681,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0645\u0648\u064a\u0644\u0627"
     ],
@@ -214,7 +218,7 @@
         }
     ],
     "wof:id":1141907801,
-    "wof:lastmodified":1563326497,
+    "wof:lastmodified":1566627338,
     "wof:name":"Mouila",
     "wof:parent_id":1091909531,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Libreville",
     "iso:country":"GA",
+    "lbl:bbox":"11.54137,1.57528,11.58137,1.61528",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1210006453,
-    "wof:lastmodified":1536373167,
+    "wof:lastmodified":1566627087,
     "wof:name":"Mekaga",
     "wof:parent_id":1091910593,
     "wof:placetype":"locality",

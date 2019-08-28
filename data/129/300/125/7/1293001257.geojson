@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Libreville",
     "iso:country":"GA",
+    "lbl:bbox":"11.78,-2.30333,11.82,-2.26333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1293001257,
-    "wof:lastmodified":1536990166,
+    "wof:lastmodified":1566626957,
     "wof:name":"Lekindou",
     "wof:parent_id":1091909833,
     "wof:placetype":"locality",

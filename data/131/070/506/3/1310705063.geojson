@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Libreville",
     "iso:country":"GA",
+    "lbl:bbox":"13.50451,-1.34746,13.54451,-1.30746",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1310705063,
-    "wof:lastmodified":1536627185,
+    "wof:lastmodified":1566627118,
     "wof:name":"Angonogo",
     "wof:parent_id":1091908919,
     "wof:placetype":"locality",

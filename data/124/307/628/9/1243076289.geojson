@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Libreville",
     "iso:country":"GA",
+    "lbl:bbox":"14.00795,-1.46949,14.04795,-1.42949",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Akalla",
         "Ekalla"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1243076289,
-    "wof:lastmodified":1537622912,
+    "wof:lastmodified":1566627215,
     "wof:name":"Ekalla",
     "wof:parent_id":1091909101,
     "wof:placetype":"locality",

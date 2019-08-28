@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Libreville",
     "iso:country":"GA",
+    "lbl:bbox":"9.76145,-0.89054,9.80145,-0.85054",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Saira"
     ],
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1209117721,
-    "wof:lastmodified":1564149873,
+    "wof:lastmodified":1566627075,
     "wof:name":"Saira",
     "wof:parent_id":85632407,
     "wof:placetype":"locality",
