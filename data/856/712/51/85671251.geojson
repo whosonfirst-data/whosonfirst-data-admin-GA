@@ -285,6 +285,9 @@
         "wk:page":"Nyanga Province"
     },
     "wof:country":"GA",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"6ba763262a85f89ce09bf8db94bbc138",
     "wof:hierarchy":[
         {
@@ -300,7 +303,7 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1566626947,
+    "wof:lastmodified":1582319692,
     "wof:name":"Nyanga",
     "wof:parent_id":85632407,
     "wof:placetype":"region",

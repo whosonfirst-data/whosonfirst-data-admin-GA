@@ -290,6 +290,9 @@
         "wk:page":"Woleu-Ntem Province"
     },
     "wof:country":"GA",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"c385d27b39e69cb119d54de421e7e60c",
     "wof:hierarchy":[
         {
@@ -305,7 +308,7 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1566626951,
+    "wof:lastmodified":1582319694,
     "wof:name":"Woleu-Ntem",
     "wof:parent_id":85632407,
     "wof:placetype":"region",

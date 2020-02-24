@@ -581,6 +581,10 @@
     },
     "wof:country":"GA",
     "wof:created":1459009632,
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
     "wof:geomhash":"7b66c9fc0ade1d4eba8c8ed38e63584f",
     "wof:hierarchy":[
         {
@@ -592,7 +596,7 @@
         }
     ],
     "wof:id":421189663,
-    "wof:lastmodified":1566627209,
+    "wof:lastmodified":1582319703,
     "wof:name":"Libreville",
     "wof:parent_id":1091908769,
     "wof:placetype":"locality",

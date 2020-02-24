@@ -125,6 +125,9 @@
     },
     "wof:country":"GA",
     "wof:created":1459009179,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"f2ccedd392dc80462dd3d65a9d1319b3",
     "wof:hierarchy":[
         {
@@ -135,7 +138,7 @@
         }
     ],
     "wof:id":421178363,
-    "wof:lastmodified":1566627211,
+    "wof:lastmodified":1582319704,
     "wof:name":"Komo Mondah",
     "wof:parent_id":85671235,
     "wof:placetype":"county",

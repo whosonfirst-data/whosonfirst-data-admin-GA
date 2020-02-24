@@ -299,6 +299,9 @@
         "wk:page":"Ngouni\u00e9 Province"
     },
     "wof:country":"GA",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"247bbe2e3bdeb202e135546e0cf8f836",
     "wof:hierarchy":[
         {
@@ -314,7 +317,7 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1566626952,
+    "wof:lastmodified":1582319695,
     "wof:name":"Ngouni\u00e9",
     "wof:parent_id":85632407,
     "wof:placetype":"region",

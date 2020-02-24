@@ -154,6 +154,9 @@
     },
     "wof:country":"GA",
     "wof:created":1459009538,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"02de499b396b52871a13182aecad04bb",
     "wof:hierarchy":[
         {
@@ -164,7 +167,7 @@
         }
     ],
     "wof:id":421188215,
-    "wof:lastmodified":1566627210,
+    "wof:lastmodified":1582319703,
     "wof:name":"Lope",
     "wof:parent_id":85671237,
     "wof:placetype":"county",
