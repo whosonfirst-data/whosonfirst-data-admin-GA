@@ -313,6 +313,9 @@
         "wd:id":"Q823751"
     },
     "wof:country":"GA",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"8527b209396c19c9a861dac082321f48",
     "wof:hierarchy":[
         {
@@ -328,7 +331,7 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1566626950,
+    "wof:lastmodified":1582319694,
     "wof:name":"Ogoou\u00e9-Maritime",
     "wof:parent_id":85632407,
     "wof:placetype":"region",

@@ -312,6 +312,9 @@
         "wk:page":"Estuaire Province"
     },
     "wof:country":"GA",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"57222f2c805f51ca916d23b392c8ae83",
     "wof:hierarchy":[
         {
@@ -327,7 +330,7 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1566626946,
+    "wof:lastmodified":1582319691,
     "wof:name":"Estuaire",
     "wof:parent_id":85632407,
     "wof:placetype":"region",

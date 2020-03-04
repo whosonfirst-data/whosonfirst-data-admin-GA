@@ -298,6 +298,9 @@
         "wk:page":"Moyen-Ogoou\u00e9 Province"
     },
     "wof:country":"GA",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"6e1366bff8159ee4faba2b99bf1f5302",
     "wof:hierarchy":[
         {
@@ -313,7 +316,7 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1566626953,
+    "wof:lastmodified":1582319696,
     "wof:name":"Moyen-Ogoou\u00e9",
     "wof:parent_id":85632407,
     "wof:placetype":"region",

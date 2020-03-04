@@ -260,6 +260,9 @@
     },
     "wof:country":"GA",
     "wof:created":1459009632,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"e67adff9ca47b17a68dab65b6859cfa7",
     "wof:hierarchy":[
         {
@@ -271,7 +274,7 @@
         }
     ],
     "wof:id":421189661,
-    "wof:lastmodified":1566627208,
+    "wof:lastmodified":1582319703,
     "wof:name":"Lambar\u00e9n\u00e9",
     "wof:parent_id":1091909431,
     "wof:placetype":"locality",

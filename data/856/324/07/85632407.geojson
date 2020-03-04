@@ -975,6 +975,11 @@
     },
     "wof:country":"GA",
     "wof:country_alpha3":"GAB",
+    "wof:geom_alt":[
+        "naturalearth",
+        "meso",
+        "naturalearth-display-terrestrial-zoom6"
+    ],
     "wof:geomhash":"2b04cf7ab2e9a899f1ff1821aee9265c",
     "wof:hierarchy":[
         {
@@ -989,7 +994,7 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1566626941,
+    "wof:lastmodified":1582319688,
     "wof:name":"Gabon",
     "wof:parent_id":102191573,
     "wof:placetype":"country",

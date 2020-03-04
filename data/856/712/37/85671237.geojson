@@ -298,6 +298,9 @@
         "wk:page":"Ogoou\u00e9-Ivindo Province"
     },
     "wof:country":"GA",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"8ab1855297ecb2cf3ac7613b58a98618",
     "wof:hierarchy":[
         {
@@ -313,7 +316,7 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1566626948,
+    "wof:lastmodified":1582319693,
     "wof:name":"Ogoou\u00e9-Ivindo",
     "wof:parent_id":85632407,
     "wof:placetype":"region",

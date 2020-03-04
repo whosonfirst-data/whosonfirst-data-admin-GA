@@ -301,6 +301,9 @@
         "wk:page":"Haut-Ogoou\u00e9 Province"
     },
     "wof:country":"GA",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"0dcc144d3fb980ec10742dc7fd457075",
     "wof:hierarchy":[
         {
@@ -316,7 +319,7 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1566626945,
+    "wof:lastmodified":1582319690,
     "wof:name":"Haut-Ogoou\u00e9",
     "wof:parent_id":85632407,
     "wof:placetype":"region",

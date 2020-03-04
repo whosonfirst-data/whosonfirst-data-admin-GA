@@ -299,6 +299,9 @@
         "wk:page":"Ogoou\u00e9-Lolo Province"
     },
     "wof:country":"GA",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"04f56d976ee937eb9a2e04aa4f112d8c",
     "wof:hierarchy":[
         {
@@ -314,7 +317,7 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1566626947,
+    "wof:lastmodified":1582319692,
     "wof:name":"Ogoou\u00e9-Lolo",
     "wof:parent_id":85632407,
     "wof:placetype":"region",
