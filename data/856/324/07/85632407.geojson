@@ -951,9 +951,7 @@
     ],
     "wof:concordances":{
         "dbp:id":"Gabon",
-        "digitalenvoy:country_code":[
-            266
-        ],
+        "digitalenvoy:country_code":266,
         "fb:id":"en.gabon",
         "fifa:id":"GAB",
         "fips:code":"GB",
@@ -997,7 +995,7 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1583529132,
+    "wof:lastmodified":1583797337,
     "wof:name":"Gabon",
     "wof:parent_id":102191573,
     "wof:placetype":"country",
