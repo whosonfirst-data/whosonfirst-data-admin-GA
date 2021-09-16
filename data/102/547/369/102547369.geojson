@@ -19,6 +19,10 @@
     "name:eng_x_preferred":[
         "Omboue Hospital Airport"
     ],
+    "name:eng_x_variant":[
+        "OMB",
+        "FOOH"
+    ],
     "name:msa_x_preferred":[
         "Lapangan Terbang Omboue Hospital"
     ],
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":102547369,
-    "wof:lastmodified":1566626894,
+    "wof:lastmodified":1631745430,
     "wof:name":"Omboue Hopital Airport",
     "wof:parent_id":85671255,
     "wof:placetype":"campus",
