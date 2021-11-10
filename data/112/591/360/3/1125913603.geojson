@@ -25,6 +25,9 @@
     "name:ara_x_preferred":[
         "\u0645\u0627\u0643\u0648\u0643\u0648"
     ],
+    "name:ben_x_preferred":[
+        "\u09ae\u09be\u0995\u09cb\u0995\u09cb\u0989"
+    ],
     "name:bul_x_preferred":[
         "\u041c\u0430\u043a\u043e\u043a\u0443"
     ],
@@ -37,8 +40,14 @@
     "name:deu_x_preferred":[
         "Makokou"
     ],
+    "name:ell_x_preferred":[
+        "\u039c\u03b1\u03ba\u03cc\u03ba\u03bf\u03c5"
+    ],
     "name:eng_x_preferred":[
         "Makokou"
+    ],
+    "name:fas_x_preferred":[
+        "\u0645\u0627\u06a9\u0648\u06a9\u0648"
     ],
     "name:fra_x_preferred":[
         "Makokou"
@@ -49,7 +58,16 @@
     "name:heb_x_preferred":[
         "\u05de\u05d0\u05e7\u05d5\u05e7\u05d5"
     ],
+    "name:hin_x_preferred":[
+        "\u092e\u093e\u0915\u094b\u0915\u094b\u0909"
+    ],
     "name:hrv_x_preferred":[
+        "Makokou"
+    ],
+    "name:hun_x_preferred":[
+        "Makokou"
+    ],
+    "name:ind_x_preferred":[
         "Makokou"
     ],
     "name:ita_x_preferred":[
@@ -88,11 +106,17 @@
     "name:swe_x_preferred":[
         "Makokou"
     ],
+    "name:tur_x_preferred":[
+        "Makokou"
+    ],
     "name:ukr_x_preferred":[
         "\u041c\u0430\u043a\u043e\u043a\u0443"
     ],
     "name:und_x_variant":[
         "Makokou Fortifi\u00e9"
+    ],
+    "name:urd_x_preferred":[
+        "\u0645\u0627\u06a9\u0648\u06a9\u0648"
     ],
     "name:war_x_preferred":[
         "Makokou"
@@ -139,7 +163,7 @@
         }
     ],
     "wof:id":1125913603,
-    "wof:lastmodified":1566627215,
+    "wof:lastmodified":1636496045,
     "wof:name":"Makokou",
     "wof:parent_id":1091910169,
     "wof:placetype":"locality",

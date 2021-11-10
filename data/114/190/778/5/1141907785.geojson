@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"11.5666218655,0.783710549824,11.5666218655,0.783710549824",
+    "geom:bbox":"11.566622,0.783711,11.566622,0.783711",
     "geom:latitude":0.783711,
     "geom:longitude":11.566622,
     "iso:country":"GA",
@@ -18,6 +18,42 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:ben_x_preferred":[
+        "\u09ae\u09bf\u09a4\u099c\u09bf\u0995"
+    ],
+    "name:ell_x_preferred":[
+        "\u039c\u03b9\u03c4\u03b6\u03af\u03ba"
+    ],
+    "name:fas_x_preferred":[
+        "\u0645\u06cc\u062a\u0632\u06cc\u06a9"
+    ],
+    "name:heb_x_preferred":[
+        "\u05de\u05d9\u05e6\u05d9\u05e7"
+    ],
+    "name:hin_x_preferred":[
+        "\u092e\u093f\u091f\u094d\u091c\u093c\u093f\u0915"
+    ],
+    "name:hun_x_preferred":[
+        "Mitzik"
+    ],
+    "name:ind_x_preferred":[
+        "Mitzik"
+    ],
+    "name:kor_x_preferred":[
+        "\ubbf8\uce20\ud06c"
+    ],
+    "name:tur_x_preferred":[
+        "Mitzik"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u0456\u0442\u0437\u0456\u043a"
+    ],
+    "name:urd_x_preferred":[
+        "\u0645\u06cc\u0679\u0632\u06a9"
+    ],
+    "name:vie_x_preferred":[
+        "Mitzik"
+    ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Gabon",
     "ne:ADM0_A3":"GAB",
@@ -124,7 +160,7 @@
     "wof:concordances":{},
     "wof:country":"GA",
     "wof:created":1499130770,
-    "wof:geomhash":"67214c039d5640832c585850a00e1313",
+    "wof:geomhash":"59c6f7606a3f919f4f846e64e19fd755",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -135,7 +171,7 @@
         }
     ],
     "wof:id":1141907785,
-    "wof:lastmodified":1566627337,
+    "wof:lastmodified":1636496048,
     "wof:name":"Mitzik",
     "wof:parent_id":1091910733,
     "wof:placetype":"locality",
@@ -145,10 +181,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    11.56662186549363,
-    0.78371054982426,
-    11.56662186549363,
-    0.78371054982426
+    11.566622,
+    0.783711,
+    11.566622,
+    0.783711
 ],
-  "geometry": {"coordinates":[11.56662186549363,0.78371054982426],"type":"Point"}
+  "geometry": {"coordinates":[11.566622,0.783711],"type":"Point"}
 }

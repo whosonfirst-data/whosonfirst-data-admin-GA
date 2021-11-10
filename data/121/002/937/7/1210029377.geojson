@@ -41,6 +41,12 @@
     "name:fra_x_preferred":[
         "Okara"
     ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05d5\u05e7\u05d0\u05e8\u05d4"
+    ],
+    "name:hun_x_preferred":[
+        "Okara"
+    ],
     "name:jpn_x_preferred":[
         "\u30aa\u30ab\u30e9"
     ],
@@ -82,7 +88,7 @@
         }
     ],
     "wof:id":1210029377,
-    "wof:lastmodified":1566627088,
+    "wof:lastmodified":1636496041,
     "wof:name":"Okara",
     "wof:parent_id":1091909347,
     "wof:placetype":"locality",

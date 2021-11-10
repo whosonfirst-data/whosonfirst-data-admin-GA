@@ -35,7 +35,16 @@
     "name:deu_x_preferred":[
         "Dilolo"
     ],
+    "name:fas_x_preferred":[
+        "\u062f\u06cc\u0644\u0648\u0644\u0648"
+    ],
     "name:fra_x_preferred":[
+        "Dilolo"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d3\u05d9\u05dc\u05d5\u05dc\u05d5"
+    ],
+    "name:hun_x_preferred":[
         "Dilolo"
     ],
     "name:ita_x_preferred":[
@@ -76,7 +85,7 @@
         }
     ],
     "wof:id":1259784023,
-    "wof:lastmodified":1566627275,
+    "wof:lastmodified":1636496047,
     "wof:name":"Dilolo",
     "wof:parent_id":1091909833,
     "wof:placetype":"locality",

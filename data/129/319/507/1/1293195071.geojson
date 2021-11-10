@@ -35,6 +35,12 @@
     "name:fra_x_preferred":[
         "Likouala"
     ],
+    "name:heb_x_preferred":[
+        "\u05dc\u05d9\u05e7\u05d5\u05d0\u05dc\u05d4"
+    ],
+    "name:hun_x_preferred":[
+        "Likouala"
+    ],
     "name:pol_x_preferred":[
         "Likouala"
     ],
@@ -64,7 +70,7 @@
         }
     ],
     "wof:id":1293195071,
-    "wof:lastmodified":1566627000,
+    "wof:lastmodified":1636496040,
     "wof:name":"Likouala",
     "wof:parent_id":1091910455,
     "wof:placetype":"locality",

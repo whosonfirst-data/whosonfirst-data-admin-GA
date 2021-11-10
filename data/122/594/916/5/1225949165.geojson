@@ -32,6 +32,9 @@
     "name:ara_x_preferred":[
         "\u0642\u0628\u0644\u064a"
     ],
+    "name:ben_x_preferred":[
+        "\u0995\u09c7\u09ac\u09bf\u09b2\u09bf"
+    ],
     "name:cat_x_preferred":[
         "K\u00e9bili"
     ],
@@ -52,6 +55,15 @@
     ],
     "name:fra_x_preferred":[
         "K\u00e9bili"
+    ],
+    "name:hin_x_preferred":[
+        "\u0915\u0947\u092c\u093f\u0932\u0940"
+    ],
+    "name:hun_x_preferred":[
+        "Kebili"
+    ],
+    "name:ind_x_preferred":[
+        "Kebili"
     ],
     "name:ita_x_preferred":[
         "K\u00e9bili"
@@ -77,6 +89,9 @@
     "name:spa_x_preferred":[
         "Kebili"
     ],
+    "name:swe_x_preferred":[
+        "Kebili"
+    ],
     "name:tur_x_preferred":[
         "Kabili"
     ],
@@ -85,6 +100,9 @@
     ],
     "name:urd_x_preferred":[
         "\u0642\u0628\u0644\u06cc"
+    ],
+    "name:vie_x_preferred":[
+        "Kebili"
     ],
     "name:zho_x_preferred":[
         "\u5409\u6bd4\u5229"
@@ -121,7 +139,7 @@
         }
     ],
     "wof:id":1225949165,
-    "wof:lastmodified":1566627292,
+    "wof:lastmodified":1636496047,
     "wof:name":"Kebili",
     "wof:parent_id":1091910083,
     "wof:placetype":"locality",

@@ -62,6 +62,9 @@
     "name:frr_x_preferred":[
         "Ouaka"
     ],
+    "name:hun_x_preferred":[
+        "Ouaka"
+    ],
     "name:ind_x_preferred":[
         "Ouaka"
     ],
@@ -139,7 +142,7 @@
         }
     ],
     "wof:id":1276335205,
-    "wof:lastmodified":1566627020,
+    "wof:lastmodified":1636496040,
     "wof:name":"Ouaka",
     "wof:parent_id":1091909757,
     "wof:placetype":"locality",

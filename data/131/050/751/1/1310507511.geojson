@@ -65,6 +65,9 @@
     "name:heb_x_preferred":[
         "\u05d1\u05de\u05d1\u05d0\u05e8\u05d9"
     ],
+    "name:hun_x_preferred":[
+        "Bambari"
+    ],
     "name:ind_x_preferred":[
         "Bambari"
     ],
@@ -145,7 +148,7 @@
         }
     ],
     "wof:id":1310507511,
-    "wof:lastmodified":1566627143,
+    "wof:lastmodified":1636496043,
     "wof:name":"Bambari",
     "wof:parent_id":1091909581,
     "wof:placetype":"locality",

@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"11.016681273,-1.86615354524,11.016681273,-1.86615354524",
+    "geom:bbox":"11.016681,-1.866154,11.016681,-1.866154",
     "geom:latitude":-1.866154,
     "geom:longitude":11.016681,
     "iso:country":"GA",
@@ -24,6 +24,9 @@
     "name:bel_x_preferred":[
         "\u041c\u0443\u0456\u043b\u0430"
     ],
+    "name:ben_x_preferred":[
+        "\u09ae\u09cb\u0989\u09b2\u09bf\u09df\u09be"
+    ],
     "name:bul_x_preferred":[
         "\u041c\u0443\u0438\u043b\u0430"
     ],
@@ -39,8 +42,14 @@
     "name:deu_x_preferred":[
         "Mouila"
     ],
+    "name:ell_x_preferred":[
+        "\u039c\u03bf\u03c5\u03af\u03bb\u03b1"
+    ],
     "name:eng_x_preferred":[
         "Mouila"
+    ],
+    "name:fas_x_preferred":[
+        "\u0645\u0648\u06cc\u0644\u0627"
     ],
     "name:fra_x_preferred":[
         "Mouila"
@@ -48,7 +57,19 @@
     "name:frr_x_preferred":[
         "Mouila"
     ],
+    "name:heb_x_preferred":[
+        "\u05de\u05d5\u05d0\u05d9\u05dc\u05d4"
+    ],
+    "name:hin_x_preferred":[
+        "\u092e\u094b\u0907\u0932\u093e"
+    ],
     "name:hrv_x_preferred":[
+        "Mouila"
+    ],
+    "name:hun_x_preferred":[
+        "Mouila"
+    ],
+    "name:ind_x_preferred":[
         "Mouila"
     ],
     "name:ita_x_preferred":[
@@ -84,8 +105,14 @@
     "name:swe_x_preferred":[
         "Mouila"
     ],
+    "name:tur_x_preferred":[
+        "Mouila"
+    ],
     "name:ukr_x_preferred":[
         "\u041c\u0443\u0457\u043b\u0430"
+    ],
+    "name:urd_x_preferred":[
+        "\u0645\u0648\u0626\u06cc\u0644\u0627"
     ],
     "name:war_x_preferred":[
         "Mouila"
@@ -207,7 +234,7 @@
     },
     "wof:country":"GA",
     "wof:created":1499130773,
-    "wof:geomhash":"6da092e40ac9667220a24220f59f9451",
+    "wof:geomhash":"2967ba137570cdf36bf652bf1aafc4f4",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -218,7 +245,7 @@
         }
     ],
     "wof:id":1141907801,
-    "wof:lastmodified":1566627338,
+    "wof:lastmodified":1636496048,
     "wof:name":"Mouila",
     "wof:parent_id":1091909531,
     "wof:placetype":"locality",
@@ -228,10 +255,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    11.01668127304345,
-    -1.86615354523843,
-    11.01668127304345,
-    -1.86615354523843
+    11.016681,
+    -1.866154,
+    11.016681,
+    -1.866154
 ],
-  "geometry": {"coordinates":[11.01668127304345,-1.86615354523843],"type":"Point"}
+  "geometry": {"coordinates":[11.016681,-1.866154],"type":"Point"}
 }

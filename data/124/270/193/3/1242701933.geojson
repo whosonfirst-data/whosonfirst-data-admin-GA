@@ -80,6 +80,9 @@
     "name:hrv_x_preferred":[
         "Moundou"
     ],
+    "name:hun_x_preferred":[
+        "Moundou"
+    ],
     "name:ind_x_preferred":[
         "Moundou"
     ],
@@ -172,7 +175,7 @@
         }
     ],
     "wof:id":1242701933,
-    "wof:lastmodified":1566627246,
+    "wof:lastmodified":1636496046,
     "wof:name":"Moundou",
     "wof:parent_id":1091909581,
     "wof:placetype":"locality",

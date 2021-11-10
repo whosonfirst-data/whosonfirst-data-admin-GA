@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"13.7833341051,-0.682918275051,13.7833341051,-0.682918275051",
+    "geom:bbox":"13.783334,-0.682918,13.783334,-0.682918",
     "geom:latitude":-0.682918,
     "geom:longitude":13.783334,
     "iso:country":"GA",
@@ -18,6 +18,51 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:ara_x_preferred":[
+        "\u0623\u0648\u0643\u0627\u0646\u062f\u062c\u0627"
+    ],
+    "name:ben_x_preferred":[
+        "\u0993\u0995\u09be\u09a8\u09cd\u09a6\u099c\u09be"
+    ],
+    "name:ell_x_preferred":[
+        "\u039f\u03ba\u03ac\u03bd\u03c4\u03b6\u03b1"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0648\u06a9\u0627\u0646\u062c\u0627"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05d5\u05e7\u05e0\u05d3'\u05d2\u05d4"
+    ],
+    "name:hin_x_preferred":[
+        "\u0913\u0915\u093e\u0902\u0921\u094d\u091c\u093c\u093e"
+    ],
+    "name:hun_x_preferred":[
+        "Okandja"
+    ],
+    "name:ind_x_preferred":[
+        "Okandja"
+    ],
+    "name:kor_x_preferred":[
+        "\uc624\uce78\uc790"
+    ],
+    "name:tur_x_preferred":[
+        "Okandja"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041e\u043a\u0430\u043d\u0434\u0436\u0430"
+    ],
+    "name:urd_x_preferred":[
+        "\u0627\u0648\u06a9\u0627\u0646\u062f\u062c\u0627"
+    ],
+    "name:vie_x_preferred":[
+        "Okandja"
+    ],
+    "name:zho_cn_x_preferred":[
+        "\u5965\u5b54\u8d3e"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u5967\u574e\u8cc8"
+    ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Gabon",
     "ne:ADM0_A3":"GAB",
@@ -124,7 +169,7 @@
     "wof:concordances":{},
     "wof:country":"GA",
     "wof:created":1499130773,
-    "wof:geomhash":"42cc2dd812ecaffc84e7277f20992b4f",
+    "wof:geomhash":"a298aed07238bf4c8ae0454a8800dbc5",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -135,7 +180,7 @@
         }
     ],
     "wof:id":1141907803,
-    "wof:lastmodified":1566627338,
+    "wof:lastmodified":1636496048,
     "wof:name":"Okandja",
     "wof:parent_id":1091909293,
     "wof:placetype":"locality",
@@ -145,10 +190,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    13.78333410508583,
-    -0.68291827505146,
-    13.78333410508583,
-    -0.68291827505146
+    13.783334,
+    -0.682918,
+    13.783334,
+    -0.682918
 ],
-  "geometry": {"coordinates":[13.78333410508583,-0.68291827505146],"type":"Point"}
+  "geometry": {"coordinates":[13.783334,-0.682918],"type":"Point"}
 }
