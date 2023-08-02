@@ -52,6 +52,9 @@
     "name:swe_x_preferred":[
         "Mimongo"
     ],
+    "name:zul_x_preferred":[
+        "Mimongo"
+    ],
     "qs_pg:aaroncc":"GA",
     "qs_pg:gn_country":"GA",
     "qs_pg:gn_fcode":"PPL",
@@ -91,7 +94,7 @@
         }
     ],
     "wof:id":1125940831,
-    "wof:lastmodified":1566627214,
+    "wof:lastmodified":1690914942,
     "wof:name":"Mimongo",
     "wof:parent_id":1091909887,
     "wof:placetype":"locality",

@@ -25,6 +25,9 @@
     "name:ara_x_preferred":[
         "\u0645\u0648\u064a\u0644\u0627"
     ],
+    "name:avk_x_preferred":[
+        "Mouila"
+    ],
     "name:bel_x_preferred":[
         "\u041c\u0443\u0456\u043b\u0430"
     ],
@@ -33,6 +36,9 @@
     ],
     "name:bul_x_preferred":[
         "\u041c\u0443\u0438\u043b\u0430"
+    ],
+    "name:cat_x_preferred":[
+        "Mouila"
     ],
     "name:ceb_x_preferred":[
         "Mouila"
@@ -54,6 +60,9 @@
     ],
     "name:fas_x_preferred":[
         "\u0645\u0648\u06cc\u0644\u0627"
+    ],
+    "name:fin_x_preferred":[
+        "Mouila"
     ],
     "name:fra_x_preferred":[
         "Mouila"
@@ -118,6 +127,9 @@
     "name:urd_x_preferred":[
         "\u0645\u0648\u0626\u06cc\u0644\u0627"
     ],
+    "name:vie_x_preferred":[
+        "Mouila"
+    ],
     "name:war_x_preferred":[
         "Mouila"
     ],
@@ -129,6 +141,9 @@
     ],
     "name:zho_x_preferred":[
         "\u7a46\u4f0a\u62c9"
+    ],
+    "name:zul_x_preferred":[
+        "Mouila"
     ],
     "qs_pg:aaroncc":"GA",
     "qs_pg:gn_country":"GA",
@@ -169,7 +184,7 @@
         }
     ],
     "wof:id":1125913589,
-    "wof:lastmodified":1636496045,
+    "wof:lastmodified":1690914944,
     "wof:name":"Mouila",
     "wof:parent_id":1091909531,
     "wof:placetype":"locality",

@@ -28,6 +28,9 @@
     "mz:is_current":1,
     "mz:max_zoom":8.0,
     "mz:min_zoom":3.0,
+    "name:abk_x_preferred":[
+        "\u0413\u0430\u0431\u043e\u043d"
+    ],
     "name:ady_x_preferred":[
         "\u0413\u0430\u0431\u043e\u043d"
     ],
@@ -37,14 +40,23 @@
     "name:aka_x_preferred":[
         "Gab\u0254n"
     ],
+    "name:aka_x_variant":[
+        "Gabon"
+    ],
     "name:als_x_preferred":[
         "Gabun"
     ],
     "name:amh_x_preferred":[
         "\u130b\u1266\u1295"
     ],
+    "name:ami_x_preferred":[
+        "Gabon"
+    ],
     "name:ang_x_preferred":[
         "Gabon"
+    ],
+    "name:anp_x_preferred":[
+        "\u0917\u0948\u092c\u0949\u0928"
     ],
     "name:ara_x_preferred":[
         "\u0627\u0644\u063a\u0627\u0628\u0648\u0646"
@@ -65,6 +77,9 @@
     "name:ast_x_preferred":[
         "Gab\u00f3n"
     ],
+    "name:avk_x_preferred":[
+        "Gabona"
+    ],
     "name:azb_x_preferred":[
         "\u0642\u0627\u0628\u0648\u0646"
     ],
@@ -83,6 +98,9 @@
     "name:ban_x_preferred":[
         "Gabon"
     ],
+    "name:bar_x_preferred":[
+        "Gabun"
+    ],
     "name:bcl_x_preferred":[
         "Gabon"
     ],
@@ -97,6 +115,9 @@
     ],
     "name:bho_x_preferred":[
         "\u0917\u0948\u092c\u094b\u0928"
+    ],
+    "name:bis_x_preferred":[
+        "Gabon"
     ],
     "name:bjn_x_preferred":[
         "Gabon"
@@ -149,10 +170,16 @@
     "name:cor_x_preferred":[
         "Gabon"
     ],
+    "name:cos_x_preferred":[
+        "Gabone"
+    ],
     "name:crh_x_preferred":[
         "Gabon"
     ],
     "name:cym_x_preferred":[
+        "Gabon"
+    ],
+    "name:dag_x_preferred":[
         "Gabon"
     ],
     "name:dan_x_preferred":[
@@ -277,6 +304,9 @@
     "name:glv_x_preferred":[
         "Gabon"
     ],
+    "name:gpe_x_preferred":[
+        "Gabon"
+    ],
     "name:grn_x_preferred":[
         "Gav\u00f5"
     ],
@@ -398,6 +428,9 @@
     "name:kbp_x_preferred":[
         "Kaab\u0254\u0254"
     ],
+    "name:kcg_x_preferred":[
+        "Gabon"
+    ],
     "name:khm_x_preferred":[
         "\u17a0\u17d2\u1782\u17b6\u1794\u17bb\u1784"
     ],
@@ -458,6 +491,9 @@
     "name:lit_x_preferred":[
         "Gabonas"
     ],
+    "name:lld_x_preferred":[
+        "Gabon"
+    ],
     "name:lmo_x_preferred":[
         "Gabon"
     ],
@@ -494,6 +530,12 @@
     "name:mar_x_variant":[
         "\u0917\u0945\u092c\u0949\u0928"
     ],
+    "name:mdf_x_preferred":[
+        "\u0413\u0430\u0431\u043e\u043d"
+    ],
+    "name:mhr_x_preferred":[
+        "\u0413\u0430\u0431\u043e\u043d"
+    ],
     "name:min_x_preferred":[
         "Gabon"
     ],
@@ -509,8 +551,14 @@
     "name:mlt_x_preferred":[
         "Gabon"
     ],
+    "name:mni_x_preferred":[
+        "\uabd2\uabe6\uabd5\uabe3\uabdf"
+    ],
     "name:mon_x_preferred":[
         "\u0413\u0430\u0431\u043e\u043d"
+    ],
+    "name:mri_x_preferred":[
+        "K\u0101pona"
     ],
     "name:mrj_x_preferred":[
         "\u0413\u0430\u0431\u043e\u043d"
@@ -636,6 +684,9 @@
     "name:que_x_preferred":[
         "Gabun"
     ],
+    "name:rmy_x_preferred":[
+        "Gabon"
+    ],
     "name:roh_x_preferred":[
         "Gabun"
     ],
@@ -669,6 +720,9 @@
     "name:sgs_x_preferred":[
         "Gabuons"
     ],
+    "name:shn_x_preferred":[
+        "\u1019\u102d\u1030\u1004\u103a\u1038\u1075\u1084\u1038\u1015\u102f\u107c\u103a\u1087"
+    ],
     "name:sin_x_preferred":[
         "\u0d9c\u0dd0\u0db6\u0ddc\u0db1\u0dca"
     ],
@@ -681,8 +735,17 @@
     "name:sme_x_preferred":[
         "Gabon"
     ],
+    "name:smj_x_preferred":[
+        "Gab\u00e5vnn\u00e5"
+    ],
+    "name:smn_x_preferred":[
+        "Gabon"
+    ],
     "name:smo_x_preferred":[
         "Gabon"
+    ],
+    "name:sms_x_preferred":[
+        "Gaboon"
     ],
     "name:sna_x_preferred":[
         "Gabon"
@@ -754,6 +817,9 @@
     "name:tat_x_preferred":[
         "\u0413\u0430\u0431\u043e\u043d"
     ],
+    "name:tay_x_preferred":[
+        "Gabon"
+    ],
     "name:tel_x_preferred":[
         "\u0c17\u0c2c\u0c3e\u0c28\u0c4d"
     ],
@@ -775,16 +841,25 @@
     "name:tir_x_preferred":[
         "\u130b\u1266\u1295"
     ],
+    "name:tok_x_preferred":[
+        "ma Kapon"
+    ],
     "name:ton_x_preferred":[
         "Kaponi"
     ],
     "name:tpi_x_preferred":[
         "Gabon"
     ],
+    "name:trv_x_preferred":[
+        "Gabon"
+    ],
     "name:tso_x_preferred":[
         "Gaboni"
     ],
     "name:tuk_x_preferred":[
+        "Gabon"
+    ],
+    "name:tum_x_preferred":[
         "Gabon"
     ],
     "name:tur_x_preferred":[
@@ -1100,7 +1175,7 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1618362173,
+    "wof:lastmodified":1690914898,
     "wof:name":"Gabon",
     "wof:parent_id":102191573,
     "wof:placetype":"country",

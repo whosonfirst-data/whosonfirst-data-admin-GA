@@ -32,6 +32,9 @@
     "name:swe_x_preferred":[
         "Omboue Hopital Airport"
     ],
+    "name:swe_x_variant":[
+        "Ombou\u00e9 flygplats"
+    ],
     "oa:elevation_ft":"33",
     "oa:type":"medium_airport",
     "src:geom":"wikidata",
@@ -64,7 +67,7 @@
         }
     ],
     "wof:id":102547369,
-    "wof:lastmodified":1631745430,
+    "wof:lastmodified":1690914896,
     "wof:name":"Omboue Hopital Airport",
     "wof:parent_id":85671255,
     "wof:placetype":"campus",

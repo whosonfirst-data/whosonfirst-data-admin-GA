@@ -25,6 +25,9 @@
     "name:ceb_x_preferred":[
         "Mbigou"
     ],
+    "name:deu_x_preferred":[
+        "Mbigou"
+    ],
     "name:eng_x_preferred":[
         "Mbigou"
     ],
@@ -57,6 +60,9 @@
     ],
     "name:zho_x_preferred":[
         "\u59c6\u6bd4\u53e4"
+    ],
+    "name:zul_x_preferred":[
+        "Mbigou"
     ],
     "qs:name":"Mbigou",
     "qs:photos_9r":0,
@@ -91,7 +97,7 @@
         }
     ],
     "wof:id":890440289,
-    "wof:lastmodified":1566627212,
+    "wof:lastmodified":1690914937,
     "wof:name":"Mbigou",
     "wof:parent_id":1091909833,
     "wof:placetype":"locality",

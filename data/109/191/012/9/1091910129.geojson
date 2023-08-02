@@ -77,8 +77,14 @@
     "name:swe_x_preferred":[
         "Mougoutsi Department"
     ],
+    "name:swe_x_variant":[
+        "Mougoutsi"
+    ],
     "name:vie_x_preferred":[
         "Mougoutsi"
+    ],
+    "name:zul_x_preferred":[
+        "Mougoutsi Department"
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
@@ -116,7 +122,7 @@
         }
     ],
     "wof:id":1091910129,
-    "wof:lastmodified":1636496043,
+    "wof:lastmodified":1690914908,
     "wof:name":"Mongo",
     "wof:parent_id":85671251,
     "wof:placetype":"county",
