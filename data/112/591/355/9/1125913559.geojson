@@ -25,7 +25,13 @@
     "name:ceb_x_preferred":[
         "Okondja"
     ],
+    "name:deu_x_preferred":[
+        "Okondja"
+    ],
     "name:eng_x_preferred":[
+        "Okondja"
+    ],
+    "name:fin_x_preferred":[
         "Okondja"
     ],
     "name:fra_x_preferred":[
@@ -57,6 +63,9 @@
     ],
     "name:und_x_variant":[
         "Okondi"
+    ],
+    "name:zul_x_preferred":[
+        "Okondja"
     ],
     "qs_pg:aaroncc":"GA",
     "qs_pg:gn_country":"GA",
@@ -97,7 +106,7 @@
         }
     ],
     "wof:id":1125913559,
-    "wof:lastmodified":1566627214,
+    "wof:lastmodified":1690914943,
     "wof:name":"Okondja",
     "wof:parent_id":1091909293,
     "wof:placetype":"locality",

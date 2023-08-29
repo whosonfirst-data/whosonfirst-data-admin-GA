@@ -19,10 +19,16 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ast_x_preferred":[
+        "Mounana"
+    ],
     "name:bul_x_preferred":[
         "\u041c\u0443\u043d\u0430\u043d\u0430"
     ],
     "name:ceb_x_preferred":[
+        "Mounana"
+    ],
+    "name:deu_x_preferred":[
         "Mounana"
     ],
     "name:eng_x_preferred":[
@@ -64,6 +70,9 @@
     "name:zho_x_preferred":[
         "\u7a46\u7d0d\u7d0d"
     ],
+    "name:zul_x_preferred":[
+        "Mounana"
+    ],
     "qs:name":"Mounana",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -99,7 +108,7 @@
         }
     ],
     "wof:id":890437093,
-    "wof:lastmodified":1566627213,
+    "wof:lastmodified":1690914937,
     "wof:name":"Mounana",
     "wof:parent_id":1091908967,
     "wof:placetype":"locality",

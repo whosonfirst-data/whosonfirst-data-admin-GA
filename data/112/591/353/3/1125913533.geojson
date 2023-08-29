@@ -25,6 +25,12 @@
     "name:ara_x_preferred":[
         "\u0628\u0648\u0631\u062a \u062c\u0646\u062a\u064a\u0644"
     ],
+    "name:ast_x_preferred":[
+        "Port-Gentil"
+    ],
+    "name:avk_x_preferred":[
+        "Port-Gentil"
+    ],
     "name:aze_x_preferred":[
         "Port-Jantil"
     ],
@@ -63,6 +69,12 @@
     ],
     "name:epo_x_preferred":[
         "Port-Gentil"
+    ],
+    "name:est_x_preferred":[
+        "Port-Gentil"
+    ],
+    "name:fas_x_preferred":[
+        "\u067e\u0648\u0631\u062a \u062c\u0646\u062a\u06cc\u0644"
     ],
     "name:fin_x_preferred":[
         "Port-Gentil"
@@ -124,6 +136,9 @@
     "name:lit_x_preferred":[
         "Port \u017dantilis"
     ],
+    "name:ltz_x_preferred":[
+        "Port-Gentil"
+    ],
     "name:mar_x_preferred":[
         "\u092a\u094b\u0930\u094d\u091f-\u091c\u0947\u0928\u094d\u091f\u093f\u0932"
     ],
@@ -175,6 +190,9 @@
     "name:tha_x_preferred":[
         "\u0e1e\u0e2d\u0e23\u0e4c\u0e17 \u0e40\u0e01\u0e19\u0e17\u0e34\u0e25"
     ],
+    "name:tha_x_variant":[
+        "\u0e1b\u0e2d\u0e23\u0e4c-\u0e0c\u0e47\u0e2d\u0e07\u0e15\u0e35"
+    ],
     "name:tur_x_preferred":[
         "Port-Gentil"
     ],
@@ -183,6 +201,9 @@
     ],
     "name:urd_x_preferred":[
         "\u067e\u0648\u0631\u0679 \u062c\u06cc\u0646\u0679\u0644"
+    ],
+    "name:uzb_x_preferred":[
+        "Port-jantil"
     ],
     "name:vie_x_preferred":[
         "Port-Gentil"
@@ -198,6 +219,9 @@
     ],
     "name:zho_x_preferred":[
         "\u8ba9\u8482\u5c14\u6e2f"
+    ],
+    "name:zul_x_preferred":[
+        "Port-Gentil"
     ],
     "qs_pg:aaroncc":"GA",
     "qs_pg:gn_country":"GA",
@@ -238,7 +262,7 @@
         }
     ],
     "wof:id":1125913533,
-    "wof:lastmodified":1566627214,
+    "wof:lastmodified":1690914943,
     "wof:name":"Port-Gentil",
     "wof:parent_id":421181245,
     "wof:placetype":"locality",

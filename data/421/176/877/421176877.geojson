@@ -20,6 +20,9 @@
     "name:ceb_x_preferred":[
         "Boou\u00e9"
     ],
+    "name:deu_x_preferred":[
+        "Boou\u00e9"
+    ],
     "name:eng_x_preferred":[
         "Boou\u00e9"
     ],
@@ -61,6 +64,9 @@
     ],
     "name:zho_x_preferred":[
         "\u535a\u97cb"
+    ],
+    "name:zul_x_preferred":[
+        "Boou\u00e9"
     ],
     "qs:gn_country":"GA",
     "qs:gn_fcode":"PPL",
@@ -110,7 +116,7 @@
         }
     ],
     "wof:id":421176877,
-    "wof:lastmodified":1566627212,
+    "wof:lastmodified":1690914936,
     "wof:name":"Boou\u00e9",
     "wof:parent_id":421188215,
     "wof:placetype":"locality",

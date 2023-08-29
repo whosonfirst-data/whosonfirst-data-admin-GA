@@ -28,6 +28,9 @@
     "name:ceb_x_preferred":[
         "Cocobeach"
     ],
+    "name:deu_x_preferred":[
+        "Cocobeach"
+    ],
     "name:eng_x_preferred":[
         "Cocobeach"
     ],
@@ -67,6 +70,9 @@
     "name:und_x_variant":[
         "Ukoko"
     ],
+    "name:zul_x_preferred":[
+        "Cocobeach"
+    ],
     "qs:name":"Cocobeach",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -100,7 +106,7 @@
         }
     ],
     "wof:id":890422771,
-    "wof:lastmodified":1566627212,
+    "wof:lastmodified":1690914937,
     "wof:name":"Cocobeach",
     "wof:parent_id":1091908869,
     "wof:placetype":"locality",

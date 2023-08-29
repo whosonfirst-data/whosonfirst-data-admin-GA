@@ -22,7 +22,13 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bul_x_preferred":[
+        "\u041d\u0434\u0435\u043d\u0434\u0435"
+    ],
     "name:ceb_x_preferred":[
+        "Ndend\u00e9"
+    ],
+    "name:deu_x_preferred":[
         "Ndend\u00e9"
     ],
     "name:eng_x_preferred":[
@@ -57,6 +63,9 @@
     ],
     "name:zho_x_preferred":[
         "\u6069\u4ee3\u6069\u4ee3"
+    ],
+    "name:zul_x_preferred":[
+        "Ndend\u00e9"
     ],
     "qs_pg:aaroncc":"GA",
     "qs_pg:gn_country":"GA",
@@ -97,7 +106,7 @@
         }
     ],
     "wof:id":1125913579,
-    "wof:lastmodified":1566627215,
+    "wof:lastmodified":1690914944,
     "wof:name":"Ndend\u00e9",
     "wof:parent_id":1091909707,
     "wof:placetype":"locality",

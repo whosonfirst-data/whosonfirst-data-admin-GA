@@ -82,11 +82,17 @@
     "name:swe_x_preferred":[
         "Plateaux Department"
     ],
+    "name:swe_x_variant":[
+        "Plateaux"
+    ],
     "name:tgk_x_preferred":[
         "\u0412\u0438\u043b\u043e\u044f\u0442\u0438 \u041f\u043b\u0430\u0442\u0435\u0430\u0443"
     ],
     "name:vie_x_preferred":[
         "Plateaux"
+    ],
+    "name:zul_x_preferred":[
+        "Plateaux Department"
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
@@ -124,7 +130,7 @@
         }
     ],
     "wof:id":1091909149,
-    "wof:lastmodified":1636496044,
+    "wof:lastmodified":1690914925,
     "wof:name":"Plateaux",
     "wof:parent_id":85671257,
     "wof:placetype":"county",
