@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":21.362725,
-    "geom:area_square_m":264064674721.166199,
+    "geom:area_square_m":264064790610.465851,
     "geom:bbox":"8.697889,-3.960009,14.526893,2.318109",
     "geom:latitude":-0.605461,
     "geom:longitude":11.788416,
@@ -14,6 +14,9 @@
     "iso:country":"GA",
     "itu:country_code":[
         "241"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "country"
     ],
     "label:eng_x_preferred_shortcode":[
         "GA"
@@ -1100,7 +1103,8 @@
         "whosonfirst"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"wk",
+    "src:population":"naturalearth",
+    "src:population_date":"2019",
     "statoids:dial":"241",
     "statoids:ds":"G",
     "statoids:fifa":"GAB",
@@ -1161,7 +1165,7 @@
         "quattroshapes",
         "whosonfirst-interior"
     ],
-    "wof:geomhash":"a635b09dc78e3c22a7d9562538e1f8e6",
+    "wof:geomhash":"e2770c85f3675d9819b2498185cc8e93",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -1175,12 +1179,12 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1690914898,
+    "wof:lastmodified":1694639602,
     "wof:name":"Gabon",
     "wof:parent_id":102191573,
     "wof:placetype":"country",
-    "wof:population":1671711,
-    "wof:population_rank":12,
+    "wof:population":2172579,
+    "wof:population_rank":18,
     "wof:repo":"whosonfirst-data-admin-ga",
     "wof:shortcode":"GA",
     "wof:superseded_by":[],
