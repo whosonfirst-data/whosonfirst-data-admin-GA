@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.330906,
-    "geom:area_square_m":4090951683.418832,
+    "geom:area_square_m":4090951682.737367,
     "geom:bbox":"11.497167,-1.647417,12.200464,-0.658661",
     "geom:latitude":-1.081947,
     "geom:longitude":11.868188,
@@ -67,9 +67,10 @@
     "wof:concordances":{
         "hasc:id":"GA.OL.OO"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GA",
     "wof:created":1473892565,
-    "wof:geomhash":"9cca22e036d3dac06d7a20689d5f1291",
+    "wof:geomhash":"913f8297f1290fa90d9c8a73b57fdbf7",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -79,7 +80,7 @@
         }
     ],
     "wof:id":1091910409,
-    "wof:lastmodified":1627522136,
+    "wof:lastmodified":1695886619,
     "wof:name":"Offoue Onoye",
     "wof:parent_id":85671265,
     "wof:placetype":"county",

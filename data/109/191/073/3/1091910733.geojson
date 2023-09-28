@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.801275,
-    "geom:area_square_m":9907081709.744772,
+    "geom:area_square_m":9907081704.721848,
     "geom:bbox":"10.813517,0.219184,12.357982,1.246498",
     "geom:latitude":0.705472,
     "geom:longitude":11.484983,
@@ -97,9 +97,10 @@
         "hasc:id":"GA.WN.OK",
         "wd:id":"Q522580"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GA",
     "wof:created":1473892577,
-    "wof:geomhash":"76611a4880bc42868c2870c8cf2d11c6",
+    "wof:geomhash":"223c095c7eca9e19348d08b41d61a4b7",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -109,7 +110,7 @@
         }
     ],
     "wof:id":1091910733,
-    "wof:lastmodified":1690914912,
+    "wof:lastmodified":1695886241,
     "wof:name":"Okano",
     "wof:parent_id":85671241,
     "wof:placetype":"county",

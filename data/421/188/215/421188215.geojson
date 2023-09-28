@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.971926,
-    "geom:area_square_m":12017862365.48171,
+    "geom:area_square_m":12017862365.392023,
     "geom:bbox":"11.250468,-0.761599,12.606575,0.632057",
     "geom:latitude":-0.145357,
     "geom:longitude":11.897823,
@@ -156,12 +156,13 @@
         "qs_pg:id":1090778,
         "wd:id":"Q1452178"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GA",
     "wof:created":1459009538,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"92a1fcdcb78e114bdd5df2240ec9ca53",
+    "wof:geomhash":"bd56a7cab374f1d8c178fed31334a1ff",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -171,7 +172,7 @@
         }
     ],
     "wof:id":421188215,
-    "wof:lastmodified":1690914934,
+    "wof:lastmodified":1695886698,
     "wof:name":"Lope",
     "wof:parent_id":85671237,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.398832,
-    "geom:area_square_m":4929240387.632255,
+    "geom:area_square_m":4929240386.649794,
     "geom:bbox":"13.277551,-2.44468,14.072901,-1.15139",
     "geom:latitude":-1.761957,
     "geom:longitude":13.648872,
@@ -110,9 +110,10 @@
         "hasc:id":"GA.HO.MP",
         "wd:id":"Q1451541"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GA",
     "wof:created":1473892510,
-    "wof:geomhash":"ab75d3af61f98b232e7e38d842521fdc",
+    "wof:geomhash":"b42b5a050817856156592478268c439f",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -122,7 +123,7 @@
         }
     ],
     "wof:id":1091908919,
-    "wof:lastmodified":1690914929,
+    "wof:lastmodified":1695886255,
     "wof:name":"Mpassa",
     "wof:parent_id":85671257,
     "wof:placetype":"county",

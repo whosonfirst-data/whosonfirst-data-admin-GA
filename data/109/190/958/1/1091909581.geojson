@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.814911,
-    "geom:area_square_m":10074359866.524656,
+    "geom:area_square_m":10074359866.127237,
     "geom:bbox":"10.348929,-1.878531,11.244788,-0.383347",
     "geom:latitude":-1.133954,
     "geom:longitude":10.814742,
@@ -107,9 +107,10 @@
         "hasc:id":"GA.NG.TM",
         "wd:id":"Q1451531"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GA",
     "wof:created":1473892533,
-    "wof:geomhash":"dd5a9129953d6580b482c1e52c83fb05",
+    "wof:geomhash":"a16ca5849c50571552481f3d05183114",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -119,7 +120,7 @@
         }
     ],
     "wof:id":1091909581,
-    "wof:lastmodified":1690914926,
+    "wof:lastmodified":1695886252,
     "wof:name":"Tsamba Magotsi",
     "wof:parent_id":85671249,
     "wof:placetype":"county",

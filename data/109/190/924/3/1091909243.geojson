@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.107387,
-    "geom:area_square_m":1327618821.531143,
+    "geom:area_square_m":1327618821.676876,
     "geom:bbox":"13.632487,-1.267827,14.127984,-0.891542",
     "geom:latitude":-1.085234,
     "geom:longitude":13.893536,
@@ -105,9 +105,10 @@
         "hasc:id":"GA.HO.LN",
         "wd:id":"Q2349485"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GA",
     "wof:created":1473892521,
-    "wof:geomhash":"1d21bafb1d1dc74b8481151fa9d02f76",
+    "wof:geomhash":"bdca5a37ef15264a780718339651ed9f",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -117,7 +118,7 @@
         }
     ],
     "wof:id":1091909243,
-    "wof:lastmodified":1690914924,
+    "wof:lastmodified":1695886252,
     "wof:name":"Lekoni Lekori",
     "wof:parent_id":85671257,
     "wof:placetype":"county",

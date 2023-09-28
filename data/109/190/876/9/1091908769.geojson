@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.013315,
-    "geom:area_square_m":164637899.249201,
+    "geom:area_square_m":164637898.987047,
     "geom:bbox":"9.367466,0.341596,9.527352,0.563814",
     "geom:latitude":0.450835,
     "geom:longitude":9.449909,
@@ -104,9 +104,10 @@
         "hasc:id":"GA.ES.KM",
         "wd:id":"Q2736052"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GA",
     "wof:created":1473892504,
-    "wof:geomhash":"42712aba9d6fdc0cbd27759b03c0c059",
+    "wof:geomhash":"a64cf02b4b5ebc2f32610bdc25ec81b2",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -116,7 +117,7 @@
         }
     ],
     "wof:id":1091908769,
-    "wof:lastmodified":1690914928,
+    "wof:lastmodified":1695886254,
     "wof:name":"Libreville",
     "wof:parent_id":85671235,
     "wof:placetype":"county",

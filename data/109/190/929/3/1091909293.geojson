@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.602198,
-    "geom:area_square_m":7445882451.442159,
+    "geom:area_square_m":7445882451.433031,
     "geom:bbox":"13.2198,-1.193799,14.179087,0.049898",
     "geom:latitude":-0.504569,
     "geom:longitude":13.653479,
@@ -89,9 +89,10 @@
         "hasc:id":"GA.HO.SB",
         "wd:id":"Q1451522"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GA",
     "wof:created":1473892523,
-    "wof:geomhash":"5e6ccd424c930310dcd04df552e2f99b",
+    "wof:geomhash":"32a914d816f27f44b62242b64c03c60c",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -101,7 +102,7 @@
         }
     ],
     "wof:id":1091909293,
-    "wof:lastmodified":1690914929,
+    "wof:lastmodified":1695886256,
     "wof:name":"Sebe Brikolo",
     "wof:parent_id":85671257,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.190346,
-    "geom:area_square_m":2352096562.782144,
+    "geom:area_square_m":2352096562.00045,
     "geom:bbox":"11.326153,1.833303,11.851222,2.318188",
     "geom:latitude":2.092345,
     "geom:longitude":11.570191,
@@ -97,9 +97,10 @@
         "hasc:id":"GA.WN.NT",
         "wd:id":"Q2322933"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GA",
     "wof:created":1473892574,
-    "wof:geomhash":"5ac4ce168d532ee4a908b964fce4f87f",
+    "wof:geomhash":"6d74815b43fc2c640f76af2c566275cb",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -109,7 +110,7 @@
         }
     ],
     "wof:id":1091910639,
-    "wof:lastmodified":1690914910,
+    "wof:lastmodified":1695886240,
     "wof:name":"Ntem",
     "wof:parent_id":85671241,
     "wof:placetype":"county",

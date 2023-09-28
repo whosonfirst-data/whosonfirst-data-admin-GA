@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.7374,
-    "geom:area_square_m":9117370898.384319,
+    "geom:area_square_m":9117370897.85256,
     "geom:bbox":"9.549501,-1.263525,10.921146,-0.198808",
     "geom:latitude":-0.687331,
     "geom:longitude":10.15582,
@@ -111,9 +111,10 @@
         "hasc:id":"GA.MO.OL",
         "wd:id":"Q3881247"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GA",
     "wof:created":1473892528,
-    "wof:geomhash":"b2f1034bba99eaf28ff3291c90d65429",
+    "wof:geomhash":"db938814118448982c0a28369e7c5ecf",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -123,7 +124,7 @@
         }
     ],
     "wof:id":1091909431,
-    "wof:lastmodified":1690914931,
+    "wof:lastmodified":1695886258,
     "wof:name":"Ogooue Et Lacs",
     "wof:parent_id":85671247,
     "wof:placetype":"county",

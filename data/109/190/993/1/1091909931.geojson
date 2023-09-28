@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.252832,
-    "geom:area_square_m":3122577363.747729,
+    "geom:area_square_m":3122577363.704688,
     "geom:bbox":"10.546055,-3.114065,11.309919,-2.335938",
     "geom:latitude":-2.799148,
     "geom:longitude":10.90019,
@@ -106,9 +106,10 @@
         "hasc:id":"GA.NY.MT",
         "wd:id":"Q1452160"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GA",
     "wof:created":1473892547,
-    "wof:geomhash":"736a795135822955ff2aa5e269807d38",
+    "wof:geomhash":"ba055b5d2660e5f2c4e4a02efb479e9d",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -118,7 +119,7 @@
         }
     ],
     "wof:id":1091909931,
-    "wof:lastmodified":1690914925,
+    "wof:lastmodified":1695886253,
     "wof:name":"Mougoutsi",
     "wof:parent_id":85671251,
     "wof:placetype":"county",

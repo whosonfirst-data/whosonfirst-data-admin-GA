@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.386313,
-    "geom:area_square_m":4774942401.230947,
+    "geom:area_square_m":4774942401.803207,
     "geom:bbox":"9.859258,-2.107475,10.623516,-1.13603",
     "geom:latitude":-1.59814,
     "geom:longitude":10.246341,
@@ -106,9 +106,10 @@
         "hasc:id":"GA.NG.NL",
         "wd:id":"Q1451290"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GA",
     "wof:created":1473892535,
-    "wof:geomhash":"23e99f78ca0c6456e8ae28efd72e2f80",
+    "wof:geomhash":"6686b3bdf1c848b35ac45c4dc6d0648f",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -118,7 +119,7 @@
         }
     ],
     "wof:id":1091909635,
-    "wof:lastmodified":1690914921,
+    "wof:lastmodified":1695886250,
     "wof:name":"Ndolou",
     "wof:parent_id":85671249,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.344297,
-    "geom:area_square_m":4257185150.368948,
+    "geom:area_square_m":4257185150.497172,
     "geom:bbox":"11.851944,-0.000243,12.588629,0.851717",
     "geom:latitude":0.367092,
     "geom:longitude":12.161454,
@@ -100,9 +100,10 @@
         "hasc:id":"GA.OI.MV",
         "wd:id":"Q1604719"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GA",
     "wof:created":1473892560,
-    "wof:geomhash":"0cb8faeea86bafcdcbd1f36911d1b151",
+    "wof:geomhash":"da641582c1086586105240b69770d6ae",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -112,7 +113,7 @@
         }
     ],
     "wof:id":1091910271,
-    "wof:lastmodified":1690914913,
+    "wof:lastmodified":1695886241,
     "wof:name":"Mvoung",
     "wof:parent_id":85671237,
     "wof:placetype":"county",

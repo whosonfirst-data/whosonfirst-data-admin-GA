@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.496373,
-    "geom:area_square_m":6127642138.045703,
+    "geom:area_square_m":6127642138.915755,
     "geom:bbox":"10.810268,-3.736283,12.008821,-2.848813",
     "geom:latitude":-3.281903,
     "geom:longitude":11.455969,
@@ -110,9 +110,10 @@
         "hasc:id":"GA.NY.MN",
         "wd:id":"Q1452160"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GA",
     "wof:created":1473892555,
-    "wof:geomhash":"ec131f166498b9351acec57c9e79ef48",
+    "wof:geomhash":"fa3cb7e03dbdf106d4dd1eb66dffe31d",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -122,7 +123,7 @@
         }
     ],
     "wof:id":1091910129,
-    "wof:lastmodified":1690914908,
+    "wof:lastmodified":1695886706,
     "wof:name":"Mongo",
     "wof:parent_id":85671251,
     "wof:placetype":"county",

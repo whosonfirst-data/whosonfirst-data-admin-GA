@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.215257,
-    "geom:area_square_m":2659454412.580708,
+    "geom:area_square_m":2659454412.182253,
     "geom:bbox":"10.984912,-2.722092,11.605838,-2.003768",
     "geom:latitude":-2.347533,
     "geom:longitude":11.310232,
@@ -109,9 +109,10 @@
         "hasc:id":"GA.NG.DL",
         "wd:id":"Q2322977"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GA",
     "wof:created":1473892539,
-    "wof:geomhash":"ca4ea838aa199d6b754e642e0f59254e",
+    "wof:geomhash":"f7d627950882ba5b232d583e0c7f681e",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -121,7 +122,7 @@
         }
     ],
     "wof:id":1091909707,
-    "wof:lastmodified":1690914924,
+    "wof:lastmodified":1695886251,
     "wof:name":"Dola",
     "wof:parent_id":85671249,
     "wof:placetype":"county",
