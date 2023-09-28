@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":2.018856,
-    "geom:area_square_m":24950997409.449158,
+    "geom:area_square_m":24950997409.448284,
     "geom:bbox":"8.699614,-3.012308,10.601212,-0.273204",
     "geom:latitude":-1.692769,
     "geom:longitude":9.718414,
@@ -334,16 +334,18 @@
         "gn:id":2396924,
         "gp:id":2345456,
         "hasc:id":"GA.OM",
+        "iso:code":"GA-8",
         "iso:id":"GA-8",
         "qs_pg:id":1135046,
         "unlc:id":"GA-8",
         "wd:id":"Q823751"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"GA",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"d09d3d594be58a4e83161abdfc4ea31a",
+    "wof:geomhash":"f710e6cc7322d75ec04380b8911c4e40",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -358,7 +360,7 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1690914904,
+    "wof:lastmodified":1695884504,
     "wof:name":"Ogoou\u00e9-Maritime",
     "wof:parent_id":85632407,
     "wof:placetype":"region",

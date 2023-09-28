@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":3.568578,
-    "geom:area_square_m":44123011247.069817,
+    "geom:area_square_m":44123011246.353806,
     "geom:bbox":"11.250468,-0.761599,14.529043,1.437618",
     "geom:latitude":0.4673,
     "geom:longitude":12.850767,
@@ -315,17 +315,19 @@
         "gn:id":2396926,
         "gp:id":2345454,
         "hasc:id":"GA.OI",
+        "iso:code":"GA-6",
         "iso:id":"GA-6",
         "qs_pg:id":1135045,
         "unlc:id":"GA-6",
         "wd:id":"Q823822",
         "wk:page":"Ogoou\u00e9-Ivindo Province"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"GA",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"fff52ff4b7d503fdf9318f1240d69b48",
+    "wof:geomhash":"9cb10ca1c40e1b84cb2e6f9c2f7636f2",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -340,7 +342,7 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1690914903,
+    "wof:lastmodified":1695884353,
     "wof:name":"Ogoou\u00e9-Ivindo",
     "wof:parent_id":85632407,
     "wof:placetype":"region",

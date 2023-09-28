@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":2.374853,
-    "geom:area_square_m":29361095588.388332,
+    "geom:area_square_m":29361095692.312531,
     "geom:bbox":"11.497167,-1.926016,13.56558,0.314384",
     "geom:latitude":-0.864232,
     "geom:longitude":12.608146,
@@ -322,17 +322,19 @@
         "gn:id":2396925,
         "gp:id":2345455,
         "hasc:id":"GA.OL",
+        "iso:code":"GA-7",
         "iso:id":"GA-7",
         "qs_pg:id":191321,
         "unlc:id":"GA-7",
         "wd:id":"Q823762",
         "wk:page":"Ogoou\u00e9-Lolo Province"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"GA",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"fcb3bad72c406afc0b4b469c1d20ae63",
+    "wof:geomhash":"bbd051aac750fe8f7e1a145eb8ffc05a",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -347,7 +349,7 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1690914902,
+    "wof:lastmodified":1695884353,
     "wof:name":"Ogoou\u00e9-Lolo",
     "wof:parent_id":85632407,
     "wof:placetype":"region",

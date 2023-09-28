@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.566496,
-    "geom:area_square_m":19341736761.054272,
+    "geom:area_square_m":19341736763.052238,
     "geom:bbox":"10.256784,-3.963731,12.031679,-2.235291",
     "geom:latitude":-3.075906,
     "geom:longitude":11.171825,
@@ -311,17 +311,19 @@
         "gn:id":2397141,
         "gp:id":2345453,
         "hasc:id":"GA.NY",
+        "iso:code":"GA-5",
         "iso:id":"GA-5",
         "qs_pg:id":479603,
         "unlc:id":"GA-5",
         "wd:id":"Q846017",
         "wk:page":"Nyanga Province"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"GA",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"7e1fcd300252fada1156ea6aa7044e70",
+    "wof:geomhash":"c8b69b40fd4bbc83972d1c4942a7c361",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -336,7 +338,7 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1690914901,
+    "wof:lastmodified":1695884839,
     "wof:name":"Nyanga",
     "wof:parent_id":85632407,
     "wof:placetype":"region",

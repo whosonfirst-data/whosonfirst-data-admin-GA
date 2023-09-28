@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.389792,
-    "geom:area_square_m":17184222073.320553,
+    "geom:area_square_m":17184222072.930164,
     "geom:bbox":"9.549501,-1.263525,11.587622,0.268815",
     "geom:latitude":-0.441914,
     "geom:longitude":10.54869,
@@ -318,17 +318,19 @@
         "gn:id":2397842,
         "gp:id":2345451,
         "hasc:id":"GA.MO",
+        "iso:code":"GA-3",
         "iso:id":"GA-3",
         "qs_pg:id":479601,
         "unlc:id":"GA-3",
         "wd:id":"Q590802",
         "wk:page":"Moyen-Ogoou\u00e9 Province"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"GA",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"f821990b0734f8a81d823464dde84b9a",
+    "wof:geomhash":"28b4a80917d29ed5fe290571558115e3",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -343,7 +345,7 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1690914907,
+    "wof:lastmodified":1695884355,
     "wof:name":"Moyen-Ogoou\u00e9",
     "wof:parent_id":85632407,
     "wof:placetype":"region",
