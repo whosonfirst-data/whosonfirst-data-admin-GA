@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.793018,
-    "geom:area_square_m":9804533987.114473,
+    "geom:area_square_m":9804533987.06673,
     "geom:bbox":"13.390184,0.278993,14.529043,1.437618",
     "geom:latitude":0.889711,
     "geom:longitude":13.957785,
@@ -101,9 +101,10 @@
         "hasc:id":"GA.OI.ZA",
         "wd:id":"Q1452114"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GA",
     "wof:created":1473892558,
-    "wof:geomhash":"a6b9359f1639d92c9ba9932b82fc6b6d",
+    "wof:geomhash":"26c13229ffcf1d2545daac9f6f463784",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -113,7 +114,7 @@
         }
     ],
     "wof:id":1091910219,
-    "wof:lastmodified":1690914915,
+    "wof:lastmodified":1695886242,
     "wof:name":"Zadie",
     "wof:parent_id":85671237,
     "wof:placetype":"county",

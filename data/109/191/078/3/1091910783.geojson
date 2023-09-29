@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.176005,
-    "geom:area_square_m":2176104009.80853,
+    "geom:area_square_m":2176104010.250241,
     "geom:bbox":"10.260634,0.595172,10.959533,1.034219",
     "geom:latitude":0.838868,
     "geom:longitude":10.624803,
@@ -101,9 +101,10 @@
         "hasc:id":"GA.WN.HK",
         "wd:id":"Q2322905"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GA",
     "wof:created":1473892579,
-    "wof:geomhash":"56009b751cbf93019a36e732b455c396",
+    "wof:geomhash":"5be503b85ac906d7bf636a8bc8ecbc23",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -113,7 +114,7 @@
         }
     ],
     "wof:id":1091910783,
-    "wof:lastmodified":1690914909,
+    "wof:lastmodified":1695886238,
     "wof:name":"Haut Komo",
     "wof:parent_id":85671241,
     "wof:placetype":"county",

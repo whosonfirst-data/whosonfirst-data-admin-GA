@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.221227,
-    "geom:area_square_m":15092937721.122269,
+    "geom:area_square_m":15092937721.465872,
     "geom:bbox":"11.705851,1.216594,13.305719,2.295163",
     "geom:latitude":1.816814,
     "geom:longitude":12.57689,
@@ -100,9 +100,10 @@
         "hasc:id":"GA.WN.HN",
         "wd:id":"Q2322373"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GA",
     "wof:created":1473892576,
-    "wof:geomhash":"b55d7c5d952e770ea9e492c8bd99e0fc",
+    "wof:geomhash":"6930fec544c7146d43ff392b4f02194b",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -112,7 +113,7 @@
         }
     ],
     "wof:id":1091910689,
-    "wof:lastmodified":1690914917,
+    "wof:lastmodified":1695886246,
     "wof:name":"Haut Ntem",
     "wof:parent_id":85671241,
     "wof:placetype":"county",

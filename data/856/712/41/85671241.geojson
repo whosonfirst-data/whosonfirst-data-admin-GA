@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":3.08404,
-    "geom:area_square_m":38121642609.544334,
+    "geom:area_square_m":38121642608.601418,
     "geom:bbox":"10.260634,0.219184,13.305719,2.318188",
     "geom:latitude":1.39958,
     "geom:longitude":11.941272,
@@ -307,17 +307,19 @@
         "gn:id":2396076,
         "gp:id":2345457,
         "hasc:id":"GA.WN",
+        "iso:code":"GA-9",
         "iso:id":"GA-9",
         "qs_pg:id":91358,
         "unlc:id":"GA-9",
         "wd:id":"Q823800",
         "wk:page":"Woleu-Ntem Province"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"GA",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"be5e6bd63811995311c83472b8f24e0e",
+    "wof:geomhash":"66c84e17b495ebcc4eeb97674afc6947",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -332,7 +334,7 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1690914905,
+    "wof:lastmodified":1695884354,
     "wof:name":"Woleu-Ntem",
     "wof:parent_id":85632407,
     "wof:placetype":"region",

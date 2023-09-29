@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.211343,
-    "geom:area_square_m":2612380258.435006,
+    "geom:area_square_m":2612380258.327055,
     "geom:bbox":"12.799991,-1.794547,13.408947,-1.118954",
     "geom:latitude":-1.508632,
     "geom:longitude":13.157027,
@@ -111,9 +111,10 @@
         "hasc:id":"GA.HO.LL",
         "wd:id":"Q1451513"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GA",
     "wof:created":1473892511,
-    "wof:geomhash":"eeb4530e41441e9e4278c9c10088127b",
+    "wof:geomhash":"9630631d9f783d4555f7c770c6516aeb",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -123,7 +124,7 @@
         }
     ],
     "wof:id":1091908967,
-    "wof:lastmodified":1690914928,
+    "wof:lastmodified":1695886255,
     "wof:name":"Lebombi Leyou",
     "wof:parent_id":85671257,
     "wof:placetype":"county",

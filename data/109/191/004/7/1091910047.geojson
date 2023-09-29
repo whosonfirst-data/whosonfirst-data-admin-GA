@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.186813,
-    "geom:area_square_m":2307831275.699713,
+    "geom:area_square_m":2307831276.020079,
     "geom:bbox":"10.556554,-2.74797,11.235582,-2.235291",
     "geom:latitude":-2.468467,
     "geom:longitude":10.88602,
@@ -98,9 +98,10 @@
         "hasc:id":"GA.NY.DG",
         "wd:id":"Q284548"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GA",
     "wof:created":1473892552,
-    "wof:geomhash":"93eab8b5dfdb50751115fd5dedd600eb",
+    "wof:geomhash":"80d3c9e8f5cdf79c620df58589d74365",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -110,7 +111,7 @@
         }
     ],
     "wof:id":1091910047,
-    "wof:lastmodified":1690914915,
+    "wof:lastmodified":1695886243,
     "wof:name":"Douigni",
     "wof:parent_id":85671251,
     "wof:placetype":"county",

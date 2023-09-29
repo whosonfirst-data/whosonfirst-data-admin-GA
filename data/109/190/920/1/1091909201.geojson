@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.1809,
-    "geom:area_square_m":2236643615.831761,
+    "geom:area_square_m":2236643615.330099,
     "geom:bbox":"13.98231,-1.105156,14.52902,-0.460692",
     "geom:latitude":-0.8027,
     "geom:longitude":14.292854,
@@ -67,9 +67,10 @@
     "wof:concordances":{
         "hasc:id":"GA.HO.DJ"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GA",
     "wof:created":1473892520,
-    "wof:geomhash":"c136e9a2df99040210fd6a642fec8f89",
+    "wof:geomhash":"57ea2d003a6ac949f098826a34e2e1a0",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -79,7 +80,7 @@
         }
     ],
     "wof:id":1091909201,
-    "wof:lastmodified":1627522135,
+    "wof:lastmodified":1695886618,
     "wof:name":"Djoue",
     "wof:parent_id":85671257,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.441801,
-    "geom:area_square_m":5460441194.012054,
+    "geom:area_square_m":5460441194.159832,
     "geom:bbox":"13.832365,-2.51161,14.522491,-1.00976",
     "geom:latitude":-1.692363,
     "geom:longitude":14.220564,
@@ -118,9 +118,10 @@
         "hasc:id":"GA.HO.PX",
         "wd:id":"Q2355542"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GA",
     "wof:created":1473892518,
-    "wof:geomhash":"afef529a380fa8efcf67fca4e55bd22e",
+    "wof:geomhash":"7ec82148fe0259c35da0e2d78ac423a8",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -130,7 +131,7 @@
         }
     ],
     "wof:id":1091909149,
-    "wof:lastmodified":1690914925,
+    "wof:lastmodified":1695886706,
     "wof:name":"Plateaux",
     "wof:parent_id":85671257,
     "wof:placetype":"county",

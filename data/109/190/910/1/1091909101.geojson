@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.1763,
-    "geom:area_square_m":2179215711.092076,
+    "geom:area_square_m":2179215711.052093,
     "geom:bbox":"13.74898,-1.788022,14.305316,-1.185977",
     "geom:latitude":-1.511248,
     "geom:longitude":13.993632,
@@ -67,9 +67,10 @@
     "wof:concordances":{
         "hasc:id":"GA.HO.DA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GA",
     "wof:created":1473892517,
-    "wof:geomhash":"b644948e2bec0429d52f91f93dbf9a22",
+    "wof:geomhash":"30999f71f34422ce9ed643ccdfd1b245",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -79,7 +80,7 @@
         }
     ],
     "wof:id":1091909101,
-    "wof:lastmodified":1627522136,
+    "wof:lastmodified":1695886618,
     "wof:name":"Djouori Agnili",
     "wof:parent_id":85671257,
     "wof:placetype":"county",

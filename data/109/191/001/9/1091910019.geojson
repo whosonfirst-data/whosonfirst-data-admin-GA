@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.125482,
-    "geom:area_square_m":1548431182.279668,
+    "geom:area_square_m":1548431181.677001,
     "geom:bbox":"10.876088,-3.963731,11.336516,-3.378041",
     "geom:latitude":-3.664264,
     "geom:longitude":11.119931,
@@ -98,9 +98,10 @@
         "hasc:id":"GA.NY.BB",
         "wd:id":"Q1452184"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GA",
     "wof:created":1473892550,
-    "wof:geomhash":"e2536cdeaf7b7676e14991356e68caa7",
+    "wof:geomhash":"56e645f5917722710ac52bd04fda44d7",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -110,7 +111,7 @@
         }
     ],
     "wof:id":1091910019,
-    "wof:lastmodified":1690914911,
+    "wof:lastmodified":1695886239,
     "wof:name":"Haute Banio",
     "wof:parent_id":85671251,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.090309,
-    "geom:area_square_m":1116365850.151102,
+    "geom:area_square_m":1116365851.232476,
     "geom:bbox":"13.582596,-1.590023,13.866483,-1.112273",
     "geom:latitude":-1.362063,
     "geom:longitude":13.728337,
@@ -105,9 +105,10 @@
         "hasc:id":"GA.HO.LV",
         "wd:id":"Q2349485"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GA",
     "wof:created":1473892525,
-    "wof:geomhash":"1459474b88e66bb042220c7b8eb21a0d",
+    "wof:geomhash":"55157064500f64fdf559545d0efca033",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -117,7 +118,7 @@
         }
     ],
     "wof:id":1091909347,
-    "wof:lastmodified":1690914927,
+    "wof:lastmodified":1695886254,
     "wof:name":"Lekabi Lewolo",
     "wof:parent_id":85671257,
     "wof:placetype":"county",

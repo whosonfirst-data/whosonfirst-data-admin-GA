@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.305994,
-    "geom:area_square_m":3780822339.002607,
+    "geom:area_square_m":3780822339.721364,
     "geom:bbox":"11.888769,-2.525048,12.518097,-1.780059",
     "geom:latitude":-2.21823,
     "geom:longitude":12.23446,
@@ -67,9 +67,10 @@
     "wof:concordances":{
         "hasc:id":"GA.NG.LI"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GA",
     "wof:created":1473892542,
-    "wof:geomhash":"29dba523a2186fa0edc0b6f26c99655a",
+    "wof:geomhash":"aebe9c5e056b4fed2658bbb7cb268948",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -79,7 +80,7 @@
         }
     ],
     "wof:id":1091909787,
-    "wof:lastmodified":1627522136,
+    "wof:lastmodified":1695886619,
     "wof:name":"Louetsi Bibaka",
     "wof:parent_id":85671249,
     "wof:placetype":"county",

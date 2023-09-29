@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.695186,
-    "geom:area_square_m":8593422606.087585,
+    "geom:area_square_m":8593422610.162613,
     "geom:bbox":"11.327214,0.944076,12.493958,1.889926",
     "geom:latitude":1.418941,
     "geom:longitude":11.785513,
@@ -97,9 +97,10 @@
         "hasc:id":"GA.WN.WO",
         "wd:id":"Q2322921"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GA",
     "wof:created":1473892573,
-    "wof:geomhash":"1b3c1e97c028842afd8bf4c5ab9b6854",
+    "wof:geomhash":"c188305ee5874ffebcc6ad9ba706e84a",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -109,7 +110,7 @@
         }
     ],
     "wof:id":1091910593,
-    "wof:lastmodified":1690914916,
+    "wof:lastmodified":1695886245,
     "wof:name":"Woleu",
     "wof:parent_id":85671241,
     "wof:placetype":"county",

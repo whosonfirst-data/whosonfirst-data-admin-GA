@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.658932,
-    "geom:area_square_m":8145279243.997789,
+    "geom:area_square_m":8145279243.9028,
     "geom:bbox":"11.119857,-2.097103,11.973565,-0.611201",
     "geom:latitude":-1.392859,
     "geom:longitude":11.488598,
@@ -106,9 +106,10 @@
         "hasc:id":"GA.NG.OU",
         "wd:id":"Q1451274"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GA",
     "wof:created":1473892545,
-    "wof:geomhash":"311e5dc1689fbe8841c6db1bd2dc524e",
+    "wof:geomhash":"ab0875c4b948b35978f05465fb8bc169",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -118,7 +119,7 @@
         }
     ],
     "wof:id":1091909887,
-    "wof:lastmodified":1690914930,
+    "wof:lastmodified":1695886257,
     "wof:name":"Ogoulou",
     "wof:parent_id":85671249,
     "wof:placetype":"county",

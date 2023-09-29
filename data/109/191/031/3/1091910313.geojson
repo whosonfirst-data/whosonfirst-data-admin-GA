@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.635261,
-    "geom:area_square_m":7853321256.545047,
+    "geom:area_square_m":7853321257.94901,
     "geom:bbox":"11.859825,-1.914394,12.854564,-0.507893",
     "geom:latitude":-1.175953,
     "geom:longitude":12.324654,
@@ -107,9 +107,10 @@
         "hasc:id":"GA.OL.LG",
         "wd:id":"Q1452171"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GA",
     "wof:created":1473892562,
-    "wof:geomhash":"55f9ea8a068a80462f7e695d1f80b4e2",
+    "wof:geomhash":"6b87692a973518b644871042a09d0244",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -119,7 +120,7 @@
         }
     ],
     "wof:id":1091910313,
-    "wof:lastmodified":1690914910,
+    "wof:lastmodified":1695886238,
     "wof:name":"Lolo Bouenguidi",
     "wof:parent_id":85671265,
     "wof:placetype":"county",

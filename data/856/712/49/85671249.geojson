@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":3.183507,
-    "geom:area_square_m":39347026779.528694,
+    "geom:area_square_m":39347026780.016258,
     "geom:bbox":"9.859258,-2.722092,12.518097,-0.383347",
     "geom:latitude":-1.640484,
     "geom:longitude":11.187537,
@@ -313,17 +313,19 @@
         "gn:id":2397466,
         "gp:id":2345452,
         "hasc:id":"GA.NG",
+        "iso:code":"GA-4",
         "iso:id":"GA-4",
         "qs_pg:id":496857,
         "unlc:id":"GA-4",
         "wd:id":"Q823774",
         "wk:page":"Ngouni\u00e9 Province"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"GA",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"7f46a2641fbdd1a096b817764cac6e7e",
+    "wof:geomhash":"057aed781b11225f0080a2f0a284d0e3",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -338,7 +340,7 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1690914906,
+    "wof:lastmodified":1695884354,
     "wof:name":"Ngouni\u00e9",
     "wof:parent_id":85632407,
     "wof:placetype":"region",

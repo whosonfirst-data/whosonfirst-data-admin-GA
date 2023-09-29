@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.317104,
-    "geom:area_square_m":3918590431.815189,
+    "geom:area_square_m":3918590431.851049,
     "geom:bbox":"11.505648,-2.550741,12.237936,-1.631015",
     "geom:latitude":-2.019201,
     "geom:longitude":11.847817,
@@ -101,9 +101,10 @@
         "hasc:id":"GA.NG.BM",
         "wd:id":"Q1451317"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GA",
     "wof:created":1473892543,
-    "wof:geomhash":"c2829f5014f1f639081937e14f23392b",
+    "wof:geomhash":"7e20b7c9d32cd45b4b7a44fa37ec5221",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -113,7 +114,7 @@
         }
     ],
     "wof:id":1091909833,
-    "wof:lastmodified":1690914923,
+    "wof:lastmodified":1695886251,
     "wof:name":"Boumi Louetsi",
     "wof:parent_id":85671249,
     "wof:placetype":"county",

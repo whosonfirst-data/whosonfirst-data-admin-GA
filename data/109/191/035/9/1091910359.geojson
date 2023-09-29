@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.138089,
-    "geom:area_square_m":1706825463.344919,
+    "geom:area_square_m":1706825462.390046,
     "geom:bbox":"12.431362,-1.926016,12.857159,-1.373158",
     "geom:latitude":-1.601927,
     "geom:longitude":12.659326,
@@ -97,9 +97,10 @@
         "hasc:id":"GA.OL.LB",
         "wd:id":"Q940175"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GA",
     "wof:created":1473892564,
-    "wof:geomhash":"40297104eae0b1985bfdd6768537d6d5",
+    "wof:geomhash":"be5481052e3b4ae8639a0020595e13f5",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -109,7 +110,7 @@
         }
     ],
     "wof:id":1091910359,
-    "wof:lastmodified":1690914916,
+    "wof:lastmodified":1695886243,
     "wof:name":"Lombo-Bouenguidi (Pana)",
     "wof:parent_id":85671265,
     "wof:placetype":"county",

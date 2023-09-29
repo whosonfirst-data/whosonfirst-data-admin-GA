@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.60737,
-    "geom:area_square_m":7509253946.809195,
+    "geom:area_square_m":7509253947.423515,
     "geom:bbox":"8.699614,-1.373408,9.961269,-0.273204",
     "geom:latitude":-0.90793,
     "geom:longitude":9.378878,
@@ -137,12 +137,13 @@
         "qs_pg:id":479610,
         "wd:id":"Q538446"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GA",
     "wof:created":1459009289,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"803ce24f5cd7f1cc1998b8701df7a0ff",
+    "wof:geomhash":"ec45d0cd804a66616f0d9bdcfcd521e6",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -152,7 +153,7 @@
         }
     ],
     "wof:id":421181245,
-    "wof:lastmodified":1690914934,
+    "wof:lastmodified":1695886698,
     "wof:name":"Bendje",
     "wof:parent_id":85671255,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.230514,
-    "geom:area_square_m":2846640862.457705,
+    "geom:area_square_m":2846640863.344535,
     "geom:bbox":"11.132776,-3.32184,12.031679,-2.544019",
     "geom:latitude":-2.919589,
     "geom:longitude":11.620548,
@@ -109,9 +109,10 @@
         "hasc:id":"GA.NY.DT",
         "wd:id":"Q1452160"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GA",
     "wof:created":1473892553,
-    "wof:geomhash":"a7573961cffff5e707483f02162c667f",
+    "wof:geomhash":"62f23c662dea3ba5d0056a24adaa687a",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -127,7 +128,7 @@
         }
     ],
     "wof:id":1091910083,
-    "wof:lastmodified":1690914911,
+    "wof:lastmodified":1695886239,
     "wof:name":"Doutsila",
     "wof:parent_id":-1,
     "wof:placetype":"county",

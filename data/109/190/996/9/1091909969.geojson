@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.274467,
-    "geom:area_square_m":3388416457.496136,
+    "geom:area_square_m":3388416457.761937,
     "geom:bbox":"10.256784,-3.62253,11.13556,-2.82566",
     "geom:latitude":-3.234074,
     "geom:longitude":10.749558,
@@ -98,9 +98,10 @@
         "hasc:id":"GA.NY.BB",
         "wd:id":"Q1451282"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GA",
     "wof:created":1473892549,
-    "wof:geomhash":"0c4f37fc3bdc9c200e4b66d7777f43f7",
+    "wof:geomhash":"108027f33102f19d2e793111b17278eb",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -110,7 +111,7 @@
         }
     ],
     "wof:id":1091909969,
-    "wof:lastmodified":1690914920,
+    "wof:lastmodified":1695886249,
     "wof:name":"Basse Banio",
     "wof:parent_id":85671251,
     "wof:placetype":"county",

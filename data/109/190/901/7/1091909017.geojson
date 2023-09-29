@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.319922,
-    "geom:area_square_m":3953467546.234041,
+    "geom:area_square_m":3953467546.487453,
     "geom:bbox":"12.749253,-2.377945,13.47453,-1.650586",
     "geom:latitude":-2.003252,
     "geom:longitude":13.116212,
@@ -107,9 +107,10 @@
         "hasc:id":"GA.HO.LE",
         "wd:id":"Q1451303"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GA",
     "wof:created":1473892513,
-    "wof:geomhash":"39399946dd696fd16d1da398b8e0ebc0",
+    "wof:geomhash":"a633595756d92ee39e455a4534e53a2b",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -119,7 +120,7 @@
         }
     ],
     "wof:id":1091909017,
-    "wof:lastmodified":1690914920,
+    "wof:lastmodified":1695886248,
     "wof:name":"Lekoko",
     "wof:parent_id":85671257,
     "wof:placetype":"county",

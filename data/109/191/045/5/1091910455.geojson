@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.270601,
-    "geom:area_square_m":15710039679.48498,
+    "geom:area_square_m":15710039679.693001,
     "geom:bbox":"12.286282,-1.690897,13.56558,0.314384",
     "geom:latitude":-0.571511,
     "geom:longitude":12.937029,
@@ -107,9 +107,10 @@
         "hasc:id":"GA.OL.ML",
         "wd:id":"Q2322355"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GA",
     "wof:created":1473892567,
-    "wof:geomhash":"5ec906b6461faad9085d85d06aea2047",
+    "wof:geomhash":"4192c7f5042b03c230c22468dded9a98",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -119,7 +120,7 @@
         }
     ],
     "wof:id":1091910455,
-    "wof:lastmodified":1690914912,
+    "wof:lastmodified":1695886240,
     "wof:name":"Mouloundou",
     "wof:parent_id":85671265,
     "wof:placetype":"county",

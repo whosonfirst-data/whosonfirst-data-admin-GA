@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.126645,
-    "geom:area_square_m":1565897497.29265,
+    "geom:area_square_m":1565897497.344584,
     "geom:bbox":"13.816644,-0.824405,14.364288,-0.357405",
     "geom:latitude":-0.592308,
     "geom:longitude":14.082862,
@@ -89,9 +89,10 @@
         "hasc:id":"GA.HO.SB",
         "wd:id":"Q1451522"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GA",
     "wof:created":1473892526,
-    "wof:geomhash":"e059f401af83c5651b79beebd113950a",
+    "wof:geomhash":"260db890f1b6da4bfd3bce5b400d60ea",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -101,7 +102,7 @@
         }
     ],
     "wof:id":1091909389,
-    "wof:lastmodified":1690914919,
+    "wof:lastmodified":1695886247,
     "wof:name":"Bayi Brikolo",
     "wof:parent_id":85671257,
     "wof:placetype":"county",

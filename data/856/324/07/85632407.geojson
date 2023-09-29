@@ -1142,6 +1142,7 @@
         "hasc:id":"GA",
         "icao:code":"TR",
         "ioc:id":"GAB",
+        "iso:code":"GA",
         "itu:id":"GAB",
         "loc:id":"n79063286",
         "m49:code":"266",
@@ -1156,6 +1157,7 @@
         "wk:page":"Gabon",
         "wmo:id":"GO"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"GA",
     "wof:country_alpha3":"GAB",
     "wof:geom_alt":[
@@ -1179,7 +1181,7 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1694639602,
+    "wof:lastmodified":1695881263,
     "wof:name":"Gabon",
     "wof:parent_id":102191573,
     "wof:placetype":"country",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.712794,
-    "geom:area_square_m":8805886781.756388,
+    "geom:area_square_m":8805886780.629366,
     "geom:bbox":"9.585206,-3.012308,10.601212,-1.856176",
     "geom:latitude":-2.418972,
     "geom:longitude":10.165799,
@@ -106,9 +106,10 @@
         "hasc:id":"GA.OM.NG",
         "wd:id":"Q2322391"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GA",
     "wof:created":1473892571,
-    "wof:geomhash":"15fa3cb4f75c7510e1831bcb119995ae",
+    "wof:geomhash":"000279b439a246cc80dafa9ab7ae8766",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -118,7 +119,7 @@
         }
     ],
     "wof:id":1091910563,
-    "wof:lastmodified":1690914918,
+    "wof:lastmodified":1695886247,
     "wof:name":"Ndougou",
     "wof:parent_id":85671255,
     "wof:placetype":"county",
